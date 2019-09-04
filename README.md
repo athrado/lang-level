@@ -8,7 +8,7 @@ The first part of the project consisted of the selection of linguistic indicator
 
 In the second part of the project, I collected a small corpus of text samples for levels A1 to B2. I extracted the previously designed features and used them to train a linear support vector **classifier for the four different language levels**. This system clearly out-performs the baseline and reaches an accuracy of 89%. Feature agglomeration raises the performance to 96% accuracy.
 
-The features also proved suitable for author classification on literary works. For more information, please consult the [reports](04_Reports)).
+The features also proved suitable for author classification on literary works. For more information, please consult the [reports](4_Reports).
 
 
 
@@ -25,7 +25,7 @@ Alternatively, you can use another dependency parser for German with CoNLL outpu
 
 ### Datasets
 
-The folder _01_Text_collections_ contains two datasets: the language level set and the literary work set. The language level set consists of 264 texts for German language learners for levels A1 to B2. They were extracted manually from the web. Please look up the source websites in the [report]([4_Report](4_Reports)/REPORT_JS_Language_Level_Analysis_and_Classification.pdf).
+The folder _01_Text_collections_ contains two datasets: the language level set and the literary work set. The language level set consists of 264 texts for German language learners for levels A1 to B2. They were extracted manually from the web. Please look up the source websites in the [report](4_Reports/REPORT_JS_Language_Level_Analysis_and_Classification.pdf).
 
 The literary work set contains text samples with a length of 50 sentences each for 20 different authors, with a total of 7365 samples. The texts were extracted from Project Gutenberg.
 
