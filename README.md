@@ -29,7 +29,7 @@ The folder _01_Text_collections_ contains two datasets: the language level set a
 
 The literary work set contains text samples with a length of 50 sentences each for 20 different authors, with a total of 7365 samples. The texts were extracted from Project Gutenberg.
 
-### ## How to Run
+## How to Run
 
 If you are using ParZu and CorZu, please correct the path in `config.py` .
 
@@ -47,9 +47,13 @@ The Jupyter Notebook _Feature_Visualization.ipynb_ presents a simple visualizati
 
 ### Classifier Training and Testing
 
-The Jupyter notebooks _Language_Level_Classification.ipynb_ and  _Language_Level_Classification_Feature_Agglomeration.ipynb_  demonstrate how to use the 80 extracted features for training a classifier. They also show how to identify sparse and less relevant features and how to use feature agglomeration for merging similar features in order to reduce the feature space. 
+The Jupyter notebooks
 
+- _Language_Level_Classification.ipynb_ and 
 
+-  _Language_Level_Classification_Feature_Agglomeration.ipynb_  
+
+demonstrate how to use the 80 extracted features for training a classifier. They also show how to identify sparse and less relevant features and how to use feature agglomeration for merging similar features in order to reduce the feature space. 
 
 ## Contact
 
