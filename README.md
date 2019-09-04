@@ -14,7 +14,7 @@ For more information, please consult the reports.
 
 
 
-![feature_coefficients](https://github.com/athrado/lang-levels/tree/master/4_Report/imgs/feature_coefficients.png)
+![feature_coefficients](4_Report/imgs/feature_coefficients.png)
 
 ### Requirements
 
@@ -45,7 +45,7 @@ If you want to adjust or add language level features, make changes in _language_
 
 The Jupyter Notebook _Feature_Visualization.ipynb_ presents a simple visualization tool for coloring specific linguistic characteristics in any given German text. 
 
-#### ![text_visualization](https://github.com/athrado/lang-levels/tree/master/4_Report/imgs/text_visualization.png)
+#### ![text_visualization](4_Report/imgs/text_visualization.png)
 
 #### Classifier Training and Testing
 
