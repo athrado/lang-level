@@ -1,0 +1,506 @@
+1	Bedienter	Bediente	N	NN	_|_|_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	den	die	A	ART	Def|Masc|Acc|Sg	2	det	461	461
+2	Reisesack	Reisesack	N	NN	Masc|Acc|Sg	0	root	461	461
+3	!	!	$	$.	_	0	root	_	_
+
+1	rasch	rasch	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	445	445
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	289	289
+4	Post	Post	N	NN	Fem|_|Sg	6	obja	289	289
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	versäumen	versäumen	V	VVINF	_	2	aux	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	habe	haben	V	VAFIN	_|Sg|Pres|_	1	cj	_	_
+3	vorher	vorher	A	ADV	_	14	adv	_	_
+4	noch	noch	A	ADV	_	14	adv	_	_
+5	einem	eine	A	ART	Indef|_|Dat|Sg	7	det	_	_
+6	frechen	frech	A	ADJA	Pos|_|Dat|Sg|Wk|	7	attr	_	_
+7	Italiener	Italiener	N	NN	_|Dat|Sg	14	objd	_	_
+8	einen	eine	A	ART	Indef|Masc|Acc|Sg	9	det	_	_
+9	Degenstich	Degenstich	N	NN	Masc|Acc|Sg	14	obja	_	_
+10	zwischen	zwischen	P	APPR	Acc	9	pp	_	_
+11	die	die	A	ART	Def|Fem|Acc|Pl	12	det	_	_
+12	Rippen	Rippe	N	NN	Fem|Acc|Pl	10	pn	_	_
+13	zu	zu	P	PTKZU	_	14	part	_	_
+14	versetzen	versetzen	V	VVINF	_	2	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Diener	Diener	N	NN	Masc|Nom|Sg	2	subj	445	445
+2	ruft	rufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	hinunter	hinunter	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Sofort	sofort	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	gnädiger	gnädig	A	ADJA	Pos|Masc|Nom|Sg|St|	4	attr	_	_
+4	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gib	geben	V	VVIMP	Sg	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	463	463
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	462	462
+4	Flöte	Flöte	N	NN	Fem|_|Sg	1	obja	462	462
+5	,	,	$	$,	_	0	root	_	_
+6	eh	eh	A	ADJD	_	8	adv	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	9	subj	464	464
+9	gehst	gehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	463	463
+2	danke	danken	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	2	objd	464	464
+4	.	.	$	$.	_	0	root	_	_
+
+1	Warte	warten	V	VVIMP	Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Dat	6	pp	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	3	det	_	_
+3	Weg	Weg	N	NN	Masc|Dat|Sg	1	pn	_	_
+4	zur	zu	P	APPRART	Dat	3	pp	_	_
+5	Post	Post	N	NN	_|Dat|Sg	4	pn	_	_
+6	zieh	zeihen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	die	die	A	ART	Def|Fem|Nom|Sg	9	det	_	_
+9	Glocke	Glocke	N	NN	Fem|Nom|Sg	6	subj	_	_
+10	auf	auf	P	APPR	Dat	6	pp	_	_
+11	dem	die	A	ART	Def|Masc|Dat|Sg	12	det	_	_
+12	Kreuzweg	Kreuzweg	N	NN	Masc|Dat|Sg	10	pn	_	_
+13	Numero	Numero	N	NN	Neut|_|Sg	6	obja	_	_
+14	siebzehn	siebzehn	C	CARD	_	13	app	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Diener	Diener	N	NN	Masc|_|_	0	root	465	465
+2	.	.	$	$.	_	0	root	_	_
+
+1	Numero	Numero	N	NN	Neut|_|Sg	0	root	_	_
+2	siebzehn	siebzehn	C	CARD	_	1	app	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mir	ich	P	PPER	1|Sg|_|Dat	2	objd	468	468
+2	schwinden	schwinden	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	die	die	A	ART	Def|Fem|Nom|Pl	4	det	467	467
+4	Kräfte	Kraft	N	NN	Fem|Nom|Pl	2	subj	467	467
+5	.	.	$	$.	_	0	root	_	_
+
+1	Um	Um	K	KOUI	_	0	root	_	_
+2	Mitternacht	Mitternacht	N	NN	Fem|_|Sg	3	obja	466	466
+3	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+4	sie	sie	P	PPER	3|Pl|_|Nom	3	subj	467	467
+5	meinen	meine	A	PPOSAT	Masc|Dat|Sg	6	det	468	468
+6	Leichnam	Leichnam	N	NN	Masc|Dat|Sg	3	objd	_	_
+7	holen	holen	V	VVINF	_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Hörst	hören	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Diener	Diener	N	NN	Masc|_|_	0	root	465	465
+2	.	.	$	$.	_	0	root	_	_
+
+1	Um	um	P	APPR	_	0	root	_	_
+2	Mitternacht	Mitternacht	N	NN	Fem|_|Sg	1	pn	466	466
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	495	495
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	4	obja	_	_
+4	bestellen	bestellen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Herr	Herr	N	NN	Masc|_|Sg	2	vok	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ab	ab	P	PTKVZ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|Nom|Sg	2	subj	235	235
+2	spielt	spielen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	462	462
+4	Flöte	Flöte	N	NN	Fem|_|Sg	2	obja	462	462
+5	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	7	expl	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	bitter	bitter	A	ADJD	Pos|	2	pred	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	allein	allein	A	ADV	_	7	adv	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	sterben	sterben	V	VVINF	_	2	subjc	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wenn	wenn	K	KOUS	_	0	root	_	_
+10	man	man	P	PIS	_|Nom|Sg	15	subj	_	_
+11	eine	eine	A	ART	Indef|Fem|_|Sg	12	det	_	_
+12	Viertelstunde	Viertelstunde	N	NN	Fem|_|Sg	15	obja	_	_
+13	vorher	vorher	A	ADV	_	15	adv	_	_
+14	noch	noch	A	ADV	_	15	adv	_	_
+15	geliebt	lieben	V	VVPP	_	0	root	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	wohlhabend	wohlhabend	A	ADJD	_|_	0	root	_	_
+18	und	und	K	KON	_	0	root	_	_
+19	der	die	A	ART	Def|Fem|Gen|Pl	21	det	469	469
+20	herrlichsten	herrlich	A	ADJA	Sup|Fem|Gen|Pl|Wk|	21	attr	469	469
+21	Hoffnungen	Hoffnung	N	NN	Fem|Gen|Pl	18	cj	469	469
+22	voll	voll	A	ADJD	Pos|	23	pred	_	_
+23	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Wahrlich	wahrlich	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+6	übler	übel	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	_	_
+7	Spaß	Spaß	N	NN	Masc|Nom|Sg	4	pred	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	und	und	K	KON	_	4	kon	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	495	495
+11	bin	sein	V	VAFIN	1|Sg|Pres|Ind	9	cj	_	_
+12	eigentlich	eigentlich	A	ADV	_	11	adv	_	_
+13	gar	gar	A	ADV	_	14	adv	_	_
+14	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+15	gelaunt	gelaunt	A	ADJD	Pos|	11	pred	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	Flöte	Flöte	N	NN	Fem|_|Sg	19	obja	_	_
+18	zu	zu	P	PTKZU	_	19	part	_	_
+19	spielen	spielen	V	VVINF	_	11	obji	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Läßt	lassen	V	VVFIN	_|Sg|Pres|Ind	0	root	_	_
+2	sie	sie	P	PPER	3|Pl|_|Nom	3	subj	469	469
+3	fallen	fallen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	stirbt	sterben	V	VVFIN	3|Sg|Pres|Ind	4	cj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	4	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	475	475
+3	Ferne	Ferne	N	NN	Fem|Dat|Sg	1	pn	475	475
+4	klingt	klingen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	das	die	A	ART	Def|Neut|Nom|Sg	6	det	_	_
+6	Posthorn	Posthorn	N	NN	Neut|Nom|Sg	4	subj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Vorhang	Vorhang	N	NN	Masc|_|Sg	0	root	470	470
+2	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	0	root	_	_
+2	Wurstelprater	Wurstelprater	N	NN	_|Dat|_	1	pn	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Abend	Abend	N	NN	Masc|_|Sg	0	root	340	340
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Den	die	A	ART	Def|Masc|Acc|Sg	4	det	_	_
+3	erhöhten	erhöht	A	ADJA	Pos|Masc|Acc|Sg|_|	4	attr	_	_
+4	Hintergrund	Hintergrund	N	NN	Masc|Acc|Sg	7	obja	_	_
+5	der	die	A	ART	Def|Fem|Gen|Sg	6	det	471	471
+6	Bühne	Bühne	N	NN	Fem|Gen|Sg	4	gmod	471	471
+7	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	ein	eine	A	ART	Indef|Neut|Nom|Sg	10	det	472	472
+9	großes	groß	A	ADJA	Pos|Neut|Nom|Sg|St|	10	attr	472	472
+10	Marionettentheater	Marionettentheater	N	NN	Neut|Nom|Sg	7	subj	472	472
+11	ein	ein	P	PTKVZ	_	7	avz	472	472
+12	,	,	$	$,	_	0	root	472	472
+13	dessen	die	A	PRELAT	Masc|Nom|Sg	14	det	474	474
+14	Vorhang	Vorhang	N	NN	Masc|Nom|Sg	16	subj	474	474
+15	heruntergelassen	herunterlassen	V	VVPP	_	16	aux	_	_
+16	ist	sein	V	VAFIN	3|Sg|Pres|Ind	10	rel	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	und	und	K	KON	_	16	kon	_	_
+19	das	die	P	PRELS	Neut|Nom|Sg	22	subj	472	472
+20	die	die	A	ART	Def|Fem|_|Sg	21	det	_	_
+21	Aufschrift	Aufschrift	N	NN	Fem|_|Sg	22	obja	_	_
+22	trägt	tragen	V	VVFIN	3|Sg|Pres|Ind	18	cj	_	_
+23	:	\:	$	$.	_	0	root	_	_
+24	»	»	$	$(	_	0	root	_	_
+25	Zum	zu	P	APPRART	Dat	0	root	_	_
+26	großen	groß	A	ADJA	Pos|Masc|Dat|Sg|Wk|	27	attr	_	_
+27	Wurstel	Wurstel	N	NN	Masc|Dat|Sg	25	pn	_	_
+28	«	«	$	$(	_	0	root	_	_
+29	.	.	$	$.	_	0	root	_	_
+
+1	Seitlich	seitlich	A	ADJD	Pos|	5	adv	_	_
+2	links	links	A	ADV	_	5	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	schief	schief	A	ADJD	Pos|	5	adv	_	_
+5	gestellt	stellen	V	VVPP	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ein	eine	A	ART	Indef|Neut|_|Sg	11	det	_	_
+8	schmales	schmal	A	ADJA	Pos|Neut|_|Sg|St|	11	attr	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	hohes	hoch	A	ADJA	Pos|Neut|_|Sg|St|	8	kon	_	_
+11	Wursteltheater	Wursteltheater	N	NN	Neut|_|Sg	0	root	_	_
+12	alter	alt	A	ADJA	Pos|Fem|Gen|Sg|St|	13	attr	_	_
+13	Konstruktion	Konstruktion	N	NN	Fem|Gen|Sg	11	gmod	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Weiter	Weiter	A	ADV	_	2	adv	_	_
+2	vorn	vorn	A	ADV	_	0	root	_	_
+3	links	links	P	PTKVZ	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	in	in	P	APPR	Acc	0	root	_	_
+6	die	die	A	ART	Def|Fem|Acc|Sg	7	det	473	473
+7	Kulisse	Kulisse	N	NN	Fem|Acc|Sg	5	pn	473	473
+8	hinein	hinein	P	PTKVZ	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	ein	eine	A	ART	Indef|Neut|_|Sg	11	det	_	_
+11	Ringelspiel	Ringelspiel	N	NN	Neut|_|Sg	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Seitlich	seitlich	A	ADJD	Pos|	2	adv	_	_
+2	rechts	rechts	A	ADV	_	11	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	schief	schief	A	ADJD	Pos|	5	adv	_	_
+5	von	von	P	APPR	_	2	kon	_	_
+6	rückwärts	rückwärts	A	ADV	_	5	adv	_	_
+7	nach	nach	P	APPR	Dat	5	kon	_	_
+8	vorn	vorn	A	ADV	_	7	adv	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	ein	eine	A	ART	Indef|_|Nom|Sg	11	det	_	_
+11	Staketgitter	Staketgitter	N	NN	_|Nom|Sg	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	dahinter	dahinter	P	PROAV	_	15	pp	_	_
+14	ein	eine	A	ART	Indef|Masc|Nom|Sg	15	det	_	_
+15	Gasthausgarten	Gasthausgarten	N	NN	Masc|Nom|Sg	11	app	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	dessen	die	A	PRELAT	Fem|Nom|Sg	18	det	_	_
+18	Fortsetzung	Fortsetzung	N	NN	Fem|Nom|Sg	24	subj	_	_
+19	rechts	rechts	A	ADV	_	23	adv	_	_
+20	in	in	P	APPR	Dat	23	pp	_	_
+21	der	die	A	ART	Def|Fem|Dat|Sg	22	det	473	473
+22	Kulisse	Kulisse	N	NN	Fem|Dat|Sg	20	pn	473	473
+23	gedacht	denken	V	VVPP	_	24	aux	_	_
+24	ist	sein	V	VAFIN	3|Sg|Pres|Ind	15	rel	_	_
+25	;	;	$	$.	_	0	root	_	_
+26	rechts	rechts	A	ADV	_	27	adv	478	478
+27	vorn	vorn	A	ADV	_	28	adv	478	478
+28	hinter	hinter	P	APPR	Dat	33	pp	478	478
+29	dem	die	A	ART	Def|Neut|Dat|Sg	30	det	478	478
+30	Gitter	Gitter	N	NN	Neut|Dat|Sg	28	pn	478	478
+31	ein	eine	A	ART	Indef|Neut|_|Sg	33	det	478	478
+32	erhöhtes	erhöht	A	ADJA	Pos|Neut|_|Sg|St|	33	attr	478	478
+33	Podium	Podium	N	NN	Neut|_|Sg	0	root	478	478
+34	.	.	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	Dat	6	pp	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	4	det	507	507
+3	großen	groß	A	ADJA	Pos|Neut|Dat|Sg|Wk|	4	attr	507	507
+4	Wursteltheater	Wursteltheater	N	NN	Neut|Dat|Sg	1	pn	507	507
+5	ein	eine	A	ART	Indef|Neut|_|Sg	6	det	_	_
+6	Klavier	Klavier	N	NN	Neut|_|Sg	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	471	471
+2	Bühne	Bühne	N	NN	Fem|Nom|Sg	3	subj	471	471
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	großenteils	großenteils	A	ADV	_	9	adv	_	_
+5	von	von	P	APPR	Dat	9	pp	_	_
+6	Tischen	Tisch	N	NN	_|Dat|_	5	pn	_	_
+7	und	und	K	KON	_	6	kon	_	_
+8	Sesseln	Sessel	N	NN	Masc|Dat|Pl	7	cj	_	_
+9	eingenommen	einnehmen	V	VVPP	_	3	aux	_	_
+10	;	;	$	$.	_	0	root	_	_
+11	doch	doch	K	KON	_	0	root	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	11	cj	_	_
+13	die	die	A	ART	Def|Fem|Nom|Sg	14	det	_	_
+14	Mitte	Mitte	N	NN	Fem|Nom|Sg	12	subj	_	_
+15	freigelassen	freilassen	V	VVPP	_	12	aux	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	so	so	A	ADV	_	18	konj	_	_
+18	daß	daß	K	KOUS	_	28	konj	_	_
+19	eine	eine	A	ART	Indef|Fem|Nom|Sg	22	det	_	_
+20	ziemlich	ziemlich	A	ADJD	_	21	adv	_	_
+21	breite	breit	A	ADJA	Pos|Fem|Nom|Sg|_|	22	attr	_	_
+22	Straße	Straß	N	NN	Fem|Nom|Sg	28	subj	_	_
+23	vom	von	P	APPRART	Dat	22	pp	_	_
+24	Marionettentheater	Marionettentheater	N	NN	Neut|Dat|Sg	23	pn	_	_
+25	bis	bis	P	APPR	Acc	23	kon	_	_
+26	zum	zu	P	APPRART	Dat	25	pp	_	_
+27	Souffleurkasten	Souffleurkasten	N	NN	Masc|Dat|Sg	26	pn	_	_
+28	führt	führen	V	VVFIN	3|Sg|Pres|Ind	12	neb	_	_
+29	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wenn	wenn	K	KOUS	_	5	konj	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	474	474
+4	Vorhang	Vorhang	N	NN	Masc|Nom|Sg	5	subj	474	474
+5	aufgeht	aufgehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	großer	groß	A	ADJA	Pos|Masc|Nom|Sg|St|	8	attr	_	_
+8	Lärm	Lärm	N	NN	Masc|Nom|Sg	5	vok	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	5	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	475	475
+3	Ferne	Ferne	N	NN	Fem|Dat|Sg	1	pn	475	475
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	_	_
+5	Militärmusik	Militärmusik	N	NN	Fem|_|Sg	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	Dat	0	root	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	4	det	476	476
+3	kleinen	klein	A	ADJA	Pos|Neut|Dat|Sg|Wk|	4	attr	476	476
+4	Wursteltheater	Wursteltheater	N	NN	Neut|Dat|Sg	1	pn	476	476
+5	,	,	$	$,	_	0	root	476	476
+6	in	in	P	APPR	Dat	11	pp	476	476
+7	dem	die	P	PRELS	Neut|Dat|Sg	6	pn	476	476
+8	eben	eben	A	ADV	_	11	adv	_	_
+9	eine	eine	A	ART	Indef|Fem|Nom|Sg	10	det	_	_
+10	Vorstellung	Vorstellung	N	NN	Fem|Nom|Sg	11	subj	_	_
+11	stattfindet	stattfindet	V	VVFIN	_|Sg|_|_	4	rel	_	_
+12	(	(	$	$(	_	0	root	_	_
+13	zwei	zwei	C	CARD	_	15	attr	477	477
+14	kleine	klein	A	ADJA	Pos|Fem|Nom|Pl|St|	15	attr	477	477
+15	Figuren	Figur	N	NN	Fem|Nom|Pl	16	subj	477	477
+16	raufen	raufen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+17	sich	sie	P	PRF	3|_|Dat	16	objd	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	beide	beide	P	PIS	_|Nom|Pl	20	subj	_	_
+20	werden	werden	V	VAFIN	3|Pl|Pres|_	16	kon	_	_
+21	vom	von	P	APPRART	Dat	23	pp	_	_
+22	Teufel	Teufel	N	NN	Masc|Dat|Sg	21	pn	386	386
+23	geholt	holen	V	VVPP	_	20	aux	_	_
+24	usw.	usw.	K	KON	_	0	root	_	_
+25	)	)	$	$(	_	0	root	_	_
+26	,	,	$	$,	_	0	root	_	_
+27	Kinder	Kind	N	NN	Neut|_|Pl	0	root	_	_
+28	mit	mit	P	APPR	Dat	27	pp	_	_
+29	ihren	ihre	A	PPOSAT	Masc|Dat|_	30	det	477	477
+30	Begleitern	Begleiter	N	NN	Masc|Dat|_	28	pn	_	_
+31	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	3	det	_	_
+2	dicke	dick	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	_	_
+3	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	_	_
+4	sammelt	sammeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mit	mit	P	APPR	Dat	4	pp	_	_
+6	einer	eine	A	ART	Indef|Fem|Dat|Sg	7	det	_	_
+7	Blechtasse	Blechtasse	N	NN	Fem|Dat|Sg	5	pn	_	_
+8	von	von	P	APPR	Dat	4	pp	_	_
+9	den	die	A	ART	Def|Masc|Dat|Pl	10	det	_	_
+10	Zuschauern	Zuschauer	N	NN	Masc|Dat|Pl	8	pn	_	_
+11	Münzen	Münze	N	NN	_|_|_	4	obja	_	_
+12	ein	ein	P	PTKVZ	_	4	avz	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Ringelspiel	Ringelspiel	N	NN	Neut|_|Sg	0	root	_	_
+3	in	in	P	APPR	_	2	pp	_	_
+4	Bewegung	Bewegung	N	NN	Fem|_|Sg	3	pn	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mit	mit	P	APPR	Dat	4	pp	_	_
+7	Kindern	Kind	N	NN	_|Dat|_	6	pn	_	_
+8	und	und	K	KON	_	7	kon	_	_
+9	Erwachsenen	Erwachsene	N	NN	_|Dat|_	8	cj	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Dat	5	pp	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	3	det	478	478
+3	Podium	Podium	N	NN	Neut|Dat|Sg	1	pn	478	478
+4	rechts	rechts	A	ADV	_	1	adv	_	_
+5	endet	enden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	eine	eine	A	ART	Indef|Fem|Nom|Sg	7	det	479	479
+7	Chansonettensängerin	Chansonettensängerin	N	NN	Fem|Nom|Sg	5	subj	479	479
+8	eben	eben	A	ADV	_	5	adv	_	_
+9	ihr	ihre	A	PPOSAT	Neut|_|Sg	10	det	479	479
+10	Couplet	Couplet	N	NN	Neut|_|Sg	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Applaus	Applaus	N	NN	_|_|Sg	0	root	542	542
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Die	die	A	ART	Def|_|Nom|_	3	det	480	480
+3	Tische	Tisch	N	NN	_|Nom|_	5	subj	480	480
+4	großenteils	großenteils	A	ADV	_	5	adv	_	_
+5	besetzt	besetzen	V	VVPP	_	0	root	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	die	die	A	ART	Def|_|_|Pl	8	det	481	481
+8	Leute	Leute	N	NN	_|_|Pl	9	obja	481	481
+9	essen	essen	V	VVINF	_	0	root	_	_
+10	und	und	K	KON	_	9	kon	_	_
+11	trinken	trinken	V	VVINF	_	10	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	482	482
+3	Bürger	Bürger	N	NN	Masc|Nom|Sg	0	root	482	482
+4	und	und	K	KON	_	3	kon	_	_
+5	seine	seine	A	PPOSAT	Fem|Nom|Sg	6	det	482	482
+6	Frau	Frau	N	NN	Fem|Nom|Sg	4	cj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	der	die	A	ART	Def|Masc|Nom|Sg	10	det	483	483
+9	zweite	zweit	A	ADJA	_|Masc|Nom|Sg|Wk|	10	attr	483	483
+10	Bürger	Bürger	N	NN	Masc|Nom|Sg	0	root	483	483
+11	mit	mit	P	APPR	Dat	10	pp	483	483
+12	seinen	seine	A	PPOSAT	Neut|Dat|Pl	14	det	483	483
+13	zwei	zwei	C	CARD	_	14	attr	_	_
+14	Töchterchen	Töchterchen	N	NN	Neut|Dat|Pl	11	pn	_	_
+15	usw.	usw.	K	KON	_	0	root	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	Soldaten	Soldat	N	NN	_|_|_	0	root	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	Bürger	Bürger	N	NN	Masc|_|_	17	kon	_	_
+20	,	,	$	$,	_	0	root	_	_
+21	Mädchen	Mädchen	N	NN	Neut|_|_	19	kon	_	_
+22	.	.	$	$.	_	0	root	_	_
+
+1	Andere	andere	P	PIS	_|Nom|Pl	2	subj	_	_
+2	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	eben	eben	A	ADV	_	2	adv	_	_
+4	;	;	$	$.	_	0	root	_	_
+5	darunter	darunter	P	PROAV	_	7	pp	485	485
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	485	485
+7	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+8	und	und	K	KON	_	7	kon	_	_
+9	der	die	A	ART	Def|Masc|Nom|Sg	10	det	484	484
+10	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	8	cj	484	484
+11	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	484	484
+2	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	0	root	484	484
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wie	wie	P	PWAV	_	0	root	_	_
+4	wär	wär	F	FM	_	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wenn	wenn	K	KOUS	_	12	konj	_	_
+9	man	man	P	PIS	_|Nom|Sg	12	subj	_	_
+10	sich	sie	P	PRF	3|_|_	12	obja	_	_
+11	hier	hier	A	ADV	_	12	adv	_	_
+12	niederließe	niederlassen	V	VVFIN	3|Sg|Past|Subj	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	2	2
+5	denn	denn	A	ADV	_	2	adv	_	_
+6	da	da	A	ADV	_	2	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+

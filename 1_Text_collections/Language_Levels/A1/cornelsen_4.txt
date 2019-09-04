@@ -1,0 +1,128 @@
+1	Ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	42	42	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|Nom|Pl	5	subj	_	-
+3	der	die	ART	ART	Def|Fem|Gen|Sg	4	det	_	-
+4	EU-Bevölkerung	EU-Bevölkerung	N	NN	Fem|Gen|Sg	2	gmod	_	-
+5	wohnen	wohnen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+6	in	in	PREP	APPR	_	5	objp	_	-
+7	Wohnungen	Wohnung	N	NN	Fem|_|Pl	6	pn	_	(1)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	47	47	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|Nom|Pl	7	subj	_	-
+3	der	die	ART	ART	Def|Masc|Gen|Pl	4	det	_	(0
+4	Menschen	Mensch	N	NN	Masc|Gen|Pl	2	gmod	_	-
+5	in	in	PREP	APPR	_	4	pp	_	-
+6	Europa	Europa	N	NE	_|_|Sg	5	pn	_	0)|(2)
+7	wohnen	wohnen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+8	in	in	PREP	APPR	Dat	7	objp	_	-
+9	einem	eine	ART	ART	Indef|Neut|Dat|Sg	10	det	_	-
+10	Haus	Haus	N	NN	Neut|Dat|Sg	8	pn	_	-
+11	,	,	$,	$,	_	0	root	_	-
+12	ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	34	34	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|Nom|Pl	3	subj	_	-
+3	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	in	in	PREP	APPR	Dat	3	pp	_	-
+5	Einfamilienhäusern	Einfamilienhaus	N	NN	_|Dat|Pl	4	pn	_	(3)
+6	und	und	KON	KON	_	5	kon	_	-
+7	23	23	CARD	CARD	_	8	attr	_	-
+8	%	%	N	NN	_|Dat|Pl	6	cj	_	-
+9	in	in	PREP	APPR	Dat	3	pp	_	-
+10	Reihenhäusern	Reihenhaus	N	NN	_|Dat|Pl	9	pn	_	(4)
+11	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	_	3	pp	_	-
+2	Lettland	Lettland	N	NE	Neut|_|Sg	1	pn	_	-
+3	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	66	66	CARD	CARD	_	5	attr	_	-
+5	%	%	N	NN	_|Nom|Pl	3	subj	_	-
+6	der	die	ART	ART	Def|Masc|Gen|Pl	7	det	_	(0
+7	Menschen	Mensch	N	NN	Masc|Gen|Pl	5	gmod	_	0)
+8	in	in	PREP	APPR	_	3	pp	_	-
+9	Wohnungen	Wohnung	N	NN	Fem|_|Pl	8	pn	_	(1)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Platz	Platz	N	NN	Masc|Nom|Sg	2	pred	_	-
+4	1	1	CARD	CARD	_	3	app	_	-
+5	in	in	PREP	APPR	_	3	pp	_	-
+6	Europa	Europa	N	NE	_|_|Sg	5	pn	_	(2)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	_	6	pp	_	-
+2	Estland	Estland	N	NE	Neut|_|Sg	1	pn	_	-
+3	und	und	KON	KON	_	1	kon	_	-
+4	in	in	PREP	APPR	_	3	cj	_	-
+5	Spanien	Spanien	N	NE	Neut|_|Sg	4	pn	_	-
+6	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	-
+7	es	es	PRO	PPER	3|Sg|Neut|Nom	6	subj	_	-
+8	ca.	ca.	ADV	ADV	_	6	adv	_	-
+
+1	65	65	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|_|Pl	0	root	_	-
+3	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	_	3	objp	_	-
+2	Slowenien	Slowenien	N	NE	Neut|_|Sg	1	pn	_	-
+3	wohnen	wohnen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+4	ca.	ca.	ADV	ADV	_	3	adv	_	-
+
+1	69	69	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|_|Pl	0	root	_	-
+3	der	die	ART	ART	Def|Fem|Gen|Sg	4	det	_	-
+4	Bevölkerung	Bevölkerung	N	NN	Fem|Gen|Sg	2	gmod	_	-
+5	in	in	PREP	APPR	Dat	4	pp	_	-
+6	Einfamilienhäusern	Einfamilienhaus	N	NN	_|Dat|Pl	5	pn	_	(3)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Auf	auf	PREP	APPR	_	4	pp	_	-
+2	Platz	Platz	N	NN	Masc|_|Sg	1	pn	_	-
+3	2	2	CARD	CARD	_	2	app	_	-
+4	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	Ungarn	Ungarn	N	NE	Neut|Nom|Sg	4	subj	_	-
+6	(	(	$(	$(	_	0	root	_	-
+7	ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	67	67	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|_|Pl	0	root	_	-
+3	)	)	$(	$(	_	0	root	_	-
+4	und	und	KON	KON	_	0	root	_	-
+5	auf	auf	PREP	APPR	_	8	pp	_	-
+6	Platz	Platz	N	NN	Masc|_|Sg	5	pn	_	-
+7	3	3	CARD	CARD	_	6	app	_	-
+8	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	4	cj	_	-
+9	Norwegen	Norwegen	N	NE	Neut|Nom|Sg	8	subj	_	-
+10	(	(	$(	$(	_	0	root	_	-
+11	ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	62	62	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|_|Pl	0	root	_	-
+3	)	)	$(	$(	_	0	root	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Menschen	Mensch	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	in	in	PREP	APPR	Dat	3	pp	_	-
+5	den	die	ART	ART	Def|_|Dat|Pl	6	det	_	-
+6	Niederlanden	Niederlande	N	NE	_|Dat|Pl	4	pn	_	-
+7	und	und	KON	KON	_	4	kon	_	-
+8	in	in	PREP	APPR	Dat	7	cj	_	-
+9	Großbritannien	Großbritannien	N	NE	Neut|Dat|Sg	8	pn	_	-
+10	in	in	PREP	APPR	Dat	3	pp	_	-
+11	Reihenhäusern	Reihenhaus	N	NN	_|Dat|Pl	10	pn	_	(4)
+12	:	\:	$.	$.	_	0	root	_	-
+13	Das	die	PRO	PDS	Neut|Nom|Sg	14	subj	_	-
+14	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	-
+15	ca.	ca.	ADV	ADV	_	14	adv	_	-
+
+1	61	61	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|_|Pl	0	root	_	-
+3	.	.	$.	$.	_	0	root	_	-
+

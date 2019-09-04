@@ -1,0 +1,516 @@
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	66	66
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	meine	meine	A	PPOSAT	_|_|_	4	det	66	66
+4	dritte	dritt	A	ADJA	_|_|_	5	obja	_	_
+5	dirigieren	dirigieren	V	VVINF	_	2	aux	_	_
+6	und	und	K	KON	_	0	root	_	_
+7	hoffentlich	hoffentlich	A	ADV	_	8	adv	_	_
+8	auch	auch	A	ADV	_	10	adv	_	_
+9	die	die	A	ART	Def|_|_|_	10	det	_	_
+10	vierte	viert	A	ADJA	_|_|_	6	cj	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	denn	denn	A	ADV	_	1	adv	_	_
+4	schon	schon	A	ADV	_	1	adv	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	weit	weit	A	ADJD	Pos|	1	pred	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	;	;	$	$.	_	0	root	_	_
+3	aber	aber	K	KON	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	98	98
+5	verspreche	versprechen	V	VVFIN	1|Sg|Pres|_	3	cj	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	_	_
+7	was	was	P	PIS	_	5	obja	_	_
+8	von	von	P	APPR	Dat	5	objp	_	_
+9	dem	die	A	ART	Def|Masc|Dat|Sg	11	det	_	_
+10	heurigen	heurig	A	ADJA	Pos|Masc|Dat|Sg|Wk|	11	attr	_	_
+11	Sommer	Sommer	N	NN	Masc|Dat|Sg	8	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	soll	sollen	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+3	wieder	wieder	A	ADV	_	6	adv	_	_
+4	einmal	einmal	A	ADV	_	6	adv	_	_
+5	ordentlich	ordentlich	A	ADJD	Pos|	6	adv	_	_
+6	gearbeitet	arbeiten	V	VVPP	_	7	aux	_	_
+7	werden	werden	V	VAINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zeit	Zeit	N	NN	Fem|Nom|Sg	2	subj	129	129
+2	wär	wär	V	VAFIN	_|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	_	_
+5	ja	ja	A	ADV	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Unsere	unsre	A	PPOSAT	Fem|Nom|Sg	3	det	68	68
+3	Fußtour	Fußtour	N	NN	Fem|Nom|Sg	4	subj	_	_
+4	hab	hab	V	VVFIN	_|Sg|_|_	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	67	67
+7	übrigens	übrigens	A	ADV	_	8	adv	_	_
+8	zusammengestellt	zusammenstellen	V	VVPP	_	4	neb	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	67	67
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	auch	auch	A	ADV	_	7	adv	_	_
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+6	Karte	Karte	N	NN	Fem|_|Sg	7	obja	_	_
+7	mitgebracht	mitbringen	V	VVPP	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Schau	Schau	N	NN	Fem|_|Sg	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	einmal	einmal	A	ADV	_	1	adv	_	_
+4	her	her	P	PTKVZ	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	_	3	pp	_	_
+2	Niederdorf	Niederdorf	N	NN	Neut|_|Sg	1	pn	_	_
+3	beginnen	beginnen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+4	wir	wir	P	PPER	1|Pl|_|Nom	3	subj	68	68
+5	,	,	$	$,	_	0	root	_	_
+6	von	von	P	APPR	_	3	pp	_	_
+7	dort	dort	A	ADV	_	6	adv	_	_
+8	über	über	P	APPR	Dat	6	kon	_	_
+9	Plätzwiesen	Plätzwiesen	N	NN	_|Dat|_	8	pn	_	_
+10	nach	nach	P	APPR	Dat	8	kon	_	_
+11	Schluderbach	Schluderbach	N	NN	Masc|Dat|Sg	10	pn	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	dann	dann	A	ADV	_	14	adv	_	_
+14	Cortina	Cortina	N	NE	Masc|Dat|Sg	11	kon	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	dann	dann	A	ADV	_	3	adv	_	_
+17	über	über	P	APPR	_	3	pp	_	_
+18	den	die	A	ART	Def|_|_|_	19	det	_	_
+19	Giaupaß	Giaupaß	N	NN	_|_|_	17	pn	_	_
+20	nach	nach	P	APPR	Dat	17	kon	_	_
+21	Caprile	Caprile	N	NE	_|Dat|_	20	pn	_	_
+22	,	,	$	$,	_	0	root	_	_
+23	dann	dann	A	ADV	_	3	adv	_	_
+24	über	über	P	APPR	_	3	pp	_	_
+25	den	die	A	ART	Def|_|_|_	26	det	_	_
+26	Fedaja	Fedaja	N	NN	_|_|_	24	pn	_	_
+27	-	-	$	$(	_	0	root	_	_
+28	-	-	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	69	69
+2	überlasse	überlassen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	0	root	_	_
+5	alles	alle	P	PIS	_|_|Sg	4	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	69	69
+8	vertraue	vertrauen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+9	dir	du	P	PRF	2|Sg|Dat	8	objd	_	_
+10	vollkommen	vollkommen	A	ADJD	Pos|	8	adv	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	2	adv	_	_
+2	es	es	P	PPER	3|Sg|Neut|_	18	expl	_	_
+3	bleibt	bleiben	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+4	dabei	dabei	P	PROAV	_	3	objp	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	18	konj	_	_
+7	wir	wir	P	PPER	1|Pl|_|Nom	18	subj	_	_
+8	wieder	wieder	A	ADV	_	18	adv	_	_
+9	einmal	einmal	A	ADV	_	18	adv	_	_
+10	mit	mit	P	APPR	Dat	18	pp	_	_
+11	dem	die	A	ART	Def|Masc|Dat|Sg	12	det	_	_
+12	Rucksack	Rucksack	N	NN	Masc|Dat|Sg	10	pn	_	_
+13	und	und	K	KON	_	12	kon	_	_
+14	Bergstock	Bergstock	N	NN	Masc|Dat|Sg	13	cj	_	_
+15	durch	durch	P	APPR	Acc	18	pp	_	_
+16	die	die	A	ART	Def|Neut|Acc|Pl	17	det	_	_
+17	Lande	Land	N	NN	Neut|Acc|Pl	15	pn	_	_
+18	ziehen	zeihen	V	VVFIN	1|Pl|_|_	3	subjc	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	wie	wie	K	KOKOM	_	0	root	_	_
+21	in	in	P	APPR	Dat	20	cj	_	_
+22	jungen	jung	A	ADJA	Pos|Neut|Dat|Pl|_|	23	attr	_	_
+23	Jahren	Jahr	N	NN	Neut|Dat|Pl	21	pn	_	_
+24	-	-	$	$(	_	0	root	_	_
+25	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	98	98
+2	freue	freuen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	2	obja	_	_
+4	sehr	sehr	A	ADV	_	2	adv	_	_
+5	darauf	darauf	P	PROAV	_	2	pp	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	71	71
+2	brauchst	brauchen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	einfach	einfach	A	ADJD	Pos|	2	adv	_	_
+4	Sammlung	Sammlung	N	NN	Fem|_|Sg	2	obja	_	_
+5	;	;	$	$.	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	ein	eine	A	ART	Indef|_|_|Sg	9	det	_	_
+8	paar	paar	A	PIDAT	Fem|_|Pl	9	attr	_	_
+9	Wochen	Woche	N	NN	Fem|_|Pl	0	root	_	_
+10	Gebirgsluft	Gebirgsluft	N	NE	Fem|_|Sg	9	app	_	_
+11	und	und	K	KON	_	10	kon	_	_
+12	Ruhe	Ruhe	N	NN	Fem|_|Sg	11	cj	70	70
+13	,	,	$	$,	_	0	root	_	_
+14	das	die	P	PDS	Neut|Nom|Sg	15	subj	_	_
+15	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+16	dich	du	P	PPER	2|Sg|_|Acc	18	obja	71	71
+17	schon	schon	A	ADV	_	18	adv	_	_
+18	herausreißen	herausreißen	V	VVINF	_	15	aux	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	72	72
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	5	adv	_	_
+4	nirgends	nirgends	A	ADV	_	5	adv	_	_
+5	versunken	versinken	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Nervös	nervös	A	ADJD	Pos|	2	pred	_	_
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	72	72
+4	,	,	$	$,	_	0	root	_	_
+5	das	die	P	PDS	Neut|Nom|Sg	6	subj	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+7	alles	alle	P	PIS	Neut|Nom|Sg	6	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Merkst	merken	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	73	73
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wie	wie	P	PWAV	_	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	0	root	73	73
+9	schon	schon	A	ADV	_	11	adv	74	74
+10	diese	diese	A	PDAT	Fem|_|Sg	11	det	74	74
+11	Ausflucht	Ausflucht	N	NN	Fem|_|Sg	0	root	74	74
+12	mir	ich	P	PPER	1|Sg|_|Dat	0	root	72	72
+13	gegenüber	gegenüber	P	PTKVZ	_	0	root	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	dem	die	P	PRELS	_|Dat|Sg	21	objd	74	74
+16	du	du	P	PPER	2|Sg|_|Nom	22	subj	73	73
+17	ja	ja	A	ADV	_	21	adv	_	_
+18	zur	zu	P	APPRART	Dat	21	objp	_	_
+19	Ehrlichkeit	Ehrlichkeit	N	NN	Fem|Dat|Sg	18	pn	_	_
+20	nicht	nicht	P	PTKNEG	_	21	adv	_	_
+21	verpflichtet	verpflichten	V	VVPP	_	22	aux	_	_
+22	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	deiner	deine	A	PPOSAT	Fem|Dat|Sg	25	det	73	73
+25	Natur	Natur	N	NN	Fem|Dat|Sg	26	objd	_	_
+26	abringen	abringen	V	VVINF	_	27	aux	_	_
+27	mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+28	?	?	$	$.	_	0	root	_	_
+
+1	wie	wie	K	KOKOM	_	9	kom	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	cj	73	73
+3	an	an	P	APPR	Acc	2	pp	_	_
+4	diese	diese	A	PDAT	Fem|Acc|Sg	6	det	_	_
+5	kleine	klein	A	ADJA	Pos|Fem|Acc|Sg|_|	6	attr	_	_
+6	Unaufrichtigkeit	Unaufrichtigkeit	N	NN	Fem|Acc|Sg	3	pn	_	_
+7	gewissermaßen	gewissermaßen	A	ADV	_	6	adv	_	_
+8	einen	eine	A	ART	Indef|Masc|Acc|Sg	9	det	_	_
+9	Teil	Teil	N	NN	Masc|Acc|Sg	13	obja	_	_
+10	deiner	deine	A	PPOSAT	Fem|Gen|Sg	12	det	73	73
+11	geistigen	geistig	A	ADJA	Pos|Fem|Gen|Sg|Wk|	12	attr	452	452
+12	Kraft	Kraft	N	NN	Fem|Gen|Sg	9	gmod	452	452
+13	verschwendest	verschwenden	V	VVFIN	2|Sg|Pres|_	0	root	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	72	72
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	6	obja	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	6	objd	73	73
+5	immer	immer	A	ADV	_	6	adv	_	_
+6	gesagt	sagen	V	VVPP	_	2	aux	_	_
+7	:	\:	$	$.	_	0	root	_	_
+8	Verstellung	Verstellung	N	NN	Fem|Nom|Sg	9	subj	_	_
+9	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+10	deiner	deine	A	PPOSAT	Fem|Dat|Sg	11	det	73	73
+11	Natur	Natur	N	NN	Fem|Dat|Sg	9	objd	_	_
+12	fern	fern	P	PTKVZ	_	9	avz	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	0	root	73	73
+3	einmal	einmal	A	ADV	_	4	adv	_	_
+4	in	in	P	APPR	Acc	0	root	_	_
+5	die	die	A	ART	Def|Fem|Acc|Sg	6	det	_	_
+6	Lage	Lage	N	NN	Fem|Acc|Sg	4	pn	_	_
+7	kämst	kämst	N	NE	Fem|Acc|Sg	6	app	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	einem	eine	A	ART	Indef|Neut|Dat|Sg	10	det	75	75
+10	Wesen	Wesen	N	NN	Neut|Dat|Sg	0	root	75	75
+11	gegenüber	gegenüber	P	PTKVZ	_	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	das	die	P	PRELS	Neut|Nom|Sg	15	subj	75	75
+14	dir	du	P	PPER	2|Sg|_|Dat	15	objd	73	73
+15	nahesteht	nahestehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	Komödie	Komödie	N	NN	Fem|_|Sg	19	obja	_	_
+18	zu	zu	P	PTKZU	_	19	part	_	_
+19	spielen	spielen	V	VVINF	_	15	obji	_	_
+20	,	,	$	$,	_	0	root	_	_
+21	so	so	A	ADV	_	22	adv	_	_
+22	gingst	gehen	V	VVFIN	2|Sg|Past|Ind	19	par	_	_
+23	du	du	P	PPER	2|Sg|_|Nom	22	subj	73	73
+24	daran	daran	P	PROAV	_	22	objp	_	_
+25	zugrunde	zugrunde	P	PTKVZ	_	22	avz	_	_
+26	,	,	$	$,	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Diese	diese	A	PDAT	Fem|Nom|Sg	2	det	_	_
+2	Sorge	Sorge	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	überflüssig	überflüssig	A	ADJD	Pos|	3	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	73	73
+2	kennst	kennen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	uns	wir	P	PPER	1|Pl|_|Acc	2	obja	76	76
+4	doch	doch	A	ADV	_	5	adv	_	_
+5	lang	lang	A	ADJD	Pos|	6	adv	_	_
+6	genug	genug	A	ADV	_	3	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	mich	ich	P	PPER	1|Sg|_|Acc	3	kon	98	98
+9	und	und	K	KON	_	8	kon	_	_
+10	Cäcilie	Cäcilie	N	NE	Fem|Acc|Sg	9	cj	78	78
+11	,	,	$	$,	_	0	root	_	_
+12	und	und	K	KON	_	2	kon	_	_
+13	weißt	weißen	V	VVFIN	_|_|Pres|Ind	12	cj	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	daß	daß	K	KOUS	_	24	konj	_	_
+16	unsere	unsre	A	PPOSAT	Fem|Nom|Sg	17	det	76	76
+17	Ehe	Ehe	N	NN	Fem|Nom|Sg	24	subj	_	_
+18	vor	vor	P	APPR	Dat	23	pp	_	_
+19	allem	alle	P	PIS	_|Dat|Sg	18	pn	_	_
+20	auf	auf	P	APPR	Acc	23	objp	_	_
+21	vollkommene	vollkommen	A	ADJA	Pos|Fem|Acc|Sg|_|	22	attr	_	_
+22	Aufrichtigkeit	Aufrichtigkeit	N	NN	Fem|Acc|Sg	20	pn	_	_
+23	gegründet	gründen	V	VVPP	_	24	aux	_	_
+24	ist	sein	V	VAFIN	3|Sg|Pres|Ind	13	objc	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Den	die	A	ART	Def|Masc|_|_	3	det	_	_
+2	guten	gut	A	ADJA	Pos|Masc|_|_|_|	3	attr	_	_
+3	Willen	Wille	N	NN	Masc|_|_	4	obja	_	_
+4	hätten	haben	V	VAFIN	3|Pl|Past|Subj	0	root	_	_
+5	viele	viele	P	PIS	_|Nom|Pl	4	subj	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	aber	aber	K	KON	_	4	kon	_	_
+8	im	in	P	APPRART	Dat	11	pp	_	_
+9	richtigen	richtig	A	ADJA	Pos|_|Dat|Sg|Wk|	10	attr	_	_
+10	Moment	Moment	N	NN	_|Dat|Sg	8	pn	_	_
+11	fehlt	fehlen	V	VVFIN	3|Sg|Pres|Ind	7	cj	_	_
+12	manchmal	manchmal	A	ADV	_	11	adv	_	_
+13	der	die	A	ART	Def|Masc|Nom|Sg	14	det	217	217
+14	Mut	Mut	N	NN	Masc|Nom|Sg	11	subj	217	217
+15	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	einander	einander	P	PRF	_|_|Dat	7	objd	_	_
+4	noch	noch	A	ADV	_	7	adv	_	_
+5	nie	nie	A	ADV	_	7	adv	_	_
+6	etwas	etwas	P	PIS	_	7	obja	_	_
+7	verschwiegen	verschweigen	V	VVPP	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Weil	weil	K	KOUS	_	9	konj	_	_
+2	ihr	ihr	P	PPER	2|Pl|_|Nom	9	subj	_	_
+3	euch	ihr	P	PRF	2|Pl|Dat	8	objd	_	_
+4	vorläufig	vorläufig	A	ADJD	Pos|	8	adv	_	_
+5	noch	noch	A	ADV	_	8	adv	_	_
+6	nichts	nichts	P	PIS	_|Dat|_	8	objd	_	_
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	gestehen	gestehen	V	VVINF	_	9	aux	_	_
+9	hattet	haben	V	VAFIN	2|Pl|Past|Ind	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	3	adv	_	_
+2	doch	doch	A	ADV	_	3	adv	_	_
+3	mancherlei	mancherlei	P	PIS	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	was	was	P	PRELS	Neut|_|Sg	0	root	_	_
+6	andere	andere	P	PIS	_|_|_	9	obja	_	_
+7	für	für	P	APPR	Acc	9	objp	_	_
+8	sich	sie	P	PRF	3|_|Acc	7	pn	_	_
+9	behalten	behalten	V	VVINF	_	0	root	_	_
+10	hätten	haben	V	VAFIN	_|Pl|Past|Subj	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Unser	unsre	A	PPOSAT	Neut|Nom|Sg	2	det	77	77
+2	Leben	Leben	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ja	ja	A	ADV	_	9	adv	_	_
+5	keinen	keine	A	PIAT	Masc|Acc|Sg	8	det	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	einfachen	einfach	A	ADJA	Pos|Masc|Acc|Sg|_|	8	attr	_	_
+8	Verlauf	Verlauf	N	NN	Masc|Acc|Sg	9	obja	_	_
+9	genommen	nehmen	V	VVPP	_	3	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Monatelang	monatelang	A	ADJD	Pos|	2	adv	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	77	77
+4	getrennt	trennen	V	VVPP	_	2	aux	_	_
+5	voneinander	voneinander	A	ADV	_	4	adv	_	_
+6	existieren	existieren	V	VVINF	_	7	aux	_	_
+7	müssen	müssen	V	VMFIN	_|Pl|Pres|_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	79	79
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	schon	schon	A	ADV	_	7	adv	_	_
+4	mit	mit	P	APPR	Dat	7	pp	_	_
+5	andern	andern	A	ADJA	_|_|Dat|_|_	6	attr	_	_
+6	Sängerinnen	Sängerin	N	NN	_|Dat|_	4	pn	_	_
+7	studiert	studieren	V	VVPP	_	2	aux	_	_
+8	als	als	K	KOKOM	_	7	kom	_	_
+9	mit	mit	P	APPR	Dat	8	cj	_	_
+10	Philine	Philine	N	NE	Fem|Dat|Sg	9	pn	21	21
+11	,	,	$	$,	_	0	root	_	_
+12	und	und	K	KON	_	2	kon	_	_
+13	überlegen	überlegen	V	VVFIN	3|Pl|Pres|_	12	cj	_	_
+14	auch	auch	A	ADV	_	13	adv	_	_
+15	andere	andere	A	ADJA	_|Masc|Nom|Pl|_	16	attr	443	443
+16	Männer	Mann	N	NN	Masc|Nom|Pl	13	subj	443	443
+17	als	als	K	KOKOM	_	21	kom	_	_
+18	Fürst	Fürst	N	NN	Masc|_|Sg	17	cj	43	43
+19	Sigismund	Sigismund	N	NE	Masc|_|Sg	18	app	43	43
+20	haben	haben	V	VAFIN	_|Pl|Pres|_	13	s	_	_
+21	gefunden	finden	V	VVPP	_	20	aux	_	_
+22	,	,	$	$,	_	0	root	_	_
+23	daß	daß	K	KOUS	_	26	konj	_	_
+24	Cäcilie	Cäcilie	N	NE	Fem|Nom|Sg	26	subj	78	78
+25	schön	schön	A	ADJD	Pos|	26	pred	_	_
+26	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+27	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	79	79
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+4	von	von	P	APPR	_	6	pp	_	_
+5	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	4	pn	78	78
+6	gesprochen	sprechen	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nebstbei	nebstbei	N	NE	_|Dat|_	3	objd	_	_
+3	wäre	sein	V	VAFIN	3|Sg|Past|Subj	1	cj	_	_
+4	zwischen	zwischen	P	APPR	Dat	3	pp	_	_
+5	Cäcilie	Cäcilie	N	NE	Fem|Dat|Sg	4	pn	78	78
+6	und	und	K	KON	_	5	kon	_	_
+7	mir	ich	P	PPER	1|Sg|_|Dat	6	cj	79	79
+8	auch	auch	A	ADV	_	3	adv	_	_
+9	jeder	jede	A	PIDAT	Masc|Nom|Sg	10	det	_	_
+10	Versuch	Versuch	N	NN	Masc|Nom|Sg	3	subj	_	_
+11	des	die	A	ART	Def|Neut|Gen|Sg	12	det	_	_
+12	Verschweigens	Verschweigen	N	NN	Neut|Gen|Sg	10	gmod	_	_
+13	aussichtslos	aussichtslos	A	ADJD	Pos|	3	pred	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	81	81
+2	kennen	kennen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	einander	einander	P	PRF	_	2	obja	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	gut	gut	A	ADJD	Pos|	2	adv	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	gewiß	gewiß	A	ADJD	Pos|	8	adv	_	_
+8	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+9	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+10	noch	noch	A	ADV	_	14	adv	_	_
+11	nie	nie	A	ADV	_	14	adv	_	_
+12	zwei	zwei	C	CARD	_	13	attr	80	80
+13	Menschen	Mensch	N	NN	Masc|_|Pl	14	obja	80	80
+14	gegeben	geben	V	VVPP	_	8	aux	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	die	die	P	PRELS	_|_|_	0	root	80	80
+17	sich	sie	P	PRF	3|_|_	0	root	_	_
+18	so	so	A	ADV	_	19	adv	_	_
+19	vollkommen	vollkommen	A	ADJD	Pos|	0	root	_	_
+20	verstanden	verstehen	V	VVPP	_	0	root	_	_
+21	haben	haben	V	VAINF	_	0	root	_	_
+22	wie	wie	K	KOKOM	_	0	root	_	_
+23	wir	wir	P	PPER	1|Pl|_|Nom	22	cj	81	81
+24	.	.	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	98	98
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PRF	1|Sg|Dat	6	objd	_	_
+4	einen	eine	A	ART	Indef|Masc|Acc|Sg	5	det	_	_
+5	Punkt	Punkt	N	NN	Masc|Acc|Sg	6	obja	_	_
+6	denken	denken	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wo	wo	P	PWAV	_	11	adv	_	_
+9	das	die	A	ART	Def|Neut|Nom|Sg	10	det	82	82
+10	Verständnis	Verständnis	N	NN	Neut|Nom|Sg	11	subj	82	82
+11	aufhört	aufhören	V	VVFIN	3|Sg|Pres|Ind	6	rel	_	_
+12	und	und	K	KON	_	0	root	_	_
+13	damit	damit	P	PROAV	_	15	pp	_	_
+14	alles	alle	A	PIDAT	Neut|_|Sg	15	det	_	_
+15	andere	andere	P	PIS	_|_|_	12	cj	_	_
+16	.	.	$	$.	_	0	root	_	_
+

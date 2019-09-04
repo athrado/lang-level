@@ -1,0 +1,491 @@
+1	Wenn	wenn	K	KOUS	_	5	konj	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_|_|_|Nom	5	subj	0	0
+4	so	so	A	ADV	_	5	adv	_	_
+5	bleibt	bleiben	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Jawoll	Jawoll	N	NE	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sehr	sehr	A	ADV	_	2	adv	_	_
+2	hübsch	hübsch	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Aba	Aba	N	NE	_|_|Sg	0	root	173	173
+3	warm	warm	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Mhm	Mhm	N	NE	_	0	root	73	73
+3	,	,	$	$,	_	0	root	_	_
+4	ja	ja	A	ADV	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	75	75
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	74	74
+5	Zigarre	Zigarre	N	NN	Fem|_|Sg	2	obja	74	74
+6	zurück	zurück	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Schaut	schauen	V	VVIMP	Pl	0	root	_	_
+2	mich	ich	P	PPER	1|Sg|_|Acc	1	obja	75	75
+3	an	an	P	PTKVZ	_	1	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Schaut	schauen	V	VVIMP	Pl	0	root	_	_
+2	meinen	meine	A	PPOSAT	Masc|Dat|Sg	3	det	75	75
+3	Freund	Freund	N	NN	Masc|Dat|Sg	1	objd	_	_
+4	an	an	P	PTKVZ	_	1	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Die	die	A	ART	Def|Masc|_|Pl	3	det	_	_
+3	Herren	Herr	N	NN	Masc|_|Pl	0	root	_	_
+4	san	san	N	NE	Masc|_|Pl	3	app	_	_
+5	g	g	N	NN	Masc|_|Pl	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	wiß	wiß	N	NE	Masc|_|Pl	5	app	_	_
+8	fremd	fremd	A	ADJD	Pos|	9	adv	_	_
+9	hier	hier	A	ADV	_	5	adv	_	_
+10	?	?	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Net	Net	N	NE	_	0	root	161	161
+3	?	?	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	I	I	F	FM	_	0	root	_	_
+2	ho	ho	F	FM	_	1	app	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	1782	1782
+4	denkt	denken	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Sie	sie	P	PPER	3|_|_|_	0	root	76	76
+7	san	san	N	NE	_|_|_	6	app	76	76
+8	fremd	fremd	A	ADJD	Pos|	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Is	Is	N	NE	_	0	root	_	_
+2	schad	schad	N	NE	_	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	daß	daß	K	KOUS	_	0	root	_	_
+5	S	S	N	NN	Neut|_|_	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	net	net	A	ADV	_	8	adv	_	_
+8	fremd	fremd	A	ADJD	Pos|	9	adv	_	_
+9	san	san	N	NE	Neut|_|_	5	app	_	_
+10	.	.	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Warum	Warum	P	PWAV	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	I	I	F	FM	_	0	root	_	_
+3	hätt	hätt	F	FM	_	2	app	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	Eahna	Eahna	N	NE	_	3	app	_	_
+6	die	die	A	ART	Def|Fem|Nom|Sg	7	det	1782	1782
+7	Gegend	Gegend	N	NN	Fem|Nom|Sg	8	subj	1782	1782
+8	erklärt	erklären	V	VVFIN	3|Sg|Pres|Ind	0	root	1782	1782
+9	für	für	P	APPR	Acc	8	objp	1782	1782
+10	a	a	F	FM	Neut|Acc|Sg	9	pn	1782	1782
+11	Maß	Maß	N	NN	Neut|Acc|Sg	10	app	1782	1782
+12	Bier	Bier	N	NN	Neut|Acc|Sg	11	app	1782	1782
+13	.	.	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Kennen	Kennen	N	NN	Neut|_|Sg	0	root	_	_
+3	alles	alle	P	PIS	Neut|_|Sg	2	app	_	_
+4	selbst	selbst	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+2	Münchner	Münchner	N	NN	Masc|Nom|Pl	1	subj	_	_
+3	.	.	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Münchna	Münchna	N	NE	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|_|_|_	0	root	7	7
+2	,	,	$	$,	_	0	root	_	_
+3	da	da	K	KOUS	_	0	root	_	_
+4	san	san	N	NE	_	0	root	24	24
+5	ma	ma	N	NE	_	4	app	24	24
+6	ja	ja	A	ADV	_	5	adv	_	_
+7	Landsleut	Landsleut	N	NN	_	5	app	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	2	adv	_	_
+2	spitzen	spitz	A	ADJA	Pos|_|_|_|_|	3	attr	_	_
+3	S	S	N	NN	_|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	a	a	F	FM	_|_|_	3	app	_	_
+6	Maß	Maß	N	NN	_|_|_	5	app	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	Gebe	geben	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+2	ihm	er	P	PPER	3|Sg|_|Dat	1	objd	0	0
+3	zwanzig	zwanzig	C	CARD	_	4	attr	_	_
+4	Pfennig	Pfennig	N	NN	Masc|_|Pl	1	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	77	77
+2	Mensch	Mensch	N	NN	Masc|Nom|Sg	3	subj	77	77
+3	dankt	danken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	sagt	sagen	V	VVFIN	_|_|Pres|Ind	4	cj	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	8	subj	77	77
+8	wolle	wollen	V	VMFIN	3|Sg|Pres|Subj	5	s	_	_
+9	sich	sie	P	PRF	3|_|Dat	11	objd	_	_
+10	Bier	Bier	N	NN	_|_|_	11	obja	_	_
+11	kaufen	kaufen	V	VVINF	_	8	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Müsse	müssen	V	VMFIN	3|Sg|Pres|Subj	0	root	_	_
+2	Kraft	Kraft	N	NN	Fem|Nom|Sg	1	subj	1102	1102
+3	haben	haben	V	VAINF	_	1	aux	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Viel	viel	P	PIS	_	0	root	_	_
+2	zu	zu	P	PTKZU	_	3	part	_	_
+3	arbeiten	arbeiten	V	VVINF	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Schweres	schwer	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	653	653
+2	Stück	Stück	N	NN	Neut|_|Sg	4	obja	653	653
+3	zu	zu	P	PTKZU	_	4	part	_	_
+4	machen	machen	V	VVINF	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Frage	Frage	N	NN	Fem|_|Sg	0	root	_	_
+2	ihn	er	P	PPER	3|Sg|Masc|Acc	0	root	0	0
+3	,	,	$	$,	_	0	root	_	_
+4	was	was	P	PRELS	Neut|_|Sg	6	obja	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	6	subj	0	0
+6	vorhabe	vorhaben	V	VVFIN	3|Sg|Pres|Subj	2	rel	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Auftrag	Auftrag	N	NN	Masc|_|Sg	0	root	_	_
+2	vom	von	P	APPRART	Dat	1	pp	_	_
+3	Magistrat	Magistrat	N	NN	Masc|Dat|Sg	2	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Einen	ein	A	ART	Indef|Masc|Acc|Sg	2	det	_	_
+2	Mordsauftrag	Mordsauftrag	N	NN	Masc|Acc|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Müsse	müssen	V	VMFIN	_|Sg|Pres|Subj	0	root	_	_
+2	die	die	A	ART	Def|_|Nom|_	3	det	78	78
+3	Ludwigstraße	Ludwigstraß	N	NN	_|Nom|_	4	subj	78	78
+4	umgraben	umgraben	V	VVPP	_	1	neb	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ganz	ganz	A	ADV	_	2	adv	_	_
+2	umgraben	umgraben	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Werde	werden	V	VAFIN	_|Sg|Pres|_	0	root	_	_
+2	asphaltiert	asphaltieren	V	VVPP	_	1	aux	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	79	79
+2	Kerl	Kerl	N	NN	Masc|Nom|Sg	3	subj	79	79
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	kopfschüttelnd	kopfschüttelnd	A	ADJD	Pos|<PPRES	3	adv	_	_
+5	weg	weg	P	PTKVZ	_	3	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Holt	holen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	seinen	seine	A	PPOSAT	Masc|_|Sg	3	det	79	79
+3	Rock	Rock	N	NN	Masc|_|Sg	1	obja	_	_
+4	auf	auf	P	APPR	Dat	1	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	7	det	_	_
+6	andern	andern	A	ADJA	_|Fem|Dat|Sg|_	7	attr	_	_
+7	Seite	Seite	N	NN	Fem|Dat|Sg	4	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Zieht	ziehen	V	VVIMP	Pl	0	root	_	_
+2	ihn	er	P	PPER	3|Sg|Masc|Acc	1	obja	79	79
+3	an	an	P	PTKVZ	_	1	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Schreit	schreien	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	nochmal	nochmal	A	ADV	_	1	adv	_	_
+3	herüber	herüber	A	ADV	_	1	adv	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	»	»	$	$(	_	0	root	_	_
+6	Dös	Dös	N	NE	_|Nom|Sg	7	subj	_	_
+7	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	a	a	F	FM	Fem|_|Sg	7	obja	_	_
+9	Mordsarbeit	Mordsarbeit	N	NN	Fem|_|Sg	8	app	_	_
+10	.	.	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+
+1	Geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	ins	in	P	APPRART	Acc	1	objp	_	_
+3	Wirtshaus	Wirtshaus	N	NN	Neut|Acc|Sg	2	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|Nom|Sg	6	det	80	80
+2	großes	groß	A	ADJA	Pos|Neut|Nom|Sg|St|	6	attr	80	80
+3	,	,	$	$,	_	0	root	80	80
+4	schwer	schwer	A	ADJD	Pos|	5	adv	80	80
+5	beladenes	beladen	A	ADJA	Pos|Neut|Nom|Sg|St|	2	kon	80	80
+6	Kohlenfuhrwerk	Kohlenfuhrwerk	N	NN	Neut|Nom|Sg	7	subj	80	80
+7	fuhr	fahren	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+8	auf	auf	P	APPR	Dat	7	pp	_	_
+9	dem	die	A	ART	Def|_|Dat|Sg	10	det	_	_
+10	Tramwaygeleise	Tramwaygeleise	N	NN	_|Dat|Sg	8	pn	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	als	als	K	KOKOM	_	20	kom	_	_
+13	eben	eben	A	ADV	_	15	adv	241	241
+14	ein	eine	A	ART	Indef|_|_|Sg	15	det	241	241
+15	Wagen	Wage	N	NN	_|_|Sg	12	cj	241	241
+16	der	die	A	ART	Def|Fem|Gen|Sg	18	det	241	241
+17	elektrischen	elektrisch	A	ADJA	Pos|Fem|Gen|Sg|Wk|	18	attr	241	241
+18	Straßenbahn	Straßenbahn	N	NN	Fem|Gen|Sg	15	gmod	241	241
+19	daher	daher	P	PROAV	_	18	pp	241	241
+20	kam	kommen	V	VVFIN	_|Sg|Past|Ind	7	kon	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	84	84
+2	Kutscher	Kutscher	N	NN	Masc|Nom|Sg	5	subj	84	84
+3	des	die	A	ART	Def|Neut|Gen|Sg	4	det	80	80
+4	Kohlenfuhrwerks	Kohlenfuhrwerk	N	NN	Neut|Gen|Sg	2	gmod	80	80
+5	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	»	»	$	$(	_	0	root	_	_
+8	Wüst	Wüst	N	NE	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	ahö	ahö	N	NE	_	8	app	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	wüst	wüst	A	ADJD	Pos|	0	root	_	_
+13	«	«	$	$(	_	0	root	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	und	und	K	KON	_	0	root	_	_
+16	fuhr	fahren	V	VVFIN	_|Sg|Past|Ind	15	cj	_	_
+17	so	so	A	ADV	_	18	adv	_	_
+18	langsam	langsam	A	ADJD	Pos|	16	adv	_	_
+19	aus	aus	P	APPR	Dat	16	pp	_	_
+20	dem	die	A	ART	Def|Neut|Dat|Sg	21	det	82	82
+21	Geleise	Geleis	N	NN	Neut|Dat|Sg	19	pn	82	82
+22	,	,	$	$,	_	0	root	_	_
+23	als	als	K	KOKOM	_	24	konj	_	_
+24	wäre	sein	V	VAFIN	3|Sg|Past|Subj	16	neb	_	_
+25	die	die	A	ART	Def|Fem|Nom|Sg	27	det	130	130
+26	elektrische	elektrisch	A	ADJA	Pos|Fem|Nom|Sg|_|	27	attr	130	130
+27	Bahn	Bahn	N	NN	Fem|Nom|Sg	24	subj	130	130
+28	nur	nur	A	ADV	_	24	adv	_	_
+29	eine	eine	A	ART	Indef|Fem|Nom|Sg	30	det	_	_
+30	Straßenwalze	Straßenwalze	N	NN	Fem|Nom|Sg	24	pred	_	_
+31	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	bewerkstelligte	bewerkstelligen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	16	konj	_	_
+6	er	er	P	PPER	3|Sg|Masc|Nom	16	subj	0	0
+7	gerade	gerade	A	ADV	_	16	adv	_	_
+8	noch	noch	A	ADV	_	16	adv	_	_
+9	mit	mit	P	APPR	Dat	16	pp	_	_
+10	dem	die	A	ART	Def|Neut|Dat|Sg	12	det	81	81
+11	hinteren	hinter	A	ADJA	Pos|Neut|Dat|Sg|Wk|	12	attr	81	81
+12	Rade	Rad	N	NN	Neut|Dat|Sg	9	pn	81	81
+13	an	an	P	APPR	_	16	objp	_	_
+14	den	die	A	ART	Def|_|_|_	15	det	31	31
+15	Wagen	Wage	N	NN	_|_|_	13	pn	31	31
+16	stieß	stoßen	V	VVFIN	3|Sg|Past|Ind	2	objc	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	81	81
+2	Rad	Rad	N	NN	Neut|Nom|Sg	3	subj	81	81
+3	brach	brechen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	und	und	K	KON	_	3	kon	_	_
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	_	_
+7	Kohlenwagen	Kohlenwage	N	NN	Masc|Nom|Sg	8	subj	_	_
+8	senkte	senken	V	VVFIN	3|Sg|Past|_	5	cj	_	_
+9	sich	sie	P	PRF	3|_|_	8	obja	_	_
+10	krachend	krachen	A	ADJD	_|<PPRES	8	adv	_	_
+11	mitten	mitten	A	ADV	_	12	adv	_	_
+12	in	in	P	APPR	Acc	8	pp	_	_
+13	das	die	A	ART	Def|Neut|_|Sg	14	det	82	82
+14	Geleise	Geleis	N	NN	Neut|Acc|Sg	12	pn	82	82
+15	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Du	du	P	PPER	Masc|Nom|_	0	root	_	_
+3	Rammel	Rammel	N	NN	Masc|_|_	2	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	du	du	P	PPER	_|Nom|Sg	0	root	83	83
+6	g	g	N	NN	_	5	app	83	83
+7	'	'	$	$(	_	0	root	_	_
+8	scheerter	scheerter	N	NE	_	6	app	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+11	net	net	A	ADV	_	10	adv	_	_
+12	nausfahren	nausfahren	A	ADJD	_	10	adv	_	_
+13	?	?	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+15	schrie	schreien	V	VVFIN	3|Sg|Past|_	0	root	_	_
+16	der	die	A	ART	Def|Masc|Nom|Sg	17	det	85	85
+17	Kondukteur	Kondukteur	N	NN	Masc|Nom|Sg	15	subj	85	85
+18	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Jetzt	jetzt	A	ADV	_	3	adv	_	_
+3	nimma	nimma	A	ADJD	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	du	du	P	PPER	Neut|Nom|Sg	0	root	_	_
+6	Rindviech	Rindviech	N	NN	Neut|_|Sg	5	app	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+9	antwortete	antworten	V	VVFIN	3|Sg|Past|_	0	root	_	_
+10	der	die	A	ART	Def|Masc|Nom|Sg	11	det	84	84
+11	Kutscher	Kutscher	N	NN	Masc|Nom|Sg	9	subj	84	84
+12	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	84	84
+3	hatte	haben	V	VAFIN	3|Sg|Past|Ind	1	cj	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	recht	recht	A	ADJD	Pos|	3	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	denn	denn	K	KON	_	3	kon	_	_
+8	eine	eine	A	ART	Indef|Fem|_|Sg	9	det	_	_
+9	Kohlenfracht	Kohlenfracht	N	NN	Fem|_|Sg	16	obja	_	_
+10	kann	können	V	VMFIN	3|Sg|Pres|Ind	7	cj	_	_
+11	man	man	P	PIS	_|Nom|Sg	10	subj	_	_
+12	nicht	nicht	P	PTKNEG	_	16	adv	_	_
+13	auf	auf	P	APPR	Dat	16	pp	_	_
+14	drei	drei	C	CARD	_	15	attr	89	89
+15	Rädern	Rad	N	NN	Neut|Dat|Pl	13	pn	89	89
+16	wegbringen	wegbringen	V	VVINF	_	10	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	85	85
+2	Kondukteur	Kondukteur	N	NN	Masc|Nom|Sg	3	subj	85	85
+3	legte	legen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+4	dem	die	A	ART	Def|_|Dat|Sg	5	det	_	_
+5	Fuhrmanne	Fuhrmanne	N	NN	_|Dat|Sg	3	objd	_	_
+6	noch	noch	A	ADV	_	3	adv	_	_
+7	einige	einige	A	PIAT	_|_|_	8	det	_	_
+8	Fragen	Frage	N	NN	_|_|_	3	obja	_	_
+9	vor	vor	P	PTKVZ	_	3	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ob	ob	K	KOUS	_	3	konj	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	85	85
+3	glaube	glauben	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	0	root	_	_
+6	er	er	P	PPER	3|Sg|Masc|Nom	0	root	85	85
+7	das	die	A	ART	Def|Neut|Nom|Sg	8	det	_	_
+8	nächstemal	nächstemal	N	NN	Neut|Nom|Sg	10	subj	_	_
+9	aufpassen	aufpassen	V	VVINF	_	10	aux	_	_
+10	wolle	wollen	V	VMFIN	3|Sg|Pres|Subj	0	root	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	ob	ob	K	KOUS	_	17	konj	_	_
+13	er	er	P	PPER	3|Sg|Masc|Nom	17	subj	85	85
+14	vielleicht	vielleicht	A	ADV	_	16	adv	_	_
+15	nicht	nicht	P	PTKNEG	_	16	adv	_	_
+16	aufpassen	aufpassen	V	VVINF	_	17	aux	_	_
+17	wolle	wollen	V	VMFIN	3|Sg|Pres|Subj	0	root	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	und	und	K	KON	_	17	kon	_	_
+20	ob	ob	K	KOUS	_	27	konj	_	_
+21	noch	noch	A	ADV	_	27	adv	_	_
+22	ein	eine	A	ART	Indef|Masc|Nom|Sg	25	det	_	_
+23	solcher	solche	A	PIDAT	Masc|Nom|Sg	25	attr	_	_
+24	dummer	dumm	A	ADJA	Pos|Masc|Nom|Sg|St|	25	attr	_	_
+25	Kerl	Kerl	N	NN	Masc|Nom|Sg	27	subj	_	_
+26	Fuhrmann	Fuhrmann	N	NE	_|Nom|Sg	27	pred	_	_
+27	sei	sein	V	VAFIN	3|Sg|Pres|Subj	19	cj	_	_
+28	.	.	$	$.	_	0	root	_	_
+
+1	Dies	dies	P	PDS	Neut|Nom|Sg	3	subj	_	_
+2	alles	alle	P	PIS	Neut|Nom|Sg	1	app	_	_
+3	brachte	bringen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	84	84
+5	Kutscher	Kutscher	N	NN	Masc|Acc|Sg	3	obja	84	84
+6	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+7	aus	aus	P	APPR	Dat	3	pp	_	_
+8	seiner	seine	A	PPOSAT	Fem|Dat|Sg	9	det	84	84
+9	Ruhe	Ruhe	N	NN	Fem|Dat|Sg	7	pn	552	552
+10	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	stieg	steigen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	ab	ab	P	PTKVZ	_	2	avz	_	_
+4	und	und	K	KON	_	2	kon	_	_
+5	stellte	stellen	V	VVFIN	_|Sg|Past|_	4	cj	_	_
+6	fest	fest	P	PTKVZ	_	5	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	13	konj	_	_
+9	das	die	A	ART	Def|Neut|Nom|Sg	10	det	81	81
+10	Rad	Rad	N	NN	Neut|Nom|Sg	13	subj	81	81
+11	vollständig	vollständig	A	ADJD	Pos|	12	adv	_	_
+12	kaputt	kaputt	A	ADJD	Pos|	13	pred	_	_
+13	sei	sein	V	VAFIN	3|Sg|Pres|Subj	5	objc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	da	da	K	KOUS	_	9	konj	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	0	0
+4	infolge	infolge	P	APPR	_	9	pp	_	_
+5	dieser	diese	A	PDAT	Fem|_|Sg	6	det	_	_
+6	Tatsache	Tatsache	N	NN	Fem|_|Sg	4	pn	_	_
+7	die	die	A	ART	Def|Fem|_|Sg	8	det	853	853
+8	Meinung	Meinung	N	NN	Fem|_|Sg	9	obja	853	853
+9	gewann	gewinnen	V	VVFIN	3|Sg|Past|Ind	20	neb	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	18	konj	_	_
+12	sein	seine	A	PPOSAT	Masc|Nom|Sg	13	det	0	0
+13	Aufenthalt	Aufenthalt	N	NN	Masc|Nom|Sg	18	subj	86	86
+14	von	von	P	APPR	_	13	pp	86	86
+15	längerer	lang	A	ADJA	Comp|Fem|_|Sg|St|	16	attr	86	86
+16	Dauer	Dauer	N	NN	Fem|_|Sg	14	pn	86	86
+17	sein	sein	V	VAINF	_	18	aux	_	_
+18	werde	werden	V	VAFIN	3|Sg|Pres|Subj	9	neb	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	zog	ziehen	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+21	er	er	P	PPER	3|Sg|Masc|Nom	20	subj	86	86
+22	die	die	A	ART	Def|Fem|_|Sg	23	det	_	_
+23	Tabakpfeife	Tabakpfeife	N	NN	Fem|_|Sg	20	obja	_	_
+24	aus	aus	P	APPR	Dat	20	objp	_	_
+25	der	die	A	ART	Def|Fem|Dat|Sg	26	det	87	87
+26	Tasche	Tasche	N	NN	Fem|Dat|Sg	24	pn	87	87
+27	und	und	K	KON	_	20	kon	_	_
+28	begann	beginnen	V	VVFIN	_|Sg|Past|Ind	27	cj	_	_
+29	zu	zu	P	PTKZU	_	30	part	_	_
+30	rauchen	rauchen	V	VVINF	_	28	obji	_	_
+31	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,437 @@
+1	Ruhe	Ruhe	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	484	484
+2	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	6	subj	484	484
+3	und	und	K	KON	_	2	kon	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	485	485
+5	Bissige	Bissige	N	NN	Masc|Nom|Sg	3	cj	485	485
+6	setzen	setzen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+7	sich	sie	P	PRF	3|_|_	6	obja	_	_
+8	wieder	wieder	A	ADV	_	6	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	525	525
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	_	_
+5	Ihnen	sie	P	PPER	3|Pl|_|Dat	2	objd	561	561
+6	g	g	N	NN	_|Nom|Sg	8	subj	525	525
+7	'	'	$	$(	_	0	root	_	_
+8	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	:	\:	$	$.	_	0	root	_	_
+10	Wenn	wenn	K	KOUS	_	14	konj	_	_
+11	der	die	A	ART	Def|Masc|Nom|Sg	12	det	560	560
+12	Schluß	Schluß	N	NN	Masc|Nom|Sg	14	subj	560	560
+13	ernst	ernst	A	ADJD	Pos|	14	pred	_	_
+14	wird	werden	V	VAFIN	3|Sg|Pres|Ind	16	neb	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	hilft	helfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+17	'	'	$	$(	_	0	root	_	_
+18	s	s	P	PPER	_|Sg|_|Nom	16	subj	560	560
+19	Ihnen	sie	P	PPER	3|Pl|_|Dat	16	objd	561	561
+20	nicht	nicht	P	PTKNEG	_	16	adv	_	_
+21	mehr	mehr	A	ADV	_	20	adv	_	_
+22	,	,	$	$,	_	0	root	_	_
+23	daß	daß	K	KOUS	_	28	konj	_	_
+24	der	die	A	ART	Def|Masc|Nom|Sg	25	det	_	_
+25	Anfang	Anfang	N	NN	Masc|Nom|Sg	28	subj	_	_
+26	ein	eine	A	ART	Indef|Masc|Nom|Sg	27	det	_	_
+27	Blödsinn	Blödsinn	N	NN	Masc|Nom|Sg	28	pred	_	_
+28	war	sein	V	VAFIN	3|Sg|Past|Ind	16	objc	_	_
+29	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	505	505
+2	Dichter	Dichter	N	NN	_|_|_	0	root	505	505
+3	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	schaffen	schaffen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	561	561
+4	doch	doch	A	ADV	_	2	adv	_	_
+5	Ordnung	Ordnung	N	NN	Fem|_|Sg	2	obja	562	562
+6	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	5	pred	_	_
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	denn	denn	A	ADV	_	5	adv	_	_
+4	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+5	heißen	heißen	V	VVINF	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	3	adv	_	_
+2	eine	eine	A	ART	Indef|Fem|_|Sg	3	det	_	_
+3	Schmiere	Schmiere	N	NN	Fem|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	gar	gar	A	ADV	_	2	adv	_	_
+5	noch	noch	A	ADV	_	2	adv	_	_
+6	frech	frech	A	ADJD	Pos|	2	pred	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Marionetten	Marionette	N	NN	_|Nom|Pl	2	subj	_	_
+2	schauen	schauen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	hinter	hinter	P	APPR	_	2	pp	_	_
+4	den	die	A	ART	Def|_|_|_	5	det	_	_
+5	Kulissen	Kulisse	N	NN	_|_|_	3	pn	_	_
+6	hervor	hervor	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	510	510
+2	Naive	Naive	N	NN	Masc|Nom|Sg	0	root	510	510
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ah	Ah	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	schauts	schauts	V	VVFIN	_	0	root	_	_
+4	da	da	A	ADV	_	3	adv	_	_
+5	her	her	P	PTKVZ	_	3	avz	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	505	505
+2	Dichter	Dichter	N	NN	_|_|_	0	root	505	505
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ihre	ihre	A	PPOSAT	Fem|Nom|Pl	2	det	505	505
+2	Puppen	Puppe	N	NN	Fem|Nom|Pl	3	subj	563	563
+3	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+4	keine	keine	A	PIAT	Fem|_|Sg	5	det	_	_
+5	Disziplin	Disziplin	N	NN	Fem|_|Sg	3	obja	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	schaffen	schaffen	V	VVFIN	_|Pl|Pres|_	3	kon	_	_
+8	Sie	sie	P	PPER	3|_|_|_	7	obja	563	563
+9	Ordnung	Ordnung	N	NN	Fem|_|Sg	0	root	562	562
+10	!	!	$	$.	_	0	root	_	_
+
+1	Oder	oder	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	_|Nom|Sg	1	cj	563	563
+3	zünd	zünd	F	FM	_	2	app	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	Ihnen	sie	P	PPER	3|Pl|_|Dat	0	root	563	563
+6	Ihre	ihre	A	PPOSAT	Fem|_|Sg	7	det	563	563
+7	Bude	Bude	N	NN	Fem|_|Sg	0	root	_	_
+8	persönlich	persönlich	A	ADJD	Pos|	0	root	_	_
+9	an	an	P	PTKVZ	_	0	root	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Meine	meine	A	PPOSAT	Masc|_|Pl	2	det	_	_
+2	Herren	Herr	N	NN	Masc|_|Pl	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Einige	einige	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ruhe	Ruhe	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Hört	hören	V	VVIMP	Pl	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	_	_
+2	auf	auf	P	APPR	Dat	1	pp	_	_
+3	den	die	A	ART	Def|Fem|Dat|Pl	4	det	564	564
+4	Stufen	Stufe	N	NN	Fem|Dat|Pl	2	pn	564	564
+5	.	.	$	$.	_	0	root	_	_
+
+1	Meine	meine	A	PPOSAT	Masc|_|Pl	2	det	566	566
+2	Herren	Herr	N	NN	Masc|_|Pl	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Alsdann	alsdann	A	ADV	_	21	adv	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wenn	wenn	K	KOUS	_	13	konj	_	_
+4	sich	sie	P	PRF	3|_|_	13	obja	_	_
+5	das	die	A	ART	Def|Neut|Nom|Sg	6	det	_	_
+6	Wesen	Wesen	N	NN	Neut|Nom|Sg	13	subj	_	_
+7	der	die	A	ART	Def|Fem|Gen|Sg	8	det	_	_
+8	Aufklärung	Aufklärung	N	NN	Fem|Gen|Sg	6	gmod	_	_
+9	im	in	P	APPRART	Dat	13	pp	_	_
+10	Hintergrund	Hintergrund	N	NN	Masc|Dat|Sg	9	pn	_	_
+11	des	die	A	ART	Def|Neut|Gen|Sg	12	det	_	_
+12	Säkulums	Säkulum	N	NN	Neut|Gen|Sg	10	gmod	_	_
+13	abspiegelt	abspiegeln	V	VVFIN	3|Sg|Pres|Ind	21	neb	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	die	die	A	ART	Def|Fem|Nom|Sg	16	det	565	565
+16	Kunst	Kunst	N	NN	Fem|Nom|Sg	19	subj	565	565
+17	ihre	ihre	A	PPOSAT	Fem|_|Pl	18	det	565	565
+18	Früchte	Frucht	N	NN	Fem|_|Pl	19	obja	_	_
+19	trägt	tragen	V	VVFIN	3|Sg|Pres|Ind	14	cj	_	_
+20	,	,	$	$,	_	0	root	_	_
+21	bitte	bitten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+22	ich	ich	P	PPER	1|Sg|_|Nom	21	subj	566	566
+23	ergebenst	ergeben	A	ADJD	Sup|	21	adv	_	_
+24	ins	in	P	APPRART	Acc	27	objp	_	_
+25	Auge	Auge	N	NN	Neut|Acc|Sg	24	pn	567	567
+26	zu	zu	P	PTKZU	_	27	part	_	_
+27	fassen	fassen	V	VVINF	_	21	obji	_	_
+28	,	,	$	$,	_	0	root	_	_
+29	daß	daß	K	KOUS	_	55	konj	_	_
+30	die	die	A	ART	Def|Fem|Nom|Sg	31	det	471	471
+31	Bühne	Bühne	N	NN	Fem|Nom|Sg	41	subj	471	471
+32	das	die	A	ART	Def|Neut|_|Sg	33	det	_	_
+33	Abbild	Abbild	N	NN	Neut|_|Sg	41	obja	_	_
+34	des	die	A	ART	Def|Neut|Gen|Sg	35	det	_	_
+35	Erdentreibens	Erdentreiben	N	NN	Neut|Gen|Sg	33	gmod	_	_
+36	,	,	$	$,	_	0	root	_	_
+37	auch	auch	A	ADV	_	38	adv	_	_
+38	Spiegel	Spiegel	N	NN	Masc|Gen|Pl	35	kon	_	_
+39	der	die	A	ART	Def|Fem|Gen|Sg	40	det	138	138
+40	Welt	Welt	N	NN	Fem|Gen|Sg	38	gmod	138	138
+41	genannt	nennen	V	VVPP	_	55	neb	_	_
+42	,	,	$	$,	_	0	root	_	_
+43	das	die	A	ART	Def|Neut|Nom|Sg	44	det	_	_
+44	Traurige	Traurige	N	NN	Neut|Nom|Sg	55	subj	_	_
+45	nicht	nicht	P	PTKNEG	_	55	adv	_	_
+46	minder	minder	A	ADV	_	55	adv	_	_
+47	als	als	K	KOKOM	_	55	kom	_	_
+48	das	die	A	ART	Def|Neut|_|Sg	49	det	_	_
+49	Lustige	Lustige	N	NN	Neut|_|Sg	47	cj	_	_
+50	in	in	P	APPR	_	54	objp	_	_
+51	ihr	ihre	A	PPOSAT	Masc|Nom|Sg	52	det	138	138
+52	Bereich	Bereich	N	NN	Masc|Nom|Sg	50	pn	_	_
+53	zu	zu	P	PTKZU	_	54	part	_	_
+54	ziehen	ziehen	V	VVINF	_	55	obji	_	_
+55	vorgibt	vorgeben	V	VVFIN	3|Sg|Pres|Ind	27	objc	_	_
+56	,	,	$	$,	_	0	root	_	_
+57	wohin	wohin	P	PWAV	_	68	pp	_	_
+58	auch	auch	A	ADV	_	68	adv	_	_
+59	unser	unsre	A	PPOSAT	Masc|Nom|Sg	60	det	_	_
+60	Dichter	Dichter	N	NN	Masc|Nom|Sg	68	subj	_	_
+61	,	,	$	$,	_	0	root	_	_
+62	poeta	poeta	F	FM	Masc|Nom|Sg	60	app	_	_
+63	vates	vates	F	FM	Masc|Nom|Sg	62	app	_	_
+64	,	,	$	$,	_	0	root	_	_
+65	hinauszusegeln	hinaussegeln	V	VVIZU	_	68	obji	_	_
+66	die	die	A	ART	Def|Fem|_|Sg	67	det	_	_
+67	Belustigung	Belustigung	N	NN	Fem|_|Sg	68	obja	_	_
+68	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+69	.	.	$	$.	_	0	root	_	_
+
+1	Viele	viele	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bravo	Bravo	F	FM	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Bravo	Bravo	F	FM	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Andere	andere	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Weiterspielen	weiterspielen	V	VVINF	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mit	mit	P	APPR	Dat	2	pp	_	_
+4	einem	eine	A	ART	Indef|Neut|Dat|Sg	5	det	_	_
+5	Male	Mal	N	NN	Neut|Dat|Sg	3	pn	_	_
+6	als	als	K	KOKOM	_	2	kom	_	_
+7	Wurstel	Wurstel	N	NN	Masc|_|_	6	cj	576	576
+8	da	da	P	PTKVZ	_	2	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Graf	Graf	N	NN	Masc|Nom|Sg	8	subj	_	_
+3	von	von	P	APPR	_	2	pp	_	_
+4	Charolais	Charolais	N	NE	_|_|_	3	pn	_	_
+5	und	und	K	KON	_	4	kon	_	_
+6	der	die	A	ART	Def|_|_|_	7	det	_	_
+7	Meister	Meister	N	NN	_|_|_	5	cj	_	_
+8	treten	treten	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+9	auf	auf	P	PTKVZ	_	8	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	568	568
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	um	um	P	APPR	Gen	0	root	_	_
+4	Gottes	Gott	N	NN	Masc|Gen|Sg	3	pn	545	545
+5	willen	willen	A	APZR	_	3	part	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	was	was	P	PWS	Neut|Nom|Sg	8	pred	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	denn	denn	A	ADV	_	8	adv	_	_
+10	das	die	P	PDS	Neut|Nom|Sg	8	subj	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Zum	zu	P	APPRART	Dat	0	root	_	_
+2	Direktor	Direktor	N	NN	Masc|Dat|Sg	1	pn	503	503
+3	.	.	$	$.	_	0	root	_	_
+
+1	Schaun	Schaun	N	NE	Neut|_|_	0	root	_	_
+2	S	S	N	NN	Neut|_|_	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	doch	doch	A	ADV	_	2	adv	_	_
+5	her	her	P	PTKVZ	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+5	für	für	P	APPR	Acc	0	root	_	_
+6	Leut	Leut	N	NE	_|Acc|_	5	pn	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	568	568
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	568	568
+2	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	doch	doch	A	ADV	_	6	adv	_	_
+4	wenigsten	wenigste	P	PIS	_|_|_	6	obja	_	_
+5	dafür	dafür	P	PROAV	_	6	objp	_	_
+6	sorgen	sorgen	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	18	konj	_	_
+9	sich	sie	P	PRF	3|_|_	18	obja	_	_
+10	keine	keine	A	PIAT	Fem|Nom|Pl	11	det	569	569
+11	Figuren	Figur	N	NN	Fem|Nom|Pl	18	subj	569	569
+12	aus	aus	P	APPR	Dat	11	pp	569	569
+13	anderen	anderen	A	ADJA	_|Neut|Dat|Pl|_	14	attr	569	569
+14	Stücken	Stück	N	NN	Neut|Dat|Pl	12	pn	569	569
+15	in	in	P	APPR	Acc	18	objp	_	_
+16	Ihr	ihre	A	PPOSAT	Neut|Acc|Sg	17	det	569	569
+17	Wirtshaus	Wirtshaus	N	NN	Neut|Acc|Sg	15	pn	_	_
+18	setzen	setzen	V	VVFIN	3|Pl|Pres|_	6	objc	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	während	während	K	KOUS	_	0	root	_	_
+21	meines	meine	A	PPOSAT	_|Gen|Sg	0	root	_	_
+22	aufgeführt	aufführen	V	VVPP	_	23	aux	_	_
+23	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	570	570
+2	Herr	Herr	N	NN	Masc|Nom|Sg	11	subj	570	570
+3	,	,	$	$,	_	0	root	570	570
+4	der	die	P	PRELS	Masc|Nom|Sg	9	subj	570	570
+5	im	in	P	APPRART	Dat	9	pp	_	_
+6	wirklichen	wirklich	A	ADJA	Pos|Neut|Dat|Sg|Wk|	7	attr	_	_
+7	Parkett	Parkett	N	NN	Neut|Dat|Sg	5	pn	_	_
+8	hinten	hinten	A	ADV	_	5	adv	_	_
+9	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	2	rel	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+12	auf	auf	P	PTKVZ	_	11	avz	_	_
+13	und	und	K	KON	_	11	kon	_	_
+14	ruft	rufen	V	VVFIN	_|_|Pres|Ind	13	cj	_	_
+15	laut	laut	A	ADJD	Pos|	14	adv	_	_
+16	:	\:	$	$.	_	0	root	_	_
+17	Das	die	P	PDS	Neut|Nom|Sg	18	subj	_	_
+18	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+19	ein	eine	A	ART	Indef|Masc|Nom|Sg	20	det	_	_
+20	Schwindel	Schwindel	N	NN	Masc|Nom|Sg	18	pred	_	_
+21	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Die	die	A	ART	Def|_|Nom|Pl	3	det	_	_
+3	Leute	Leute	N	NN	_|Nom|Pl	7	subj	_	_
+4	auf	auf	P	APPR	Dat	3	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	471	471
+6	Bühne	Bühne	N	NN	Fem|Dat|Sg	4	pn	471	471
+7	sehen	sehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+8	alle	alle	P	PIS	_|_|_	7	adv	_	_
+9	hin	hin	P	PTKVZ	_	7	avz	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	die	die	A	ART	Def|_|Nom|Pl	12	det	578	578
+12	Marionetten	Marionette	N	NN	_|Nom|Pl	13	subj	578	578
+13	werden	werden	V	VAFIN	3|Pl|Pres|_	7	kon	_	_
+14	unruhig	unruhig	A	ADJD	Pos|	13	pred	_	_
+15	und	und	K	KON	_	13	kon	_	_
+16	schauen	schauen	V	VVFIN	_|Pl|Pres|_	15	cj	_	_
+17	zum	zu	P	APPRART	Dat	16	pp	_	_
+18	Teil	Teil	N	NN	_|Dat|Sg	17	pn	_	_
+19	über	über	P	APPR	Acc	16	pp	_	_
+20	den	die	A	ART	Def|Masc|Acc|Sg	21	det	_	_
+21	Rand	Rand	N	NN	Masc|Acc|Sg	19	pn	_	_
+22	des	die	A	ART	Def|Neut|Gen|Sg	23	det	489	489
+23	Theaters	Theater	N	NN	Neut|Gen|Sg	21	gmod	489	489
+24	hinaus	hinaus	P	PTKVZ	_	16	avz	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+3	im	in	P	APPRART	Dat	2	pp	_	_
+4	Parkett	Parkett	N	NN	Neut|Dat|Sg	3	pn	571	571
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Schwindel	Schwindel	N	NN	Masc|Nom|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Darauf	Darauf	P	PROAV	_	2	pp	_	_
+2	fall	fall	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	hinein	hinein	A	ADV	_	2	adv	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	eines	eine	A	ART	Indef|Neut|Gen|Sg	5	det	_	_
+4	ernsten	ernst	A	ADJA	Pos|Neut|Gen|Sg|_|	5	attr	_	_
+5	Theaters	Theater	N	NN	Neut|Gen|Sg	2	objg	_	_
+6	unwürdig	unwürdig	A	ADJD	Pos|	2	pred	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Direktor	Direktor	N	NN	Masc|Nom|Sg	0	root	_	_
+3	vor	vor	P	APPR	Dat	2	pp	_	_
+4	dem	die	A	ART	Def|Masc|Dat|Sg	5	det	_	_
+5	Souffleurkasten	Souffleurkasten	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	_	_
+2	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	_	_
+2	Dichter	Dichter	N	NN	_|_|_	0	root	_	_
+3	auch	auch	A	ADV	_	4	adv	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	vorn	vorn	A	ADV	_	2	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ringt	ringen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+8	die	die	A	ART	Def|Fem|_|Pl	9	det	125	125
+9	Hände	Hand	N	NN	Fem|_|Pl	0	root	125	125
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+3	weiter	weiter	A	ADV	_	4	adv	_	_
+4	nach	nach	P	APPR	Dat	2	pp	_	_
+5	vorn	vorn	A	ADV	_	6	adv	_	_
+6	gehend	gehen	A	ADJD	_|<PPRES	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	_	_
+2	lasse	lassen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	8	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+5	um	um	P	APPR	Acc	8	pp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	560	560
+7	Schluß	Schluß	N	NN	Masc|Acc|Sg	5	pn	560	560
+8	betrügen	betrügen	V	VVINF	_	2	obji	_	_
+9	!	!	$	$.	_	0	root	_	_
+

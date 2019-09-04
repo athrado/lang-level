@@ -1,0 +1,485 @@
+1	Ein	ein	A	ART	Indef|_|_|Sg	2	det	_	_
+2	Pianino	Pianino	N	NN	_|_|Sg	0	root	_	_
+3	an	an	P	APPR	Dat	2	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	452	452
+5	Wand	Wand	N	NN	Fem|Dat|Sg	3	pn	452	452
+6	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	342	342
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	453	453
+2	Dichter	Dichter	N	NN	_|_|_	0	root	453	453
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	453	453
+2	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	eben	eben	A	ADV	_	2	adv	_	_
+4	zusammen	zusammen	A	ADV	_	2	adv	_	_
+5	herein	herein	P	PTKVZ	_	2	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	457	457
+2	Dichter	Dichter	N	NN	Masc|Nom|Sg	3	subj	457	457
+3	schließt	schließen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	zu	zu	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Dichter	Dichter	N	NN	Masc|Nom|Sg	0	root	_	_
+3	So	so	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	mein	meine	A	PPOSAT	Masc|Nom|Sg	6	det	_	_
+6	Schatz	Schatz	N	NN	Masc|Nom|Sg	2	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Küßt	Küßt	V	VVFIN	3|_|_|_	0	root	_	_
+2	sie	sie	P	PPER	3|_|_|Nom	1	subj	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	_	_
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	_	_
+4	mit	mit	P	APPR	Dat	3	pp	_	_
+5	Hut	Hut	N	NN	_|Dat|Sg	4	pn	454	454
+6	und	und	K	KON	_	5	kon	_	_
+7	Mantille	Mantille	N	NE	Fem|Dat|Sg	6	cj	94	94
+8	Ah	Ah	N	NN	Fem|Dat|Sg	7	app	94	94
+9	!	!	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	aber	aber	A	ADV	_	2	adv	_	_
+4	schön	schön	A	ADJD	Pos|	2	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Nur	nur	A	ADV	_	2	adv	_	_
+2	sehen	sehen	V	VVINF	_	3	obji	_	_
+3	tut	tun	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	man	man	P	PIS	_|Nom|Sg	3	subj	_	_
+5	nichts	nichts	P	PIS	_	3	obja	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	453	453
+2	Dichter	Dichter	N	NN	_|_|_	0	root	453	453
+3	Deine	deine	A	PPOSAT	Neut|Nom|Pl	4	det	455	455
+4	Augen	Auge	N	NN	Neut|Nom|Pl	5	subj	455	455
+5	müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+6	sich	sie	P	PRF	3|_|_	10	obja	_	_
+7	an	an	P	APPR	Acc	10	objp	_	_
+8	das	die	A	ART	Def|Neut|Acc|Sg	9	det	_	_
+9	Halbdunkel	Halbdunkel	N	NN	Neut|Acc|Sg	7	pn	_	_
+10	gewöhnen	gewöhnen	V	VVINF	_	5	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Diese	diese	A	PDAT	Neut|_|Pl	4	det	456	456
+3	süßen	süß	A	ADJA	Pos|Neut|_|Pl|Wk|	4	attr	456	456
+4	Augen	Auge	N	NN	Neut|_|Pl	0	root	456	456
+5	.	.	$	$.	_	0	root	_	_
+
+1	Küßt	Küßt	V	VVFIN	3|_|_|_	0	root	_	_
+2	sie	sie	P	PPER	3|_|_|Nom	1	subj	455	455
+3	auf	auf	P	APPR	Acc	1	pp	_	_
+4	die	die	A	ART	Def|Neut|Acc|Pl	5	det	374	374
+5	Augen	Auge	N	NN	Neut|Acc|Pl	3	pn	374	374
+6	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	_	_
+3	Mädel	Mädel	N	NN	Neut|_|Sg	13	obja	_	_
+4	Dazu	Dazu	P	PROAV	_	3	pp	_	_
+5	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+6	die	die	A	ART	Def|Neut|Nom|Pl	8	det	456	456
+7	süßen	süß	A	ADJA	Pos|Neut|Nom|Pl|Wk|	8	attr	456	456
+8	Augen	Auge	N	NN	Neut|Nom|Pl	5	subj	456	456
+9	aber	aber	A	ADV	_	13	adv	_	_
+10	nicht	nicht	P	PTKNEG	_	13	adv	_	_
+11	Zeit	Zeit	N	NN	Fem|_|Sg	13	zeit	_	_
+12	genug	genug	A	ADV	_	11	adv	_	_
+13	haben	haben	V	VAINF	_	5	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	453	453
+2	Dichter	Dichter	N	NN	_|_|_	0	root	453	453
+3	Warum	Warum	P	PWAV	_	0	root	_	_
+4	denn	denn	A	ADV	_	3	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	342	342
+4	Weil	weil	K	KOUS	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	0	root	487	487
+6	nur	nur	A	ADV	_	8	adv	_	_
+7	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	_	_
+8	Minuten	Minute	N	NN	Fem|_|Sg	0	root	_	_
+9	dableib	dableib	N	NN	Fem|_|Sg	8	app	_	_
+10	'	'	$	$(	_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	.Der	.Der	A	ADJA	_|_|_|_|_	2	attr	_	_
+2	Dichter	Dichter	N	NN	_|_|_	0	root	_	_
+3	Den	die	A	ART	Def|Masc|Acc|Sg	4	det	_	_
+4	Hut	Hut	N	NN	Masc|Acc|Sg	0	root	_	_
+5	leg	leg	N	NE	Masc|Acc|Sg	4	app	_	_
+6	ab	ab	P	PTKVZ	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	ja	ja	A	ADV	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	_	_
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	_	_
+4	Wegen	wegen	P	APPR	Gen	3	pp	_	_
+5	der	die	A	ART	Def|Fem|Gen|Pl	7	det	_	_
+6	einen	ein	A	ADJA	Pos|Fem|Gen|Pl|Wk|	7	attr	_	_
+7	Minuten	Minute	N	NN	Fem|Gen|Pl	4	pn	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	457	457
+2	Dichter	Dichter	N	NN	Masc|Nom|Sg	3	subj	457	457
+3	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	144	144
+5	Nadel	Nadel	N	NN	Fem|_|Sg	3	obja	144	144
+6	aus	aus	P	APPR	Dat	3	pp	_	_
+7	ihrem	ihre	A	PPOSAT	Masc|Dat|Sg	8	det	144	144
+8	Hut	Hut	N	NN	Masc|Dat|Sg	6	pn	_	_
+9	und	und	K	KON	_	3	kon	_	_
+10	legt	legen	V	VVFIN	_|_|Pres|Ind	9	cj	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	458	458
+12	Hut	Hut	N	NN	Masc|Acc|Sg	10	obja	458	458
+13	fort	fort	P	PTKVZ	_	10	avz	_	_
+14	Und	und	K	KON	_	0	root	_	_
+15	die	die	A	ART	Def|_|_|_	16	det	151	151
+16	Mantille	Mantille	N	NN	_|_|_	14	cj	151	151
+17	-	-	$	$(	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	_	_
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	_	_
+4	Was	was	P	PWS	Neut|_|Sg	5	obja	_	_
+5	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	3	objc	_	_
+6	denn	denn	A	ADV	_	5	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	487	487
+3	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ja	ja	A	ADV	_	7	adv	_	_
+5	gleich	gleich	A	ADJD	Pos|	7	adv	_	_
+6	wieder	wieder	A	ADV	_	7	adv	_	_
+7	fortgehen	fortgehen	V	VVINF	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	453	453
+2	Dichter	Dichter	N	NN	_|_|_	0	root	453	453
+3	Aber	aber	K	KON	_	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+5	mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	3	cj	_	_
+6	dich	du	P	PPER	2|Sg|_|Acc	8	obja	_	_
+7	doch	doch	A	ADV	_	8	adv	_	_
+8	ausruhn	ausruhn	V	VVINF	_	5	aux	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	459	459
+2	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	6	adv	_	_
+4	drei	drei	C	CARD	_	5	attr	_	_
+5	Stunden	Stunde	N	NN	Fem|_|Pl	6	zeit	_	_
+6	gegangen	gehen	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	342	342
+4	Wir	wir	P	PPER	1|Pl|_|Nom	5	subj	459	459
+5	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+6	gefahren	fahren	V	VVPP	_	5	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Fem|Gen|Pl	3	det	465	465
+2	Dichter	dicht	A	ADJA	Pos|Fem|Gen|Pl|St|	3	attr	465	465
+3	Ja	Ja	N	NN	Fem|Gen|Pl	0	root	465	465
+4	,	,	$	$,	_	0	root	_	_
+5	nach	nach	P	APPR	Dat	13	pp	_	_
+6	Haus	Haus	N	NN	Neut|Dat|Sg	5	pn	90	90
+7	-	-	$	$(	_	0	root	_	_
+8	aber	aber	K	KON	_	5	kon	_	_
+9	in	in	P	APPR	Dat	8	cj	_	_
+10	Weidling	Weidling	N	NE	_|Dat|_	9	pn	_	_
+11	am	an	P	APPRART	Dat	10	pp	_	_
+12	Bach	Bach	N	NN	Masc|Dat|Sg	11	pn	_	_
+13	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+14	wir	wir	P	PPER	1|Pl|_|Nom	13	subj	459	459
+15	doch	doch	A	ADV	_	19	adv	_	_
+16	drei	drei	C	CARD	_	18	attr	_	_
+17	volle	voll	A	ADJA	Pos|Fem|_|Pl|St|	18	attr	_	_
+18	Stunden	Stunde	N	NN	Fem|_|Pl	19	zeit	_	_
+19	herumgelaufen	herumlaufen	V	VVPP	_	13	aux	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	2	adv	_	_
+2	setz	setzen	V	VVIMP	Sg	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	2	obja	460	460
+4	nur	nur	A	ADV	_	5	adv	_	_
+5	schön	schön	A	ADJD	Pos|	2	adv	_	_
+6	nieder	nieder	P	PTKVZ	_	2	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	mein	meine	A	PPOSAT	Neut|_|Sg	9	det	462	462
+9	Kind	Kind	N	NN	Neut|_|Sg	0	root	462	462
+10	...	...	$	$.	_	0	root	_	_
+11	wohin	wohin	P	PWAV	_	13	pp	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	13	subj	460	460
+13	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+14	;	;	$	$.	_	0	root	_	_
+15	-	-	$	$(	_	0	root	_	_
+16	hier	hier	A	ADV	_	17	adv	_	_
+17	an	an	P	APPR	Acc	0	root	_	_
+18	den	die	A	ART	Def|Masc|Acc|Sg	19	det	461	461
+19	Schreibtisch	Schreibtisch	N	NN	Masc|Acc|Sg	17	pn	461	461
+20	;	;	$	$.	_	0	root	_	_
+21	-	-	$	$(	_	0	root	_	_
+22	aber	aber	K	KON	_	0	root	_	_
+23	nein	nein	P	PTKANT	_	0	root	_	_
+24	,	,	$	$,	_	0	root	_	_
+25	das	die	P	PDS	Neut|Nom|Sg	26	subj	_	_
+26	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+27	nicht	nicht	P	PTKNEG	_	26	adv	_	_
+28	bequem	bequem	A	ADJD	Pos|	26	pred	_	_
+29	.	.	$	$.	_	0	root	_	_
+
+1	Setz	setzen	V	VVIMP	Sg	0	root	_	_
+2	dich	du	P	PPER	2|Sg|_|Acc	1	obja	460	460
+3	auf	auf	P	APPR	Acc	1	objp	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	104	104
+5	Diwan	Diwan	N	NN	Masc|Acc|Sg	3	pn	104	104
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	104	104
+2	drückt	drücken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	462	462
+4	nieder	nieder	A	ADJD	Pos|	5	adv	_	_
+5	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	5	subj	460	460
+7	sehr	sehr	A	ADV	_	8	adv	_	_
+8	müd	müd	A	ADJD	_	5	pred	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	so	so	A	ADV	_	12	adv	_	_
+12	kannst	können	V	VMFIN	2|Sg|Pres|Ind	5	kon	_	_
+13	du	du	P	PPER	2|Sg|_|Nom	12	subj	460	460
+14	dich	du	P	PPER	2|Sg|_|Acc	16	obja	_	_
+15	auch	auch	A	ADV	_	16	adv	_	_
+16	hinlegen	hinlegen	V	VVINF	_	12	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	104	104
+2	legt	legen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	462	462
+4	auf	auf	P	APPR	Acc	2	objp	_	_
+5	den	die	A	ART	Def|Masc|Acc|Sg	6	det	104	104
+6	Diwan	Diwan	N	NN	Masc|Acc|Sg	4	pn	104	104
+7	Da	Da	K	KOUS	_	0	root	_	_
+8	das	die	A	ART	Def|Neut|_|Sg	9	det	_	_
+9	Kopferl	Kopferl	N	NN	Neut|_|Sg	0	root	_	_
+10	auf	auf	P	APPR	Acc	9	pp	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	_	_
+12	Polster	Polster	N	NN	Masc|Acc|Sg	10	pn	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	4	obja	342	342
+4	lachend	lachen	A	ADJD	_|<PPRES	0	root	_	_
+5	Aber	aber	K	KON	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	487	487
+7	bin	sein	V	VAFIN	1|Sg|Pres|Ind	5	cj	_	_
+8	ja	ja	A	ADV	_	7	adv	_	_
+9	gar	gar	A	ADV	_	10	adv	_	_
+10	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+11	müd	müd	A	ADJD	_	7	pred	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	453	453
+2	Dichter	Dichter	N	NN	_|_|_	0	root	453	453
+3	Das	die	P	PDS	Neut|_|Sg	0	root	_	_
+4	glaubst	glauben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	463	463
+6	nur	nur	A	ADV	_	4	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	und	und	K	KON	_	0	root	_	_
+4	wenn	wenn	K	KOUS	_	7	konj	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	7	subj	463	463
+6	schläfrig	schläfrig	A	ADJD	Pos|	7	pred	_	_
+7	bist	sein	V	VAFIN	2|Sg|Pres|Ind	9	neb	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	kannst	können	V	VMFIN	2|Sg|Pres|Ind	3	cj	_	_
+10	du	du	P	PPER	2|Sg|_|Nom	9	subj	463	463
+11	auch	auch	A	ADV	_	12	adv	_	_
+12	schlafen	schlafen	V	VVINF	_	9	aux	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	464	464
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	ganz	ganz	A	ADV	_	4	adv	_	_
+4	still	still	A	ADJD	Pos|	5	pred	_	_
+5	sein	sein	V	VAINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Übrigens	übrigens	A	ADV	_	2	adv	_	_
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	464	464
+4	dir	du	P	PPER	2|Sg|_|Dat	7	objd	463	463
+5	ein	eine	A	ART	Indef|Neut|_|Sg	6	det	_	_
+6	Schlummerlied	Schlummerlied	N	NN	Neut|_|Sg	7	obja	_	_
+7	vorspielen	vorspielen	V	VVINF	_	2	aux	_	_
+8	...	...	$	$.	_	0	root	_	_
+9	von	von	P	APPR	Dat	0	root	_	_
+10	mir	ich	P	PPER	1|Sg|_|Dat	9	pn	464	464
+11	...	...	$	$.	_	0	root	_	_
+12	Geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+13	zum	zu	P	APPRART	Dat	12	objp	_	_
+14	Pianino	Pianino	N	NN	_|Dat|_	13	pn	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	_	_
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	_	_
+4	Von	von	P	APPR	Dat	3	pp	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	4	pn	463	463
+6	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Fem|Gen|Pl	3	det	465	465
+2	Dichter	dicht	A	ADJA	Pos|Fem|Gen|Pl|St|	3	attr	465	465
+3	Ja	Ja	N	NN	Fem|Gen|Pl	0	root	465	465
+4	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	342	342
+4	Ich	ich	P	PPER	1|Sg|_|Nom	5	subj	466	466
+5	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	glaubt	glauben	V	VVFIN	_|_|Pres|Ind	5	s	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Robert	Robert	N	NE	_	0	root	510	510
+11	,	,	$	$,	_	0	root	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	13	subj	467	467
+13	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+14	ein	eine	A	ART	Indef|Masc|Nom|Sg	15	det	_	_
+15	Doktor	Doktor	N	NN	Masc|Nom|Sg	13	pred	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	220	220
+2	Dichter	Dichter	N	NN	_|_|_	0	root	220	220
+3	Wieso	Wieso	N	NE	_|_|_	2	app	220	220
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	466	466
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	6	objd	467	467
+5	doch	doch	A	ADV	_	6	adv	_	_
+6	gesagt	sagen	V	VVPP	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	11	konj	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	466	466
+10	Schriftsteller	Schriftsteller	N	NN	Masc|Nom|_	11	pred	507	507
+11	bin	sein	V	VAFIN	1|Sg|Pres|Ind	6	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	342	342
+4	Die	die	A	ART	Def|Masc|Nom|Pl	5	det	_	_
+5	Schriftsteller	Schriftsteller	N	NN	Masc|Nom|Pl	6	subj	_	_
+6	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+7	doch	doch	A	ADV	_	6	adv	_	_
+8	alle	alle	A	PIDAT	_|_|_	9	det	_	_
+9	Doktors	Doktor	N	NN	Masc|Gen|Sg	6	objg	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	3	det	493	493
+2	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	3	attr	493	493
+3	Nein	Nein	N	NN	_|_|_	0	root	493	493
+4	;	;	$	$.	_	0	root	_	_
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	alle	alle	P	PIS	_|_|_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	0	root	487	487
+2	z.	z.	P	APPRART	_	0	root	_	_
+
+1	B.	B.	N	NN	Masc|_|Sg	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	wie	wie	P	PWAV	_	3	adv	_	_
+3	kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	468	468
+5	jetzt	jetzt	A	ADV	_	3	adv	_	_
+6	darauf	darauf	P	PROAV	_	3	objp	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	29	29
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	29	29
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	29	29
+4	Na	Na	N	NE	Neut|_|Sg	3	app	29	29
+5	,	,	$	$,	_	0	root	_	_
+6	weil	weil	K	KOUS	_	8	konj	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	8	subj	468	468
+8	sagst	sagen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	das	die	A	ART	Def|Neut|_|Sg	11	det	469	469
+11	Stück	Stück	N	NN	Neut|_|Sg	0	root	469	469
+12	,	,	$	$,	_	0	root	_	_
+13	was	was	P	PRELS	Neut|_|Sg	0	root	469	469
+14	du	du	P	PPER	2|Sg|_|Nom	0	root	468	468
+15	da	da	A	ADV	_	16	adv	_	_
+16	spielen	spielen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+17	tust	tun	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+20	von	von	P	APPR	Dat	19	pp	_	_
+21	dir	du	P	PPER	2|Sg|_|Dat	20	pn	468	468
+22	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Fem|Gen|Pl	3	det	465	465
+2	Dichter	dicht	A	ADJA	Pos|Fem|Gen|Pl|St|	3	attr	465	465
+3	Ja	Ja	N	NN	Fem|Gen|Pl	0	root	465	465
+4	...	...	$	$.	_	0	root	_	_
+5	vielleicht	vielleicht	A	ADV	_	6	adv	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+8	auch	auch	A	ADV	_	6	adv	_	_
+9	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+10	von	von	P	APPR	Dat	6	pp	_	_
+11	mir	ich	P	PPER	1|Sg|_|Dat	10	pn	487	487
+12	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	egal	egal	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+

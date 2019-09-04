@@ -1,0 +1,154 @@
+1	Auch	auch	ADV	ADV	_	3	adv	_	(1
+2	dieses	diese	ART	PDAT	Neut|Nom|Sg	3	det	_	-
+3	Fest	Fest	N	NN	Neut|Nom|Sg	4	subj	_	1)
+4	beginnt	beginnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	erst	erst	ADV	ADV	_	4	adv	_	-
+6	am	an	PREP	APPRART	Dat	4	pp	_	-
+7	Abend	Abend	N	NN	Masc|Dat|Sg	6	pn	_	(2)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Pl	2	det	_	-
+2	Familien	Familie	N	NN	Fem|Nom|Pl	3	subj	_	-
+3	schmücken	schmücken	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	im	in	PREP	APPRART	Dat	3	pp	_	-
+5	Wohnzimmer	Wohnzimmer	N	NN	Neut|Dat|Sg	4	pn	_	-
+6	den	die	ART	ART	Def|Masc|Acc|Sg	7	det	_	-
+7	Tannenbaum	Tannenbaum	N	NN	Masc|Acc|Sg	3	obja	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Besonders	besonders	ADV	ADV	_	3	adv	_	(0
+2	die	die	ART	ART	Def|Neut|Nom|Pl	3	det	_	-
+3	Kinder	Kind	N	NN	Neut|Nom|Pl	4	subj	_	0)
+4	freuen	freuen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	sich	sie	PRO	PRF	3|_|_	4	obja	_	-
+6	auf	auf	PREP	APPR	Acc	4	pp	_	-
+7	den	die	ART	ART	Def|Masc|Acc|Sg	8	det	_	-
+8	Abend	Abend	N	NN	Masc|Acc|Sg	6	pn	_	-
+9	,	,	$,	$,	_	0	root	_	-
+10	denn	denn	KON	KON	_	4	kon	_	-
+11	dann	dann	ADV	ADV	_	12	adv	_	-
+12	bringt	bringen	V	VVFIN	_|_|Pres|Ind	10	cj	_	-
+13	das	die	ART	ART	Def|Neut|Nom|Sg	14	det	_	-
+14	Christkind	Christkind	N	NN	Neut|Nom|Sg	12	subj	_	-
+15	oder	oder	KON	KON	_	14	kon	_	-
+16	der	die	ART	ART	Def|Masc|Nom|Sg	17	det	_	-
+17	Weihnachtsmann	Weihnachtsmann	N	NN	Masc|Nom|Sg	15	cj	_	-
+18	ihnen	sie	PRO	PPER	3|Pl|_|Dat	12	objd	_	(0)
+19	Geschenke	Geschenk	N	NN	Neut|_|_	12	obja	_	-
+20	.	.	$.	$.	_	0	root	_	-
+
+1	Meistens	meistens	ADV	ADV	_	2	adv	_	-
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+4	auch	auch	ADV	ADV	_	2	adv	_	-
+5	ein	eine	ART	ART	Indef|Neut|_|Sg	7	det	_	-
+6	besonderes	besonderes	ADJA	ADJA	_|Neut|_|Sg|_	7	attr	_	-
+7	Essen	Esse	N	NN	Neut|_|Sg	2	obja	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	man	man	PRO	PIS	_|Nom|Sg	3	subj	_	-
+3	lädt	laden	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	-
+4	Freunde	Freund	N	NN	Masc|_|Pl	3	obja	_	-
+5	und	und	KON	KON	_	4	kon	_	-
+6	Verwandte	Verwandte	N	NN	_|_|_	5	cj	_	-
+7	nur	nur	ADV	ADV	_	3	adv	_	-
+8	selten	selten	ADV	ADJD	Pos|	3	adv	_	-
+9	ein	ein	PTKVZ	PTKVZ	_	3	avz	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|Neut|Nom|Sg	4	det	_	-
+4	Familienfest	Familienfest	N	NN	Neut|Nom|Sg	2	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Man	man	PRO	PIS	_|Nom|Sg	2	subj	_	-
+2	feiert	feiern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	zu	zu	PREP	APPR	Dat	2	pp	_	-
+4	Hause	Haus	N	NN	Neut|Dat|Sg	3	pn	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	_	3	pp	_	-
+2	Deutschland	Deutschland	N	NE	Neut|_|Sg	1	pn	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	das	die	ART	ART	Def|Neut|Nom|Sg	5	det	_	(1
+5	Fest	Fest	N	NN	Neut|Nom|Sg	3	subj	_	1)
+6	das	die	ART	ART	Def|Neut|_|Sg	7	det	_	-
+7	größte	groß	ADJA	ADJA	Neut|_|Sg	3	pred	_	-
+8	im	in	PREP	APPRART	Dat	3	pp	_	-
+9	Jahr	Jahr	N	NN	Neut|Dat|Sg	8	pn	_	-
+10	mit	mit	PREP	APPR	Dat	3	pp	_	-
+11	zwei	zwei	CARD	CARD	_	12	attr	_	-
+12	Feiertagen	Feiertag	N	NN	Masc|Dat|Pl	10	pn	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Eigentlich	eigentlich	ADV	ADV	_	2	adv	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	die	die	ART	ART	Def|Fem|Nom|Sg	4	det	_	-
+4	Religion	Religion	N	NN	Fem|Nom|Sg	2	subj	_	-
+5	sehr	sehr	ADV	ADV	_	6	adv	_	-
+6	wichtig	wichtig	ADV	ADJD	Pos|	2	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Fem|Nom|Pl	2	det	_	(3
+2	Familien	Familie	N	NN	Fem|Nom|Pl	3	subj	_	3)
+3	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	am	an	PREP	APPRART	Dat	3	pp	_	-
+5	Abend	Abend	N	NN	Masc|Dat|Sg	4	pn	_	(2)
+6	in	in	PREP	APPR	Acc	3	objp	_	-
+7	die	die	ART	ART	Def|Fem|Acc|Sg	8	det	_	-
+8	Kirche	Kirche	N	NN	Fem|Acc|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Denn	denn	KON	KON	_	0	root	_	-
+2	sie	sie	PRO	PPER	3|Pl|_|Nom	3	subj	_	(3)
+3	feiern	feiern	V	VVFIN	3|Pl|Pres|_	1	cj	_	-
+4	die	die	ART	ART	Def|Fem|_|Sg	5	det	_	-
+5	Geburt	Geburt	N	NN	Fem|_|Sg	3	obja	_	-
+6	von	von	PREP	APPR	_	5	pp	_	-
+7	Christus	Christus	N	NE	Masc|_|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Pl	2	det	_	-
+2	Städte	Stadt	N	NN	Fem|Nom|Pl	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	schon	schon	ADV	ADV	_	11	adv	_	-
+5	Wochen	Woche	N	NN	Fem|_|Pl	6	grad	_	-
+6	vor	vor	PREP	APPR	Dat	11	pp	_	-
+7	dem	die	ART	ART	Def|Neut|Dat|Sg	8	det	_	(1
+8	Fest	Fest	N	NN	Neut|Dat|Sg	6	pn	_	1)
+9	mit	mit	PREP	APPR	Dat	11	pp	_	-
+10	Lampen	Lampe	N	NN	Fem|Dat|Pl	9	pn	_	(4)
+11	geschmückt	schmücken	V	VVPP	_	3	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Menschen	Mensch	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	hängen	hängen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	auch	auch	ADV	ADV	_	3	adv	_	-
+5	Lampen	Lampe	N	NN	Fem|_|Pl	3	obja	_	(4)
+6	in	in	PREP	APPR	Acc	3	pp	_	-
+7	ihre	ihre	ART	PPOSAT	Neut|Acc|_	8	det	_	(4)
+8	Fenster	Fenster	N	NN	Neut|Acc|_	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Man	man	PRO	PIS	_|Nom|Sg	2	subj	_	-
+2	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	das	die	PRO	PDS	Neut|Nom|Sg	5	subj	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	s	_	-
+6	das	die	ART	ART	Def|Neut|Nom|Sg	7	det	_	-
+7	Fest	Fest	N	NN	Neut|Nom|Sg	5	pred	_	-
+8	der	die	ART	ART	Def|_|Gen|_	9	det	_	-
+9	Lichter	Licht	N	NN	_|Gen|_	7	gmod	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	das	die	PRO	PDS	Neut|Nom|Sg	12	subj	_	-
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	kon	_	-
+13	ein	eine	ART	ART	Indef|Neut|Nom|Sg	15	det	_	-
+14	anderes	anderes	ADJA	ADJA	_|Neut|Nom|Sg|_	15	attr	_	-
+15	Wort	Wort	N	NN	Neut|Nom|Sg	12	pred	_	-
+16	für	für	PREP	APPR	Acc	15	pp	_	-
+17	Lampen	Lampe	N	NN	Fem|Acc|Pl	16	pn	_	(4)
+18	.	.	$.	$.	_	0	root	_	-
+

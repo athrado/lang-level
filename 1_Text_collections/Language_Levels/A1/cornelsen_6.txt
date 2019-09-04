@@ -1,0 +1,112 @@
+1	In	in	PREP	APPR	_	3	pp	_	-
+2	Deutschland	Deutschland	N	NE	Neut|_|Sg	1	pn	_	(1)
+3	bezahlen	bezahlen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+4	ca.	ca.	ADV	ADV	_	3	adv	_	-
+
+1	51	51	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|Gen|Pl	5	gmod	_	-
+3	der	die	ART	ART	Def|Masc|Gen|Pl	4	det	_	(0
+4	Menschen	Mensch	N	NN	Masc|Gen|Pl	2	gmod	_	0)
+5	Miete	Miete	N	NN	Fem|_|Sg	0	root	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	41	41	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|Nom|Pl	7	subj	_	-
+3	der	die	ART	ART	Def|Masc|Gen|Pl	4	det	_	(0
+4	Menschen	Mensch	N	NN	Masc|Gen|Pl	2	gmod	_	0)
+5	in	in	PREP	APPR	_	7	pp	_	-
+6	Deutschland	Deutschland	N	NE	Neut|_|Sg	5	pn	_	(1)
+7	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+8	ein	eine	ART	ART	Indef|Neut|_|Sg	9	det	_	-
+9	Haus	Haus	N	NN	Neut|_|Sg	7	obja	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	6	6	CARD	CARD	_	12	attr	_	-
+12	%	%	N	NN	_|_|Pl	13	obja	_	-
+13	haben	haben	V	VAINF	_	0	root	_	-
+14	eine	eine	ART	ART	Indef|Fem|_|Sg	15	det	_	-
+15	Eigentumswohnung	Eigentumswohnung	N	NN	Fem|_|Sg	0	root	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	3	objp	_	-
+2	Durchschnitt	Durchschnitt	N	NN	Masc|Dat|Sg	1	pn	_	-
+3	wohnen	wohnen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	die	die	ART	ART	Def|_|Nom|Pl	5	det	_	-
+5	Deutschen	Deutsche	N	NN	_|Nom|Pl	3	subj	_	-
+6	auf	auf	PREP	APPR	_	5	pp	_	-
+7	96	96	CARD	CARD	_	8	attr	_	-
+8	Quadratmetern	Quadratmeter	N	NN	_|_|Pl	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	15	15	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|Nom|Pl	7	subj	_	-
+3	der	die	ART	ART	Def|Masc|Gen|Pl	4	det	_	-
+4	Menschen	Mensch	N	NN	Masc|Gen|Pl	2	gmod	_	-
+5	in	in	PREP	APPR	_	4	pp	_	-
+6	Deutschland	Deutschland	N	NE	Neut|_|Sg	5	pn	_	(1)
+7	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+8	in	in	PREP	APPR	Dat	7	pp	_	-
+9	einem	eine	ART	ART	Indef|Neut|Dat|Sg	10	det	_	-
+10	Haus	Haus	N	NN	Neut|Dat|Sg	8	pn	_	-
+11	mit	mit	PREP	APPR	Dat	7	pp	_	-
+12	drei	drei	CARD	CARD	_	15	attr	_	-
+13	bis	bis	PREP	APPR	Acc	12	pp	_	-
+14	vier	vier	CARD	CARD	_	13	pn	_	-
+15	Wohnungen	Wohnung	N	NN	Fem|Dat|Pl	11	pn	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	27	27	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|Nom|Pl	3	subj	_	-
+3	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	in	in	PREP	APPR	Dat	3	pp	_	-
+5	einem	eine	ART	ART	Indef|Neut|Dat|Sg	7	det	_	-
+6	großen	groß	ADJA	ADJA	Pos|Neut|Dat|Sg|Wk|	7	attr	_	-
+7	Haus	Haus	N	NN	Neut|Dat|Sg	4	pn	_	-
+8	mit	mit	PREP	APPR	Dat	3	pp	_	-
+9	fünf	fünf	CARD	CARD	_	12	attr	_	-
+10	bis	bis	PREP	APPR	Acc	9	pp	_	-
+11	acht	acht	CARD	CARD	_	10	pn	_	-
+12	Wohnungen	Wohnung	N	NN	Fem|Dat|Pl	8	pn	_	-
+13	,	,	$,	$,	_	0	root	_	-
+14	ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	20	20	CARD	CARD	_	2	attr	_	-
+2	%	%	N	NN	_|_|Pl	3	obja	_	-
+3	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	in	in	PREP	APPR	Dat	3	pp	_	-
+5	einem	eine	ART	ART	Indef|Neut|Dat|Sg	6	det	_	-
+6	Haus	Haus	N	NN	Neut|Dat|Sg	4	pn	_	-
+7	mit	mit	PREP	APPR	Dat	3	pp	_	-
+8	mehr	mehr	ADV	ADV	_	9	adv	_	-
+9	als	als	KOKOM	KOKOM	_	7	kom	_	-
+10	8	8	CARD	CARD	_	9	cj	_	-
+11	Wohnungen	Wohnung	N	NN	Fem|Nom|Pl	3	subj	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Nur	nur	ADV	ADV	_	3	adv	_	-
+2	2	2	CARD	CARD	_	3	attr	_	-
+3	%	%	N	NN	_|Nom|Pl	8	subj	_	-
+4	der	die	ART	ART	Def|Fem|Gen|Sg	5	det	_	-
+5	Bevölkerung	Bevölkerung	N	NN	Fem|Gen|Sg	3	gmod	_	-
+6	in	in	PREP	APPR	_	5	pp	_	-
+7	Deutschland	Deutschland	N	NE	Neut|_|Sg	6	pn	_	(1)
+8	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+9	in	in	PREP	APPR	Dat	8	pp	_	-
+10	einem	eine	ART	ART	Indef|Neut|Dat|Sg	11	det	_	-
+11	Hochhaus	Hochhaus	N	NN	Neut|Dat|Sg	9	pn	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Ein	ein	ART	ART	Indef|Neut|Nom|Sg	2	det	_	-
+2	Hochhaus	Hochhaus	N	NN	Neut|Nom|Sg	3	subj	_	-
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	9	9	CARD	CARD	_	3	obja	_	-
+5	oder	oder	KON	KON	_	0	root	_	-
+6	mehr	mehr	ART	PIAT	Neut|_|_	7	det	_	-
+7	Stockwerke	Stockwerk	N	NN	Neut|_|_	5	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

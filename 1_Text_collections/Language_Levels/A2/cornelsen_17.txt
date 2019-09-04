@@ -1,0 +1,108 @@
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	wohl	wohl	ADV	ADV	_	2	adv	_	-
+4	für	für	PREP	APPR	Acc	2	pp	_	-
+5	jeden	jede	PRO	PIS	Masc|Acc|Sg	4	pn	_	-
+6	etwas	etwas	ADV	ADV	_	2	adv	_	-
+7	anderes	andere	PRO	PIS	Neut|Nom|Sg	2	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Für	für	PREP	APPR	Acc	3	pp	_	-
+2	mich	ich	PRO	PPER	1|Sg|_|Acc	1	pn	_	(0)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	es	es	PRO	PPER	3|Sg|Neut|Nom	3	subj	_	-
+5	ganz	ganz	ADV	ADV	_	6	adv	_	-
+6	klar	klar	ADV	ADJD	Pos|	3	pred	_	-
+7	:	\:	$.	$.	_	0	root	_	-
+8	das	die	ART	ART	Def|Neut|Nom|Sg	9	det	_	(1
+9	Flugzeug	Flugzeug	N	NN	Neut|Nom|Sg	10	subj	_	1)
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+11	die	die	ART	ART	Def|Fem|Nom|Sg	13	det	_	-
+12	allerbeste	allergut	ADJA	ADJA	Sup|Fem|Nom|Sg|_|	13	attr	_	-
+13	Erfindung	Erfindung	N	NN	Fem|Nom|Sg	10	pred	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Dass	dass	KOUS	KOUS	_	5	konj	_	-
+2	wir	wir	PRO	PPER	1|Pl|_|Nom	5	subj	_	-
+3	Menschen	Mensch	N	NN	Masc|_|_	4	obja	_	-
+4	fliegen	fliegen	V	VVINF	_	5	aux	_	-
+5	können	können	V	VMFIN	1|Pl|Pres|_	7	objc	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+8	für	für	PREP	APPR	Acc	7	pp	_	-
+9	mich	ich	PRO	PPER	1|Sg|_|Acc	8	pn	_	(0)
+10	immer	immer	ADV	ADV	_	11	adv	_	-
+11	noch	noch	ADV	ADV	_	7	adv	_	-
+12	ein	eine	ART	ART	Indef|Neut|Nom|Sg	14	det	_	-
+13	großes	groß	ADJA	ADJA	Pos|Neut|Nom|Sg|St|	14	attr	_	-
+14	Wunder	Wunder	N	NN	Neut|Nom|Sg	7	subj	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Eine	eine	ART	ART	Indef|Fem|_|Sg	3	det	_	-
+2	kleine	klein	ADJA	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	-
+3	Revolution	Revolution	N	NN	Fem|_|Sg	0	root	_	-
+4	!	!	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	reise	reisen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	wahnsinnig	wahnsinnig	ADV	ADJD	Pos|	2	adv	_	-
+4	gern	gern	ADV	ADV	_	2	adv	_	-
+5	in	in	PREP	APPR	Acc	2	pp	_	-
+6	ferne	fern	ADJA	ADJA	Pos|_|Acc|Pl|St|	7	attr	_	-
+7	Länder	Land	N	NN	_|Acc|Pl	5	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Mit	mit	PREP	APPR	Dat	4	pp	_	-
+2	anderen	anderen	ADJA	ADJA	_|Neut|Dat|Pl|_	3	attr	_	-
+3	Verkehrsmitteln	Verkehrsmittel	N	NN	Neut|Dat|Pl	1	pn	_	-
+4	dauert	dauern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	alles	alle	PRO	PIS	Neut|Nom|Sg	4	subj	_	-
+6	viel	viel	ADV	ADV	_	8	adv	_	-
+7	zu	zu	PTKA	PTKA	_	8	adv	_	-
+8	lange	lange	ADV	ADJD	_	4	adv	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	(2
+2	Welt	Welt	N	NN	Fem|Nom|Sg	3	subj	_	2)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	mit	mit	PREP	APPR	Dat	3	pp	_	-
+5	dem	die	ART	ART	Def|Neut|Dat|Sg	6	det	_	(1
+6	Flugzeug	Flugzeug	N	NN	Neut|Dat|Sg	4	pn	_	1)
+7	ein	eine	ART	ART	Indef|_|_|Sg	0	root	_	-
+8	bisschen	bisschen	ADV	ADV	_	9	adv	_	-
+9	kleiner	klein	ADV	ADJD	Comp|	0	root	_	-
+10	geworden	werden	V	VAPP	_	0	root	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Heute	heute	ADV	ADV	_	2	adv	_	-
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	6	obja	_	-
+4	fast	fast	ADV	ADV	_	5	adv	_	-
+5	jeder	jede	PRO	PIS	Masc|Nom|Sg	2	subj	_	-
+6	leisten	leisten	V	VVINF	_	2	aux	_	-
+7	zu	zu	PTKZU	PTKZU	_	8	part	_	-
+8	fliegen	fliegen	V	VVINF	_	6	obji	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Menschen	Mensch	N	NN	Masc|Nom|Pl	5	subj	_	-
+2	aus	aus	PREP	APPR	Dat	1	pp	_	-
+3	allen	alle	ART	PIDAT	_|Dat|Pl	4	det	_	-
+4	Ländern	Land	N	NN	_|Dat|Pl	2	pn	_	-
+5	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+6	mobil	mobil	ADV	ADJD	Pos|	7	pred	_	-
+7	sein	sein	V	VAINF	_	5	aux	_	-
+8	und	und	KON	KON	_	5	kon	_	-
+9	lernen	lernen	V	VVFIN	_|Pl|Pres|_	8	cj	_	-
+10	die	die	ART	ART	Def|Fem|_|Sg	11	det	_	(2
+11	Welt	Welt	N	NN	Fem|_|Sg	9	obja	_	2)
+12	kennen	kennen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Also	also	ADV	ADV	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	-
+4	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+5	das	die	ART	ART	Def|Neut|_|Sg	0	root	_	-
+6	fantastisch	fantastisch	ADV	ADJD	Pos|	0	root	_	-
+7	!	!	$.	$.	_	0	root	_	-
+

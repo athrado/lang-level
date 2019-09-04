@@ -1,0 +1,345 @@
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	243	243
+2	war	sein	V	VAFIN	1|Sg|Past|Ind	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	244	244
+5	Stadt	Stadt	N	NN	Fem|Dat|Sg	3	pn	244	244
+6	,	,	$	$,	_	0	root	_	_
+7	hatte	haben	V	VAFIN	_|Sg|Past|Ind	2	kon	_	_
+8	Besorgungen	Besorgung	N	NN	Fem|_|Pl	10	obja	_	_
+9	zu	zu	P	PTKZU	_	10	part	_	_
+10	machen	machen	V	VVINF	_	7	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Übermorgen	übermorgen	A	ADV	_	2	adv	_	_
+2	fahre	fahren	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	243	243
+4	ab	ab	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	bald	bald	A	ADV	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	6	det	_	_
+5	kurze	kurz	A	ADJA	Pos|Fem|Nom|Sg|_|	6	attr	_	_
+6	Freude	Freude	N	NN	Fem|Nom|Sg	7	pred	_	_
+7	sein	sein	V	VAINF	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Bitte	Bitte	I	ITJ	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	nehmen	nehmen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	_	_
+6	doch	doch	A	ADV	_	4	adv	_	_
+7	Platz	Platz	N	NN	Masc|_|Sg	4	obja	588	588
+8	.	.	$	$.	_	0	root	_	_
+
+1	Sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	auf	auf	P	APPR	Acc	1	pp	_	_
+3	die	die	A	ART	Def|Fem|Acc|Sg	4	det	245	245
+4	Uhr	Uhr	N	NN	Fem|Acc|Sg	2	pn	245	245
+5	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	4	pp	_	_
+2	einer	eine	A	ART	Indef|Fem|Dat|Sg	3	det	_	_
+3	Stunde	Stunde	N	NN	Fem|Dat|Sg	1	pn	_	_
+4	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	Cäcilie	Cäcilie	N	NE	Fem|Nom|Sg	4	subj	78	78
+6	da	da	A	ADV	_	7	adv	_	_
+7	sein	sein	V	VAINF	_	4	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	78	78
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	7	adv	_	_
+4	wieder	wieder	A	ADV	_	5	adv	249	249
+5	kolossale	kolossal	A	ADJA	Pos|Masc|_|Pl|St|	6	attr	249	249
+6	Erfolge	Erfolg	N	NN	Masc|_|Pl	7	obja	249	249
+7	gehabt	haben	V	VAPP	_	2	aux	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	0	root	_	_
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	95	95
+4	glauben	glauben	V	VVINF	_	2	aux	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Sehen	sehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	das	die	A	ART	Def|Neut|Nom|Sg	5	det	_	_
+5	Telegramm	Telegramm	N	NN	Neut|Nom|Sg	6	subj	_	_
+6	kam	kommen	V	VVFIN	3|Sg|Past|Ind	1	kon	_	_
+7	heute	heute	A	ADV	_	6	adv	_	_
+8	früh	früh	A	ADJD	Pos|	6	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Reicht	reichen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	vom	von	P	APPRART	Dat	1	objp	_	_
+4	Schreibtisch	Schreibtisch	N	NN	Masc|Dat|Sg	3	pn	259	259
+5	.	.	$	$.	_	0	root	_	_
+
+1	Über	über	P	APPR	Acc	0	root	_	_
+2	die	die	A	ART	Def|Fem|Acc|Sg	4	det	_	_
+3	gestrige	gestrig	A	ADJA	Pos|Fem|Acc|Sg|_|	4	attr	_	_
+4	Abschiedsvorstellung	Abschiedsvorstellung	N	NN	Fem|Acc|Sg	1	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	0	root	120	120
+2	!	!	$	$.	_	0	root	_	_
+
+1	Einundsiebzig	einundsiebzig	C	CARD	_	2	attr	_	_
+2	Hervorrufe	Hervorrufe	N	NN	_|_|Pl	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Ah	Ah	N	NN	Fem|_|Sg	0	root	246	246
+2	nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	_	_
+5	Strich	Strich	N	NN	Masc|Nom|Sg	6	subj	_	_
+6	gehört	gehören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	zum	zu	P	APPRART	Dat	6	objp	_	_
+8	»	»	$	$(	_	0	root	_	_
+9	H	H	N	NN	Neut|Dat|_	7	pn	_	_
+10	«	«	$	$(	_	0	root	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Sieben	sieben	C	CARD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sonst	sonst	A	ADV	_	2	adv	_	_
+2	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	246	246
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	noch	noch	A	ADV	_	2	adv	_	_
+6	heute	heute	A	ADV	_	2	adv	_	_
+7	dort	dort	A	ADV	_	2	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_|Nom|Sg	2	subj	95	95
+2	liest	lesen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	weiter	weiter	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Erneuter	erneut	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	_
+3	Antrag	Antrag	N	NN	Masc|Nom|Sg	0	root	_	_
+4	unter	unter	P	APPR	_	3	pp	_	_
+5	glänzenden	glänzend	A	ADJA	Pos|Fem|_|Pl|_|_	6	attr	_	_
+6	Bedingungen	Bedingung	N	NN	Fem|_|Pl	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Unter	unter	P	APPR	_	0	root	_	_
+2	glänzenden	glänzend	A	ADJA	Pos|Fem|_|Pl|_|_	3	attr	_	_
+3	Bedingungen	Bedingung	N	NN	Fem|_|Pl	1	pn	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	6	6
+5	am	an	P	APPRART	Dat	9	pp	_	_
+6	Ende	Ende	N	NN	Neut|Dat|Sg	5	pn	232	232
+7	doch	doch	A	ADV	_	9	adv	_	_
+8	ernst	ernst	A	ADJD	Pos|	9	pred	_	_
+9	werden	werden	V	VAINF	_	2	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ernst	Ernst	N	NE	_|_|Sg	0	root	247	247
+2	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mit	mit	P	APPR	Dat	0	root	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	_	_
+5	Übersiedlung	Übersiedlung	N	NN	Fem|Dat|Sg	3	pn	_	_
+6	nach	nach	P	APPR	Dat	5	pp	_	_
+7	Berlin	Berlin	N	NE	_|Dat|Sg	6	pn	141	141
+8	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	sicher	sicher	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Antrag	Antrag	N	NN	Masc|Nom|Sg	4	subj	_	_
+3	«	«	$	$(	_	0	root	_	_
+4	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	da	da	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+8	»	»	$	$(	_	0	root	_	_
+9	Annahme	Annahme	N	NN	Fem|_|Sg	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Darüber	Darüber	P	PROAV	_	6	objp	_	_
+2	müssen	müssen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	uns	wir	P	PRF	1|Pl|_	6	obja	_	_
+5	noch	noch	A	ADV	_	6	adv	_	_
+6	beraten	beraten	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Selbstverständlich	selbstverständlich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	beraten	beraten	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	uns	wir	P	PRF	1|Pl|_	2	obja	_	_
+4	über	über	P	APPR	Acc	2	objp	_	_
+5	alles	alle	P	PIS	Neut|Acc|Sg	4	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	liebe	lieb	A	ADJA	Pos|_|Acc|_|_|	8	attr	_	_
+8	Marie	Marie	N	NN	_|Acc|_	5	app	_	_
+9	;	;	$	$.	_	0	root	_	_
+10	geradeso	geradeso	A	ADJD	_	0	root	_	_
+11	wie	wie	K	KOKOM	_	10	kom	_	_
+12	früher	früh	A	ADJD	_|	11	cj	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	mit	mit	P	APPR	Dat	1	cj	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	mehr	mehr	A	PIAT	_|Dat|_	5	det	_	_
+5	Objektivität	Objektivität	N	NN	_|Dat|_	2	pn	_	_
+6	vielleicht	vielleicht	A	ADV	_	5	adv	_	_
+7	als	als	K	KOKOM	_	5	kom	_	_
+8	früher	früh	A	ADJD	_|	7	cj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	was	was	P	PWS	Neut|Nom|Sg	4	subj	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	248	248
+4	anbelangt	anbelangen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	dürfte	dürfen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	248	248
+9	vom	von	P	APPRART	Dat	15	pp	_	_
+10	nächsten	nah	A	ADJA	_|Neut|Dat|Sg|Wk|	11	attr	_	_
+11	Jahr	Jahr	N	NN	Neut|Dat|Sg	9	pn	_	_
+12	an	an	P	APPR	_	15	pp	_	_
+13	ganz	ganz	A	ADV	_	14	adv	_	_
+14	frei	frei	A	ADJD	Pos|	12	pn	_	_
+15	sein	sein	V	VAINF	_	7	aux	_	_
+16	und	und	K	KON	_	7	kon	_	_
+17	ebensogut	ebensogut	N	NE	_|Nom|Pl	26	subj	_	_
+18	in	in	P	APPR	_	20	pp	_	_
+19	Wien	Wien	N	NE	_|_|Sg	18	pn	_	_
+20	als	als	K	KOKOM	_	17	kom	_	_
+21	in	in	P	APPR	_	20	cj	_	_
+22	Berlin	Berlin	N	NE	_|_|Sg	21	pn	141	141
+23	oder	oder	K	KON	_	22	kon	141	141
+24	Amerika	Amerika	N	NE	Neut|_|Sg	23	cj	141	141
+25	leben	leben	V	VVINF	_	26	aux	_	_
+26	können	können	V	VMFIN	_|Pl|Pres|_	16	cj	_	_
+27	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	für	für	P	APPR	Acc	4	pp	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	pn	248	248
+4	wäre	sein	V	VAFIN	_|Sg|Past|Subj	1	cj	_	_
+5	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+6	furchtbar	furchtbar	A	ADJD	Pos|	4	pred	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wenn	wenn	K	KOUS	_	10	konj	_	_
+9	Cäcilie	Cäcilie	N	NE	Fem|Nom|Sg	10	subj	78	78
+10	fortginge	fortgehen	V	VVFIN	3|Sg|Past|Subj	4	neb	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+5	ja	ja	A	ADV	_	4	adv	_	_
+6	möglich	möglich	A	ADJD	Pos|	4	pred	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	19	konj	_	_
+9	die	die	A	ART	Def|_|Nom|Pl	10	det	26	26
+10	Leute	Leute	N	NN	_|Nom|Pl	19	subj	26	26
+11	hier	hier	A	ADV	_	19	adv	_	_
+12	nach	nach	P	APPR	Dat	19	pp	_	_
+13	den	die	A	ART	Def|Masc|Dat|Pl	14	det	249	249
+14	Erfolgen	Erfolg	N	NN	Masc|Dat|Pl	12	pn	249	249
+15	draußen	draußen	A	ADV	_	12	adv	_	_
+16	endlich	endlich	A	ADJD	Pos|	19	adv	_	_
+17	auch	auch	A	ADV	_	19	adv	_	_
+18	drauf	drauf	P	PROAV	_	19	pp	_	_
+19	kämen	kommen	V	VVFIN	3|Pl|Past|Subj	4	objc	_	_
+20	,	,	$	$,	_	0	root	_	_
+21	was	was	P	PRELS	Neut|_|Sg	25	obja	_	_
+22	sie	sie	P	PPER	3|Pl|_|Nom	25	subj	26	26
+23	an	an	P	APPR	_	25	pp	_	_
+24	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	23	pn	78	78
+25	haben	haben	V	VAFIN	3|Pl|Pres|_	19	rel	_	_
+26	,	,	$	$,	_	0	root	_	_
+27	und	und	K	KON	_	25	kon	_	_
+28	sich	sie	P	PRF	3|_|_	30	obja	_	_
+29	dementsprechend	dementsprechend	A	ADJD	Pos|_	30	adv	_	_
+30	benähmen	benehmen	V	VVFIN	_|Pl|Past|Subj	27	cj	_	_
+31	.	.	$	$.	_	0	root	_	_
+

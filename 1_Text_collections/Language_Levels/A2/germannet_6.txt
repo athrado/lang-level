@@ -1,0 +1,156 @@
+1	Tina	Tina	N	NE	Fem|Nom|Sg	2	subj	_	(0)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	neu	neu	ADV	ADJD	Pos|	2	pred	_	-
+4	in	in	PREP	APPR	Dat	2	pp	_	-
+5	der	die	ART	ART	Def|Fem|Dat|Sg	6	det	_	-
+6	Stadt	Stadt	N	NN	Fem|Dat|Sg	4	pn	_	-
+7	und	und	KON	KON	_	2	kon	_	-
+8	kennt	kennen	V	VVFIN	_|_|Pres|Ind	7	cj	_	-
+9	sich	sie	PRO	PRF	3|_|_	8	obja	_	-
+10	noch	noch	ADV	ADV	_	11	adv	_	-
+11	nicht	nicht	PTKNEG	PTKNEG	_	8	adv	_	-
+12	aus	aus	PTKVZ	PTKVZ	_	8	avz	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(0)
+2	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	0	root	_	-
+3	gerne	gerne	ADV	ADV	_	2	adv	_	-
+4	etwas	etwas	PRO	PIS	_	6	obja	_	-
+5	zu	zu	PTKZU	PTKZU	_	6	part	_	-
+6	essen	essen	V	VVINF	_	2	obji	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	zu	zu	PTKZU	PTKZU	_	9	part	_	-
+9	trinken	trinken	V	VVINF	_	7	cj	_	-
+10	kaufen	kaufen	V	VVINF	_	0	root	_	-
+11	,	,	$,	$,	_	0	root	_	-
+12	weiß	wissen	V	VVFIN	_|Sg|Pres|Ind	0	root	_	-
+13	aber	aber	ADV	ADV	_	12	adv	_	-
+14	nicht	nicht	PTKNEG	PTKNEG	_	12	adv	_	-
+15	,	,	$,	$,	_	0	root	_	-
+16	wo	wo	PWAV	PWAV	_	18	adv	_	-
+17	sie	sie	PRO	PPER	3|Sg|Fem|Nom	19	subj	_	(0)
+18	einkaufen	einkaufen	V	VVINF	_	19	aux	_	-
+19	kann	können	V	VMFIN	3|Sg|Pres|Ind	12	objc	_	-
+20	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	3	pp	_	-
+2	Treppenhaus	Treppenhaus	N	NN	Neut|Dat|Sg	1	pn	_	-
+3	trifft	treffen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	sie	sie	PRO	PPER	3|Sg|Fem|Nom	3	subj	_	(0)
+5	ihren	ihre	ART	PPOSAT	Masc|_|_	7	det	_	(0)|(1
+6	neuen	neu	ADJA	ADJA	Pos|Masc|_|_|_|	7	attr	_	-
+7	Nachbarn	Nachbar	N	NN	Masc|_|_	3	obja	_	-
+8	Ben	Ben	N	NE	Masc|_|Sg	7	app	_	1)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Hallo	hallo	ITJ	ITJ	_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	5	subj	_	(2)
+5	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+6	Ben	Ben	N	NE	Masc|Nom|Sg	5	pred	_	(1)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	-
+2	du	du	PRO	PPER	2|Sg|_|Nom	1	subj	_	-
+3	neu	neu	ADV	ADJD	Pos|	1	adv	_	-
+4	hier	hier	ADV	ADV	_	1	adv	_	-
+5	?	?	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	fragt	fragen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Ben	Ben	N	NE	Masc|Nom|Sg	3	subj	_	(1)
+5	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Ja	ja	PTKANT	PTKANT	_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	5	subj	_	(2)
+5	wohne	wohnen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+6	erst	erst	ADV	ADV	_	5	adv	_	-
+7	seit	seit	PREP	APPR	Dat	5	pp	_	-
+8	gestern	gestern	ADV	ADV	_	7	adv	_	-
+9	hier	hier	ADV	ADV	_	7	adv	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(2)
+2	heiße	heißen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Tina	Tina	N	NE	Fem|Nom|Sg	2	pred	_	(0)
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	-
+2	du	du	PRO	PPER	2|Sg|_|Nom	1	subj	_	(3)
+3	mir	ich	PRO	PPER	1|Sg|_|Dat	4	objd	_	(2)
+4	sagen	sagen	V	VVINF	_	1	aux	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	wo	wo	PWAV	PWAV	_	10	adv	_	-
+7	der	die	ART	ART	Def|Masc|Nom|Sg	9	det	_	-
+8	nächste	nah	ADJA	ADJA	_|Masc|Nom|Sg|Wk|	9	attr	_	-
+9	Supermarkt	Supermarkt	N	NN	Masc|Nom|Sg	10	subj	_	-
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	objc	_	-
+11	?	?	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	0	root	_	-
+4	Tina	Tina	N	NE	Fem|Nom|Sg	3	subj	_	(0)
+5	wissen	wissen	V	VVINF	_	3	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Lass	lassen	V	VVIMP	Sg	0	root	_	-
+3	uns	wir	PRO	PPER	1|Pl|_|Dat	5	objd	_	-
+4	zusammen	zusammen	PTKVZ	PTKVZ	_	5	avz	_	-
+5	gehen	gehen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(2)
+8	wollte	wollen	V	VMFIN	1|Sg|Past|_	5	kon	_	-
+9	auch	auch	ADV	ADV	_	8	adv	_	-
+10	gerade	gerade	ADV	ADV	_	8	adv	_	-
+11	los	los	PTKVZ	PTKVZ	_	8	avz	_	-
+12	und	und	KON	KON	_	0	root	_	-
+13	ein	eine	ART	ART	Indef|_|_|Sg	15	det	_	(4
+14	paar	paar	ART	PIDAT	Fem|_|Pl	15	attr	_	-
+15	Kleinigkeiten	Kleinigkeit	N	NN	Fem|_|Pl	16	obja	_	4)
+16	besorgen	besorgen	V	VVINF	_	12	cj	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(2)
+4	dir	du	PRO	PPER	2|Sg|_|Dat	7	objd	_	(3)
+5	den	die	ART	ART	Def|Masc|Acc|Sg	6	det	_	-
+6	Weg	Weg	N	NN	Masc|Acc|Sg	7	obja	_	-
+7	zeigen	zeigen	V	VVINF	_	2	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	"	"	$(	$(	_	0	root	_	-
+3	Das	die	PRO	PDS	Neut|Nom|Sg	4	subj	_	-
+4	klingt	klingen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	gut	gut	ADV	ADJD	Pos|	4	pred	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	danke	danken	V	VVFIN	_|Sg|Pres|_	4	kon	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Also	also	ADV	ADV	_	3	adv	_	-
+3	machen	machen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+4	die	die	ART	ART	Def|_|_|_	0	root	_	-
+5	beiden	beide	ART	PIDAT	_|_|Pl	0	root	_	-
+6	sich	sie	PRO	PRF	3|_|_	0	root	_	-
+7	gemeinsam	gemeinsam	ADV	ADJD	Pos|	8	adv	_	-
+8	auf	auf	PREP	APPR	Acc	0	root	_	-
+9	den	die	ART	ART	Def|Masc|Acc|Sg	10	det	_	-
+10	Weg	Weg	N	NN	Masc|Acc|Sg	8	pn	_	-
+11	zum	zu	PREP	APPRART	Dat	10	pp	_	-
+12	Supermarkt	Supermarkt	N	NN	Masc|Dat|Sg	11	pn	_	-
+13	,	,	$,	$,	_	0	root	_	-
+14	um	um	KOUI	KOUI	_	18	konj	_	-
+15	ihre	ihre	ART	PPOSAT	Masc|_|Pl	16	det	_	(4)
+16	Einkäufe	Einkauf	N	NN	Masc|_|Pl	18	obja	_	-
+17	zu	zu	PTKZU	PTKZU	_	18	part	_	-
+18	erledigen	erledigen	V	VVINF	_	0	root	_	-
+19	.	.	$.	$.	_	0	root	_	-
+

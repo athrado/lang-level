@@ -1,0 +1,411 @@
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Mann	Mann	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	steigt	steigen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	über	über	P	APPR	Acc	3	pp	_	_
+5	die	die	A	ART	Def|Fem|Acc|Sg	6	det	1455	1455
+6	Treppe	Treppe	N	NN	Fem|Acc|Sg	4	pn	1455	1455
+7	.	.	$	$.	_	0	root	_	_
+
+1	Benzoni	Benzoni	N	NE	_	0	root	940	940
+2	!	!	$	$.	_	0	root	_	_
+
+1	Verwandlung	Verwandlung	N	NN	Fem|_|Sg	0	root	958	958
+2	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	5	objp	_	_
+2	einem	eine	A	ART	Indef|Neut|Dat|Sg	4	det	_	_
+3	üppigen	üppig	A	ADJA	Pos|Neut|Dat|Sg|Wk|	4	attr	_	_
+4	Boudoir	Boudoir	N	NN	Neut|Dat|Sg	1	pn	_	_
+5	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	auf	auf	P	APPR	Dat	5	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	_	_
+8	Chaiselongue	Chaiselongue	N	NN	Fem|Dat|Sg	6	pn	_	_
+9	ein	eine	A	ART	Indef|Neut|Nom|Sg	11	det	_	_
+10	üppiges	üppig	A	ADJA	Pos|Neut|Nom|Sg|St|	11	attr	_	_
+11	Weib	Weib	N	NN	Neut|Nom|Sg	5	subj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Graziella	Graziella	N	NE	_	0	root	959	959
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	959	959
+2	horcht	horchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ihre	ihre	A	PPOSAT	Neut|Nom|Pl	2	det	959	959
+2	Augen	Auge	N	NN	Neut|Nom|Pl	3	subj	_	_
+3	vergrößern	vergrößern	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Mann	Mann	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ein	ein	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Benzoni	Benzoni	N	NE	_	0	root	940	940
+2	!	!	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	küßt	küßt	V	VVFIN	_|Sg|_|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Verwandlung	Verwandlung	N	NN	Fem|_|Sg	0	root	958	958
+2	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	2	det	_	_
+2	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	wankt	wanken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	am	an	P	APPRART	Dat	3	pp	_	_
+5	Gitter	Gitter	N	NN	Neut|Dat|Sg	4	pn	_	_
+6	entlang	entlang	P	PTKVZ	_	3	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Theresita	Theresita	N	NE	_	0	root	957	957
+2	!	!	$	$.	_	0	root	_	_
+
+1	Wankt	wanken	V	VVFIN	_|_|Pres|Ind	6	neb	_	_
+2	durch	durch	P	APPR	Acc	1	pp	_	_
+3	eine	eine	A	ART	Indef|Fem|Acc|Sg	4	det	_	_
+4	Straße	Straß	N	NN	Fem|Acc|Sg	2	pn	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wankt	wanken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	durch	durch	P	APPR	Acc	6	pp	_	_
+8	noch	noch	A	ADV	_	7	adv	_	_
+9	eine	eine	A	ART	Indef|Fem|Nom|Sg	10	det	_	_
+10	Straße	Straß	N	NN	Fem|Nom|Sg	6	subj	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	wankt	wanken	V	VVFIN	_|_|Pres|Ind	6	kon	_	_
+13	über	über	P	APPR	Acc	12	pp	_	_
+14	eine	eine	A	ART	Indef|Fem|Acc|Sg	15	det	_	_
+15	Brücke	Brücke	N	NN	Fem|Acc|Sg	13	pn	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	wankt	wanken	V	VVFIN	_|_|Pres|Ind	12	kon	_	_
+18	in	in	P	APPR	Acc	17	pp	_	_
+19	eine	eine	A	ART	Indef|Fem|Acc|Sg	20	det	_	_
+20	Gartenanlage	Gartenanlage	N	NN	Fem|Acc|Sg	18	pn	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	fällt	fallen	V	VVFIN	_|_|Pres|Ind	17	kon	_	_
+23	um	um	P	PTKVZ	_	22	avz	_	_
+24	,	,	$	$,	_	0	root	_	_
+25	fällt	fallen	V	VVFIN	_|_|Pres|Ind	22	kon	_	_
+26	gegen	gegen	P	APPR	Acc	25	pp	_	_
+27	einen	eine	A	ART	Indef|Masc|Acc|Sg	29	det	_	_
+28	eisernen	eisern	A	ADJA	Pos|Masc|Acc|Sg|_|	29	attr	_	_
+29	Pfahl	Pfahl	N	NN	Masc|Acc|Sg	26	pn	_	_
+30	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	ohnmächtig	ohnmächtig	A	ADJD	Pos|	1	pred	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Verwandlung	Verwandlung	N	NN	Fem|_|Sg	0	root	958	958
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|_|Sg	3	det	_	_
+2	schneeweißes	schneeweiß	A	ADJA	Pos|Neut|_|Sg|St|	3	attr	_	_
+3	Bett	Bett	N	NN	Neut|_|Sg	0	root	_	_
+4	in	in	P	APPR	Dat	3	pp	_	_
+5	einem	eine	A	ART	Indef|Neut|Dat|Sg	6	det	_	_
+6	Spital	Spital	N	NN	Neut|Dat|Sg	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	2	det	962	962
+2	Rote-Kreuz-Schwester	Rote-Kreuz-Schwester	N	NN	Fem|Nom|Sg	3	subj	962	962
+3	nickt	nicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	tieftraurig	tieftraurig	A	ADJD	Pos|	3	adv	_	_
+5	mit	mit	P	APPR	Dat	3	pp	_	_
+6	dem	die	A	ART	Def|Masc|Dat|Sg	7	det	145	145
+7	Kopf	Kopf	N	NN	Masc|Dat|Sg	5	pn	145	145
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	7	subj	_	_
+3	mit	mit	P	APPR	Dat	2	pp	_	_
+4	einem	eine	A	ART	Indef|Masc|Dat|Sg	6	det	_	_
+5	schwarzen	schwarz	A	ADJA	Pos|Masc|Dat|Sg|Wk|	6	attr	_	_
+6	Bart	Bart	N	NN	Masc|Dat|Sg	3	pn	_	_
+7	nickt	nicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	tieftraurig	tieftraurig	A	ADJD	Pos|	7	adv	_	_
+9	mit	mit	P	APPR	Dat	7	pp	_	_
+10	dem	die	A	ART	Def|Masc|Dat|Sg	11	det	145	145
+11	Kopf	Kopf	N	NN	Masc|Dat|Sg	9	pn	145	145
+12	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	2	det	_	_
+2	Patientin	Patientin	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	da	da	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Dat	5	pp	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	4	det	_	_
+3	weißen	weiß	A	ADJA	Pos|Neut|Dat|Sg|Wk|	4	attr	_	_
+4	Bette	Bett	N	NN	Neut|Dat|Sg	1	pn	_	_
+5	erscheint	erscheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	_	_
+7	Schatten	Schatten	N	NN	Masc|Nom|Sg	5	subj	_	_
+8	einer	eine	A	ART	Indef|Fem|Gen|Sg	10	det	963	963
+9	riesigen	riesig	A	ADJA	Pos|Fem|Gen|Sg|Wk|	10	attr	963	963
+10	Hutschleife	Hutschleife	N	NN	Fem|Gen|Sg	7	gmod	963	963
+11	und	und	K	KON	_	5	kon	_	_
+12	stört	stören	V	VVFIN	_|_|Pres|Ind	11	cj	_	_
+13	die	die	A	ART	Def|Fem|_|Sg	15	det	_	_
+14	tiefe	tief	A	ADJA	Pos|Fem|_|Sg|_|	15	attr	_	_
+15	Traurigkeit	Traurigkeit	N	NN	Fem|_|Sg	12	obja	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Sie	sie	P	PPER	3|_|_|_	0	root	921	921
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|_|_|_	0	root	921	921
+2	!	!	$	$.	_	0	root	_	_
+
+1	Tean	Tean	N	NE	Neut|_|_	0	root	_	_
+2	S	S	N	NN	Neut|_|_	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	Eahnern	Eahnern	F	FM	Neut|_|_	2	app	_	_
+5	Huat	Huat	F	FM	Neut|_|_	4	app	_	_
+6	owa	owa	F	FM	Neut|_|_	5	app	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	...	...	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	_	0	root	_	_
+2	Huat	Huat	N	NE	_|_|_	1	pn	977	977
+3	owa	owa	A	ADV	_	2	adv	977	977
+4	...	...	$	$.	_	0	root	_	_
+5	sag	sag	F	FM	_	0	root	_	_
+6	i	i	F	FM	_	5	app	_	_
+7	...	...	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	ihre	ihre	A	PPOSAT	Fem|_|Pl	4	det	921	921
+4	Tränen	Träne	N	NN	Fem|_|Pl	5	obja	_	_
+5	trocknend	trocknen	A	ADJD	_|<PPRES	0	root	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	Eine	eine	A	ART	Indef|Fem|_|Sg	9	det	_	_
+8	solchane	solchane	A	ADJA	_	9	attr	_	_
+9	Unvaschämtheit	Unvaschämtheit	N	NN	Fem|_|Sg	0	root	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	0	root	_	_
+2	an	an	P	APPR	_	1	pp	_	_
+3	solchan	solchan	A	ADJA	_|_|_|Sg|_	4	attr	_	_
+4	Trumm	Trumm	N	NN	_|_|Sg	2	pn	_	_
+5	Schloafa	Schloafa	N	NE	_|_|Sg	4	app	_	_
+6	...	...	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Owa	Owa	N	NE	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	sag	sag	F	FM	_	0	root	_	_
+6	i	i	F	FM	_	5	app	_	_
+7	...	...	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	:	\:	$	$.	_	0	root	_	_
+4	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+5	de	de	N	NE	_	0	root	965	965
+6	Deanstbot	Deanstbot	N	NE	_	5	app	965	965
+7	'	'	$	$(	_	0	root	_	_
+8	n	n	N	NN	_	6	app	_	_
+9	für	für	P	APPR	Acc	8	pp	_	_
+10	Hüat	Hüat	N	NN	_|Acc|_	9	pn	_	_
+11	auf	auf	P	APPR	_	10	pp	_	_
+12	hamm	hamm	F	FM	_|_|_	11	pn	_	_
+13	...	...	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Sie	sie	P	PPER	3|_|_|_	0	root	921	921
+4	da	da	A	ADV	_	3	adv	_	_
+5	vorn	vorn	A	ADV	_	3	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Tean	Tean	N	NE	Neut|_|_	0	root	_	_
+2	S	S	N	NN	Neut|_|_	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	Eahnern	Eahnern	F	FM	Neut|_|_	2	app	_	_
+5	Huat	Huat	F	FM	Neut|_|_	4	app	_	_
+6	owa	owa	F	FM	Neut|_|_	5	app	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	STIMMEN	STIMMEN	N	NE	_	0	root	929	929
+2	:	\:	$	$.	_	0	root	_	_
+3	Ssssst	Ssssst	N	NE	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Ruhä	Ruhä	N	NE	_	0	root	931	931
+2	!	!	$	$.	_	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+
+1	Sssst	Sssst	N	NE	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	960	960
+2	Film	Film	N	NN	Masc|Nom|Sg	3	subj	960	960
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	weiter	weiter	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	970	970
+2	Kranke	Kranke	N	NN	Fem|Nom|Sg	3	subj	970	970
+3	schlägt	schlagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	die	die	A	ART	Def|Neut|_|Pl	5	det	253	253
+5	Augen	Auge	N	NN	Neut|_|Pl	3	obja	253	253
+6	auf	auf	P	PTKVZ	_	3	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	3	adv	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	1788	1788
+6	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	961	961
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	3	subj	961	961
+3	lächelt	lächeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	human	human	A	ADJD	Pos|	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	962	962
+2	Rote-Kreuz-Schwester	Rote-Kreuz-Schwester	N	NN	Fem|Nom|Sg	3	subj	962	962
+3	lächelt	lächeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	human	human	A	ADJD	Pos|	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Schatten	Schatten	N	NN	Masc|Nom|Sg	6	subj	_	_
+3	der	die	A	ART	Def|Fem|Gen|Sg	5	det	963	963
+4	riesigen	riesig	A	ADJA	Pos|Fem|Gen|Sg|Wk|	5	attr	963	963
+5	Hutschleife	Hutschleife	N	NN	Fem|Gen|Sg	2	gmod	963	963
+6	zittert	zittern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	in	in	P	APPR	Dat	6	pp	_	_
+8	heftiger	heftig	A	ADJA	Pos|Fem|Dat|Sg|St|	9	attr	_	_
+9	Bewegung	Bewegung	N	NN	Fem|Dat|Sg	7	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Schatten	Schatten	N	NN	Masc|Nom|Sg	8	subj	_	_
+3	eines	eine	A	ART	Indef|Masc|Gen|Sg	5	det	_	_
+4	gebogenen	gebogen	A	ADJA	Pos|Masc|Gen|Sg|_|	5	attr	_	_
+5	Handgriffes	Handgriff	N	NN	Masc|Gen|Sg	2	gmod	_	_
+6	eines	eine	A	ART	Indef|Masc|Gen|Sg	7	det	_	_
+7	Spazierstockes	Spazierstock	N	NN	Masc|Gen|Sg	5	gmod	_	_
+8	angelt	angeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	nach	nach	P	APPR	Dat	8	pp	_	_
+10	dem	die	A	ART	Def|Masc|Dat|Sg	11	det	_	_
+11	Schatten	Schatten	N	NN	Masc|Dat|Sg	9	pn	_	_
+12	der	die	A	ART	Def|Fem|Gen|Sg	13	det	963	963
+13	Hutschleife	Hutschleife	N	NN	Fem|Gen|Sg	11	gmod	963	963
+14	.	.	$	$.	_	0	root	_	_
+
+1	DIE	DIE	N	NN	_|Nom|Sg	3	subj	964	964
+2	HUTBESITZERIN	HUTBESITZERIN	N	NE	_|Nom|Sg	1	app	964	964
+3	greift	greifen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	nach	nach	P	APPR	Dat	3	pp	_	_
+5	ihrer	ihre	A	PPOSAT	Fem|Dat|Sg	7	det	964	964
+6	bedrohten	bedroht	A	ADJA	Pos|Fem|Dat|Sg|Wk|	7	attr	_	_
+7	Kopfbedeckung	Kopfbedeckung	N	NN	Fem|Dat|Sg	4	pn	_	_
+8	:	\:	$	$.	_	0	root	_	_
+9	Hören	Hören	N	NN	Neut|_|_	0	root	_	_
+10	S	S	N	NN	Neut|_|_	9	app	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	auf	auf	P	PTKVZ	_	0	root	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Führen	Führen	N	NN	Neut|_|_	0	root	_	_
+2	S	S	N	NN	Neut|_|_	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	Ihnen	sie	P	PPER	3|Pl|_|Dat	0	root	_	_
+5	net	net	A	ADV	_	6	adv	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	ungebüldet	ungebüldet	A	ADJD	_	0	root	_	_
+8	auf	auf	P	PTKVZ	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_|Nom|Sg	2	subj	921	921
+2	angelt	angeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	weiter	weiter	A	ADV	_	2	adv	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Je	Je	F	FM	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	De	De	F	FM	_	0	root	_	_
+2	ander	ander	F	FM	_	1	app	_	_
+3	mit	mit	P	APPR	Dat	0	root	_	_
+4	da	da	K	KOUS	_	0	root	_	_
+5	Buidung	Buidung	N	NE	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Setz	Setz	N	NE	Neut|_|_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	n	n	N	NN	Neut|_|_	1	app	_	_
+4	S	S	N	NN	Neut|_|_	3	app	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	koan	koan	F	FM	Neut|_|_	4	app	_	_
+7	solchan	solchan	F	FM	Neut|_|_	6	app	_	_
+8	Datschi	Datschi	F	FM	Neut|_|_	7	app	_	_
+9	auf	auf	P	PTKVZ	_	0	root	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	:	\:	$	$.	_	0	root	_	_
+4	Dös	Dös	F	FM	_|Nom|Sg	7	subj	_	_
+5	g	g	F	FM	_|Nom|Sg	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	hört	hören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	si	si	N	NE	_	7	obja	789	789
+9	net	net	A	ADV	_	7	adv	_	_
+10	für	für	P	APPR	Acc	7	pp	_	_
+11	Deanstbot	Deanstbot	N	NE	_|Acc|_	10	pn	965	965
+12	'	'	$	$(	_	0	root	965	965
+13	n	n	N	NN	_|Acc|_	11	app	965	965
+14	!	!	$	$.	_	0	root	_	_
+
+1	DIE	DIE	N	NN	_	0	root	964	964
+2	HUTBESITZERIN	HUTBESITZERIN	N	NE	_	1	app	964	964
+3	:	\:	$	$.	_	0	root	_	_
+4	Hören	Hören	N	NN	Neut|_|_	0	root	_	_
+5	S	S	N	NN	Neut|_|_	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	auf	auf	P	PTKVZ	_	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Hören	Hören	N	NN	Neut|_|_	0	root	_	_
+2	S	S	N	NN	Neut|_|_	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	auf	auf	P	PTKVZ	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Sie	sie	P	PPER	Masc|_|_	0	root	_	_
+7	Lümmel	Lümmel	N	NN	Masc|_|_	6	app	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Sie	sie	P	PPER	3|_|_|_	0	root	789	789
+10	roher	roh	A	ADJD	Comp|	0	root	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Eahna	Eahna	F	FM	_	0	root	_	_
+4	Kindabadwanna	Kindabadwanna	F	FM	_	3	app	_	_
+5	tean	tean	F	FM	_	4	app	_	_
+6	S	S	F	FM	_	5	app	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	oba	oba	A	ADV	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Sie	sie	P	PPER	3|_|_|_	0	root	966	966
+11	Bauernsocka	Bauernsocka	N	NE	_|_|_	10	app	966	966
+12	,	,	$	$,	_	0	root	_	_
+13	Sie	sie	P	PPER	3|_|_|_	0	root	966	966
+14	gräuslicha	gräuslicha	A	ADJD	_	0	root	_	_
+15	!	!	$	$.	_	0	root	_	_
+

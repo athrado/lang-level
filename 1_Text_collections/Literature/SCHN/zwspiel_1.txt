@@ -1,0 +1,505 @@
+1	Studiersalon	Studiersalon	N	NN	Masc|_|Sg	0	root	_	_
+2	bei	bei	P	APPR	Dat	1	pp	_	_
+3	Adams	Adam	N	NE	Masc|Gen|Sg	2	pn	668	668
+4	.	.	$	$.	_	0	root	_	_
+
+1	Dunkelgrau	dunkelgrau	A	ADJD	Pos|	2	adv	_	_
+2	gemalt	gemalt	A	ADJD	Pos|	0	root	_	_
+3	mit	mit	P	APPR	Dat	2	pp	_	_
+4	einfachem	einfach	A	ADJA	Pos|Masc|Dat|Sg|St|	5	attr	_	_
+5	Fries	Fries	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	3	pp	0	0
+2	Hintergrund	Hintergrund	N	NN	Masc|Dat|Sg	1	pn	296	296
+3	Tür	Tür	N	NN	Fem|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	die	die	P	PRELS	Fem|Nom|Sg	10	subj	0	0
+6	auf	auf	P	APPR	Acc	10	objp	_	_
+7	eine	eine	A	ART	Indef|Fem|Acc|Sg	9	det	_	_
+8	kleine	klein	A	ADJA	Pos|Fem|Acc|Sg|_|	9	attr	_	_
+9	Gartenveranda	Gartenveranda	N	NN	Fem|Acc|Sg	6	pn	_	_
+10	führt	führen	V	VVFIN	3|Sg|Pres|Ind	3	rel	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	rechts	rechts	A	ADV	_	18	adv	_	_
+13	und	und	K	KON	_	12	kon	_	_
+14	links	links	A	ADV	_	15	adv	_	_
+15	von	von	P	APPR	_	13	cj	_	_
+16	der	die	A	ART	Def|Fem|_|Sg	17	det	2	2
+17	Türe	Türe	N	NN	Fem|_|Sg	15	pn	2	2
+18	je	je	A	ADV	_	20	adv	_	_
+19	ein	eine	A	ART	Indef|Neut|_|Sg	20	det	_	_
+20	Fenster	Fenster	N	NN	Neut|_|Sg	3	app	_	_
+21	;	;	$	$.	_	0	root	_	_
+22	Blick	Blick	N	NN	Masc|_|Sg	0	root	_	_
+23	auf	auf	P	APPR	Acc	22	pp	_	_
+24	den	die	A	ART	Def|Masc|Acc|Sg	25	det	1	1
+25	Garten	Garten	N	NN	Masc|Acc|Sg	23	pn	1	1
+26	,	,	$	$,	_	0	root	1	1
+27	der	die	P	PRELS	Masc|Nom|Sg	31	subj	1	1
+28	drei	drei	C	CARD	_	29	attr	_	_
+29	Stufen	Stufe	N	NN	Fem|_|Pl	30	grad	_	_
+30	tiefer	tief	A	ADJD	Comp|	31	adv	_	_
+31	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	25	rel	_	_
+32	.	.	$	$.	_	0	root	_	_
+
+1	Zwischen	zwischen	P	APPR	Dat	9	pp	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	4	det	507	507
+3	rechten	recht	A	ADJA	Pos|Neut|Dat|Sg|Wk|	4	attr	507	507
+4	Fenster	Fenster	N	NN	Neut|Dat|Sg	1	pn	507	507
+5	und	und	K	KON	_	4	kon	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	0	0
+7	Tür	Tür	N	NN	Fem|Dat|Sg	5	cj	0	0
+8	eine	eine	A	ART	Indef|Fem|_|Sg	9	det	_	_
+9	Etagere	Etagere	N	NN	Fem|_|Sg	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	zwischen	zwischen	P	APPR	Dat	19	pp	_	_
+12	dem	die	A	ART	Def|Neut|Dat|Sg	14	det	_	_
+13	linken	link	A	ADJA	Pos|Neut|Dat|Sg|Wk|	14	attr	_	_
+14	Fenster	Fenster	N	NN	Neut|Dat|Sg	11	pn	_	_
+15	und	und	K	KON	_	14	kon	_	_
+16	der	die	A	ART	Def|Fem|Dat|Sg	17	det	2	2
+17	Türe	Türe	N	NN	Fem|Dat|Sg	15	cj	2	2
+18	ein	eine	A	ART	Indef|Neut|_|Sg	19	det	_	_
+19	Notenpult	Notenpult	N	NN	Neut|_|Sg	9	app	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Sowohl	sowohl	K	KON	_	2	kon	_	_
+2	über	über	P	APPR	Dat	0	root	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	_	_
+4	Etagere	Etagere	N	NN	Fem|Dat|Sg	2	pn	_	_
+5	als	als	K	KOKOM	_	4	kom	_	_
+6	über	über	P	APPR	Dat	5	cj	_	_
+7	dem	die	A	ART	Def|_|Dat|Sg	8	det	_	_
+8	Pult	Pult	N	NN	Neut|Dat|Pl	6	pn	_	_
+9	Reliefs	Relief	N	NN	Neut|Dat|Pl	8	app	_	_
+10	nach	nach	P	APPR	Dat	2	kon	_	_
+11	Antiken	Antike	N	NN	_|Dat|_	10	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Rechts	Recht	N	NN	Neut|Gen|Sg	4	gmod	92	92
+3	vorn	vorn	A	ADV	_	2	adv	92	92
+4	Haupteingang	Haupteingang	N	NN	_|_|Sg	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	rechts	rechts	A	ADV	_	7	adv	_	_
+7	hinten	hinten	A	ADV	_	8	adv	_	_
+8	Türe	Türe	N	NN	Fem|_|Sg	4	app	_	_
+9	in	in	P	APPR	Acc	8	pp	_	_
+10	die	die	A	ART	Def|Neut|Acc|Pl	11	det	280	280
+11	Zimmer	Zimmer	N	NN	Neut|Acc|Pl	9	pn	280	280
+12	Cäciliens	Cäciliens	N	NE	Neut|Acc|Pl	11	app	280	280
+13	.	.	$	$.	_	0	root	_	_
+
+1	Links	Link	N	NN	Fem|_|Sg	0	root	_	_
+2	hinten	hinten	A	ADV	_	1	adv	_	_
+3	Tapetentür	Tapetentür	N	NN	Fem|_|Sg	1	app	_	_
+4	zu	zu	P	APPR	Dat	3	pp	_	_
+5	Amadeus	Amadeus	N	NE	Masc|Dat|Sg	4	pn	5	5
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Rechte	recht	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Seite	Seite	N	NN	Fem|_|Sg	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	hoher	hoch	A	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	_	_
+6	Bücherschrank	Bücherschrank	N	NN	Masc|Nom|Sg	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	oben	oben	A	ADV	_	9	adv	_	_
+9	Büste	Büste	N	NN	Fem|Nom|Sg	6	app	_	_
+10	von	von	P	APPR	_	9	pp	_	_
+11	Verrocchio	Verrocchio	N	NE	_|_|_	10	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	6	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	4	4
+3	Ecke	Eck	N	NN	Fem|Dat|Sg	1	pn	4	4
+4	rechts	rechts	A	ADV	_	1	adv	_	_
+5	hinten	hinten	A	ADV	_	1	adv	_	_
+6	hohe	hoch	A	ADJA	Pos|Fem|_|Sg|_|	7	attr	_	_
+7	Vase	Vase	N	NN	Fem|_|Sg	0	root	_	_
+8	auf	auf	P	APPR	_	7	pp	_	_
+9	Ständer	Ständer	N	NN	Masc|_|_	8	pn	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	mit	mit	P	APPR	Dat	9	pp	_	_
+12	Blumen	Blume	N	NN	Fem|Dat|Pl	11	pn	355	355
+13	.	.	$	$.	_	0	root	_	_
+
+1	Links	Link	N	NN	Masc|_|Sg	0	root	_	_
+2	vorn	vorn	A	ADV	_	1	adv	_	_
+3	Kamin	Kamin	N	NN	Masc|_|Sg	1	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	darüber	darüber	P	PROAV	_	6	pp	_	_
+6	Spiegel	Spiegel	N	NN	Masc|_|_	3	app	_	_
+7	;	;	$	$.	_	0	root	_	_
+8	auf	auf	P	APPR	Dat	14	pp	245	245
+9	dem	die	A	ART	Def|Masc|Dat|Sg	10	det	696	696
+10	Kamin	Kamin	N	NN	Masc|Dat|Sg	8	pn	696	696
+11	eine	eine	A	ART	Indef|Fem|_|Sg	14	det	_	_
+12	einfache	einfach	A	ADJA	Pos|Fem|_|Sg|_|	14	attr	_	_
+13	französische	französisch	A	ADJA	Pos|Fem|_|Sg|_|	14	attr	_	_
+14	Uhr	Uhr	N	NN	Fem|_|Sg	0	root	_	_
+15	;	;	$	$.	_	0	root	_	_
+16	vor	vor	P	APPR	Dat	20	pp	401	401
+17	dem	die	A	ART	Def|Masc|Dat|Sg	18	det	401	401
+18	Kamin	Kamin	N	NN	Masc|Dat|Sg	16	pn	401	401
+19	ein	eine	A	ART	Indef|Neut|_|Sg	20	det	401	401
+20	Tischchen	Tischchen	N	NN	Neut|_|Sg	0	root	401	401
+21	mit	mit	P	APPR	Dat	20	pp	401	401
+22	Sesseln	Sessel	N	NN	Masc|Dat|Pl	21	pn	401	401
+23	.	.	$	$.	_	0	root	_	_
+
+1	Weiter	Weiter	A	ADV	_	2	adv	_	_
+2	rückwärts	rückwärts	A	ADV	_	3	adv	_	_
+3	links	links	A	ADV	_	4	adv	_	_
+4	Etagere	Etagere	N	NN	_|_|_	0	root	_	_
+5	mit	mit	P	APPR	Dat	4	pp	_	_
+6	Noten	Note	N	NN	_|Dat|_	5	pn	3	3
+7	;	;	$	$.	_	0	root	_	_
+8	über	über	P	APPR	Acc	0	root	_	_
+9	ihr	ihre	A	PPOSAT	_|_|Sg	10	det	3	3
+10	Stiche	Stich	N	NN	Neut|Acc|Sg	8	pn	_	_
+11	:	\:	$	$.	_	0	root	_	_
+12	Schumann	Schumann	N	NE	_|_|Sg	0	root	150	150
+13	,	,	$	$,	_	0	root	150	150
+14	Brahms	Brahms	N	NE	_|_|Sg	12	app	150	150
+15	,	,	$	$,	_	0	root	_	_
+16	Mozart	Mozart	N	NE	_|_|Sg	0	root	_	_
+17	usw.	usw.	K	KON	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	6	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	4	4
+3	Ecke	Eck	N	NN	Fem|Dat|Sg	1	pn	4	4
+4	links	links	A	ADV	_	1	adv	_	_
+5	eine	eine	A	ART	Indef|Fem|_|Sg	6	det	_	_
+6	Beethoven-Büste	Beethoven-Büste	N	NN	Fem|_|Sg	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Links	Link	N	NN	Masc|_|_	0	root	_	_
+3	gegen	gegen	P	APPR	Acc	2	pp	_	_
+4	die	die	A	ART	Def|_|_|_	5	det	683	683
+5	Mitte	Mitte	N	NN	Neut|Acc|Sg	3	pn	683	683
+6	Klavier	Klavier	N	NN	Neut|Acc|Sg	5	app	683	683
+7	mit	mit	P	APPR	Dat	6	pp	_	_
+8	Klaviersessel	Klaviersessel	N	NN	Masc|Dat|Sg	7	pn	_	_
+9	;	;	$	$.	_	0	root	_	_
+10	ein	eine	A	ART	Indef|Masc|Nom|Sg	11	det	788	788
+11	Sessel	Sessel	N	NN	Masc|Nom|Sg	12	subj	788	788
+12	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+13	vorn	vorn	A	ADV	_	12	adv	_	_
+14	ans	an	P	APPRART	Acc	16	pp	_	_
+15	Klavier	Klavier	N	NN	Neut|Acc|Sg	14	pn	7	7
+16	gerückt	rücken	V	VVPP	_	12	neb	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Rechts	rechts	P	APPR	Dat	0	root	_	_
+2	Schreibtisch	Schreibtisch	N	NN	Masc|Dat|Sg	1	pn	261	261
+3	,	,	$	$,	_	0	root	261	261
+4	dahinter	dahinter	P	PROAV	_	5	pp	261	261
+5	Fauteuil	Fauteuil	N	NN	Masc|Dat|Sg	2	app	261	261
+6	;	;	$	$.	_	0	root	_	_
+7	Divan	Divan	N	NN	Masc|Nom|Sg	11	subj	_	_
+8	an	an	P	APPR	Acc	11	pp	_	_
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	_	_
+10	Schreibtisch	Schreibtisch	N	NN	Masc|Acc|Sg	8	pn	_	_
+11	gerückt	rücken	V	VVPP	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Rechts	Recht	N	NN	Neut|Gen|Sg	0	root	552	552
+2	und	und	K	KON	_	0	root	_	_
+3	links	links	A	ADV	_	4	adv	_	_
+4	vom	von	P	APPRART	Dat	2	cj	_	_
+5	Zuschauer	Zuschauer	N	NN	_|Dat|Sg	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	,	,	$	$,	_	0	root	5	5
+3	Friederike	Friederike	N	NE	Fem|_|Sg	1	app	5	5
+4	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Gen|Sg	3	gmod	5	5
+2	dreißig	dreißig	C	CARD	_	3	attr	_	_
+3	Jahre	Jahr	N	NN	Neut|_|Pl	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	schlank	schlank	A	ADJD	Pos|	8	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	dunkles	dunkel	A	ADJA	Pos|Neut|_|Sg|St|	5	kon	_	_
+8	schlichtes	schlicht	A	ADJA	Pos|Neut|_|Sg|St|	9	attr	_	_
+9	Haar	Haar	N	NN	Neut|_|Sg	3	app	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	bartlos	bartlos	A	ADJD	Pos|	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Seine	seine	A	PPOSAT	Fem|_|Pl	2	det	6	6
+2	Bewegungen	Bewegung	N	NN	Fem|_|Pl	0	root	_	_
+3	rasch	rasch	A	ADJD	Pos|	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	zuweilen	zuweilen	A	ADV	_	6	adv	_	_
+6	hastig	hastig	A	ADJD	Pos|	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Grauer	grau	A	ADJA	Pos|_|_|_|St|	2	attr	_	_
+2	Sakkoanzug	Sakkoanzug	N	NN	_|_|_	0	root	_	_
+3	;	;	$	$.	_	0	root	_	_
+4	elegant	elegant	A	ADJD	Pos|	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	aber	aber	K	KON	_	0	root	_	_
+7	ein	eine	A	ART	Indef|_|_|Sg	6	cj	_	_
+8	wenig	wenig	A	ADV	_	9	adv	_	_
+9	nachlässig	nachlässig	A	ADJD	Pos|	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Gewohnheit	Gewohnheit	N	NN	Fem|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mit	mit	P	APPR	Dat	10	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	6	det	56	56
+5	linken	link	A	ADJA	Pos|Fem|Dat|Sg|Wk|	6	attr	56	56
+6	Hand	Hand	N	NN	Fem|Dat|Sg	3	pn	56	56
+7	zuweilen	zuweilen	A	ADV	_	10	adv	_	_
+8	das	die	A	ART	Def|Neut|_|Sg	9	det	_	_
+9	Sakko	Sakko	N	NN	Neut|_|Sg	10	obja	_	_
+10	zurückzuschlagen	zurückschlagen	V	VVIZU	_	1	obji	_	_
+11	und	und	K	KON	_	10	kon	_	_
+12	es	es	P	PPER	3|Sg|Neut|_	13	obja	_	_
+13	festzuhalten	festhalten	V	VVIZU	_	11	cj	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	am	an	P	APPRART	Dat	2	pp	_	_
+4	Klavier	Klavier	N	NN	Neut|Dat|Sg	3	pn	7	7
+5	und	und	K	KON	_	2	kon	_	_
+6	begleitet	begleiten	V	VVFIN	_|_|Pres|_	5	cj	_	_
+7	Friederike	Friederike	N	NE	Fem|_|Sg	6	obja	8	8
+8	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	achtundzwanzig	achtundzwanzig	C	CARD	_	3	attr	8	8
+3	Jahre	Jahr	N	NN	Neut|_|Pl	1	app	8	8
+4	,	,	$	$,	_	0	root	8	8
+5	hellgrau	hellgrau	A	ADJD	Pos|	7	adv	8	8
+6	englisches	englisch	A	ADJA	Pos|Neut|_|Sg|St|	7	attr	8	8
+7	Kostüm	Kostüm	N	NN	Neut|_|Sg	3	kon	8	8
+8	,	,	$	$,	_	0	root	8	8
+9	rote	rot	A	ADJA	Pos|Fem|_|Sg|_|	10	attr	8	8
+10	Seidenbluse	Seidenbluse	N	NN	Fem|_|Sg	7	kon	8	8
+11	;	;	$	$.	_	0	root	_	_
+12	breitrandiger	breitrandig	A	ADJA	Pos|_|_|Sg|St|	14	attr	9	9
+13	eleganter	elegant	A	ADJA	Pos|_|_|Sg|St|	14	attr	9	9
+14	Sommerhut	Sommerhut	N	NN	_|_|Sg	0	root	9	9
+15	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	9	9
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zierlich	zierlich	A	ADJD	Pos|	2	pred	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	rötlich	rötlich	A	ADJD	Pos|	6	adv	_	_
+6	blond	blond	A	ADJD	Pos|	4	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Singt	singen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	aus	aus	P	APPR	Dat	1	pp	_	_
+3	»	»	$	$(	_	0	root	_	_
+4	Mignon	Mignon	N	NN	Masc|Dat|Sg	2	pn	_	_
+5	«	«	$	$(	_	0	root	_	_
+6	1	1	C	CARD	_	1	obja	_	_
+7	)	)	$	$(	_	0	root	_	_
+8	:	\:	$	$.	_	0	root	_	_
+9	»	»	F	FM	_	0	root	_	_
+10	Hahaha	Hahaha	F	FM	_	9	app	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_|Sg|_|Nom	1	subj	9	9
+4	wahr	wahr	A	ADJD	Pos|	1	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wirklich	wirklich	A	ADJD	Pos|	7	adv	_	_
+7	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+3	Bewegung	Bewegung	N	NN	Fem|_|Sg	0	root	10	10
+4	,	,	$	$,	_	0	root	_	_
+5	als	als	K	KOKOM	_	0	root	_	_
+6	wenn	wenn	K	KOUS	_	16	konj	_	_
+7	sie	sie	P	PPER	3|Sg|Fem|Nom	16	subj	10	10
+8	mit	mit	P	APPR	Dat	16	pp	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	_	_
+10	Reitpeitsche	Reitpeitsche	N	NN	Fem|Dat|Sg	8	pn	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	_	_
+12	Staub	Staub	N	NN	Masc|Acc|Sg	16	obja	_	_
+13	von	von	P	APPR	Dat	12	pp	_	_
+14	den	die	A	ART	Def|_|Dat|Pl	15	det	_	_
+15	Kleidern	Kleid	N	NN	_|Dat|Pl	13	pn	_	_
+16	klopfte	klopfen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	begleitet	begleiten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	und	und	K	KON	_	2	kon	_	_
+4	markiert	markieren	V	VVFIN	_|_|Pres|Ind	3	cj	_	_
+5	die	die	A	ART	Def|_|_|_	6	det	11	11
+6	Rolle	Rolle	N	NN	_|_|_	4	obja	11	11
+7	des	die	A	ART	Def|_|Gen|Sg	8	det	11	11
+8	Friedrich	Friedrich	N	NE	_|Gen|Sg	6	gmod	11	11
+9	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Lachen	lachen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	11	11
+4	nur	nur	A	ADV	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	12	12
+7	bin	sein	V	VAFIN	1|Sg|Pres|Ind	2	s	_	_
+8	ein	eine	A	ART	Indef|Masc|Nom|Sg	9	det	_	_
+9	Narr	Narr	N	NN	Masc|Nom|Sg	7	pred	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	ruiniere	ruinieren	V	VVFIN	_|Sg|Pres|_	7	kon	_	_
+12	mein	meine	A	PPOSAT	Neut|_|Sg	13	det	12	12
+13	Pferd	Pferd	N	NN	Neut|_|Sg	11	obja	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wünschen	wünschen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	13	13
+4	vielleicht	vielleicht	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	nervös	nervös	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Warten	warten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	13	13
+3	doch	doch	A	ADV	_	1	adv	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	13	13
+2	wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	noch	noch	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	warum	warum	P	PWAV	_	11	adv	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	14	14
+9	mein	meine	A	PPOSAT	Neut|_|Sg	10	det	14	14
+10	Pferd	Pferd	N	NN	Neut|_|Sg	11	obja	_	_
+11	ruiniere	ruinieren	V	VVFIN	1|Sg|Pres|_	2	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ruiniere	ruinieren	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+3	mein	meine	A	PPOSAT	Neut|Nom|Sg	4	det	14	14
+4	Pferd	Pferd	N	NN	Neut|Nom|Sg	2	subj	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	um	um	K	KOUI	_	10	konj	_	_
+7	früher	früh	A	ADJD	_|	10	adv	_	_
+8	Sie	sie	P	PPER	3|_|_|_	10	obja	13	13
+9	zu	zu	P	PTKZU	_	10	part	_	_
+10	sehen	sehen	V	VVINF	_	2	neb	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	wie	wie	K	KOKOM	_	1	kom	8	8
+3	oben	oben	A	ADV	_	2	cj	8	8
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wünschen	wünschen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	13	13
+4	vielleicht	vielleicht	A	ADV	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	8	konj	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	15	15
+8	weine	weinen	V	VVFIN	1|Sg|Pres|_	2	objc	_	_
+9	?	?	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	wie	wie	K	KOKOM	_	1	kom	5	5
+3	oben	oben	A	ADV	_	2	cj	5	5
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	O	O	N	NN	Neut|Nom|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	schon	schon	A	ADV	_	7	adv	_	_
+5	bereu	bereu	A	ADJD	_	7	adv	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	2	kon	15	15
+8	es	es	P	PPER	3|Sg|Neut|_	0	root	_	_
+9	schwer	schwer	A	ADJD	Pos|	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	14	konj	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	14	subj	15	15
+13	nur	nur	A	ADV	_	14	adv	_	_
+14	kam	kommen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+15	.	.	$	$.	_	0	root	_	_
+16	«	«	$	$(	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	wie	wie	K	KOKOM	_	1	kom	8	8
+3	oben	oben	A	ADV	_	2	cj	8	8
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nun	nun	A	ADV	_	3	adv	_	_
+3	so	so	A	ADV	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gis	Gis	N	NN	Neut|_|_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	wie	wie	K	KOKOM	_	1	kom	8	8
+3	oben	oben	A	ADV	_	2	cj	8	8
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nun	nun	A	ADV	_	3	adv	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	kehren	kehren	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	16	16
+6	um	um	P	PTKVZ	_	4	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Bald	bald	A	ADV	_	2	adv	_	_
+2	genug	genug	A	PIAT	_	0	root	_	_
+3	erblick	erblicken	V	VVIMP	Sg	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	0	root	17	17
+6	Sie	sie	P	PPER	3|_|_|_	0	root	16	16
+7	wieder	wieder	A	ADV	_	6	adv	_	_
+8	!	!	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	13	13
+4	ironisch	ironisch	A	ADJD	Pos|	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	zärtlich	zärtlich	A	ADJD	Pos|	4	kon	_	_
+8	!	!	$	$.	_	0	root	_	_
+

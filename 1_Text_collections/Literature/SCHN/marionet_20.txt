@@ -1,0 +1,382 @@
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	0	root	235	235
+2	Martin	Martin	N	NE	_|_|Sg	1	app	235	235
+3	,	,	$	$,	_	0	root	_	_
+4	Martin	Martin	N	NE	_|_|Sg	2	app	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bleib	Bleib	N	NE	_	0	root	_	_
+2	daheim	daheim	A	ADV	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	bleib	bleiben	V	VVIMP	Sg	0	root	_	_
+5	daheim	daheim	A	ADV	_	4	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	261	261
+2	ahn	ahn	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	7	subj	262	262
+7	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	2	kon	_	_
+8	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	261	261
+9	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+10	treu	treu	A	ADJD	Pos|	7	pred	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	2	obja	235	235
+2	betreten	betreten	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Gab	geben	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	1	subj	261	261
+3	dir	du	P	PPER	2|Sg|_|Dat	1	objd	262	262
+4	jemals	jemals	A	ADV	_	1	adv	_	_
+5	Anlaß	Anlaß	N	NN	Masc|_|Sg	1	obja	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	261	261
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	von	von	P	APPR	Dat	2	pp	_	_
+6	dir	du	P	PPER	2|Sg|_|Dat	5	pn	262	262
+7	?	?	$	$.	_	0	root	_	_
+
+1	Erst	erst	A	ADV	_	2	adv	_	_
+2	im	in	P	APPRART	Dat	4	pp	_	_
+3	Herbst	Herbst	N	NN	Masc|Dat|Sg	2	pn	266	266
+4	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	262	262
+6	in	in	P	APPR	Acc	9	objp	_	_
+7	unsere	unsre	A	PPOSAT	Fem|Acc|Sg	8	det	_	_
+8	Stadt	Stadt	N	NN	Fem|Acc|Sg	6	pn	_	_
+9	gekommen	kommen	V	VVPP	_	4	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	und	und	K	KON	_	4	kon	_	_
+12	am	an	P	APPRART	Dat	14	pp	_	_
+13	Weihnachtstag	Weihnachtstag	N	NN	_|Dat|Sg	12	pn	_	_
+14	hast	haben	V	VAFIN	2|Sg|Pres|Ind	11	cj	_	_
+15	du	du	P	PPER	2|Sg|_|Nom	14	subj	262	262
+16	mich	ich	P	PPER	1|Sg|_|Acc	19	obja	261	261
+17	zum	zu	P	APPRART	Dat	19	pp	_	_
+18	erstenmal	erstenmal	N	NN	_|Dat|_	17	pn	_	_
+19	geküßt	geküßt	V	VVPP	_	14	aux	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	was	was	P	PRELS	Neut|_|Sg	0	root	_	_
+4	weiter	weiter	A	ADV	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Seither	seither	A	ADV	_	2	adv	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	263	263
+4	mancherlei	mancherlei	P	PIS	_	2	obja	_	_
+5	erfahren	erfahren	V	VVINF	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	War	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	dein	deine	A	PPOSAT	Masc|Nom|Sg	5	det	263	263
+4	erster	erst	A	ADJA	_|Masc|Nom|Sg|St|	5	attr	_	_
+5	Kuß	Kuß	N	NN	Masc|Nom|Sg	1	pred	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	wie	wie	P	PWAV	_	6	adv	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+4	mein	meine	A	PPOSAT	_|_|Sg	5	det	264	264
+5	erster	erst	A	ADJA	Masc|Nom|Sg	6	pred	_	_
+6	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	264	264
+4	dir	du	P	PPER	2|Sg|_|Dat	5	objd	_	_
+5	schwören	schwören	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	von	von	P	APPR	Dat	15	pp	_	_
+3	den	die	A	ART	Def|Fem|Dat|Pl	5	det	265	265
+4	schönen	schön	A	ADJA	Pos|Fem|Dat|Pl|_|	5	attr	265	265
+5	Frauen	Frau	N	NN	Fem|Dat|Pl	2	pn	265	265
+6	,	,	$	$,	_	0	root	265	265
+7	die	die	P	PRELS	Fem|Nom|Pl	13	subj	265	265
+8	im	in	P	APPRART	Dat	13	pp	_	_
+9	Herbst	Herbst	N	NN	Masc|Dat|Sg	8	pn	266	266
+10	hier	hier	A	ADV	_	8	adv	_	_
+11	das	die	A	ART	Def|Neut|_|Sg	12	det	_	_
+12	Ballett	Ballett	N	NN	Neut|_|Sg	13	obja	_	_
+13	tanzten	tanzen	V	VVFIN	3|Pl|Past|_	5	rel	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	hast	haben	V	VAFIN	2|Sg|Pres|Ind	1	cj	_	_
+16	du	du	P	PPER	2|Sg|_|Nom	15	subj	_	_
+17	keine	keine	P	PIS	_|_|_	18	obja	_	_
+18	geküßt	geküßt	V	VVPP	_	15	aux	_	_
+19	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Keine	keine	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	267	267
+3	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+4	alle	alle	A	PIDAT	_|_|_	5	det	_	_
+5	Abend	Abend	N	NN	Masc|Nom|Sg	8	pred	_	_
+6	im	in	P	APPRART	Dat	5	pp	_	_
+7	Theater	Theater	N	NN	Neut|Dat|Sg	6	pn	_	_
+8	gewesen	sein	V	VAPP	_	1	aux	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	267	267
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	gewartet	gewartet	A	ADJD	Pos|	1	adv	_	_
+5	spät	spät	A	ADJD	Pos|	6	adv	_	_
+6	nachts	nachts	A	ADV	_	1	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	bis	bis	K	KOUS	_	12	konj	_	_
+9	sie	sie	P	PPER	3|Pl|_|Nom	12	subj	_	_
+10	nach	nach	P	APPR	Dat	12	pp	_	_
+11	Hause	Haus	N	NN	Neut|Dat|Sg	10	pn	20	20
+12	gingen	gehen	V	VVFIN	3|Pl|Past|_	1	neb	_	_
+13	-	-	$	$(	_	0	root	_	_
+14	an	an	P	APPR	Dat	12	pp	_	_
+15	der	die	A	ART	Def|Fem|Dat|Sg	17	det	_	_
+16	kleinen	klein	A	ADJA	Pos|Fem|Dat|Sg|Wk|	17	attr	_	_
+17	Tür	Tür	N	NN	Fem|Dat|Sg	14	pn	_	_
+18	auf	auf	P	APPR	Dat	17	pp	_	_
+19	dem	die	A	ART	Def|Masc|Dat|Sg	20	det	_	_
+20	Rathausplatz	Rathausplatz	N	NN	Masc|Dat|Sg	18	pn	_	_
+21	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hab	Hab	N	NE	_|Nom|_	9	subj	77	77
+2	'	'	$	$(	_	0	root	_	_
+3	doch	doch	A	ADV	_	5	adv	_	_
+4	keine	keine	P	PIS	_|_|_	5	obja	_	_
+5	gekannt	kennen	V	VVPP	_	9	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	zu	zu	P	APPR	Dat	9	pp	_	_
+8	keiner	keine	P	PIS	Fem|Dat|Sg	7	pn	_	_
+9	gesprochen	sprechen	V	VVPP	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	die	die	A	ART	Def|Fem|_|Sg	3	det	268	268
+3	Blume	Blume	N	NN	Fem|_|Sg	1	cj	268	268
+4	,	,	$	$,	_	0	root	268	268
+5	nach	nach	P	APPR	Dat	8	pp	268	268
+6	der	die	P	PRELS	Fem|Dat|Sg	5	pn	268	268
+7	du	du	P	PPER	2|Sg|_|Nom	8	subj	_	_
+8	haschtest	haschen	V	VVFIN	2|Sg|Past|_	3	rel	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Genug	Genug	P	PIS	_	0	root	_	_
+2	der	die	A	ART	Def|Fem|Gen|Pl	4	det	_	_
+3	kindischen	kindisch	A	ADJA	Pos|Fem|Gen|Pl|Wk|	4	attr	_	_
+4	Geschichten	Geschichte	N	NN	Fem|Gen|Pl	1	gmod	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	2	obja	236	236
+2	dringender	dringend	A	ADJD	Comp|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	pred	_	_
+2	hieß	heißen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	236	236
+4	,	,	$	$,	_	0	root	_	_
+5	die	die	P	PRELS	Fem|Nom|Sg	9	subj	236	236
+6	dir	du	P	PPER	2|Sg|_|Dat	9	objd	_	_
+7	die	die	A	ART	Def|Fem|_|Pl	8	det	269	269
+8	Blumen	Blume	N	NN	Fem|_|Pl	9	obja	269	269
+9	zuwarf	zuwerfen	V	VVFIN	3|Sg|Past|Ind	3	rel	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	2	2
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	mehr	mehr	A	ADV	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	236	236
+2	tanzte	tanzen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	an	an	P	APPR	Dat	2	pp	_	_
+4	jenem	jene	A	PDAT	Masc|Dat|Sg	5	det	_	_
+5	Abend	Abend	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	das	die	A	ART	Def|Neut|_|Sg	8	det	_	_
+7	gefangene	gefangen	A	ADJA	Pos|Neut|_|Sg|Wk|	8	attr	_	_
+8	Mädchen	Mädchen	N	NN	Neut|_|Sg	2	obja	_	_
+9	aus	aus	P	APPR	Dat	2	objp	_	_
+10	Athen	Athen	N	NE	Neut|Dat|Sg	9	pn	453	453
+11	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	mag	mögen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	wohl	wohl	A	ADV	_	4	adv	_	_
+4	sein	sein	V	VAINF	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	6	adv	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	2	2
+3	sie	sie	P	PPER	3|_|_|_	6	obja	236	236
+4	vor	vor	P	APPR	Dat	6	pp	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	pn	_	_
+6	sehe	sehen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Gleich	gleich	A	ADJD	Pos|	2	adv	270	270
+2	zuckenden	zuckend	A	ADJA	Pos|Fem|Nom|Pl|Wk|<PPRES	3	attr	270	270
+3	Schlangen	Schlange	N	NN	Fem|Nom|Pl	6	subj	270	270
+4	im	in	P	APPRART	Dat	3	pp	270	270
+5	Schnee	Schnee	N	NN	Masc|Dat|Sg	4	pn	270	270
+6	ringelten	ringeln	V	VVFIN	3|Pl|Past|_	0	root	_	_
+7	ihr	ihr	P	PPER	3|Sg|Fem|Dat	6	objd	236	236
+8	die	die	A	ART	Def|Fem|_|Pl	10	det	_	_
+9	schwarzen	schwarz	A	ADJA	Pos|Fem|_|Pl|Wk|	10	attr	_	_
+10	Locken	Locke	N	NN	Fem|_|Pl	6	obja	_	_
+11	über	über	P	APPR	Acc	10	pp	_	_
+12	die	die	A	ART	Def|Fem|Acc|Pl	13	det	_	_
+13	Schultern	Schulter	N	NN	Fem|Acc|Pl	11	pn	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Alle	alle	P	PIS	_|Nom|Pl	7	subj	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	die	die	P	PRELS	_|Nom|Pl	5	subj	_	_
+4	sie	sie	P	PPER	3|_|_|_	5	obja	270	270
+5	sahen	sehen	V	VVFIN	3|Pl|Past|Ind	1	rel	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+8	toll	toll	A	ADJD	Pos|	7	pred	_	_
+9	vor	vor	P	APPR	_	7	pp	_	_
+10	Entzücken	Entzücken	N	NN	Neut|_|Sg	9	pn	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+3	Erbprinz	Erbprinz	N	NN	Masc|Nom|Sg	4	subj	_	_
+4	warf	werfen	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+5	ihr	ihre	A	PPOSAT	_|_|Sg	7	det	270	270
+6	rote	rot	A	ADJA	Pos|_|_|Sg|Wk|	7	attr	_	_
+7	Rosen	Rosa	N	NN	_|_|Sg	4	obja	_	_
+8	hinunter	hinunter	A	ADV	_	9	adv	_	_
+9	auf	auf	P	APPR	Acc	4	objp	_	_
+10	die	die	A	ART	Def|Fem|Acc|Sg	11	det	471	471
+11	Bühne	Bühne	N	NN	Fem|Acc|Sg	9	pn	471	471
+12	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	4	vok	76	76
+2	,	,	$	$,	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	2	2
+4	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|_	4	expl	_	_
+6	noch	noch	A	ADV	_	4	adv	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	später	spät	A	ADJD	_|	3	adv	_	_
+3	auf	auf	P	APPR	Dat	6	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	271	271
+5	Straße	Straß	N	NN	Fem|Dat|Sg	3	pn	271	271
+6	warteten	warten	V	VVFIN	3|Pl|Past|_	1	cj	_	_
+7	Hunderte	Hundert	N	NN	Neut|Nom|Pl	6	subj	272	272
+8	;	;	$	$.	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	als	als	K	KOKOM	_	12	kom	_	_
+11	sie	sie	P	PPER	3|_|_|_	10	cj	272	272
+12	kam	kommen	V	VVFIN	_|Sg|Past|Ind	9	cj	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	den	die	A	ART	Def|Masc|Acc|Sg	15	det	_	_
+15	Strauß	Strauß	N	NN	Masc|Acc|Sg	0	root	_	_
+16	in	in	P	APPR	Dat	15	pp	_	_
+17	der	die	A	ART	Def|Fem|Dat|Sg	18	det	111	111
+18	Hand	Hand	N	NN	Fem|Dat|Sg	16	pn	111	111
+19	,	,	$	$,	_	0	root	_	_
+20	jubelten	jubeln	V	VVFIN	3|Pl|Past|_	0	root	_	_
+21	alle	alle	P	PIS	_|Nom|Pl	20	subj	_	_
+22	laut	laut	A	ADJD	Pos|	20	adv	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	und	und	K	KON	_	20	kon	_	_
+25	sie	sie	P	PPER	3|Sg|Fem|Nom	26	subj	111	111
+26	lächelte	lächeln	V	VVFIN	3|Sg|Past|_	24	cj	_	_
+27	,	,	$	$,	_	0	root	_	_
+28	und	und	K	KON	_	26	kon	_	_
+29	blickte	blicken	V	VVFIN	_|Sg|Past|_	28	cj	_	_
+30	um	um	P	APPR	Acc	29	pp	_	_
+31	sich	sie	P	PRF	3|_|Acc	30	pn	_	_
+32	und	und	K	KON	_	29	kon	_	_
+33	streute	streuen	V	VVFIN	_|Sg|Past|_	32	cj	_	_
+34	Blumen	Blume	N	NN	Fem|_|Pl	33	obja	_	_
+35	unter	unter	P	APPR	Acc	33	pp	_	_
+36	die	die	A	ART	Def|Fem|Acc|Sg	37	det	_	_
+37	Menge	Menge	N	NN	Fem|Acc|Sg	35	pn	_	_
+38	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	cj	273	273
+3	,	,	$	$,	_	0	root	_	_
+4	ja	ja	V	VVFIN	2|Sg|_|_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	273	273
+6	.	.	$	$.	_	0	root	_	_
+

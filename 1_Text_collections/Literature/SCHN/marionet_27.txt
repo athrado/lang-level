@@ -1,0 +1,303 @@
+1	So	so	A	ADV	_	2	adv	_	_
+2	beginn	beginn	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	2	2
+5	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_|Nom|Sg	2	subj	250	250
+2	würfelt	würfeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Drei	drei	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	ebenso	ebenso	A	ADV	_	1	adv	235	235
+3	.	.	$	$.	_	0	root	_	_
+
+1	Vier	vier	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	eben	eben	A	ADV	_	2	adv	_	_
+4	nichts	nichts	A	PIAT	_|Nom|_	5	det	_	_
+5	Besonderes	Besonderes	N	NN	_|Nom|_	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	3	adv	_	_
+2	mehr	mehr	A	ADV	_	1	adv	_	_
+3	als	als	K	KOKOM	_	5	kom	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	cj	2	2
+5	brauchte	brauchen	V	VVFIN	_|Sg|Past|_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zehn	zehn	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Elf	elf	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zwölf	zwölf	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ha	ha	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	nun	nun	A	ADV	_	4	adv	_	_
+4	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_|Sg|_|Nom	4	subj	_	_
+7	dir	du	P	PPER	2|Sg|_|Dat	9	objd	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	gelingen	gelingen	V	VVINF	_	4	aux	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zwölf	zwölf	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Teufel	Teufel	N	NE	_	0	root	386	386
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Elf	Elf	N	NN	_|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zwölf	zwölf	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Vorwärts	vorwärts	A	ADV	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vorwärts	vorwärts	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	364	364
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	APPR	Dat	2	pp	_	_
+4	Ende	Ende	N	NN	Neut|Dat|Sg	3	pn	172	172
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	364	364
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	keinen	keine	A	PIAT	_|_|_	4	det	_	_
+4	Heller	Helle	N	NN	_|_|_	2	obja	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	im	in	P	APPRART	Dat	2	pp	_	_
+7	Sack	Sack	N	NN	Masc|Dat|Sg	6	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|Nom|Sg	2	subj	236	236
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	herein	herein	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gnädiges	gnädig	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	_	_
+2	Fräulein	Fräulein	N	NN	Neut|_|Sg	5	vok	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	hier	hier	A	ADV	_	5	adv	_	_
+5	sehen	sehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	_	_
+7	einen	eine	P	PIS	Masc|_|Sg	5	obja	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	der	die	P	PRELS	Masc|Nom|Sg	15	subj	_	_
+10	in	in	P	APPR	Dat	15	pp	_	_
+11	diesem	diese	A	PDAT	Masc|Dat|Sg	12	det	116	116
+12	Augenblick	Augenblick	N	NN	Masc|Dat|Sg	10	pn	116	116
+13	so	so	A	ADV	_	14	adv	_	_
+14	arm	arm	A	ADJD	Pos|	15	pred	_	_
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	7	rel	_	_
+16	wie	wie	K	KOKOM	_	15	kom	_	_
+17	eine	eine	A	ART	Indef|Fem|_|Sg	18	det	_	_
+18	Kirchenmaus	Kirchenmaus	N	NN	Fem|_|Sg	16	cj	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+2	sollst	sollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	sagen	sagen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	365	365
+4	Freund	Freund	N	NN	Masc|Nom|Sg	0	root	366	366
+5	,	,	$	$,	_	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	7	subj	_	_
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	ein	eine	A	ART	Indef|_|Nom|Sg	9	det	441	441
+9	Dukaten	Dukaten	N	NN	_|Nom|Sg	7	pred	441	441
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	365	365
+2	leih	leih	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	366	366
+5	dir	du	P	PPER	2|Sg|_|Dat	2	objd	_	_
+6	gern	gern	A	ADV	_	2	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_|Nom|Sg	2	subj	250	250
+2	steckt	stecken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	2	2
+4	in	in	P	APPR	Acc	2	objp	_	_
+5	die	die	A	ART	Def|Fem|Acc|Sg	6	det	_	_
+6	Westentasche	Westentasche	N	NN	Fem|Acc|Sg	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+4	wissen	wissen	V	VVINF	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|Nom|Sg	2	subj	236	236
+2	bereitet	bereiten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	367	367
+4	Tisch	Tisch	N	NN	Masc|Acc|Sg	2	obja	367	367
+5	,	,	$	$,	_	0	root	_	_
+6	schenkt	schenken	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+7	ein	ein	P	PTKVZ	_	6	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	wahr	wahr	A	ADJD	Pos|	2	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	10	konj	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	10	subj	2	2
+8	ein	eine	A	ART	Indef|Neut|_|Sg	9	det	368	368
+9	System	System	N	NN	Neut|_|Sg	10	obja	368	368
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	objc	368	368
+11	,	,	$	$,	_	0	root	368	368
+12	mit	mit	P	APPR	Dat	16	pp	368	368
+13	dem	die	P	PRELS	Neut|Dat|Sg	12	pn	368	368
+14	er	er	P	PPER	3|Sg|Masc|Nom	17	subj	2	2
+15	unfehlbar	unfehlbar	A	ADJD	Pos|	16	adv	_	_
+16	gewinnen	gewinnen	V	VVINF	_	17	aux	_	_
+17	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	9	rel	_	_
+18	?	?	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	scheint	scheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	so	so	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	369	369
+2	danke	danken	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Acc	0	root	_	_
+2	Ihr	ihre	A	PPOSAT	Neut|Acc|Sg	3	det	_	_
+3	Wohl	Wohl	N	NN	Neut|Acc|Sg	1	pn	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	mein	meine	A	PPOSAT	Neut|Acc|Sg	6	det	369	369
+6	Fräulein	Fräulein	N	NN	Neut|Acc|Sg	3	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Acc	0	root	_	_
+2	dein	deine	A	PPOSAT	Neut|Acc|Sg	3	det	235	235
+3	Wohl	Wohl	N	NN	Neut|Acc|Sg	1	pn	235	235
+4	,	,	$	$,	_	0	root	235	235
+5	Vetter	Vetter	N	NE	_|Acc|Sg	3	app	235	235
+6	Martin	Martin	N	NE	_|Acc|Sg	5	app	235	235
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	370	370
+3	das	die	P	PDS	Neut|Nom|Sg	6	subj	_	_
+4	gestern	gestern	A	ADV	_	5	adv	_	_
+5	prophezeit	prophezeien	V	VVPP	_	6	aux	_	_
+6	hätte	haben	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	18	konj	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	18	subj	370	370
+10	heute	heute	A	ADV	_	17	adv	_	_
+11	an	an	P	APPR	Dat	17	pp	_	_
+12	einem	eine	A	ART	Indef|Masc|Dat|Sg	14	det	_	_
+13	gedeckten	gedeckt	A	ADJA	Pos|Masc|Dat|Sg|Wk|	14	attr	_	_
+14	Tisch	Tisch	N	NN	Masc|Dat|Sg	11	pn	_	_
+15	im	in	P	APPRART	Dat	17	pp	_	_
+16	Freundeskreise	Freundeskreis	N	NN	_|Dat|Sg	15	pn	_	_
+17	sitzen	sitzen	V	VVINF	_	18	aux	_	_
+18	sollte	sollen	V	VMFIN	1|Sg|Past|_	5	objc	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Ei	Ei	N	NN	Neut|_|Sg	0	root	371	371
+2	,	,	$	$,	_	0	root	371	371
+3	was	was	P	PRELS	Neut|_|Sg	9	obja	371	371
+4	Sie	sie	P	PPER	3|Pl|_|Nom	9	subj	_	_
+5	für	für	P	APPR	Acc	9	pp	_	_
+6	ein	eine	A	ART	Indef|Neut|Acc|Sg	8	det	_	_
+7	hübsches	hübsch	A	ADJA	Pos|Neut|Acc|Sg|St|	8	attr	_	_
+8	Häubchen	Häubchen	N	NN	Neut|Acc|Sg	5	pn	_	_
+9	haben	haben	V	VAFIN	3|Pl|Pres|_	1	rel	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Fräulein	Fräulein	N	NN	Neut|_|_	1	app	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wahrlich	wahrlich	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	hübsch	hübsch	A	ADJD	Pos|	4	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	372	372
+2	hattest	haben	V	VAFIN	2|Sg|Past|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	da	da	K	KOUS	_	8	konj	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	8	subj	372	372
+8	fortgingst	fortgehen	V	VVFIN	2|Sg|Past|Ind	2	neb	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	das	die	A	ART	Def|Neut|_|Sg	11	det	373	373
+11	Essen	Esse	N	NN	Neut|_|Sg	12	obja	373	373
+12	holen	holen	V	VVINF	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+

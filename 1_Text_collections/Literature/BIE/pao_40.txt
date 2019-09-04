@@ -1,0 +1,357 @@
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	830	830
+3	werde	werden	V	VAFIN	1|Sg|Pres|_	9	s	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+5	schönste	schön	A	ADJA	Sup|Fem|_|Sg|_|	6	attr	_	_
+6	Darmverschlingung	Darmverschlingung	N	NN	Fem|_|Sg	7	obja	_	_
+7	kriegen	kriegen	V	VVINF	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	dachte	denken	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	2	2
+11	sich	sie	P	PRF	3|_|Dat	9	objd	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	3	det	_	_
+2	kurze	kurz	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	_	_
+3	Weile	Weile	N	NN	Fem|Nom|Sg	5	subj	_	_
+4	darauf	darauf	P	PROAV	_	3	pp	_	_
+5	erschien	erscheinen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+6	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+7	Schwarm	Schwarm	N	NN	Masc|Nom|Sg	5	pred	_	_
+8	kräftiger	kräftig	A	ADJA	Pos|Fem|Gen|Pl|St|	9	attr	823	823
+9	Palastdamen	Palastdame	N	NN	Fem|Gen|Pl	7	gmod	823	823
+10	,	,	$	$,	_	0	root	_	_
+11	deren	die	A	PRELAT	_	0	root	_	_
+12	jede	jede	A	PIDAT	_|_|Sg	0	root	_	_
+13	einen	eine	A	ART	Indef|Masc|Acc|Sg	14	det	_	_
+14	Seidenballen	Seidenballen	N	NN	Masc|Acc|Sg	15	obja	_	_
+15	schleppte	schleppen	V	VVFIN	_|Sg|Past|_	0	root	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	823	823
+2	warfen	werfen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+3	erst	erst	A	ADV	_	5	adv	_	_
+4	die	die	A	ART	Def|Masc|_|Pl	5	det	_	_
+5	Seidenballen	Seidenballen	N	NN	Masc|_|Pl	2	obja	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	dann	dann	A	ADV	_	0	root	_	_
+8	sich	sie	P	PRF	3|_|_	0	root	_	_
+9	selbst	selbst	A	ADV	_	8	adv	_	_
+10	hin	hin	P	PTKVZ	_	0	root	_	_
+11	und	und	K	KON	_	0	root	_	_
+12	lispelten	lispeln	V	VVFIN	_|Pl|Past|_	11	cj	_	_
+13	:	\:	$	$.	_	0	root	_	_
+14	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+15	geruht	geruht	A	ADJD	Pos|	18	adv	342	342
+16	unser	unsre	A	PPOSAT	Masc|Nom|Sg	18	det	342	342
+17	erhabener	erhaben	A	ADJA	Pos|Masc|Nom|Sg|St|	18	attr	342	342
+18	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	342	342
+19	zu	zu	P	PTKZU	_	20	part	_	_
+20	befehlen	befehlen	V	VVINF	_	0	root	_	_
+21	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	823	823
+4	auf	auf	P	PTKVZ	_	2	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	meine	meine	A	PPOSAT	Fem|_|Pl	7	det	_	_
+7	Damen	Dame	N	NN	Fem|_|Pl	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	zerreißen	zerreißen	V	VVFIN	3|Pl|Pres|_	9	cj	_	_
+11	Sie	sie	P	PPER	3|Pl|_|Nom	10	subj	823	823
+12	diese	diese	A	PDAT	Fem|_|Sg	13	det	711	711
+13	Seide	Seide	N	NN	Fem|_|Sg	10	obja	711	711
+14	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Pl	2	det	824	824
+2	Damen	Dame	N	NN	Fem|Nom|Pl	3	subj	824	824
+3	dachten	denken	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	merkwürdig	merkwürdig	A	ADJD	Pos|	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	wozu	wozu	P	PWAV	_	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	die	die	A	ART	Def|Fem|_|Sg	3	det	_	_
+2	schöne	schön	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Seide	Seide	N	NN	Fem|_|Sg	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	standen	stehen	V	VVFIN	_|Pl|Past|Ind	0	root	_	_
+2	aber	aber	A	ADV	_	1	adv	_	_
+3	flugs	flugs	A	ADV	_	1	adv	_	_
+4	auf	auf	P	PTKVZ	_	1	avz	_	_
+5	und	und	K	KON	_	1	kon	_	_
+6	rissen	reißen	V	VVFIN	_|Pl|Past|_	5	cj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	11	konj	_	_
+9	die	die	A	ART	Def|Masc|Nom|Pl	10	det	825	825
+10	Fetzen	Fetzen	N	NN	Masc|Nom|Pl	11	subj	825	825
+11	flogen	fliegen	V	VVFIN	3|Pl|Past|Ind	6	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Schneller	schnell	A	ADJD	Comp|	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Kräftiger	Kräftige	N	NN	_|_|_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	kommandierte	kommandieren	V	VVFIN	3|Sg|Past|_	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	28	28
+3	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	1	subj	28	28
+4	,	,	$	$,	_	0	root	_	_
+5	ratsch	ratsch	A	ADJD	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	ratsch	ratschen	V	VVIMP	Sg	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	ritsch	ritsch	A	ADJD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	ratsch	ratschen	V	VVIMP	Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Tempo	Tempo	N	NN	Neut|_|Sg	2	obja	_	_
+2	halten	halten	V	VVINF	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Rhythmisch	rhythmisch	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	_	0	root	_	_
+2	zwei	zwei	C	CARD	_	3	attr	_	_
+3	Abteilungen	Abteilung	N	NN	Fem|_|Pl	1	pn	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	2	part	_	_
+2	eine	eine	P	PIS	_|_|Sg	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	ritsch	ritsch	F	FM	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	die	die	A	ART	Def|_|_|_	2	part	_	_
+2	andere	andere	P	PIS	_|_|_	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	ratsch	ratschen	V	VVIMP	Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	gehts	gehts	A	ADJD	_	3	adv	_	_
+3	gut	gut	A	ADJD	Pos|	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Bravo	bravo	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	meine	meine	A	PPOSAT	_|_|_	4	det	_	_
+4	Lieben	lieb	A	ADJA	_|_|Pl	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Ritsch-Ratsch	Ritsch-Ratsch	N	NE	_	0	root	826	826
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ritsch-Ratsch	Ritsch-Ratsch	N	NE	_	0	root	826	826
+2	!	!	$	$.	_	0	root	_	_
+
+1	Haha	Haha	N	NE	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	wirklich	wirklich	A	ADJD	Pos|	2	adv	_	_
+4	lustig	lustig	A	ADJD	Pos|	2	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Meiner	meine	A	PPOSAT	_|_|_	2	det	827	827
+2	Seel	Seel	N	NN	_|_|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+5	tut	tun	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	827	827
+7	selber	selber	A	ADV	_	6	adv	_	_
+8	wohl	wohl	A	ADV	_	5	adv	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Rrrritsch	Rrrritsch	N	NE	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Rrrratsch	Rrrratsch	N	NE	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Hahahaha	Hahahaha	N	NE	_	0	root	437	437
+2	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	die	die	A	ART	Def|Fem|Nom|Sg	3	det	6	6
+3	Kaiserin	Kaiserin	N	NN	Fem|Nom|Sg	5	subj	6	6
+4	Pao	Pao	N	NE	Fem|Nom|Sg	3	app	6	6
+5	zog	ziehen	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+6	bloß	bloß	A	ADV	_	5	adv	_	_
+7	die	die	A	ART	Def|Fem|_|Pl	8	det	828	828
+8	Brauen	Braue	N	NN	Fem|_|Pl	5	obja	828	828
+9	hoch	hoch	A	ADJD	Pos|	5	adv	_	_
+10	und	und	K	KON	_	5	kon	_	_
+11	sah	sehen	V	VVFIN	_|Sg|Past|Ind	10	cj	_	_
+12	gelangweilt	gelangweilt	A	ADJD	Pos|	11	adv	_	_
+13	zu	zu	P	PTKVZ	_	11	avz	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	wie	wie	P	PWAV	_	21	adv	_	_
+16	die	die	A	ART	Def|Neut|Nom|Pl	17	det	829	829
+17	Seidenstücke	Seidenstück	N	NN	Neut|Nom|Pl	21	subj	829	829
+18	durch	durch	P	APPR	Acc	21	pp	_	_
+19	die	die	A	ART	Def|Fem|Acc|Sg	20	det	830	830
+20	Luft	Luft	N	NN	Fem|Acc|Sg	18	pn	830	830
+21	flogen	fliegen	V	VVFIN	3|Pl|Past|Ind	11	objc	_	_
+22	und	und	K	KON	_	21	kon	_	_
+23	niedersanken	niedersinken	V	VVFIN	_|Pl|Past|Ind	22	cj	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	830	830
+4	,	,	$	$,	_	0	root	_	_
+5	indem	indem	K	KOUS	_	10	konj	_	_
+6	sie	sie	P	PPER	3|Sg|Fem|Nom	10	subj	830	830
+7	sich	sie	P	PRF	3|_|Dat	10	objd	_	_
+8	die	die	A	ART	Def|Neut|_|Pl	9	det	319	319
+9	Ohren	Ohr	N	NN	Neut|_|Pl	10	obja	319	319
+10	zuhielt	zuhalten	V	VVFIN	3|Sg|Past|Ind	2	neb	_	_
+11	:	\:	$	$.	_	0	root	_	_
+12	Aufhören	Aufhören	N	NN	Neut|_|Sg	0	root	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Abtreten	abtreten	V	VVINF	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Genug	genug	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	28	28
+4	dachte	denken	V	VVFIN	1|Sg|Past|Ind	2	cj	_	_
+5	doch	doch	A	ADV	_	4	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	stammelte	stammeln	V	VVFIN	3|Sg|Past|_	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	28	28
+3	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	1	subj	28	28
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Hinaus	Hinaus	F	FM	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	schrie	schreien	V	VVFIN	3|Sg|Past|_	0	root	_	_
+2	die	die	A	ART	Def|Fem|Nom|Sg	3	det	76	76
+3	Kaiserin	Kaiserin	N	NN	Fem|Nom|Sg	1	subj	76	76
+4	und	und	K	KON	_	1	kon	_	_
+5	schlug	schlagen	V	VVFIN	_|Sg|Past|Ind	4	cj	_	_
+6	mit	mit	P	APPR	Dat	5	pp	_	_
+7	den	die	A	ART	Def|Masc|Dat|Pl	8	det	318	318
+8	Füßen	Fuß	N	NN	Masc|Dat|Pl	6	pn	318	318
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	831	831
+10	Generalmarsch	Generalmarsch	N	NN	Masc|Acc|Sg	5	obja	831	831
+11	,	,	$	$,	_	0	root	831	831
+12	den	die	P	PRELS	Masc|Acc|Sg	16	obja	831	831
+13	Seine	seine	A	PPOSAT	Fem|Nom|Sg	14	det	831	831
+14	Majestät	Majestät	N	NN	Fem|Nom|Sg	16	subj	_	_
+15	schon	schon	A	ADV	_	16	adv	_	_
+16	kannte	kennen	V	VVFIN	3|Sg|Past|Ind	10	rel	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	390	390
+2	mag	mögen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	das	die	A	ART	Def|Neut|_|Sg	4	det	_	_
+4	Gereiße	Gereiße	N	NN	Neut|_|Sg	2	obja	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	mehr	mehr	A	ADV	_	5	adv	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	die	die	A	ART	Def|Fem|Nom|Pl	3	det	824	824
+3	Damen	Dame	N	NN	Fem|Nom|Pl	4	subj	824	824
+4	schwitzen	schwitzen	V	VVFIN	3|Pl|Pres|_	1	cj	_	_
+5	schon	schon	A	ADV	_	4	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Pfui	Pfui	N	NE	_	0	root	832	832
+2	!	!	$	$.	_	0	root	_	_
+
+1	Pfui	Pfui	N	NE	_	0	root	832	832
+2	!	!	$	$.	_	0	root	_	_
+
+1	Pfui	Pfui	N	NE	_	0	root	832	832
+2	!	!	$	$.	_	0	root	_	_
+
+1	Äh	äh	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ach	ach	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	833	833
+2	fiel	fallen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	ihrer	ihre	A	PPOSAT	Fem|Dat|Sg	6	det	833	833
+5	ganzen	ganz	A	ADJA	Pos|Fem|Dat|Sg|Wk|	6	attr	_	_
+6	Länge	Länge	N	NN	Fem|Dat|Sg	3	pn	_	_
+7	nieder	nieder	P	PTKVZ	_	2	avz	_	_
+8	und	und	K	KON	_	2	kon	_	_
+9	schrie	schreien	V	VVFIN	_|Sg|Past|_	8	cj	_	_
+10	und	und	K	KON	_	9	kon	_	_
+11	schrie	schreien	V	VVFIN	_|Sg|Past|_	10	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Pl	2	det	_	_
+2	Hofdamen	Hofdame	N	NN	Fem|Nom|Pl	3	subj	_	_
+3	flohen	fliehen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+4	kreischend	kreischen	A	ADJD	_|<PPRES	3	adv	_	_
+5	davon	davon	P	PROAV	_	3	pp	_	_
+6	wie	wie	K	KOKOM	_	3	kom	_	_
+7	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	_	_
+8	Schaar	Schaar	N	NN	Fem|_|Pl	6	cj	_	_
+9	Gänse	Gans	N	NN	Fem|_|Pl	8	app	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	wenns	wenns	N	NE	_|Nom|Sg	12	subj	390	390
+12	donnert	donnern	V	VVFIN	3|Sg|Pres|Ind	3	kon	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Seine	seine	A	PPOSAT	Fem|Nom|Sg	2	det	2	2
+2	Majestät	Majestät	N	NN	Fem|Nom|Sg	3	subj	834	834
+3	beugte	beugen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	teilnahmsvoll	teilnahmsvoll	A	ADJD	_	3	adv	_	_
+6	über	über	P	APPR	Acc	3	pp	_	_
+7	Ihre	ihre	A	PPOSAT	Fem|Acc|Sg	8	det	834	834
+8	Majestät	Majestät	N	NN	Fem|Acc|Sg	6	pn	_	_
+9	und	und	K	KON	_	3	kon	_	_
+10	flüsterte	flüstern	V	VVFIN	_|Sg|Past|_	9	cj	_	_
+11	:	\:	$	$.	_	0	root	_	_
+12	Soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+13	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	842	842
+14	vielleicht	vielleicht	A	ADV	_	12	adv	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Gehen	Gehen	N	NN	Neut|_|Sg	3	obja	_	_
+3	sollst	sollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Gehen	gehen	V	VVINF	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Gehen	gehen	V	VVINF	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+

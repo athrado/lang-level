@@ -1,0 +1,458 @@
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	gäbe	geben	V	VVFIN	3|Sg|Past|Subj	0	root	_	_
+3	Leute	Leute	N	NN	_|_|Pl	2	obja	522	522
+4	,	,	$	$,	_	0	root	522	522
+5	die	die	P	PRELS	_|Nom|Pl	10	subj	522	522
+6	sie	sie	P	PPER	3|_|_|_	10	obja	523	523
+7	lieber	lieb	A	ADJD	Comp|	10	adv	_	_
+8	zum	zu	P	APPRART	Dat	10	pp	_	_
+9	Fenster	Fenster	N	NN	Neut|Dat|Sg	8	pn	15	15
+10	hinausgössen	hinausgießen	V	VVFIN	3|Pl|Past|Subj	3	rel	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	eine	eine	A	ART	Indef|Fem|Nom|Sg	4	det	_	_
+4	Frage	Frage	N	NN	Fem|Nom|Sg	2	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	ob	ob	K	KOUS	_	11	konj	_	_
+7	man	man	P	PIS	_|Nom|Sg	11	subj	_	_
+8	dazu	dazu	P	PROAV	_	11	pp	_	_
+9	das	die	A	ART	Def|Neut|_|Sg	10	det	524	524
+10	Recht	Recht	N	NN	Neut|_|Sg	11	obja	524	524
+11	hätte	haben	V	VAFIN	3|Sg|Past|Subj	2	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	9	konj	_	_
+2	sie	sie	P	PPER	3|Pl|_|Nom	9	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+4	zufällig	zufällig	A	ADJD	Pos|	9	adv	_	_
+5	in	in	P	APPR	Dat	9	objp	_	_
+6	einem	eine	A	ART	Indef|Masc|Dat|Sg	8	det	_	_
+7	fremden	fremd	A	ADJA	Pos|Masc|Dat|Sg|Wk|	8	attr	_	_
+8	Keller	Keller	N	NN	Masc|Dat|Sg	5	pn	_	_
+9	liegen	liegen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+10	und	und	K	KON	_	9	kon	_	_
+11	ein	eine	A	ART	Indef|_|_|Sg	12	det	_	_
+12	anderer	anderer	A	ADJA	_|_|Sg	15	subj	_	_
+13	die	die	A	ART	Def|Masc|_|Pl	14	det	_	_
+14	Schlüssel	Schlüssel	N	NN	Masc|_|Pl	15	obja	_	_
+15	hat	haben	V	VAFIN	3|Sg|Pres|Ind	10	cj	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	3	det	_	_
+2	lustiger	lustig	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	_
+3	Vergleich	Vergleich	N	NN	Masc|Nom|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|Nom|Sg	3	app	_	_
+6	Oberst	Oberst	N	NN	Masc|Nom|Sg	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	Vergleich	Vergleich	N	NN	Masc|_|Sg	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	0	0
+2	sprach	sprechen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+3	von	von	P	APPR	Dat	2	pp	_	_
+4	Ihrem	ihre	A	PPOSAT	Masc|Dat|Sg	5	det	_	_
+5	Burgunder	Burgunder	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Herr	Herr	N	NN	Masc|Dat|Sg	5	app	_	_
+8	Leutnant	Leutnant	N	NN	Masc|Dat|Sg	7	app	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	2	det	_	_
+2	Patrouille	Patrouille	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	vorbei	vorbei	P	PTKVZ	_	3	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	salutiert	salutieren	V	VVFIN	_|_|Pres|Ind	3	kon	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	der	die	A	ART	Def|Masc|Nom|Sg	9	det	468	468
+9	Oberst	Oberst	N	NN	Masc|Nom|Sg	10	subj	468	468
+10	dankt	danken	V	VVFIN	3|Sg|Pres|Ind	6	kon	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	hart	hart	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+2	Oberst	Oberst	N	NN	Masc|_|Sg	1	app	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	526	526
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	keine	keine	A	PIAT	Fem|_|Sg	4	det	_	_
+4	Zeit	Zeit	N	NN	Fem|_|Sg	2	obja	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	einen	eine	A	ART	Indef|Masc|Acc|Sg	8	det	525	525
+8	Zufall	Zufall	N	NN	Masc|Acc|Sg	9	obja	525	525
+9	abzuwarten	abwarten	V	VVIZU	_	5	obji	525	525
+10	,	,	$	$,	_	0	root	525	525
+11	der	die	P	PRELS	Masc|Nom|Sg	17	subj	525	525
+12	mir	ich	P	PPER	1|Sg|_|Dat	17	objd	526	526
+13	Beweise	Beweis	N	NN	Masc|_|_	17	obja	_	_
+14	in	in	P	APPR	Acc	17	objp	_	_
+15	die	die	A	ART	Def|Fem|Acc|Sg	16	det	105	105
+16	Hand	Hand	N	NN	Fem|Acc|Sg	14	pn	105	105
+17	spielte	spielen	V	VVFIN	3|Sg|Past|_	8	rel	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	und	und	K	KON	_	4	kon	_	_
+20	käm	käm	F	FM	Fem|_|Sg	19	cj	_	_
+21	'	'	$	$(	_	0	root	_	_
+22	einer	eine	P	PIS	Fem|Gen|Sg	4	gmod	_	_
+23	in	in	P	APPR	Dat	2	pp	_	_
+24	dieser	diese	A	PDAT	Fem|Dat|Sg	25	det	312	312
+25	Sekunde	Sekunde	N	NN	Fem|Dat|Sg	23	pn	312	312
+26	selbst	selbst	A	ADV	_	23	adv	_	_
+27	,	,	$	$,	_	0	root	_	_
+28	er	er	P	PPER	3|Sg|Masc|Nom	29	subj	525	525
+29	hälfe	helfen	V	VVFIN	3|Sg|Past|Subj	2	kon	_	_
+30	nichts	nichts	P	PIS	_|Dat|_	29	objd	_	_
+31	mehr	mehr	A	ADV	_	30	adv	_	_
+32	.	.	$	$.	_	0	root	_	_
+
+1	Denn	denn	K	KON	_	3	koord	_	_
+2	wir	wir	P	PPER	1|Pl|_|Nom	3	subj	527	527
+3	hätten	haben	V	VAFIN	1|Pl|Past|Subj	0	root	_	_
+4	kein	keine	A	PIAT	Neut|_|Sg	5	det	_	_
+5	Recht	Recht	N	NN	Neut|_|Sg	3	obja	_	_
+6	mehr	mehr	A	ADV	_	5	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	um	um	K	KOUI	_	12	konj	_	_
+9	unser	unsre	A	PPOSAT	Neut|_|Sg	10	det	527	527
+10	Leben	Leben	N	NN	Neut|_|Sg	12	obja	_	_
+11	zu	zu	P	PTKZU	_	12	part	_	_
+12	spielen	spielen	V	VVINF	_	3	neb	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	da	da	K	KOUS	_	20	konj	_	_
+15	es	es	P	PPER	3|Sg|Neut|Nom	20	subj	_	_
+16	ja	ja	A	ADV	_	20	adv	_	_
+17	nicht	nicht	P	PTKNEG	_	19	adv	_	_
+18	mehr	mehr	A	ADV	_	17	adv	_	_
+19	uns	wir	P	PPER	1|Pl|_|Dat	20	objd	527	527
+20	gehört	gehören	V	VVFIN	3|Sg|Pres|Ind	12	neb	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	sondern	sondern	K	KON	_	0	root	_	_
+23	dem	die	A	ART	Def|Masc|Dat|Sg	24	det	498	498
+24	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	22	cj	498	498
+25	,	,	$	$,	_	0	root	498	498
+26	dem	die	A	ART	Def|Neut|Dat|Sg	27	det	498	498
+27	Vaterland	Vaterland	N	NN	Neut|Dat|Sg	24	kon	498	498
+28	-	-	$	$(	_	0	root	498	498
+29	oder	oder	K	KON	_	27	kon	498	498
+30	einem	eine	A	ART	Indef|Masc|Dat|Sg	31	det	498	498
+31	Wahn	Wahn	N	NN	Masc|Dat|Sg	29	cj	498	498
+32	.	.	$	$.	_	0	root	_	_
+
+1	Wie	wie	K	KOKOM	_	0	root	_	_
+2	immer	immer	A	ADV	_	1	cj	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	wir	wir	P	PPER	1|Pl|_|Nom	5	subj	527	527
+5	dürften	dürfen	V	VMFIN	1|Pl|Past|Subj	0	root	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	_	_
+7	Einsatz	Einsatz	N	NN	Masc|Acc|Sg	9	obja	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	zurückziehen	zurückziehen	V	VVINF	_	5	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	selbst	selbst	A	ADV	_	12	adv	_	_
+12	wenn	wenn	K	KOUS	_	20	konj	_	_
+13	wir	wir	P	PPER	1|Pl|_|Nom	20	subj	527	527
+14	das	die	A	ART	Def|Neut|_|Sg	15	det	586	586
+15	Spiel	Spiel	N	NN	Neut|_|Sg	20	obja	586	586
+16	mit	mit	P	APPR	Dat	20	pp	_	_
+17	einem	eine	A	ART	Indef|Neut|Dat|Sg	18	det	_	_
+18	Male	Mal	N	NN	Neut|Dat|Sg	16	pn	_	_
+19	abgeschmackt	abgeschmackt	A	ADJD	Pos|	20	adv	_	_
+20	fänden	finden	V	VVFIN	1|Pl|Past|Subj	5	neb	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	528	528
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|_|Sg	3	kon	_	_
+6	Oberst	Oberst	N	NN	Masc|_|Sg	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Doch	doch	K	KON	_	0	root	_	_
+2	versteh	versteh	V	VVFIN	1|Sg|_|_	1	cj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	528	528
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	was	was	P	PWS	Neut|_|Sg	13	obja	_	_
+8	diese	diese	A	PDAT	Neut|Nom|Pl	9	det	353	353
+9	Worte	Wort	N	NN	Neut|Nom|Pl	14	subj	353	353
+10	mir	ich	P	PPER	1|Sg|_|Dat	11	pn	528	528
+11	gegenüber	gegenüber	P	APPO	Dat	13	pp	_	_
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	bedeuten	bedeuten	V	VVINF	_	14	aux	_	_
+14	haben	haben	V	VAFIN	3|Pl|Pres|_	2	rel	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	8	pp	_	_
+2	jedem	jede	A	PIAT	Masc|Dat|Sg	4	det	_	_
+3	andern	andern	A	ADJA	_|Masc|Dat|Sg|_	4	attr	_	_
+4	Augenblick	Augenblick	N	NN	Masc|Dat|Sg	1	pn	_	_
+5	vor	vor	P	APPR	Acc	8	pp	_	_
+6	meine	meine	A	PPOSAT	Fem|Acc|Sg	7	det	528	528
+7	Frage	Frage	N	NN	Fem|Acc|Sg	5	pn	_	_
+8	hingestellt	hinstellen	V	VVPP	_	10	neb	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	hätten	haben	V	VAFIN	3|Pl|Past|Subj	0	root	_	_
+11	Sie	sie	P	PPER	3|Pl|_|Nom	10	subj	353	353
+12	das	die	A	ART	Def|Neut|_|Sg	13	det	524	524
+13	Recht	Recht	N	NN	Neut|_|Sg	10	obja	524	524
+14	,	,	$	$,	_	0	root	_	_
+15	die	die	A	ART	Def|Fem|_|Sg	16	det	529	529
+16	Antwort	Antwort	N	NN	Fem|_|Sg	18	obja	529	529
+17	zu	zu	P	PTKZU	_	18	part	_	_
+18	verweigern	verweigern	V	VVINF	_	10	obji	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	5	pp	_	_
+2	keinem	keine	A	PIAT	Masc|Dat|Sg	4	det	_	_
+3	andern	andern	A	ADJA	_|Masc|Dat|Sg|_	4	attr	_	_
+4	Augenblick	Augenblick	N	NN	Masc|Dat|Sg	1	pn	_	_
+5	hätte	haben	V	VAFIN	1|Sg|Past|Subj	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	528	528
+7	Sie	sie	P	PPER	3|_|_|_	8	obja	353	353
+8	gefragt	fragen	V	VVPP	_	5	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	sondern	sondern	K	KON	_	5	kon	_	_
+11	hätte	haben	V	VAFIN	3|Sg|Past|Subj	10	cj	_	_
+12	mir	ich	P	PPER	1|Sg|_|Dat	16	objd	528	528
+13	die	die	A	ART	Def|Fem|Nom|Sg	14	det	529	529
+14	Antwort	Antwort	N	NN	Fem|Nom|Sg	11	subj	529	529
+15	selbst	selbst	A	ADV	_	16	adv	_	_
+16	verschafft	verschaffen	V	VVPP	_	11	aux	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	ohne	ohne	K	KOUI	_	21	konj	_	_
+19	Sie	sie	P	PPER	3|_|_|_	21	obja	529	529
+20	zu	zu	P	PTKZU	_	21	part	_	_
+21	bemühen	bemühen	V	VVINF	_	11	neb	_	_
+22	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	in	in	P	APPR	Dat	7	pp	_	_
+3	diesem	diese	A	PDAT	Masc|Dat|Sg	4	det	213	213
+4	Augenblick	Augenblick	N	NN	Masc|Dat|Sg	2	pn	213	213
+5	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	antworten	antworten	V	VVINF	_	9	subjc	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wäre	sein	V	VAFIN	_|Sg|Past|Subj	1	cj	_	_
+10	niedriger	niedrig	A	ADJD	Comp|	9	pred	_	_
+11	als	als	K	KOKOM	_	9	kom	_	_
+12	Feigheit	Feigheit	N	NN	Fem|_|Sg	11	cj	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	denn	denn	K	KON	_	9	kon	_	_
+15	Sie	sie	P	PPER	3|Pl|_|Nom	16	subj	353	353
+16	haben	haben	V	VAFIN	3|Pl|Pres|_	14	cj	_	_
+17	nichts	nichts	P	PIS	_	19	obja	_	_
+18	zu	zu	P	PTKZU	_	19	part	_	_
+19	fürchten	fürchten	V	VVINF	_	16	aux	_	_
+20	als	als	K	KOKOM	_	19	kom	_	_
+21	mein	meine	A	PPOSAT	Neut|_|Sg	22	det	528	528
+22	Verstehen	Verstehen	N	NN	Neut|_|Sg	20	cj	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	528	528
+2	erwarte	erwarten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	_	_
+4	Frage	Frage	N	NN	Fem|_|Sg	2	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Herr	Herr	N	NN	Masc|_|Sg	4	app	_	_
+7	Oberst	Oberst	N	NN	Masc|_|Sg	6	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	.	.	$	$.	_	0	root	_	_
+
+1	Brauche	brauchen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	1	subj	528	528
+3	mit	mit	P	APPR	Dat	1	pp	_	_
+4	Worten	Wort	N	NN	Neut|Dat|Pl	3	pn	35	35
+5	zu	zu	P	PTKZU	_	6	part	_	_
+6	fragen	fragen	V	VVINF	_	1	obji	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	oder	oder	K	KON	_	1	kon	_	_
+9	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	8	cj	_	_
+10	mir	ich	P	PPER	1|Sg|_|Dat	14	objd	528	528
+11	Ihr	ihre	A	PPOSAT	Neut|Nom|Sg	12	det	35	35
+12	Zögern	Zögern	N	NN	Neut|Nom|Sg	9	subj	_	_
+13	Antwort	Antwort	N	NN	Fem|Nom|Sg	14	pred	_	_
+14	sein	sein	V	VAINF	_	9	aux	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	528	528
+2	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	an	an	P	APPR	Dat	6	pp	_	_
+4	Ihrer	ihre	A	PPOSAT	Fem|Dat|Sg	5	det	35	35
+5	Seite	Seite	N	NN	Fem|Dat|Sg	3	pn	_	_
+6	fechten	fechten	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Herr	Herr	N	NN	Masc|_|Sg	2	vok	_	_
+9	Oberst	Oberst	N	NN	Masc|_|Sg	8	app	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	3	subj	468	468
+3	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ihn	er	P	PPER	3|Sg|Masc|Acc	3	obja	0	0
+5	lang	lang	A	ADJD	Pos|	3	adv	_	_
+6	an	an	P	PTKVZ	_	3	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Gute	gut	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Nacht	Nacht	N	NN	Fem|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Max	Max	N	NE	Masc|_|Sg	2	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	468	468
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	4	vok	455	455
+2	allein	allein	A	ADV	_	1	adv	455	455
+3	,	,	$	$,	_	0	root	_	_
+4	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	eine	eine	A	ART	Indef|Fem|Nom|Sg	6	det	_	_
+6	Weile	Weile	N	NN	Fem|Nom|Sg	4	subj	_	_
+7	am	an	P	APPRART	Dat	4	pp	_	_
+8	Fenster	Fenster	N	NN	Neut|Dat|Sg	7	pn	15	15
+9	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Albrecht	Albrecht	N	NE	_|_|Sg	0	root	530	530
+2	von	von	P	APPR	_	1	pp	530	530
+3	rechts	rechts	A	ADV	_	2	adv	530	530
+4	ins	in	P	APPRART	Acc	0	root	_	_
+5	Zimmer	Zimmer	N	NN	Neut|Acc|_	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Albrecht	Albrecht	N	NE	_|_|Sg	0	root	530	530
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	3	pp	_	_
+2	wem	wer	P	PWS	_|Dat|Sg	1	pn	_	_
+3	sprachst	sprechen	V	VVFIN	2|Sg|Past|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	eben	eben	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Max	Max	N	NE	Masc|Nom|Sg	4	app	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	3	subj	468	468
+3	blieb	bleiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	an	an	P	APPR	Dat	7	pp	_	_
+5	meinem	meine	A	PPOSAT	Neut|Dat|Sg	6	det	_	_
+6	Fenster	Fenster	N	NN	Neut|Dat|Sg	4	pn	_	_
+7	stehen	stehen	V	VVINF	_	3	obji	_	_
+8	;	;	$	$.	_	0	root	_	_
+9	wir	wir	P	PPER	1|Pl|_|Nom	10	subj	_	_
+10	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+11	geplaudert	plaudern	V	VVPP	_	10	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Albrecht	Albrecht	N	NE	_|_|Sg	0	root	530	530
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	liebt	lieben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	2	obja	531	531
+4	sehr	sehr	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	sah	sehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+4	auch	auch	A	ADV	_	2	adv	_	_
+5	an	an	P	APPR	Dat	2	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	_	_
+7	Tafel	Tafel	N	NN	Fem|Dat|Sg	5	pn	_	_
+8	heute	heute	A	ADV	_	5	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	4	adv	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	4	subj	0	0
+3	dich	du	P	PPER	2|Sg|_|Acc	4	obja	531	531
+4	anblickte	anblicken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Als	Als	K	KOKOM	_	0	root	_	_
+2	tät	tät	F	FM	_	1	cj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	0	root	_	_
+5	ihm	er	P	PPER	3|Sg|_|Dat	0	root	0	0
+6	leid	leid	A	ADJD	Pos|	0	root	_	_
+7	um	um	P	APPR	Acc	6	pp	_	_
+8	dich	du	P	PPER	2|Sg|_|Acc	7	pn	531	531
+9	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	fühlt	fühlen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	7	adv	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	0	0
+6	ihn	er	P	PPER	3|Sg|Masc|Acc	7	obja	0	0
+7	verehre	verehren	V	VVFIN	1|Sg|Pres|_	2	objc	_	_
+8	.	.	$	$.	_	0	root	_	_
+

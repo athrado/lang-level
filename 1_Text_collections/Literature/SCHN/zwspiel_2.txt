@@ -1,0 +1,342 @@
+1	»	»	$	$(	_	0	root	_	_
+2	Bald	bald	A	ADV	_	3	adv	_	_
+3	genug	genug	A	PIAT	_	0	root	_	_
+4	erblick	erblicken	V	VVIMP	Sg	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	0	root	17	17
+7	Sie	sie	P	PPER	3|_|_|_	0	root	13	13
+8	wieder	wieder	A	ADV	_	7	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	wie	wie	K	KOKOM	_	1	kom	8	8
+3	oben	oben	A	ADV	_	2	cj	8	8
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Bald	bald	A	ADV	_	3	adv	_	_
+3	genug	genug	A	PIAT	_	0	root	_	_
+4	erblick	erblicken	V	VVIMP	Sg	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	0	root	22	22
+7	Sie	sie	P	PPER	3|_|_|_	0	root	13	13
+8	wieder	wieder	A	ADV	_	7	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	2	adv	131	131
+2	mit	mit	P	APPR	Dat	8	pp	131	131
+3	Haß	Haß	N	NN	Masc|Dat|Sg	2	pn	131	131
+4	,	,	$	$,	_	0	root	131	131
+5	sondern	sondern	K	KON	_	2	kon	131	131
+6	ironisch	ironisch	A	ADJD	Pos|	5	cj	131	131
+7	,	,	$	$,	_	0	root	131	131
+8	Frau	Frau	N	NN	Fem|_|Sg	0	root	131	131
+9	Gräfin	Gräfin	N	NN	Fem|_|Sg	8	app	131	131
+10	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	18	18
+2	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	7	obja	19	19
+4	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+5	Frau	Frau	N	NN	Fem|Nom|Sg	7	pred	_	_
+6	Gräfin	Gräfin	N	NN	Fem|Nom|Sg	5	app	_	_
+7	nennen	nennen	V	VVINF	_	2	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	sondern	sondern	K	KON	_	0	root	_	_
+10	Friederike	Friederike	N	NE	Fem|_|Sg	9	cj	8	8
+11	,	,	$	$,	_	0	root	_	_
+12	wenn	wenn	K	KOUS	_	16	konj	_	_
+13	Sie	sie	P	PPER	3|Pl|_|Nom	16	subj	18	18
+14	mit	mit	P	APPR	Dat	16	pp	_	_
+15	mir	ich	P	PPER	1|Sg|_|Dat	14	pn	19	19
+16	studieren	studieren	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sehen	sehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	18	18
+3	,	,	$	$,	_	0	root	_	_
+4	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	kon	_	_
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	_	_
+7	Ton	Ton	N	NN	Masc|Nom|Sg	5	pred	_	_
+8	für	für	P	APPR	Acc	7	pp	_	_
+9	die	die	A	ART	Def|Fem|Acc|Sg	10	det	21	21
+10	Philine	Philine	N	NE	Fem|Acc|Sg	8	pn	21	21
+11	.	.	$	$.	_	0	root	_	_
+
+1	Den	die	P	PDS	Masc|Acc|Sg	2	obja	_	_
+2	halten	halten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	18	18
+4	fest	fest	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	.Und	.Und	V	VVFIN	_	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+4	die	die	A	ART	Def|Neut|Nom|Pl	6	det	20	20
+5	richtigen	richtig	A	ADJA	Pos|Neut|Nom|Pl|Wk|	6	attr	20	20
+6	Augen	Auge	N	NN	Neut|Nom|Pl	3	pred	20	20
+7	.	.	$	$.	_	0	root	_	_
+
+1	.Wenn	.Wenn	V	VVFIN	3|_|_|_	0	root	_	_
+2	Sie	sie	P	PPER	3|_|_|Nom	1	subj	20	20
+3	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+4	auf	auf	P	APPR	Dat	7	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	236	236
+6	Bühne	Bühne	N	NN	Fem|Dat|Sg	4	pn	236	236
+7	träfen	treffen	V	VVFIN	_|Pl|Past|Subj	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	dann	dann	A	ADV	_	10	adv	_	_
+10	wären	sein	V	VAFIN	3|Pl|Past|Subj	7	kon	_	_
+11	Sie	sie	P	PPER	3|Pl|_|Nom	10	subj	20	20
+12	beinah	beinah	A	ADV	_	10	adv	_	_
+13	eine	eine	A	ART	Indef|Fem|Nom|Sg	14	det	_	_
+14	Künstlerin	Künstlerin	N	NN	Fem|Nom|Sg	10	pred	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ach	ach	I	ITJ	_	0	root	_	_
+2	Gott	Gott	N	NN	Masc|_|Sg	0	root	28	28
+3	,	,	$	$,	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	22	22
+5	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+6	die	die	A	ART	Def|Fem|_|Sg	7	det	21	21
+7	Philine	Philine	N	NE	Fem|_|Sg	11	obja	21	21
+8	schon	schon	A	ADV	_	11	adv	_	_
+9	mindestens	mindestens	A	ADV	_	11	adv	_	_
+10	zwanzigmal	zwanzigmal	A	ADV	_	11	adv	_	_
+11	gesungen	singen	V	VVPP	_	5	aux	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	hier	hier	A	ADV	_	3	adv	_	_
+3	nicht	nicht	P	PTKNEG	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Fried	Fried	N	NE	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+2	Gräfin	Gräfin	N	NN	Fem|_|Sg	1	app	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wenn	wenn	K	KOUS	_	9	konj	_	_
+5	Frau	Frau	N	NN	Fem|Nom|Sg	9	subj	22	22
+6	Adams-Ortenburg	Adams-Ortenburg	N	NE	_|Nom|Sg	5	app	22	22
+7	die	die	A	ART	Def|_|_|_	8	det	64	64
+8	Mignon	Mignon	N	NN	_|_|_	9	obja	64	64
+9	sang	singen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Beugt	beugen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	sich	sie	P	PRF	3|_|Dat	1	objd	_	_
+3	vor	vor	P	PTKVZ	_	1	avz	_	_
+4	und	und	K	KON	_	1	kon	_	_
+5	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	4	cj	_	_
+6	nach	nach	P	APPR	Dat	5	pp	_	_
+7	dem	die	A	ART	Def|Masc|Dat|Sg	8	det	1	1
+8	Garten	Garten	N	NN	Masc|Dat|Sg	6	pn	1	1
+9	hinaus	hinaus	P	PTKVZ	_	5	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	8	8
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Lächelnd	lächeln	A	ADJD	_|<PPRES	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|Nom|Sg	4	det	_	_
+4	Probe	Probe	N	NN	Fem|Nom|Sg	2	subj	_	_
+5	noch	noch	A	ADV	_	6	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+7	aus	aus	P	PTKVZ	_	2	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	aufgestanden	aufgestehen	V	VVPP	_	2	aux	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	richtig	richtig	A	ADJD	Pos|	1	pred	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	12	konj	_	_
+6	Frau	Frau	N	NN	Fem|Nom|Sg	12	subj	22	22
+7	Adams-Ortenburg	Adams-Ortenburg	N	NE	_|Nom|Sg	6	app	22	22
+8	nächsten	nah	A	ADJA	_|Masc|_|Sg|_|	9	attr	_	_
+9	Herbst	Herbst	N	NN	Masc|_|Sg	12	obja	_	_
+10	in	in	P	APPR	_	12	pp	_	_
+11	Berlin	Berlin	N	NE	_|_|Sg	10	pn	141	141
+12	gastiert	gastieren	V	VVFIN	3|Sg|Pres|Ind	1	objc	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	sicher	sicher	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Er	er	P	PPER	3|Sg|Masc|Nom	3	subj	6	6
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	zum	zu	P	APPRART	Dat	3	objp	_	_
+5	Fenster	Fenster	N	NN	Neut|Dat|Sg	4	pn	36	36
+6	rechts	rechts	A	ADV	_	4	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	gestatten	gestatten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Öffnet	öffnen	V	VVFIN	_|_|Pres|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	3	det	_	_
+2	herrlicher	herrlich	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	_
+3	Sommertag	Sommertag	N	NN	Masc|Nom|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wie	wie	P	PWAV	_	5	adv	_	_
+3	Ihre	ihre	A	PPOSAT	Fem|Nom|Pl	4	det	8	8
+4	Rosen	Rosa	N	NN	Fem|Nom|Pl	5	subj	_	_
+5	duften	duften	V	VVFIN	3|Pl|Pres|_	1	cj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Beinah	Beinah	A	ADJD	Pos|	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Beinahe	beinahe	A	ADV	_	0	root	_	_
+2	wie	wie	K	KOKOM	_	1	kom	_	_
+3	in	in	P	APPR	_	2	cj	_	_
+4	Tremezzo	Tremezzo	N	NE	_|_|_	3	pn	23	23
+5	-	-	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	8	8
+7	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	23	23
+4	das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+5	wissen	wissen	V	VVINF	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	23	23
+2	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	noch	noch	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	dort	dort	A	ADV	_	2	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	23	23
+3	haben	haben	V	VAFIN	3|Pl|Pres|_	1	cj	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	_	_
+5	genug	genug	A	ADV	_	7	adv	_	_
+6	davon	davon	P	PROAV	_	7	pp	_	_
+7	erzählt	erzählen	V	VVPP	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	2	det	268	268
+2	Villa	Villa	N	NN	Fem|Nom|Sg	3	subj	268	268
+3	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	am	an	P	APPRART	Dat	3	objp	_	_
+5	Wasser	Wasser	N	NN	Neut|Dat|Sg	4	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	leuchtend	leuchten	A	ADJD	_|<PPRES	0	root	_	_
+8	und	und	K	KON	_	0	root	_	_
+9	weiß	wissen	V	VVFIN	_|Sg|Pres|Ind	8	cj	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Marmorstufen	Marmorstufe	N	NN	Fem|Nom|Pl	12	subj	_	_
+12	führen	fahren	V	VVFIN	3|Pl|_|_	9	kon	_	_
+13	geradeaus	geradeaus	A	ADV	_	14	adv	_	_
+14	in	in	P	APPR	Acc	12	pp	_	_
+15	den	die	A	ART	Def|Masc|Acc|Sg	17	det	_	_
+16	blauen	blau	A	ADJA	Pos|Masc|Acc|Sg|_|	17	attr	_	_
+17	See	See	N	NN	Masc|Acc|Sg	14	pn	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	in	in	P	APPR	Dat	6	pp	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	heißen	heiß	A	ADJA	Pos|Fem|Dat|Pl|_|	5	attr	_	_
+5	Nächten	Nacht	N	NN	Fem|Dat|Pl	2	pn	_	_
+6	schlafe	schlafen	V	VVFIN	1|Sg|Pres|_	1	cj	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	8	8
+8	zuweilen	zuweilen	A	ADV	_	6	adv	_	_
+9	mitten	mitten	A	ADV	_	10	adv	_	_
+10	im	in	P	APPRART	Dat	6	pp	_	_
+11	Park	Park	N	NN	Masc|Dat|Sg	10	pn	_	_
+12	auf	auf	P	APPR	Dat	6	pp	_	_
+13	dem	die	A	ART	Def|_|Dat|Sg	14	det	_	_
+14	Rasen	Rasen	N	NN	_|Dat|Sg	12	pn	_	_
+15	unter	unter	P	APPR	Dat	6	pp	_	_
+16	einer	eine	A	ART	Indef|Fem|Dat|Sg	17	det	24	24
+17	Platane	Platane	N	NN	Fem|Dat|Sg	15	pn	24	24
+18	.	.	$	$.	_	0	root	_	_
+

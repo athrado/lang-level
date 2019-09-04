@@ -1,0 +1,53 @@
+1	Wenn	wenn	KOUS	KOUS	_	6	konj	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	6	subj	_	(0)
+3	mit	mit	PREP	APPR	Dat	5	pp	_	-
+4	Tieren	Tier	N	NN	Neut|Dat|Pl	3	pn	_	-
+5	sprechen	sprechen	V	VVINF	_	6	aux	_	-
+6	könnte	können	V	VMFIN	1|Sg|Past|Subj	8	neb	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+9	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+10	auf	auf	PREP	APPR	Dat	13	pp	_	-
+11	einem	eine	ART	ART	Indef|Masc|Dat|Sg	12	det	_	-
+12	Tiger	Tiger	N	NN	Masc|Dat|Sg	10	pn	_	-
+13	reiten	reiten	V	VVINF	_	8	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	das	die	ART	ART	Def|Neut|_|Sg	5	det	_	-
+4	schnellste	schnell	ADJA	ADJA	Sup|Neut|_|Sg|Wk|	5	attr	_	-
+5	Tier	Tier	N	NN	Neut|_|Sg	6	obja	_	-
+6	fragen	fragen	V	VVINF	_	2	aux	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	wie	wie	PWAV	PWAV	_	12	adv	_	-
+9	es	es	PRO	PPER	3|Sg|Neut|Nom	12	subj	_	-
+10	so	so	ADV	ADV	_	11	adv	_	-
+11	schnell	schnell	ADV	ADJD	Pos|	12	pred	_	-
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	objc	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	den	die	ART	ART	Def|Masc|Acc|Sg	4	det	_	(1
+4	Bär	Bär	N	NN	Masc|Acc|Sg	5	obja	_	1)
+5	fragen	fragen	V	VVINF	_	2	aux	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	was	was	PRO	PWS	Neut|Nom|Sg	10	subj	_	-
+8	sein	seine	ART	PPOSAT	Neut|Nom|Sg	9	det	_	(1)
+9	Lieblingsessen	Lieblingsesse	N	NN	Neut|Nom|Sg	10	pred	_	-
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	rel	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	meinen	meine	ART	PPOSAT	Masc|_|Sg	4	det	_	(0)|(2
+4	Hund	Hund	N	NN	Masc|_|Sg	5	obja	_	2)
+5	fragen	fragen	V	VVINF	_	2	aux	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	ob	ob	KOUS	KOUS	_	10	konj	_	-
+8	er	er	PRO	PPER	3|Sg|Masc|Nom	10	subj	_	(2)
+9	mich	ich	PRO	PPER	1|Sg|_|Acc	10	obja	_	(0)
+10	vermisst	vermessen	V	VVFIN	3|Sg|Pres|Ind	5	objc	_	-
+11	...	...	$.	$.	_	0	root	_	-
+

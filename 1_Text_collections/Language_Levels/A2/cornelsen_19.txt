@@ -1,0 +1,70 @@
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	3	det	_	-
+2	beste	gut	ADJA	ADJA	Sup|Fem|Nom|Sg|_|	3	attr	_	-
+3	Erfindung	Erfindung	N	NN	Fem|Nom|Sg	4	subj	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	für	für	PREP	APPR	Acc	4	pp	_	-
+6	mich	ich	PRO	PPER	1|Sg|_|Acc	5	pn	_	(0)
+7	im	in	PREP	APPRART	Dat	4	pp	_	-
+8	Moment	Moment	N	NN	_|Dat|Sg	7	pn	_	-
+9	–	–	$(	$(	_	0	root	_	-
+10	bitte	bitte	ITJ	ITJ	_	0	root	_	-
+11	nicht	nicht	PTKNEG	PTKNEG	_	12	adv	_	-
+12	lachen	lachen	V	VVINF	_	0	root	_	-
+13	!	!	$.	$.	_	0	root	_	-
+
+1	–	–	$(	$(	_	0	root	_	-
+2	das	die	ART	ART	Def|Neut|_|Sg	3	det	_	-
+3	Nasenspray	Nasenspray	N	NN	Neut|_|Sg	0	root	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	seit	seit	PREP	APPR	Dat	8	pp	_	-
+4	einer	eine	ART	ART	Indef|Fem|Dat|Sg	5	det	_	-
+5	Woche	Woche	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	richtig	richtig	ADV	ADJD	Pos|	7	adv	_	-
+7	schlimm	schlimm	ADV	ADJD	Pos|	8	adv	_	-
+8	erkältet	erkälten	V	VVPP	_	2	aux	_	-
+9	–	–	$(	$(	_	0	root	_	-
+10	Schnupfen	Schnupfen	N	NN	_|_|_	0	root	_	-
+11	,	,	$,	$,	_	0	root	_	-
+12	Husten	Husten	N	NN	_|_|_	10	kon	_	-
+13	,	,	$,	$,	_	0	root	_	-
+14	Halsschmerzen	Halsschmerz	N	NN	_|_|_	12	kon	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Ohne	ohne	PREP	APPR	Acc	3	pp	_	-
+2	Nasenspray	Nasenspray	N	NN	_|Acc|Sg	1	pn	_	-
+3	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	nicht	nicht	PTKNEG	PTKNEG	_	6	adv	_	-
+6	schlafen	schlafen	V	VVINF	_	3	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Fem|Nom|Sg	2	det	_	(0)
+2	Nase	Nase	N	NN	Fem|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	zu	zu	ADV	ADV	_	3	adv	_	-
+5	und	und	KON	KON	_	3	kon	_	-
+6	ich	ich	PRO	PPER	1|Sg|_|Nom	7	subj	_	(0)
+7	bekomme	bekommen	V	VVFIN	1|Sg|Pres|_	5	cj	_	-
+8	keine	keine	ART	PIAT	Fem|_|Sg	9	det	_	-
+9	Luft	Luft	N	NN	Fem|_|Sg	7	obja	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Wer	wer	PRO	PWS	_|Nom|Sg	2	subj	_	-
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	das	die	ART	ART	Def|Neut|_|Sg	0	root	_	-
+4	eigentlich	eigentlich	ADV	ADV	_	5	adv	_	-
+5	erfunden	erfunden	ADV	ADJD	Pos|	0	root	_	-
+6	?	?	$.	$.	_	0	root	_	-
+
+1	Wo	Wo	PWAV	PWAV	_	2	adv	_	-
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	mich	ich	PRO	PRF	1|Sg|Acc	7	obja	_	-
+5	persönlich	persönlich	ADV	ADJD	Pos|	7	adv	_	-
+6	dafür	dafür	PROAV	PROAV	_	7	pp	_	-
+7	bedanken	bedanken	V	VVINF	_	2	aux	_	-
+8	?	?	$.	$.	_	0	root	_	-
+

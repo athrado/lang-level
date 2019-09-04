@@ -1,0 +1,191 @@
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)
+2	Name	Name	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Maria	Maria	N	NE	_|Nom|Sg	3	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	30	30	CARD	CARD	_	4	attr	_	-
+4	Jahre	Jahr	N	NN	Neut|_|Pl	5	grad	_	-
+5	alt	alt	ADV	ADJD	Pos|	2	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Zu	zu	PREP	APPR	Dat	4	objp	_	-
+2	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	3	det	_	(0)
+3	Familie	Familie	N	NN	Fem|Dat|Sg	1	pn	_	-
+4	gehören	gehören	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	außer	außer	PREP	APPR	Dat	4	pp	_	-
+6	mir	ich	PRO	PPER	1|Sg|_|Dat	5	pn	_	(0)
+7	noch	noch	ADV	ADV	_	4	adv	_	-
+8	drei	drei	CARD	CARD	_	10	attr	_	-
+9	weitere	weit	ADJA	ADJA	Comp|Fem|Nom|Pl|St|	10	attr	_	-
+10	Personen	Person	N	NN	Fem|Nom|Pl	4	subj	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)
+2	Mann	Mann	N	NN	Masc|Nom|Sg	4	subj	_	-
+3	Markus	Markus	N	NE	_|Nom|Sg	2	app	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	31	31	CARD	CARD	_	6	attr	_	-
+6	Jahre	Jahr	N	NN	Neut|_|Pl	7	grad	_	-
+7	alt	alt	ADV	ADJD	Pos|	4	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	zwei	zwei	CARD	CARD	_	4	attr	_	(3
+4	Kinder	Kind	N	NN	Neut|_|Pl	2	obja	_	3)
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Unser	unsre	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(1)|(4
+2	Sohn	Sohn	N	NN	Masc|Nom|Sg	4	subj	_	-
+3	Heinrich	Heinrich	N	NE	_|Nom|Sg	2	app	_	4)
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	drei	drei	CARD	CARD	_	6	attr	_	-
+6	Jahre	Jahr	N	NN	Neut|_|Pl	7	grad	_	-
+7	alt	alt	ADV	ADJD	Pos|	4	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Unsere	unsre	ART	PPOSAT	Fem|Nom|Sg	2	det	_	(1)|(5
+2	Tochter	Tochter	N	NN	Fem|Nom|Sg	4	subj	_	-
+3	Valerie	Valerie	N	NE	Fem|Nom|Sg	2	app	_	5)
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	ein	eine	ART	ART	Indef|Neut|_|Sg	6	det	_	-
+6	Jahr	Jahr	N	NN	Neut|_|Sg	7	grad	_	-
+7	alt	alt	ADV	ADJD	Pos|	4	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	auch	auch	ADV	ADV	_	2	adv	_	-
+4	einen	eine	ART	ART	Indef|Masc|Acc|Sg	5	det	_	(2
+5	Hund	Hund	N	NN	Masc|Acc|Sg	2	obja	_	2)
+6	und	und	KON	KON	_	5	kon	_	-
+7	zwei	zwei	CARD	CARD	_	8	attr	_	-
+8	Katzen	Katze	N	NN	Fem|Acc|Pl	6	cj	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(2
+2	Hund	Hund	N	NN	Masc|Nom|Sg	3	subj	_	2)
+3	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Maya	Maya	N	NE	Fem|Nom|Pl	3	pred	_	-
+5	und	und	KON	KON	_	4	kon	_	-
+6	die	die	ART	ART	Def|Fem|Nom|Pl	7	det	_	-
+7	Katzen	Katze	N	NN	Fem|Nom|Pl	5	cj	_	-
+8	Lana	Lana	N	NE	Fem|Nom|Pl	7	app	_	-
+9	und	und	KON	KON	_	8	kon	_	-
+10	Micki	Micki	N	NE	Fem|Nom|Pl	9	cj	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	wohnen	wohnen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	Dat	2	objp	_	-
+4	einem	eine	ART	ART	Indef|Neut|Dat|Sg	5	det	_	-
+5	Dorf	Dorf	N	NN	Neut|Dat|Sg	3	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	-
+2	Stadt	Stadt	N	NN	Fem|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	8	adv	_	-
+5	weit	weit	ADV	ADJD	Pos|	6	adv	_	-
+6	von	von	PREP	APPR	Dat	8	pp	_	-
+7	uns	wir	PRO	PPER	1|Pl|_|Dat	6	pn	_	(1)
+8	entfernt	entfernen	V	VVPP	_	3	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Unser	unsre	ART	PPOSAT	Neut|Nom|Sg	2	det	_	(1)
+2	Haus	Haus	N	NN	Neut|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	klein	klein	ADV	ADJD	Pos|	3	pred	_	-
+5	und	und	KON	KON	_	3	kon	_	-
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	cj	_	-
+7	einen	eine	ART	ART	Indef|Masc|Acc|Sg	8	det	_	-
+8	Garten	Garten	N	NN	Masc|Acc|Sg	6	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Dort	dort	ADV	ADV	_	2	adv	_	-
+2	spielen	spielen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	die	die	ART	ART	Def|Neut|Nom|Pl	4	det	_	(3
+4	Kinder	Kind	N	NN	Neut|Nom|Pl	2	subj	_	3)
+5	gerne	gerne	ADV	ADV	_	2	adv	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Heinrich	Heinrich	N	NE	_|Nom|Sg	2	subj	_	(4)
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	in	in	PREP	APPR	_	2	pp	_	-
+4	den	die	ART	ART	Def|_|_|_	5	det	_	-
+5	Kindergarten	Kindergarten	N	NN	_|_|_	3	pn	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	und	und	KON	KON	_	2	kon	_	-
+8	Valerie	Valerie	N	NE	Fem|Nom|Sg	9	subj	_	(5)
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	7	cj	_	-
+10	bei	bei	PREP	APPR	Dat	9	pp	_	-
+11	mir	ich	PRO	PPER	1|Sg|_|Dat	10	pn	_	(6)
+12	zu	zu	PREP	APPR	Dat	9	pp	_	-
+13	Hause	Haus	N	NN	Neut|Dat|Sg	12	pn	_	(9)
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	_|Nom|Pl	2	det	_	(6)|(8
+2	Eltern	Elter	N	NN	_|Nom|Pl	3	subj	_	8)
+3	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	im	in	PREP	APPRART	Dat	3	pp	_	-
+5	Ausland	Ausland	N	NN	Neut|Dat|Sg	4	pn	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	aber	aber	KON	KON	_	3	kon	_	-
+8	die	die	ART	ART	Def|_|Nom|Pl	9	det	_	(7
+9	Eltern	Elter	N	NN	_|Nom|Pl	12	subj	_	-
+10	meines	meine	ART	PPOSAT	Masc|Gen|Sg	11	det	_	(6)
+11	Mannes	Mann	N	NN	Masc|Gen|Sg	9	gmod	_	7)
+12	leben	leben	V	VVFIN	3|Pl|Pres|_	7	cj	_	-
+13	in	in	PREP	APPR	Dat	12	pp	_	-
+14	der	die	ART	ART	Def|Fem|Dat|Sg	15	det	_	-
+15	Nähe	Nähe	N	NN	Fem|Dat|Sg	13	pn	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(6)
+2	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	sie	sie	PRO	PPER	3|_|_|_	8	obja	_	(7)
+4	mit	mit	PREP	APPR	Dat	8	pp	_	-
+5	den	die	ART	ART	Def|_|Dat|Pl	6	det	_	-
+6	Kindern	Kind	N	NN	_|Dat|Pl	4	pn	_	-
+7	gerne	gerne	ADV	ADV	_	8	adv	_	-
+8	besuchen	besuchen	V	VVINF	_	2	obji	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Oft	oft	ADV	ADV	_	2	adv	_	-
+2	passen	passen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(8)
+4	auch	auch	ADV	ADV	_	2	adv	_	-
+5	auf	auf	PREP	APPR	Acc	2	pp	_	-
+6	die	die	ART	ART	Def|Neut|Acc|Pl	7	det	_	(3
+7	Kinder	Kind	N	NN	Neut|Acc|Pl	5	pn	_	3)
+8	auf	auf	PTKVZ	PTKVZ	_	2	avz	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(6)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Journalistin	Journalistin	N	NN	Fem|Nom|Sg	2	pred	_	-
+4	und	und	KON	KON	_	2	kon	_	-
+5	arbeite	arbeiten	V	VVFIN	_|Sg|Pres|_	4	cj	_	-
+6	meistens	meistens	ADV	ADV	_	5	adv	_	-
+7	von	von	PREP	APPR	_	5	pp	_	-
+8	zu	zu	PREP	APPR	Dat	7	pp	_	-
+9	Hause	Haus	N	NN	Neut|Dat|Sg	8	pn	_	(9)
+10	aus	aus	APZR	APZR	_	8	part	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(6)
+2	Mann	Mann	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Koch	Koch	N	NE	_|Nom|Sg	3	pred	_	-
+5	und	und	KON	KON	_	3	kon	_	-
+6	arbeitet	arbeiten	V	VVFIN	_|_|Pres|_	5	cj	_	-
+7	oft	oft	ADV	ADV	_	6	adv	_	-
+8	am	an	PREP	APPRART	Dat	6	pp	_	-
+9	Wochenende	Wochenende	N	NN	Neut|Dat|Sg	8	pn	_	-
+10	oder	oder	KON	KON	_	8	kon	_	-
+11	abends	abends	ADV	ADV	_	10	cj	_	-
+12	.	.	$.	$.	_	0	root	_	-
+

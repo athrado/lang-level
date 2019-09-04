@@ -1,0 +1,455 @@
+1	Verfluchte	verflucht	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Ödigkeit	Ödigkeit	N	NN	Fem|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Stumpfsinn	Stumpfsinn	N	NN	Masc|Nom|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Buh	Buh	N	NN	Neut|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+3	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+5	sitzte	sitzte	A	ADJD	_	6	adv	_	_
+6	denn	denn	A	ADV	_	7	adv	_	_
+7	egal	egal	A	ADJD	Pos|	8	adv	_	_
+8	hier	hier	A	ADV	_	4	adv	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Kleener	Kleener	N	NE	_	0	root	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Reiß	Reiß	N	NE	_	0	root	31	31
+2	Dich	Dich	N	NE	_	1	app	31	31
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	mal	mal	A	ADV	_	2	adv	_	_
+5	raus	raus	A	ADV	_	6	adv	_	_
+6	aus	aus	P	APPR	Dat	2	pp	_	_
+7	dem	die	A	ART	Def|Masc|Dat|Sg	8	det	_	_
+8	Biersumpf	Biersumpf	N	NN	Masc|Dat|Sg	6	pn	_	_
+9	!	!	$	$.	_	0	root	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Komm	kommen	V	VVIMP	Sg	0	root	_	_
+2	doch	doch	A	ADV	_	1	adv	_	_
+3	mal	mal	A	ADV	_	1	adv	_	_
+4	mit	mit	P	PTKVZ	_	1	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	irgendwohin	irgendwohin	F	FM	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	De	De	N	NE	_	2	obja	55	55
+2	mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	versimpeln	versimpeln	A	ADJD	_	2	adv	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	?	?	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Na	Na	N	NE	Masc|_|Sg	0	root	_	_
+3	Gott	Gott	N	NN	Masc|_|Sg	2	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	wohin	wohin	P	PWAV	_	0	root	_	_
+6	denn	denn	A	ADV	_	5	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	ja	ja	A	ADV	_	1	adv	_	_
+3	nichts	nichts	P	PIS	_|Nom|Sg	1	subj	_	_
+4	los	los	P	PTKVZ	_	1	avz	_	_
+5	in	in	P	APPR	Dat	1	pp	_	_
+6	dem	die	A	ART	Def|Neut|Dat|Sg	7	det	_	_
+7	Neste	Nest	N	NN	Neut|Dat|Sg	5	pn	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Wohin	Wohin	P	PWAV	_	3	adv	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Häringsbändiger	Häringsbändiger	N	NE	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ekelhaft	Ekelhaft	N	NN	_|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+3	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	gehn	gehn	A	ADJA	_	4	attr	31	31
+4	Dich	Dich	N	NN	_	0	root	31	31
+5	denn	denn	A	ADV	_	4	adv	31	31
+6	de	de	F	FM	_	4	app	31	31
+7	Häringsbänd	Häringsbänd	F	FM	_	6	app	31	31
+8	'	'	$	$(	_	0	root	_	_
+9	ger	geren	V	VVIMP	Sg	0	root	_	_
+10	an	an	P	PTKVZ	_	9	avz	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Luft	Luft	N	NN	Fem|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	se	se	N	NE	_	2	obja	_	_
+4	einfach	einfach	A	ADJD	Pos|	2	adv	_	_
+5	nich	nich	A	ADJD	_	2	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	A	A	N	NN	_|_|_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Eklig	eklig	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Zu	Zu	P	PTKA	_	2	adv	_	_
+2	stumpf	stumpf	A	ADJD	Pos|	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	168	168
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	7	obja	_	_
+4	in	in	P	APPR	Acc	7	objp	_	_
+5	den	die	A	ART	Def|Masc|Acc|Sg	6	det	_	_
+6	Korb	Korb	N	NN	Masc|Acc|Sg	4	pn	_	_
+7	legen	legen	V	VVINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Unsinn	Unsinn	N	NN	Masc|_|Sg	0	root	36	36
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sei	sein	V	VAFIN	_|Sg|Pres|Subj	0	root	_	_
+2	mal	mal	A	ADV	_	1	adv	_	_
+3	vernünftig	vernünftig	A	ADJD	Pos|	1	pred	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Komm	kommen	V	VVIMP	Sg	0	root	_	_
+2	doch	doch	A	ADV	_	1	adv	_	_
+3	mal	mal	A	ADV	_	1	adv	_	_
+4	mit	mit	P	PTKVZ	_	1	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	ins	in	P	APPRART	Acc	1	pp	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	Pologne	Pologne	N	NE	_|Acc|_	6	pn	33	33
+9	'	'	$	$(	_	0	root	33	33
+10	meintwegen	meintwegen	N	NE	_|Acc|_	8	app	33	33
+11	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	denn	denn	A	ADV	_	7	adv	_	_
+4	überhaupt	überhaupt	A	ADV	_	7	adv	_	_
+5	dei	dei	A	ADJA	_|Masc|Nom|Sg|_	6	attr	168	168
+6	Vater	Vater	N	NN	Masc|Nom|Sg	2	subj	168	168
+7	sagen	sagen	V	VVINF	_	2	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wenn	wenn	K	KOUS	_	13	konj	_	_
+10	de	de	N	NE	_|Dat|_	13	objd	_	_
+11	nach	nach	P	APPR	Dat	13	pp	_	_
+12	Amerika	Amerika	N	NE	Neut|Dat|Sg	11	pn	32	32
+13	kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	2	neb	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	bist	sein	V	VAFIN	2|Sg|Pres|Ind	14	cj	_	_
+16	noch	noch	A	ADV	_	15	adv	_	_
+17	in	in	P	APPR	_	15	pp	_	_
+18	keen	keen	F	FM	_|_|_	17	pn	_	_
+19	'	'	$	$(	_	0	root	_	_
+20	Tingeltangel	Tingeltangel	N	NN	_|Nom|Sg	15	pred	_	_
+21	gewesen	sein	V	VAPP	_	0	root	_	_
+22	?	?	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	3	adv	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	ne	ne	A	ADJA	_|Fem|_|Sg|_	4	attr	_	_
+4	Unbildung	Unbildung	N	NN	Fem|_|Sg	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Meinetwegen	Meinetwegen	N	NE	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Gehn	Gehn	V	VVIMP	_	0	root	_	_
+2	wir	wir	P	PPER	1|Pl|_|Nom	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	169	169
+2	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	um	um	P	APPR	_	2	pp	_	_
+5	hier	hier	A	ADV	_	4	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	sie	sie	P	PPER	3|Pl|_|Nom	3	subj	10	10
+3	gingen	gehen	V	VVFIN	3|Pl|Past|_	1	cj	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	schon	schon	A	ADV	_	2	adv	_	_
+4	halb	halb	A	ADJD	Pos|	2	adv	_	_
+5	zehn	zehn	C	CARD	_	6	attr	_	_
+6	Uhr	Uhr	N	NN	Fem|Nom|Sg	2	pred	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wie	wie	P	PWAV	_	19	adv	_	_
+9	sie	sie	P	PPER	3|Pl|_|Nom	19	subj	10	10
+10	in	in	P	APPR	Acc	19	objp	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	_	_
+12	Tunnel	Tunnel	N	NN	Masc|Acc|Sg	10	pn	_	_
+13	des	die	A	ART	Def|_|Gen|Sg	15	det	33	33
+14	»	»	$	$(	_	0	root	33	33
+15	Hotel	Hotel	N	NN	_|Gen|Sg	12	gmod	33	33
+16	de	de	N	NE	_|Gen|Sg	15	app	33	33
+17	Pologne	Pologne	N	NE	_|Gen|Sg	16	app	33	33
+18	«	«	$	$(	_	0	root	_	_
+19	kamen	kommen	V	VVFIN	3|Pl|Past|Ind	2	objc	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|_|Sg	3	det	34	34
+2	angefettete	angefettet	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	169	169
+3	Chansonette	Chansonett	N	NN	Fem|Nom|Sg	4	subj	34	34
+4	sang	singen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+5	eben	eben	A	ADV	_	4	adv	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	»	»	$	$(	_	0	root	_	_
+8	Hab	Hab	N	NE	_	0	root	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	0	root	34	34
+11	nur	nur	A	ADV	_	13	adv	_	_
+12	Deine	deine	A	PPOSAT	_|_|_	13	det	_	_
+13	Liebe	Liebe	N	NN	_|_|_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+15	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Pfui	Pfui	N	NE	_	0	root	_	_
+3	Teufel	Teufel	N	NE	_	2	app	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	34	34
+2	kehre	kehren	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	um	um	P	PTKVZ	_	2	avz	_	_
+4	«	«	$	$(	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+7	der	die	A	ART	Def|Masc|Nom|Sg	9	det	35	35
+8	kleine	klein	A	ADJA	Pos|Masc|Nom|Sg|Wk|	9	attr	35	35
+9	Amerikaner	Amerikaner	N	NN	Masc|Nom|Sg	6	subj	35	35
+10	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Unsinn	Unsinn	N	NN	Masc|_|Sg	0	root	36	36
+3	!	!	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	0	root	_	_
+2	bleibste	bleibste	N	NE	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Nee	Nee	N	NE	_	3	vok	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	gucke	gucken	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+4	doch	doch	A	ADV	_	3	adv	_	_
+5	da	da	A	ADV	_	3	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	3	konj	_	_
+2	unten	unten	A	ADV	_	3	adv	_	_
+3	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ja	ja	A	ADV	_	3	adv	_	_
+5	Stilpe	Stilpe	N	NN	_|Nom|Sg	3	subj	37	37
+6	!	!	$	$.	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Natürlich	natürlich	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	2	adv	_	_
+2	komm	kommen	V	VVIMP	Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	37	37
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	Platz	Platz	N	NN	Masc|_|Sg	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	Stilpe	Stilpe	N	NE	_|Nom|_	8	subj	38	38
+2	,	,	$	$,	_	0	root	_	_
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	9	9
+4	inaktiver	inaktiv	A	ADJA	Pos|Masc|Nom|Sg|St|	5	attr	9	9
+5	Bursch	Bursch	N	NN	Masc|Nom|Sg	8	pred	9	9
+6	der	die	A	ART	Def|Fem|Gen|Sg	7	det	12	12
+7	Verbindung	Verbindung	N	NN	Fem|Gen|Sg	5	gmod	9	9
+8	genannt	nennen	V	VVPP	_	0	root	_	_
+9	der	die	A	ART	Def|Masc|Nom|Sg	10	det	_	_
+10	Mulatte	Mulatte	N	NN	Masc|Nom|Sg	0	root	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	weil	weil	K	KOUS	_	22	konj	_	_
+13	er	er	P	PPER	3|Sg|Masc|Nom	22	subj	38	38
+14	in	in	P	APPR	Dat	22	pp	_	_
+15	der	die	A	ART	Def|Fem|Dat|Sg	16	det	39	39
+16	That	That	N	NN	Fem|Dat|Sg	14	pn	39	39
+17	mit	mit	P	APPR	Dat	22	pp	_	_
+18	einem	eine	A	ART	Indef|Masc|Dat|Sg	19	det	_	_
+19	Indogermanen	Indogermane	N	NN	Masc|Dat|Sg	17	pn	_	_
+20	wenig	wenig	A	PIDAT	Fem|_|Sg	21	det	_	_
+21	Ähnlichkeit	Ähnlichkeit	N	NN	Fem|_|Sg	22	obja	_	_
+22	hatte	haben	V	VAFIN	3|Sg|Past|Ind	24	neb	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	saß	sitzen	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+25	direkt	direkt	A	ADJD	Pos|	26	adv	_	_
+26	an	an	P	APPR	Dat	24	pp	_	_
+27	der	die	A	ART	Def|Fem|Dat|Sg	28	det	154	154
+28	Rampe	Rampe	N	NN	Fem|Dat|Sg	26	pn	154	154
+29	,	,	$	$,	_	0	root	_	_
+30	wie	wie	K	KOKOM	_	0	root	_	_
+31	immer	immer	A	ADV	_	30	cj	_	_
+32	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	38	38
+3	liebe	lieben	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	in	in	P	APPR	Dat	3	pp	_	_
+5	solchen	solche	A	PIDAT	Neut|Dat|_	6	det	_	_
+6	Dingen	Ding	N	NN	Neut|Dat|_	4	pn	_	_
+7	die	die	A	ART	Def|Fem|_|Sg	8	det	_	_
+8	Froschperspektive	Froschperspektive	N	NN	Fem|_|Sg	3	obja	_	_
+9	«	«	$	$(	_	0	root	_	_
+10	pflegte	pflegen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+11	er	er	P	PPER	3|Sg|Masc|Nom	10	subj	38	38
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	sagen	sagen	V	VVINF	_	10	obji	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	um	um	K	KOUI	_	19	konj	_	_
+16	diese	diese	A	PDAT	Fem|_|Sg	17	det	_	_
+17	Angewohnheit	Angewohnheit	N	NN	Fem|_|Sg	19	obja	_	_
+18	zu	zu	P	PTKZU	_	19	part	_	_
+19	erklären	erklären	V	VVINF	_	13	neb	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	40	40
+3	Blick	Blick	N	NN	Masc|Nom|Sg	4	subj	40	40
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	intimer	intim	A	ADJD	Comp|	4	adv	_	_
+6	so	so	A	ADV	_	4	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+9	Als	Als	K	KOUS	_	15	konj	_	_
+10	sie	sie	P	PPER	3|Pl|_|Nom	15	subj	10	10
+11	zu	zu	P	APPR	Dat	15	objp	_	_
+12	ihm	er	P	PPER	3|Sg|_|Dat	11	pn	40	40
+13	nach	nach	P	APPR	Dat	12	pp	_	_
+14	vorn	vorn	A	ADV	_	13	adv	_	_
+15	kamen	kommen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	hatte	haben	V	VAFIN	_|Sg|Past|Ind	15	kon	_	_
+18	die	die	A	ART	Def|_|Nom|_	19	det	_	_
+19	Fette	Fett	N	NN	_|Nom|_	32	subj	_	_
+20	(	(	$	$(	_	0	root	_	_
+21	Trudi	Trudi	N	NE	Masc|Nom|Sg	23	subj	41	41
+22	Muff	Muff	N	NN	Masc|Nom|Sg	21	app	41	41
+23	hieß	heißen	V	VVFIN	3|Sg|Past|Ind	19	par	_	_
+24	sie	sie	P	PPER	3|_|_|Nom	23	pred	10	10
+25	auf	auf	P	APPR	Dat	23	pp	_	_
+26	dem	die	A	ART	Def|Masc|Dat|Sg	27	det	_	_
+27	Programmzettel	Programmzettel	N	NN	Masc|Dat|Sg	25	pn	_	_
+28	)	)	$	$(	_	0	root	_	_
+29	eben	eben	A	ADV	_	32	adv	_	_
+30	ihr	ihre	A	PPOSAT	Neut|_|Sg	31	det	10	10
+31	Lied	Lied	N	NN	Neut|_|Sg	32	obja	_	_
+32	beendet	beenden	V	VVPP	_	17	neb	_	_
+33	,	,	$	$,	_	0	root	_	_
+34	und	und	K	KON	_	17	kon	_	_
+35	Stilpe	Stilpe	N	NE	_|Nom|Sg	36	subj	37	37
+36	rollte	rollen	V	VVFIN	3|Sg|Past|_	34	cj	_	_
+37	ihr	ihr	P	PPER	_|_|_|_	0	root	37	37
+38	als	als	K	KOKOM	_	43	kom	_	_
+39	Zeichen	Zeichen	N	NN	Neut|_|_	38	cj	_	_
+40	seines	seine	A	PPOSAT	Masc|Gen|Sg	41	det	37	37
+41	Beifalls	Beifall	N	NN	Masc|Gen|Sg	39	gmod	_	_
+42	eine	eine	A	ART	Indef|Fem|_|Sg	43	det	_	_
+43	Konservenbüchse	Konservenbüchse	N	NN	Fem|_|Sg	0	root	_	_
+44	mit	mit	P	APPR	Dat	43	pp	_	_
+45	Cornedbeef	Cornedbeef	N	NN	_|Dat|_	44	pn	_	_
+46	hinter	hinter	P	APPR	Acc	45	pp	_	_
+47	die	die	A	ART	Def|_|Acc|_	48	det	_	_
+48	Koulissen	Koulissen	N	NN	_|Acc|_	46	pn	_	_
+49	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Närrisches	närrisch	A	ADJA	Pos|Neut|_|Sg|St|	3	attr	_	_
+3	Luderchen	Luderchen	N	NN	Neut|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+6	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+7	zum	zu	P	APPRART	Dat	6	pp	_	_
+8	Danke	Dank	N	NN	Masc|Dat|Sg	7	pn	_	_
+9	das	die	A	ART	Def|Neut|Nom|Sg	11	det	_	_
+10	dicke	dick	A	ADJA	Pos|Neut|Nom|Sg|Wk|	11	attr	_	_
+11	Mädchen	Mädchen	N	NN	Neut|Nom|Sg	6	subj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	41	41
+2	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	übrigens	übrigens	A	ADV	_	2	adv	_	_
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	eine	eine	A	ART	Indef|Fem|_|Sg	7	det	_	_
+6	ganze	ganz	A	ADJA	Pos|Fem|_|Sg|_|	7	attr	_	_
+7	Reihe	Reihe	N	NN	Fem|_|Sg	2	obja	_	_
+8	von	von	P	APPR	_	7	pp	_	_
+9	derartigem	derartigem	N	NN	_|_|_	8	pn	_	_
+10	»	»	$	$(	_	0	root	_	_
+11	praktischen	praktisch	A	ADJA	Pos|_|_|_|_|	12	attr	_	_
+12	Lorber	Lorber	N	NN	_|_|_	9	app	_	_
+13	«	«	$	$(	_	0	root	_	_
+14	vor	vor	P	APPR	_	2	pp	_	_
+15	sich	sie	P	PRF	3|_|_	14	pn	_	_
+16	stehen	stehen	V	VVINF	_	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Stilpe	Stilpe	N	NE	_	0	root	38	38
+5	!	!	$	$.	_	0	root	_	_
+
+1	?	?	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Mann	Mann	N	NN	Masc|_|_	0	root	157	157
+3	?	?	$	$.	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sogar	sogar	A	ADV	_	2	adv	60	60
+2	Jankeedudelchen	Jankeedudelchen	N	NE	_|Nom|Sg	3	subj	60	60
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	in	in	P	APPR	Acc	3	objp	_	_
+5	diese	diese	A	PDAT	Fem|Acc|Sg	6	det	_	_
+6	Höhle	Höhle	N	NN	Fem|Acc|Sg	4	pn	_	_
+7	der	die	A	ART	Def|Fem|Gen|Pl	9	det	_	_
+8	wilden	wild	A	ADJA	Pos|Fem|Gen|Pl|Wk|	9	attr	_	_
+9	Europäerinnen	Europäerin	N	NN	Fem|Gen|Pl	6	gmod	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Oh	oh	I	ITJ	_	0	root	_	_
+2	Sternenbanner	Sternenbanner	N	NN	Neut|_|_	0	root	42	42
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sternenbanner	Sternenbanner	N	NN	Neut|_|_	0	root	42	42
+2	!	!	$	$.	_	0	root	_	_
+

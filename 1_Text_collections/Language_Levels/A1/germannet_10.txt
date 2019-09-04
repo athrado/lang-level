@@ -1,0 +1,147 @@
+1	Jan	Jan	N	NE	Masc|Nom|Sg	2	subj	_	(0)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	einen	eine	ART	ART	Indef|Masc|Acc|Sg	5	det	_	(1
+4	kleinen	klein	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	5	attr	_	-
+5	Hund	Hund	N	NN	Masc|Acc|Sg	2	obja	_	1)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Struppi	Struppi	N	NE	_|Nom|_	2	pred	_	(2)
+4	und	und	KON	KON	_	2	kon	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	cj	_	-
+6	noch	noch	ADV	ADV	_	5	adv	_	-
+7	jung	jung	ADV	ADJD	Pos|	5	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|Neut|_|Sg	5	det	_	-
+4	weißes	weiß	ADJA	ADJA	Pos|Neut|_|Sg|St|	5	attr	_	-
+5	Fell	Fell	N	NN	Neut|_|Sg	2	obja	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	kleine	klein	ADJA	ADJA	Pos|Neut|_|Pl|St|	10	attr	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	spitze	spitz	ADJA	ADJA	Pos|_|_|_|_|	7	kon	_	-
+10	Ohren	Ohr	N	NN	Neut|_|Pl	6	cj	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Jan	Jan	N	NE	Masc|Nom|Sg	2	subj	_	(0)
+2	spielt	spielen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	viel	viel	PRO	PIS	_	2	obja	_	-
+4	mit	mit	PREP	APPR	Dat	2	pp	_	-
+5	ihm	er	PRO	PPER	3|Sg|_|Dat	4	pn	_	(1)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Junge	jung	ADJA	ADJA	Pos|Masc|Nom|Pl|St|	2	attr	_	-
+2	Hunde	Hund	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	wollen	wollen	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+4	noch	noch	ADV	ADV	_	6	adv	_	-
+5	viel	viel	PRO	PIS	_	6	obja	_	-
+6	unternehmen	unternehmen	V	VVINF	_	3	aux	_	-
+7	und	und	KON	KON	_	3	kon	_	-
+8	so	so	ADV	ADV	_	9	adv	_	-
+9	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	7	cj	_	-
+10	Jan	Jan	N	NE	Masc|Nom|Sg	9	subj	_	(0)
+11	jeden	jede	ART	PIDAT	_|_|Sg	12	det	_	-
+12	Tag	Tag	N	NN	_|_|Sg	15	obja	_	-
+13	mit	mit	PREP	APPR	Dat	15	pp	_	-
+14	ihm	er	PRO	PPER	3|Sg|_|Dat	13	pn	_	(1)
+15	spazieren	spazieren	V	VVINF	_	9	obji	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Struppi	Struppi	N	NE	_|Nom|Sg	2	subj	_	(2)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	immer	immer	ADV	ADV	_	2	adv	_	-
+4	Hunger	Hunger	N	NN	Masc|_|Sg	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(2)
+2	bekommt	bekommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	morgens	morgens	ADV	ADV	_	2	adv	_	-
+4	seine	seine	ART	PPOSAT	Masc|_|_	5	det	_	(2)
+5	Hundekuchen	Hundekuchen	N	NN	Masc|_|_	2	obja	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	aber	aber	KON	KON	_	2	kon	_	-
+8	mittags	mittags	ADV	ADV	_	9	adv	_	-
+9	will	wollen	V	VMFIN	3|Sg|Pres|Ind	7	cj	_	-
+10	er	er	PRO	PPER	3|Sg|Masc|Nom	9	subj	_	(2)
+11	schon	schon	ADV	ADV	_	14	adv	_	-
+12	wieder	wieder	ADV	ADV	_	14	adv	_	-
+13	etwas	etwas	ADV	ADV	_	14	adv	_	-
+14	essen	essen	V	VVINF	_	9	aux	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Jan	Jan	N	NE	Masc|Nom|Sg	2	subj	_	(0)
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ihm	er	PRO	PPER	3|Sg|_|Dat	2	objd	_	(2)
+4	aber	aber	ADV	ADV	_	2	adv	_	-
+5	nichts	nichts	PRO	PIS	_	2	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Erst	erst	ADV	ADV	_	2	adv	_	-
+2	am	an	PREP	APPRART	Dat	4	pp	_	-
+3	Abend	Abend	N	NN	Masc|Dat|Sg	2	pn	_	-
+4	bekommt	bekommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	Struppi	Struppi	N	NE	_|Nom|Sg	4	subj	_	(2)
+6	noch	noch	ADV	ADV	_	4	adv	_	-
+7	eine	eine	ART	ART	Indef|Fem|_|Sg	8	det	_	-
+8	Mahlzeit	Mahlzeit	N	NN	Fem|_|Sg	4	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Struppi	Struppi	N	NE	_|Nom|Sg	2	subj	_	(2)
+2	schläft	schlafen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	in	in	PREP	APPR	Dat	2	pp	_	-
+4	einem	eine	ART	ART	Indef|Masc|Dat|Sg	6	det	_	-
+5	runden	rund	ADJA	ADJA	Pos|Masc|Dat|Sg|Wk|	6	attr	_	-
+6	Korb	Korb	N	NN	Masc|Dat|Sg	3	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Dort	dort	ADV	ADV	_	2	adv	_	-
+2	fühlt	fühlen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(2)
+4	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+5	sehr	sehr	ADV	ADV	_	6	adv	_	-
+6	wohl	wohl	ADV	ADV	_	2	adv	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Wenn	wenn	KOUS	KOUS	_	6	konj	_	-
+2	Jan	Jan	N	NE	Masc|Nom|Sg	6	subj	_	(0)
+3	in	in	PREP	APPR	Dat	6	pp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	-
+5	Schule	Schule	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	8	neb	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+9	Struppi	Struppi	N	NE	_|Nom|Sg	8	subj	_	(2)
+10	traurig	traurig	ADV	ADJD	Pos|	8	pred	_	-
+11	und	und	KON	KON	_	8	kon	_	-
+12	wartet	warten	V	VVFIN	_|_|Pres|_	11	cj	_	-
+13	auf	auf	PREP	APPR	Acc	12	pp	_	-
+14	ihn	er	PRO	PPER	3|Sg|Masc|Acc	13	pn	_	(2)
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	freut	freuen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+4	sehr	sehr	ADV	ADV	_	2	adv	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	wenn	wenn	KOUS	KOUS	_	13	konj	_	-
+7	sein	seine	ART	PPOSAT	Masc|Nom|Sg	8	det	_	(0)
+8	Freund	Freund	N	NN	Masc|Nom|Sg	13	subj	_	-
+9	wieder	wieder	ADV	ADV	_	13	adv	_	-
+10	zurück	zurück	ADV	ADV	_	13	adv	_	-
+11	nach	nach	PREP	APPR	Dat	13	pp	_	-
+12	Hause	Haus	N	NN	Neut|Dat|Sg	11	pn	_	-
+13	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	2	neb	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Jan	Jan	N	NE	Masc|Nom|Sg	2	subj	_	(0)
+2	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	0	root	_	-
+3	nie	nie	ADV	ADV	_	7	adv	_	-
+4	mehr	mehr	ADV	ADV	_	7	adv	_	-
+5	ohne	ohne	PREP	APPR	Acc	7	pp	_	-
+6	Hund	Hund	N	NN	Masc|Acc|Sg	5	pn	_	-
+7	leben	leben	V	VVINF	_	2	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

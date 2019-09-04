@@ -1,0 +1,504 @@
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	wendet	wenden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	halb	halb	A	ADJD	Pos|	2	adv	_	_
+5	um	um	P	PTKVZ	_	2	avz	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	Reisacher	Reisacher	F	FM	_	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	228	228
+2	ebenso	ebenso	A	ADV	_	1	adv	228	228
+3	:	\:	$	$.	_	0	root	228	228
+4	Jawoll	Jawoll	F	FM	Masc|_|Sg	0	root	228	228
+5	,	,	$	$,	_	0	root	228	228
+6	Herr	Herr	N	NN	Masc|_|Sg	4	app	228	228
+7	Assessor	Assessor	N	NE	Masc|_|Sg	6	app	228	228
+8	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Kennen	kennen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	228	228
+5	den	die	A	ART	Def|Masc|Acc|Sg	6	det	508	508
+6	Ausdruck	Ausdruck	N	NN	Masc|Acc|Sg	3	obja	508	508
+7	:	\:	$	$.	_	0	root	_	_
+8	»	»	$	$(	_	0	root	_	_
+9	Die	die	A	ART	Def|_|_|_	10	det	229	229
+10	Gewappelten	Gewappelten	N	NN	_|_|_	0	root	229	229
+11	?	?	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	228	228
+2	:	\:	$	$.	_	0	root	228	228
+3	Jawoll	Jawoll	F	FM	Masc|_|Sg	0	root	228	228
+4	,	,	$	$,	_	0	root	228	228
+5	Herr	Herr	N	NN	Masc|_|Sg	3	app	228	228
+6	Assessor	Assessor	N	NE	Masc|_|Sg	5	app	228	228
+7	!	!	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Was	was	P	PWS	Neut|Nom|Sg	6	pred	_	_
+4	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+6	heißen	heißen	V	VVINF	_	4	aux	_	_
+7	:	\:	$	$.	_	0	root	_	_
+8	die	die	A	ART	Def|_|_|_	9	det	229	229
+9	Gewappelten	Gewappelten	N	NN	_|_|_	0	root	229	229
+10	?	?	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	:	\:	$	$.	_	0	root	_	_
+3	Das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+4	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+5	die	die	A	ART	Def|_|Nom|_	6	det	230	230
+6	Leut	Leut	N	NN	_|Nom|_	4	pred	230	230
+7	,	,	$	$,	_	0	root	_	_
+8	die	die	P	PRELS	_|_|_	0	root	230	230
+9	wo	wo	P	PWAV	_	11	adv	_	_
+10	was	was	P	PIS	_|Nom|Pl	11	subj	_	_
+11	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+12	und	und	K	KON	_	0	root	_	_
+13	die	die	A	ART	Def|_|_|_	12	cj	_	_
+14	wo	wo	P	PWAV	_	16	adv	_	_
+15	Geld	Geld	N	NN	Neut|_|Sg	16	obja	235	235
+16	haben	haben	V	VAFIN	_|Pl|Pres|_	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Assessor	Assessor	N	NE	_	0	root	228	228
+2	:	\:	$	$.	_	0	root	_	_
+3	Ist	Ist	N	NN	Neut|_|Sg	0	root	231	231
+4	in	in	P	APPR	Dat	9	pp	_	_
+5	dem	die	A	ART	Def|Neut|Dat|Sg	6	det	166	166
+6	Wort	Wort	N	NN	Neut|Dat|Sg	4	pn	166	166
+7	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	_	_
+8	Verachtung	Verachtung	N	NN	Fem|_|Sg	9	obja	_	_
+9	ausgedrückt	ausdrücken	V	VVPP	_	0	root	_	_
+10	oder	oder	K	KON	_	0	root	_	_
+11	Klassenhaß	Klassenhaß	N	NN	Masc|_|Sg	10	cj	232	232
+12	?	?	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	lebhaft	lebhaft	A	ADJD	Pos|	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Na	Na	N	NE	_	0	root	32	32
+5	-	-	$	$(	_	0	root	_	_
+6	Na	Na	I	ITJ	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	Acc	4	objp	_	_
+2	die	die	A	ART	Def|_|Acc|_	3	det	230	230
+3	Leut	Leut	N	NN	_|Acc|_	1	pn	230	230
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+6	Respekt	Respekt	N	NN	Masc|_|Sg	4	obja	234	234
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	230	230
+4	wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|_	4	expl	_	_
+6	genau	genau	A	ADJD	Pos|	4	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	:	\:	$	$.	_	0	root	_	_
+3	Jo	Jo	N	NE	_	0	root	291	291
+4	-	-	$	$(	_	0	root	_	_
+5	Jo	Jo	N	NE	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Beide	beide	P	PIS	_|Nom|Pl	2	subj	_	_
+2	drehen	drehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	um	um	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	liest	lesen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_|Nom|Sg	2	subj	227	227
+2	schreibt	schreiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Kleine	klein	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Pause	Pause	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	mit	mit	P	APPR	Dat	1	pp	226	226
+3	halber	halb	A	ADJA	Pos|Fem|Dat|Sg|St|	4	attr	226	226
+4	Drehung	Drehung	N	NN	Fem|Dat|Sg	2	pn	226	226
+5	:	\:	$	$.	_	0	root	_	_
+6	Reisacher	Reisacher	N	NE	_	0	root	227	227
+7	!	!	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	228	228
+2	ebenso	ebenso	A	ADV	_	1	adv	228	228
+3	:	\:	$	$.	_	0	root	228	228
+4	Jawoll	Jawoll	F	FM	Masc|_|Sg	0	root	228	228
+5	,	,	$	$,	_	0	root	228	228
+6	Herr	Herr	N	NN	Masc|_|Sg	4	app	228	228
+7	Assessor	Assessor	N	NE	Masc|_|Sg	6	app	228	228
+8	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	doch	doch	A	ADV	_	4	adv	_	_
+6	Klassenhaß	Klassenhaß	N	NN	Masc|Nom|Sg	4	pred	232	232
+7	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	:	\:	$	$.	_	0	root	_	_
+3	Na	Na	N	NE	_	0	root	32	32
+4	-	-	$	$(	_	0	root	_	_
+5	na	na	I	ITJ	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Geben	geben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	32	32
+5	mal	mal	A	ADV	_	3	adv	_	_
+6	acht	acht	C	CARD	_	3	obja	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	liest	lesen	V	VVFIN	_|Sg|Pres|Ind	0	root	_	_
+5	vor	vor	P	PTKVZ	_	4	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Für	für	P	APPR	Acc	5	pp	_	_
+3	die	die	A	ART	Def|_|Acc|_	4	det	229	229
+4	Gewappelten	Gewappelten	N	NN	_|Acc|_	2	pn	229	229
+5	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+7	natürlich	natürlich	A	ADJD	Pos|	5	adv	_	_
+8	kein	keine	A	PIAT	Neut|_|Sg	9	det	315	315
+9	Gesetz	Gesetz	N	NN	Neut|_|Sg	5	obja	315	315
+10	.	.	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+12	Das	die	P	PDS	Neut|Nom|Sg	13	subj	_	_
+13	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+14	doch	doch	A	ADV	_	15	adv	_	_
+15	heißen	heißen	V	VVINF	_	13	aux	_	_
+16	:	\:	$	$.	_	0	root	_	_
+17	Die	die	A	ART	Def|Fem|Nom|Sg	19	det	_	_
+18	gebildete	gebildet	A	ADJA	Pos|Fem|Nom|Sg|_|	19	attr	_	_
+19	Klasse	Klasse	N	NN	Fem|Nom|Sg	20	subj	_	_
+20	bekleidet	bekleiden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+21	eine	eine	A	ART	Indef|Fem|_|Sg	22	det	_	_
+22	Ausnahmestellung	Ausnahmestellung	N	NN	Fem|_|Sg	20	obja	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	und	und	K	KON	_	0	root	_	_
+25	wenn	wenn	K	KOUS	_	27	konj	_	_
+26	ich	ich	P	PPER	1|Sg|_|Nom	27	subj	233	233
+27	sage	sagen	V	VVFIN	1|Sg|Pres|_	24	cj	_	_
+28	:	\:	$	$.	_	0	root	_	_
+29	Ausnahmestellung	Ausnahmestellung	N	NN	Fem|_|Sg	32	vok	_	_
+30	,	,	$	$,	_	0	root	_	_
+31	so	so	A	ADV	_	32	adv	_	_
+32	involviere	involvieren	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+33	ich	ich	P	PPER	1|Sg|_|Nom	32	subj	233	233
+34	damit	damit	P	PROAV	_	32	pp	_	_
+35	die	die	A	ART	Def|Fem|_|Sg	39	det	_	_
+36	beleidigende	beleidigend	A	ADJA	Pos|Fem|_|Sg|_|<PPRES	39	attr	_	_
+37	und	und	K	KON	_	36	kon	_	_
+38	aufhetzerische	aufhetzerisch	A	ADJA	Pos|_|_|_|_|	37	cj	_	_
+39	Idee	Idee	N	NN	Fem|_|Sg	32	obja	_	_
+40	,	,	$	$,	_	0	root	_	_
+41	daß	daß	K	KOUS	_	48	konj	_	_
+42	vor	vor	P	APPR	Dat	48	pp	_	_
+43	dem	die	A	ART	Def|Neut|Dat|Sg	44	det	_	_
+44	Gesetz	Gesetz	N	NN	Neut|Dat|Sg	42	pn	_	_
+45	nicht	nicht	P	PTKNEG	_	48	adv	_	_
+46	alle	alle	P	PIS	_|Nom|Pl	48	subj	_	_
+47	gleich	gleich	A	ADJD	Pos|	48	pred	_	_
+48	sind	sein	V	VAFIN	3|Pl|Pres|Ind	32	objc	_	_
+49	,	,	$	$,	_	0	root	_	_
+50	und	und	K	KON	_	48	kon	_	_
+51	will	wollen	V	VMFIN	3|Sg|Pres|Ind	50	cj	_	_
+52	zugleich	zugleich	A	ADV	_	56	adv	_	_
+53	diese	diese	A	PDAT	Fem|Nom|Sg	55	det	_	_
+54	bevorzugte	bevorzugt	A	ADJA	Pos|Fem|Nom|Sg|_|	55	attr	_	_
+55	Klasse	Klasse	N	NN	Fem|Nom|Sg	51	subj	_	_
+56	verhöhnen	verhöhnen	V	VVINF	_	51	aux	_	_
+57	durch	durch	P	APPR	Acc	56	pp	_	_
+58	eine	eine	A	ART	Indef|Fem|Acc|Sg	60	det	_	_
+59	ordinäre	ordinär	A	ADJA	Pos|Fem|Acc|Sg|_|	60	attr	_	_
+60	Bezeichnung	Bezeichnung	N	NN	Fem|Acc|Sg	57	pn	_	_
+61	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	228	228
+2	:	\:	$	$.	_	0	root	228	228
+3	Jawoll	Jawoll	F	FM	Masc|_|Sg	0	root	228	228
+4	,	,	$	$,	_	0	root	228	228
+5	Herr	Herr	N	NN	Masc|_|Sg	3	app	228	228
+6	Assessor	Assessor	N	NE	Masc|_|Sg	5	app	228	228
+7	!	!	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Wie	Wie	P	PWAV	_	4	adv	_	_
+4	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	228	228
+6	dann	dann	A	ADV	_	7	adv	_	_
+7	sagen	sagen	V	VVINF	_	4	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	es	es	P	PPER	3|Sg|Neut|Nom	10	subj	_	_
+10	drückt	drücken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+11	keinen	keine	A	PIAT	Masc|Acc|Sg	12	det	_	_
+12	Klassenhaß	Klassenhaß	N	NN	Masc|Acc|Sg	10	obja	_	_
+13	und	und	K	KON	_	12	kon	_	_
+14	keine	keine	A	PIAT	Fem|Acc|Sg	15	det	_	_
+15	Verachtung	Verachtung	N	NN	Fem|Acc|Sg	13	cj	_	_
+16	aus	aus	P	PTKVZ	_	10	avz	_	_
+17	?	?	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	:	\:	$	$.	_	0	root	_	_
+3	Weil	weil	K	KOUS	_	9	konj	_	_
+4	man	man	P	PIS	_|Nom|Sg	9	subj	_	_
+5	halt	halt	A	ADV	_	9	adv	_	_
+6	doch	doch	A	ADV	_	9	adv	_	_
+7	wieder	wieder	A	ADV	_	9	adv	_	_
+8	Respekt	Respekt	N	NN	Masc|_|Sg	9	obja	234	234
+9	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	vor	vor	P	APPR	Acc	9	objp	_	_
+11	die	die	A	ART	Def|_|Acc|_	12	det	230	230
+12	Leut	Leut	N	NN	_|Acc|_	10	pn	230	230
+13	,	,	$	$,	_	0	root	_	_
+14	die	die	P	PRELS	_|_|_	0	root	230	230
+15	wo	wo	P	PWAV	_	17	adv	_	_
+16	Geld	Geld	N	NN	Neut|_|Sg	17	obja	235	235
+17	haben	haben	V	VAFIN	_|Pl|Pres|_	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	230	230
+4	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+5	nie	nie	A	ADV	_	7	adv	_	_
+6	präzis	präzis	A	ADJD	Pos|	7	adv	_	_
+7	denken	denken	V	VVINF	_	4	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Reisacher	Reisacher	N	NE	_	4	vok	227	227
+10	!	!	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	228	228
+2	:	\:	$	$.	_	0	root	228	228
+3	Jawoll	Jawoll	F	FM	Masc|_|Sg	0	root	228	228
+4	,	,	$	$,	_	0	root	228	228
+5	Herr	Herr	N	NN	Masc|_|Sg	3	app	228	228
+6	Assessor	Assessor	N	NE	Masc|_|Sg	5	app	228	228
+7	!	!	$	$.	_	0	root	_	_
+
+1	Beide	beide	P	PIS	_|Nom|Pl	2	subj	_	_
+2	drehen	drehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	um	um	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	liest	lesen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_|Nom|Sg	2	subj	227	227
+2	schreibt	schreiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Kleine	klein	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Pause	Pause	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Von	von	P	APPR	Dat	0	root	_	_
+2	links	links	A	ADV	_	3	adv	_	_
+3	Präsident	Präsident	N	NN	Masc|Dat|Sg	1	pn	_	_
+4	Frhr	Frhr	N	NE	Masc|Dat|Sg	3	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	von	von	P	APPR	Dat	0	root	_	_
+2	Simbach	Simbach	N	NE	_|Dat|Sg	1	pn	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	erhebt	erheben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	rasch	rasch	A	ADJD	Pos|	2	adv	_	_
+5	und	und	K	KON	_	2	kon	_	_
+6	macht	machen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	eine	eine	A	ART	Indef|Fem|_|Sg	9	det	_	_
+8	devote	devot	A	ADJA	Pos|Fem|_|Sg|_|	9	attr	_	_
+9	Verbeugung	Verbeugung	N	NN	Fem|_|Sg	6	obja	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_|Nom|Sg	2	subj	227	227
+2	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	um	um	P	PTKVZ	_	2	avz	_	_
+5	und	und	K	KON	_	2	kon	_	_
+6	fährt	fahren	V	VVFIN	3|Sg|Pres|Ind	5	cj	_	_
+7	auf	auf	P	PTKVZ	_	6	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Bleibt	bleiben	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	in	in	P	APPR	Dat	5	pp	_	_
+3	strammer	stramm	A	ADJA	Pos|Fem|Dat|Sg|St|	4	attr	_	_
+4	Haltung	Haltung	N	NN	Fem|Dat|Sg	2	pn	_	_
+5	stehen	stehen	V	VVINF	_	1	obji	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Präsident	Präsident	N	NN	Masc|_|Sg	0	root	237	237
+2	:	\:	$	$.	_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	N	N	N	NN	_|_|_	0	root	228	228
+5	Morgen	Morgen	N	NN	_|_|_	4	app	228	228
+6	,	,	$	$,	_	0	root	228	228
+7	Herr	Herr	N	NN	Masc|_|Sg	5	app	228	228
+8	Assessor	Assessor	N	NE	Masc|_|Sg	7	app	228	228
+9	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Reisacher	Reisacher	N	NE	_|Dat|_	1	pn	227	227
+3	:	\:	$	$.	_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	228	228
+5	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+6	Ihre	ihre	A	PPOSAT	Fem|_|Sg	7	det	228	228
+7	Arbeit	Arbeit	N	NN	Fem|_|Sg	8	obja	_	_
+8	unterbrechen	unterbrechen	V	VVINF	_	5	aux	_	_
+9	und	und	K	KON	_	8	kon	_	_
+10	außen	außen	A	ADV	_	11	adv	_	_
+11	warten	warten	V	VVINF	_	9	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	ab	ab	P	APPR	Dat	1	pp	227	227
+3	durch	durch	P	APPR	Acc	2	pp	227	227
+4	die	die	A	ART	Def|Fem|Acc|Sg	5	det	293	293
+5	Mitteltüre	Mitteltüre	N	NN	Fem|Acc|Sg	3	pn	227	227
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	236	236
+2	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+3	Sie	sie	P	PPER	3|_|_|_	6	obja	228	228
+4	um	um	P	APPR	_	6	pp	_	_
+5	einiges	einige	P	PIS	_|_|Sg	4	pn	_	_
+6	fragen	fragen	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Herr	Herr	N	NN	Masc|_|Sg	2	vok	228	228
+9	Assessor	Assessor	N	NE	Masc|_|Sg	8	app	228	228
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	verbeugt	verbeugen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	236	236
+2	Präsident	Präsident	N	NN	Masc|Nom|Sg	3	subj	236	236
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	während	während	P	APPR	_	3	pp	_	_
+5	der	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+6	Unterredung	Unterredung	N	NN	Fem|_|Sg	4	pn	_	_
+7	gegen	gegen	P	APPR	Acc	6	pp	_	_
+8	die	die	A	ART	Def|Fem|Acc|Sg	9	det	_	_
+9	Mitte	Mitte	N	NN	Fem|Acc|Sg	7	pn	_	_
+10	der	die	A	ART	Def|Fem|Gen|Sg	11	det	_	_
+11	Bühne	Bühne	N	NN	Fem|Gen|Sg	9	gmod	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	236	236
+2	spricht	sprechen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	nonchalantem	nonchalant	A	ADJA	Pos|Masc|Dat|Sg|St|	5	attr	_	_
+5	Ton	Ton	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	etwas	etwas	P	PIS	_|Nom|_	8	subj	_	_
+8	gedehnt	dehnen	V	VVPP	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	236	236
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	Ihren	ihre	A	PPOSAT	Masc|_|Sg	4	det	226	226
+4	Bericht	Bericht	N	NN	Masc|_|Sg	5	obja	238	238
+5	gelesen	lesen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	vorgestern	vorgestern	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	das	die	P	PDS	Neut|Nom|Sg	6	subj	_	_
+6	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+7	Samstag	Samstag	N	NN	_|Nom|Sg	6	pred	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	eine	eine	A	ART	Indef|Fem|_|Sg	10	det	_	_
+10	Frau	Frau	N	NN	Fem|_|Sg	12	obja	_	_
+11	verhaften	verhaften	V	VVINF	_	12	aux	_	_
+12	lassen	lassen	V	VVINF	_	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Ja	ja	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+6	Präsident	Präsident	N	NN	Masc|_|Sg	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Präsident	Präsident	N	NN	Masc|_|Sg	0	root	237	237
+2	:	\:	$	$.	_	0	root	_	_
+3	Was	was	P	PWS	Neut|Nom|Sg	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mit	mit	P	APPR	Dat	4	pp	_	_
+6	ihr	ihr	P	PPER	3|Sg|Fem|Dat	5	pn	226	226
+7	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Wie	Wie	P	PWAV	_	8	adv	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	8	objd	245	245
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	245	245
+6	Kommissär	Kommissär	N	NN	Masc|Nom|Sg	8	subj	245	245
+7	Schmuttermaier	Schmuttermaier	N	NE	_|Nom|Sg	6	app	245	245
+8	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	10	objc	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+11	wir	wir	P	PPER	1|Pl|_|Nom	10	subj	_	_
+12	da	da	A	ADV	_	10	adv	_	_
+13	eine	eine	A	ART	Indef|Fem|_|Sg	16	det	_	_
+14	ganz	ganz	A	ADV	_	15	adv	_	_
+15	gefährliche	gefährlich	A	ADJA	Pos|Fem|_|Sg|_|	16	attr	_	_
+16	Person	Person	N	NN	Fem|_|Sg	0	root	_	_
+17	gefaßt	gefaßt	V	VVPP	_	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Präsident	Präsident	N	NN	Masc|_|Sg	0	root	237	237
+2	:	\:	$	$.	_	0	root	_	_
+3	So	so	A	ADV	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Sie	sie	P	PPER	3|Sg|Fem|Nom	4	subj	226	226
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	in	in	P	APPR	Dat	14	pp	_	_
+6	kurzer	kurz	A	ADJA	Pos|Fem|Dat|Sg|St|	7	attr	_	_
+7	Zeit	Zeit	N	NN	Fem|Dat|Sg	5	pn	_	_
+8	geradezu	geradezu	A	ADV	_	14	adv	_	_
+9	demoralisierend	demoralisieren	A	ADJD	_|<PPRES	14	pred	_	_
+10	auf	auf	P	APPR	Acc	14	pp	_	_
+11	die	die	A	ART	Def|Masc|Acc|Pl	13	det	_	_
+12	hiesigen	hiesig	A	ADJA	Pos|Masc|Acc|Pl|Wk|	13	attr	_	_
+13	Zustände	Zustand	N	NN	Masc|Acc|Pl	10	pn	_	_
+14	gewirkt	wirken	V	VVPP	_	4	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+

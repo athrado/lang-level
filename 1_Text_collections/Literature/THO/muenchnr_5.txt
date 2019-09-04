@@ -1,0 +1,446 @@
+1	Bei	bei	P	APPR	Dat	4	pp	_	_
+2	schönem	schön	A	ADJA	Pos|_|Dat|Sg|St|	3	attr	_	_
+3	Wetter	Wetter	N	NN	_|Dat|Sg	1	pn	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	immer	immer	A	ADV	_	8	adv	_	_
+6	die	die	A	ART	Def|Fem|Nom|Sg	7	det	_	_
+7	Schattenseite	Schattenseite	N	NN	Fem|Nom|Sg	4	subj	_	_
+8	belebt	beleben	V	VVPP	_	4	aux	_	_
+9	;	;	$	$.	_	0	root	_	_
+10	auf	auf	P	APPR	Dat	13	pp	_	_
+11	der	die	A	ART	Def|Fem|Dat|Sg	12	det	_	_
+12	Sonnenseite	Sonnenseite	N	NN	Fem|Dat|Sg	10	pn	_	_
+13	laufen	laufen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+14	die	die	A	ART	Def|Masc|Nom|Pl	15	det	1199	1199
+15	Hunde	Hund	N	NN	Masc|Nom|Pl	13	subj	1199	1199
+16	.	.	$	$.	_	0	root	_	_
+
+1	Bei	bei	P	APPR	Dat	3	pp	_	_
+2	Regen	Regen	N	NN	_|Dat|_	1	pn	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	die	die	A	ART	Def|Fem|Nom|Sg	5	det	60	60
+5	Straße	Straß	N	NN	Fem|Nom|Sg	3	subj	60	60
+6	breiig	breiig	A	ADJD	Pos|	3	pred	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Unangenehme	unangenehm	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	62	62
+2	Sache	Sache	N	NN	Fem|_|Sg	0	root	62	62
+3	.	.	$	$.	_	0	root	_	_
+
+1	Voriges	vorig	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	1012	1012
+2	Jahr	Jahr	N	NN	Neut|_|Sg	3	zeit	1012	1012
+3	passierte	passieren	V	VVFIN	3|Sg|Past|_	0	root	_	_
+4	ein	eine	A	ART	Indef|Neut|Nom|Sg	5	det	_	_
+5	Unglück	Unglück	N	NN	Neut|Nom|Sg	3	subj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Zwei	zwei	C	CARD	_	2	attr	_	_
+2	Schulkinder	Schulkind	N	NN	Neut|Nom|Pl	3	subj	_	_
+3	versanken	versinken	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Erstickten	ersticken	V	VVFIN	3|Pl|Past|_	0	root	_	_
+2	beide	beide	P	PIS	_|Nom|Pl	1	subj	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Gab	geben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+2	Anlaß	Anlaß	N	NN	Masc|Nom|Sg	1	subj	_	_
+3	zu	zu	P	APPR	Dat	1	objp	_	_
+4	Zeitungslärm	Zeitungslärm	N	NN	Masc|Dat|Sg	3	pn	_	_
+5	und	und	K	KON	_	4	kon	_	_
+6	zwei	zwei	C	CARD	_	7	attr	_	_
+7	Magistratssitzungen	Magistratssitzung	N	NN	Fem|Dat|Pl	5	cj	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Antrag	Antrag	N	NN	Masc|Nom|Sg	4	subj	_	_
+2	auf	auf	P	APPR	_	1	pp	_	_
+3	Neupflasterung	Neupflasterung	N	NN	Fem|_|Sg	2	pn	_	_
+4	abgelehnt	ablehnen	V	VVPP	_	0	root	_	_
+5	mit	mit	P	APPR	Dat	4	pp	_	_
+6	Hinblick	Hinblick	N	NN	Masc|Dat|Sg	5	pn	_	_
+7	auf	auf	P	APPR	Acc	6	pp	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	10	det	_	_
+9	monumentalen	monumental	A	ADJA	Pos|Masc|Acc|Sg|_|	10	attr	_	_
+10	Charakter	Charakter	N	NN	Masc|Acc|Sg	7	pn	_	_
+11	der	die	A	ART	Def|_|Gen|_	12	det	61	61
+12	Straße	Straß	N	NN	_|Gen|_	10	gmod	61	61
+13	.	.	$	$.	_	0	root	_	_
+
+1	Vorfall	Vorfall	N	NN	Masc|Nom|Sg	2	subj	_	_
+2	sei	sein	V	VAFIN	3|Sg|Pres|Subj	0	root	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	bedauerlich	bedauerlich	A	ADJD	Pos|	2	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	allein	allein	A	ADV	_	22	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	hätten	haben	V	VAFIN	3|Pl|Past|Subj	7	par	_	_
+10	sie	sie	P	PPER	3|Pl|_|Nom	9	subj	61	61
+11	zum	zu	P	APPRART	Dat	20	pp	_	_
+12	Beispiel	Beispiel	N	NN	Neut|Dat|Sg	11	pn	_	_
+13	auf	auf	P	APPR	Dat	20	pp	_	_
+14	der	die	A	ART	Def|Fem|Dat|Sg	16	det	_	_
+15	neuen	neu	A	ADJA	Pos|Fem|Dat|Sg|Wk|	16	attr	_	_
+16	Brücke	Brücke	N	NN	Fem|Dat|Sg	13	pn	_	_
+17	während	während	P	APPR	Gen	20	pp	_	_
+18	des	die	A	ART	Def|Masc|Gen|Sg	19	det	_	_
+19	Einsturzes	Einsturz	N	NN	Masc|Gen|Sg	17	pn	_	_
+20	gestanden	gestehen	V	VVPP	_	9	aux	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	wären	sein	V	VAFIN	3|Pl|Past|Subj	0	root	_	_
+23	sie	sie	P	PPER	3|Pl|_|Nom	22	subj	61	61
+24	auch	auch	A	ADV	_	22	adv	_	_
+25	tot	tot	A	ADJD	_	22	pred	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	Dieselbe	dieselbe	A	PDAT	Fem|_|Sg	2	det	62	62
+2	Sache	Sache	N	NN	Fem|_|Sg	0	root	62	62
+3	.	.	$	$.	_	0	root	_	_
+
+1	Übrigens	übrigens	A	ADV	_	3	adv	_	_
+2	tatsächlicher	tatsächlich	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	_
+3	Überfluß	Überfluß	N	NN	Masc|Nom|Sg	0	root	_	_
+4	an	an	P	APPR	_	3	pp	_	_
+5	Schulkindern	Schulkind	N	NN	_|_|_	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Heuer	Heuer	N	NN	_|Nom|Sg	2	subj	_	_
+2	wiederholte	wiederholen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	Kalamität	Kalamität	N	NN	Fem|_|Sg	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Masc|_|Pl	2	det	_	_
+2	Frau	Frau	N	NN	Masc|_|Pl	4	obja	_	_
+3	Bürgermeister	Bürgermeister	N	NN	Masc|_|_	2	app	_	_
+4	überschreitet	überschreiten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	die	die	A	ART	Def|Fem|Nom|Sg	6	det	60	60
+6	Straße	Straß	N	NN	Fem|Nom|Sg	4	subj	60	60
+7	.	.	$	$.	_	0	root	_	_
+
+1	Verliert	verlieren	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	beide	beide	A	PIDAT	Masc|_|Pl	3	det	_	_
+3	Stiefel	Stiefel	N	NN	Masc|_|Pl	1	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Mußte	müssen	V	VMFIN	_|Sg|Past|Ind	0	root	_	_
+2	in	in	P	APPR	Dat	5	pp	_	_
+3	den	die	A	ART	Def|Masc|Dat|Pl	4	det	_	_
+4	Strümpfen	Strumpf	N	NN	Masc|Dat|Pl	2	pn	_	_
+5	heimgefahren	heimfahren	V	VVPP	_	6	aux	_	_
+6	werden	werden	V	VAINF	_	1	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Neue	neu	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Magistratssitzung	Magistratssitzung	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Antrag	Antrag	N	NN	Masc|Nom|Sg	4	subj	_	_
+2	auf	auf	P	APPR	_	1	pp	_	_
+3	Asphaltierung	Asphaltierung	N	NN	Fem|_|Sg	2	pn	_	_
+4	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	Aussicht	Aussicht	N	NN	Fem|_|Sg	6	obja	_	_
+6	haben	haben	V	VAINF	_	4	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ende	Ende	N	NN	Masc|_|Sg	3	zeit	_	_
+2	Mai	Mai	N	NN	Masc|_|Sg	1	app	_	_
+3	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	63	63
+5	an	an	P	APPR	Acc	3	objp	_	_
+6	das	die	A	ART	Def|Neut|Acc|Sg	7	det	_	_
+7	Siegestor	Siegestor	N	NN	Neut|Acc|Sg	5	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	63	63
+2	Freund	Freund	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	mich	ich	P	PPER	1|Sg|_|Acc	3	obja	63	63
+5	auf	auf	P	APPR	Acc	3	objp	_	_
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	7	det	_	_
+7	Mann	Mann	N	NN	Masc|Acc|Sg	5	pn	_	_
+8	aufmerksam	aufmerksam	A	ADJD	Pos|	3	pred	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Steht	stehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	mitten	mitten	A	ADV	_	3	adv	_	_
+3	in	in	P	APPR	Dat	1	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	60	60
+5	Straße	Straß	N	NN	Fem|Dat|Sg	3	pn	60	60
+6	und	und	K	KON	_	1	kon	_	_
+7	zieht	zeihen	V	VVFIN	_|_|_|Ind	6	cj	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	9	det	64	64
+9	Rock	Rock	N	NN	Masc|Acc|Sg	7	obja	64	64
+10	aus	aus	P	PTKVZ	_	7	avz	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Schaut	schauen	V	VVIMP	Pl	0	root	_	_
+2	links	links	A	ADV	_	1	adv	_	_
+3	und	und	K	KON	_	2	kon	_	_
+4	rechts	rechts	A	ADV	_	3	cj	_	_
+5	;	;	$	$.	_	0	root	_	_
+6	kann	können	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+7	den	die	A	ART	Def|Masc|Acc|Sg	8	det	64	64
+8	Rock	Rock	N	NN	Masc|Acc|Sg	10	obja	64	64
+9	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+10	aufhängen	aufhängen	V	VVINF	_	6	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Kein	keine	A	PIAT	Masc|Nom|Sg	2	det	65	65
+2	Nagel	Nagel	N	NN	Masc|Nom|Sg	5	subj	65	65
+3	im	in	P	APPRART	Dat	5	pp	_	_
+4	Siegestor	Siegestor	N	NN	_|Dat|Sg	3	pn	_	_
+5	eingeschlagen	einschlagen	V	VVPP	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	auf	auf	P	APPR	Acc	1	objp	_	_
+3	die	die	A	ART	Def|Fem|Acc|Sg	5	det	187	187
+4	andre	andre	A	ADJA	_|Fem|Acc|Sg|_	5	attr	187	187
+5	Seite	Seite	N	NN	Fem|Acc|Sg	2	pn	187	187
+6	und	und	K	KON	_	1	kon	_	_
+7	hängt	hängen	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	ihn	er	P	PPER	3|Sg|Masc|Acc	7	obja	65	65
+9	an	an	P	APPR	Acc	7	objp	_	_
+10	den	die	A	ART	Def|Masc|Acc|Sg	11	det	67	67
+11	Gartenzaun	Gartenzaun	N	NN	Masc|Acc|Sg	9	pn	67	67
+12	.	.	$	$.	_	0	root	_	_
+
+1	Stellt	stellen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	sich	sie	P	PRF	3|_|_	1	obja	_	_
+3	wieder	wieder	A	ADV	_	1	adv	_	_
+4	in	in	P	APPR	Acc	1	objp	_	_
+5	die	die	A	ART	Def|_|Acc|_	6	det	_	_
+6	Straße	Straß	N	NN	_|Acc|_	4	pn	_	_
+7	neben	neben	P	APPR	Acc	6	pp	_	_
+8	einen	eine	A	ART	Indef|Masc|Acc|Sg	9	det	_	_
+9	Schubkarren	Schubkarre	N	NN	Masc|Acc|Sg	7	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Holt	holen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	eine	eine	A	ART	Indef|Fem|Nom|Sg	3	det	66	66
+3	Schaufel	Schaufel	N	NN	Fem|Nom|Sg	1	subj	66	66
+4	und	und	K	KON	_	3	kon	_	_
+5	Hacke	Hacke	N	NN	_|Nom|Sg	4	cj	_	_
+6	heraus	heraus	P	PTKVZ	_	1	avz	_	_
+7	und	und	K	KON	_	1	kon	_	_
+8	legt	legen	V	VVFIN	_|_|Pres|Ind	7	cj	_	_
+9	sie	sie	P	PPER	3|_|_|_	8	obja	66	66
+10	sorgfältig	sorgfältig	A	ADJD	Pos|	8	adv	_	_
+11	auf	auf	P	APPR	Acc	8	objp	_	_
+12	den	die	A	ART	Def|Masc|Acc|Sg	13	det	811	811
+13	Boden	Boden	N	NN	Masc|Acc|Sg	11	pn	811	811
+14	.	.	$	$.	_	0	root	_	_
+
+1	Greift	greifen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	in	in	P	APPR	Acc	1	objp	_	_
+3	die	die	A	ART	Def|Fem|Acc|Pl	4	det	_	_
+4	Hosentaschen	Hosentasche	N	NN	Fem|Acc|Pl	2	pn	_	_
+5	und	und	K	KON	_	1	kon	_	_
+6	sucht	suchen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	etwas	etwas	P	PIS	_	6	obja	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Schüttelt	schütteln	V	VVFIN	_|_|Pres|_	0	root	_	_
+2	ärgerlich	ärgerlich	A	ADJD	Pos|	1	adv	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	145	145
+4	Kopf	Kopf	N	NN	Masc|Acc|Sg	1	obja	145	145
+5	und	und	K	KON	_	1	kon	_	_
+6	geht	gehen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	wieder	wieder	A	ADV	_	6	adv	_	_
+8	an	an	P	APPR	Acc	6	objp	_	_
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	67	67
+10	Gartenzaun	Gartenzaun	N	NN	Masc|Acc|Sg	8	pn	67	67
+11	.	.	$	$.	_	0	root	_	_
+
+1	Zieht	zeihen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	aus	aus	P	APPR	Dat	1	pp	_	_
+3	dem	die	A	ART	Def|Masc|Dat|Sg	4	det	64	64
+4	Rock	Rock	N	NN	Masc|Dat|Sg	2	pn	64	64
+5	eine	eine	A	ART	Indef|Fem|Nom|Sg	7	det	68	68
+6	kleine	klein	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	68	68
+7	Flasche	Flasche	N	NN	Fem|Nom|Sg	1	subj	68	68
+8	und	und	K	KON	_	1	kon	_	_
+9	hält	halten	V	VVFIN	3|Sg|Pres|Ind	8	cj	_	_
+10	sie	sie	P	PPER	3|_|_|_	9	obja	68	68
+11	gegen	gegen	P	APPR	Acc	9	pp	_	_
+12	die	die	A	ART	Def|Fem|Acc|Sg	13	det	328	328
+13	Sonne	Sonne	N	NN	Fem|Acc|Sg	11	pn	328	328
+14	.	.	$	$.	_	0	root	_	_
+
+1	Zieht	zeihen	V	VVFIN	_|_|_|Ind	0	root	_	_
+2	langsam	langsam	A	ADJD	Pos|	1	adv	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	_	_
+4	Stöpsel	Stöpsel	N	NN	Masc|Acc|Sg	1	obja	_	_
+5	heraus	heraus	P	PTKVZ	_	1	avz	_	_
+6	und	und	K	KON	_	1	kon	_	_
+7	schaut	schauen	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	wieder	wieder	A	ADV	_	7	adv	_	_
+9	durch	durch	P	PTKVZ	_	7	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Klopft	klopfen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	damit	damit	P	PROAV	_	1	pp	_	_
+3	auf	auf	P	APPR	_	1	objp	_	_
+4	den	die	A	ART	Def|Masc|_|_	5	det	_	_
+5	Handrücken	Handrücken	N	NN	Masc|_|_	3	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	bis	bis	P	APPR	Acc	9	pp	_	_
+8	Tabak	Tabak	N	NN	Masc|Acc|Sg	7	pn	_	_
+9	kommt	kommen	V	VVFIN	_|_|Pres|Ind	1	kon	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Schnupft	schnupfen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Steckt	stecken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	die	die	A	ART	Def|Fem|Nom|Sg	3	det	68	68
+3	Flasche	Flasche	N	NN	Fem|Nom|Sg	1	subj	68	68
+4	ein	ein	P	PTKVZ	_	1	avz	_	_
+5	und	und	K	KON	_	1	kon	_	_
+6	kommt	kommen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	wieder	wieder	A	ADV	_	6	adv	_	_
+8	zu	zu	P	APPR	Dat	6	objp	_	_
+9	dem	die	A	ART	Def|_|Dat|Sg	10	det	69	69
+10	Schubkarren	Schubkarre	N	NN	_|Dat|Sg	8	pn	69	69
+11	.	.	$	$.	_	0	root	_	_
+
+1	Setzt	setzen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	sich	sie	P	PRF	3|_|_	1	obja	_	_
+3	darauf	darauf	P	PROAV	_	1	objp	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Merkwürdiger	merkwürdig	A	ADJA	Pos|Masc|Nom|Sg|St|	2	attr	79	79
+2	Kerl	Kerl	N	NN	Masc|Nom|Sg	0	root	79	79
+3	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	69	69
+4	mitten	mitten	A	ADV	_	5	adv	_	_
+5	in	in	P	APPR	Dat	2	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	60	60
+7	Straße	Straß	N	NN	Fem|Dat|Sg	5	pn	60	60
+8	?	?	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	_	_
+2	Freund	Freund	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	3	expl	_	_
+5	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	77	77
+2	Mensch	Mensch	N	NN	Masc|Nom|Sg	6	subj	77	77
+3	auf	auf	P	APPR	Dat	2	pp	77	77
+4	dem	die	A	ART	Def|_|Dat|Sg	5	det	69	69
+5	Schubkarren	Schubkarre	N	NN	_|Dat|Sg	3	pn	69	69
+6	sucht	suchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	wieder	wieder	A	ADV	_	6	adv	_	_
+8	in	in	P	APPR	_	6	pp	_	_
+9	seinen	seine	A	PPOSAT	Fem|_|Pl	10	det	69	69
+10	Taschen	Tasche	N	NN	Fem|_|Pl	8	pn	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	uns	wir	P	PPER	1|Pl|_|_	1	obja	_	_
+3	stehen	stehen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Pst	Pst	N	NE	_	0	root	70	70
+3	!	!	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+5	ruft	rufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	0	0
+7	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Pst	Pst	N	NE	_	0	root	70	70
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|_|_|_	0	root	70	70
+2	!	!	$	$.	_	0	root	_	_
+3	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	«	«	$	$(	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	sage	sagen	V	VVFIN	1|Sg|Pres|_	2	par	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	1782	1782
+7	,	,	$	$,	_	0	root	_	_
+8	»	»	$	$(	_	0	root	_	_
+9	was	was	P	PWS	Neut|_|Sg	10	obja	_	_
+10	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	s	s	P	PPER	_|Sg|_|Nom	10	subj	0	0
+13	?	?	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	APPR	_	2	objp	_	_
+4	uns	wir	P	PPER	1|Pl|_|_	3	pn	_	_
+5	zu	zu	P	PTKVZ	_	2	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Rückt	rücken	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	den	die	A	ART	Def|Masc|Acc|Sg	3	det	71	71
+3	Hut	Hut	N	NN	Masc|Acc|Sg	1	obja	71	71
+4	und	und	K	KON	_	1	kon	_	_
+5	fragt	fragen	V	VVFIN	_|_|Pres|Ind	4	cj	_	_
+6	:	\:	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|_|_|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Herr	Herr	N	NN	_|_|Sg	2	app	_	_
+5	Nachbar	Nachbar	N	NN	_|_|Sg	4	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	hamm	hamm	A	ADJA	_|Neut|_|_|_	8	attr	_	_
+8	S	S	N	NN	Neut|_|_	5	app	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	a	a	F	FM	Neut|_|_	8	app	_	_
+11	Schnellfeuer	Schnellfeuer	N	NN	Neut|_|_	10	app	_	_
+12	?	?	$	$.	_	0	root	_	_
+13	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Zündholz	Zündholz	N	NN	Neut|_|Sg	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	Habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	72	72
+8	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Gebe	geben	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+2	ihm	er	P	PPER	3|Sg|_|Dat	1	objd	0	0
+3	meine	meine	A	PPOSAT	Fem|Nom|Sg	4	det	72	72
+4	Zigarre	Zigarre	N	NN	Fem|Nom|Sg	1	subj	74	74
+5	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	brennt	brennen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	seinen	seine	A	PPOSAT	Masc|_|_	4	det	0	0
+4	Stummel	Stummel	N	NN	Masc|_|_	2	obja	_	_
+5	damit	damit	P	PROAV	_	2	pp	_	_
+6	an	an	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Bläst	blasen	V	VVFIN	_|Sg|Pres|Ind	0	root	_	_
+2	den	die	A	ART	Def|Masc|Acc|Sg	3	det	_	_
+3	Rauch	Rauch	N	NN	Masc|Acc|Sg	1	obja	_	_
+4	hinaus	hinaus	P	PTKVZ	_	1	avz	_	_
+5	und	und	K	KON	_	1	kon	_	_
+6	sagt	sagen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	:	\:	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Schön	schön	A	ADJD	Pos|	4	adv	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_	0	root	_	_
+5	Wetter	Wetter	N	NN	_|_|_	4	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+

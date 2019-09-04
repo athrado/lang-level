@@ -1,0 +1,366 @@
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	_|Nom|Pl	2	subj	_	_
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	eingepackt	einpacken	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	sie	sie	P	PPER	3|_|_|_	4	obja	_	_
+4	haben	haben	V	VAINF	_	1	aux	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gern	gern	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	433	433
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	Ihnen	sie	P	PPER	3|Pl|_|Dat	6	objd	432	432
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	dankbar	dankbar	A	ADJD	Pos|	6	pred	_	_
+6	sein	sein	V	VAINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	432	432
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	einen	eine	A	ART	Indef|Masc|Acc|Sg	6	det	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	eigenen	eigen	A	ADJA	Pos|Masc|Acc|Sg|_|	6	attr	_	_
+6	Reiz	Reiz	N	NN	Masc|Acc|Sg	9	obja	_	_
+7	auf	auf	P	APPR	Acc	9	pp	_	_
+8	mich	ich	P	PPER	1|Sg|_|Acc	7	pn	433	433
+9	ausgeübt	ausüben	V	VVPP	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	335	335
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	433	433
+3	habe	haben	V	VAFIN	1|Sg|Pres|_	1	cj	_	_
+4	noch	noch	A	ADV	_	3	adv	_	_
+5	eine	eine	A	ART	Indef|Fem|_|Sg	7	det	_	_
+6	andere	andere	A	ADJA	_|Fem|_|Sg|_	7	attr	_	_
+7	Bitte	Bitte	N	NN	Fem|_|Sg	3	obja	_	_
+8	an	an	P	APPR	Acc	7	pp	_	_
+9	Sie	sie	P	PPER	3|_|_|Acc	8	pn	432	432
+10	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|_|Sg	3	det	_	_
+2	sehr	sehr	A	ADV	_	3	adv	_	_
+3	große	groß	A	ADJA	Fem|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	4	konj	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	432	432
+3	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	433	433
+4	erlauben	erlauben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Rede	Rede	N	NN	Fem|_|Sg	0	root	434	434
+2	doch	doch	A	ADV	_	1	adv	434	434
+3	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	14	objp	_	_
+2	Ihrem	ihre	A	PPOSAT	Masc|Dat|Sg	3	det	434	434
+3	Besitze	Besitz	N	NN	Masc|Dat|Sg	1	pn	_	_
+4	dürfte	dürfen	V	VMFIN	3|Sg|Past|Subj	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	14	obja	_	_
+6	noch	noch	A	ADV	_	14	adv	_	_
+7	ein	eine	A	ART	Indef|Neut|Nom|Sg	8	det	_	_
+8	Porträt	Porträt	N	NN	Neut|Nom|Sg	4	subj	_	_
+9	meiner	meine	A	PPOSAT	Fem|Gen|Sg	10	det	_	_
+10	Mutter	Mutter	N	NN	Fem|Gen|Sg	8	gmod	_	_
+11	aus	aus	P	APPR	Dat	14	pp	_	_
+12	ihrer	ihre	A	PPOSAT	Fem|Dat|Sg	13	det	434	434
+13	Mädchenzeit	Mädchenzeit	N	NN	Fem|Dat|Sg	11	pn	_	_
+14	befinden	befinden	V	VVINF	_	4	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|_|Sg	3	det	435	435
+2	kleines	klein	A	ADJA	Pos|Neut|_|Sg|St|	3	attr	435	435
+3	Bild	Bild	N	NN	Neut|_|Sg	0	root	435	435
+4	in	in	P	APPR	_	3	pp	435	435
+5	Aquarellfarben	Aquarellfarbe	N	NN	Fem|_|Pl	4	pn	436	436
+6	,	,	$	$,	_	0	root	_	_
+7	das	die	P	PRELS	Neut|_|Sg	10	obja	435	435
+8	Sie	sie	P	PPER	3|Pl|_|Nom	11	subj	436	436
+9	selbst	selbst	A	ADV	_	10	adv	_	_
+10	gemalt	malen	V	VVPP	_	11	aux	_	_
+11	haben	haben	V	VAFIN	3|Pl|Pres|_	3	rel	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ein	eine	A	ART	Indef|Neut|_|Sg	5	det	_	_
+4	solches	solche	A	PIDAT	Neut|_|Sg	5	attr	_	_
+5	Bild	Bild	N	NN	Neut|_|Sg	9	obja	_	_
+6	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	984	984
+9	gemalt	malen	V	VVPP	_	6	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+3	haben	haben	V	VAFIN	3|Pl|Pres|_	1	cj	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	3	obja	_	_
+5	noch	noch	A	ADV	_	3	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	437	437
+2	denke	denken	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	9	konj	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	9	subj	_	_
+7	sich	sie	P	PRF	3|_|_	8	obja	_	_
+8	finden	finden	V	VVINF	_	9	aux	_	_
+9	wird	werden	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	möcht	möcht	A	ADJA	Neut|_|Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	437	437
+5	gerne	gerne	A	ADV	_	6	adv	_	_
+6	sehen	sehen	V	VVINF	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	Acc	4	objp	_	_
+2	dieses	diese	A	PDAT	Neut|Acc|Sg	3	det	117	117
+3	Bild	Bild	N	NN	Neut|Acc|Sg	1	pn	117	117
+4	erinnerte	erinnern	V	VVFIN	3|Sg|Past|_	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	4	obja	_	_
+6	deine	deine	A	PPOSAT	Fem|Nom|Sg	7	det	984	984
+7	Mutter	Mutter	N	NN	Fem|Nom|Sg	4	subj	984	984
+8	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	439	439
+2	sprach	sprechen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	439	439
+4	davon	davon	P	PROAV	_	2	pp	_	_
+5	am	an	P	APPRART	Dat	2	pp	_	_
+6	letzten	letzte	A	ADJA	Pos|Masc|Dat|Sg|Wk|	7	attr	438	438
+7	Abend	Abend	N	NN	Masc|Dat|Sg	5	pn	438	438
+8	,	,	$	$,	_	0	root	438	438
+9	an	an	P	APPR	Dat	13	pp	438	438
+10	dem	die	P	PRELS	Masc|Dat|Sg	9	pn	438	438
+11	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	439	439
+12	sie	sie	P	PPER	3|_|_|_	13	obja	439	439
+13	sah	sehen	V	VVFIN	1|Sg|Past|Ind	7	rel	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	am	an	P	APPRART	Dat	2	pp	_	_
+16	Abend	Abend	N	NN	Masc|Dat|Sg	15	pn	440	440
+17	vor	vor	P	APPR	Dat	2	pp	_	_
+18	ihrem	ihre	A	PPOSAT	Neut|Dat|Sg	19	det	439	439
+19	Ende	Ende	N	NN	Neut|Dat|Sg	17	pn	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	439	439
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	damals	damals	A	ADV	_	6	adv	_	_
+4	freilich	freilich	A	ADV	_	6	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	geahnt	ahnen	V	VVPP	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	12	konj	_	_
+9	es	es	P	PPER	3|Sg|Neut|Nom	12	subj	_	_
+10	so	so	A	ADV	_	11	adv	_	_
+11	nahe	nahe	A	ADJD	_	12	pred	_	_
+12	war	sein	V	VAFIN	3|Sg|Past|Ind	6	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	und	und	K	KON	_	0	root	_	_
+2	sie	sie	P	PPER	3|_|_|_	1	cj	441	441
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	auch	auch	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	2	adv	_	_
+2	erscheint	erscheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	985	985
+5	allerdings	allerdings	A	ADV	_	2	adv	_	_
+6	eigentümlich	eigentümlich	A	ADJD	Pos|	2	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	20	konj	_	_
+9	sie	sie	P	PPER	3|_|_|_	20	obja	441	441
+10	gerade	gerade	A	ADV	_	20	adv	_	_
+11	an	an	P	APPR	Dat	20	pp	_	_
+12	diesem	diese	A	PDAT	Masc|Dat|Sg	13	det	442	442
+13	Abend	Abend	N	NN	Masc|Dat|Sg	11	pn	442	442
+14	so	so	A	ADV	_	15	adv	_	_
+15	viel	viel	P	PIS	_|Nom|Sg	20	subj	_	_
+16	von	von	P	APPR	Dat	20	pp	_	_
+17	längst	längst	A	ADV	_	18	adv	_	_
+18	verflossenen	verflossen	A	ADJA	Pos|_|Dat|_|_|	19	attr	_	_
+19	Tagen	Tag	N	NN	_|Dat|_	16	pn	_	_
+20	sprach	sprechen	V	VVFIN	3|Sg|Past|Ind	2	objc	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	auch	auch	A	ADV	_	3	adv	_	_
+3	von	von	P	APPR	Dat	1	cj	_	_
+4	diesem	diese	A	PDAT	Neut|Dat|Sg	6	det	_	_
+5	kleinen	klein	A	ADJA	Pos|Neut|Dat|Sg|Wk|	6	attr	_	_
+6	Bild	Bild	N	NN	Neut|Dat|Sg	3	pn	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	gelungen	gelingen	V	VVPP	_	5	aux	_	_
+5	sein	sein	V	VAINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	wie	wie	K	KOKOM	_	1	kom	129	129
+3	nachdenkend	nachdenken	A	ADJD	_|<PPRES	2	cj	129	129
+4	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	mag	mögen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	985	985
+4	es	es	P	PPER	3|Sg|Neut|_	6	obja	_	_
+5	nur	nur	A	ADV	_	6	adv	_	_
+6	aufbewahrt	aufbewahren	V	VVPP	_	7	aux	_	_
+7	haben	haben	V	VAINF	_	2	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Warte	Wart	N	NN	_|_|_	0	root	443	443
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	443	443
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	APPR	Dat	2	objp	_	_
+4	einem	eine	A	ART	Indef|Masc|Dat|Sg	5	det	_	_
+5	Bücherschrank	Bücherschrank	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	dessen	die	A	PRELAT	Masc|Nom|Sg	9	det	444	444
+8	unterer	unter	A	ADJA	Pos|Masc|Nom|Sg|St|	9	attr	444	444
+9	Teil	Teil	N	NN	Masc|Nom|Sg	14	subj	444	444
+10	durch	durch	P	APPR	Acc	14	pp	_	_
+11	eine	eine	A	ART	Indef|Fem|Acc|Sg	12	det	_	_
+12	Tür	Tür	N	NN	Fem|Acc|Sg	10	pn	_	_
+13	verschlossen	verschlossen	A	ADJD	Pos|	14	pred	_	_
+14	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	rel	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	444	444
+2	öffnet	öffnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	445	445
+4	Türe	Türe	N	NN	Fem|_|Sg	2	obja	445	445
+5	,	,	$	$,	_	0	root	_	_
+6	einige	einige	A	PIAT	_|Nom|Pl	7	det	446	446
+7	Fächer	Fach	N	NN	_|Nom|Pl	8	subj	446	446
+8	werden	werden	V	VAFIN	3|Pl|Pres|_	2	kon	446	446
+9	sichtbar	sichtbar	A	ADJD	Pos|	8	pred	446	446
+10	,	,	$	$,	_	0	root	446	446
+11	in	in	P	APPR	Dat	14	objp	446	446
+12	denen	die	P	PRELS	_|Dat|Pl	11	pn	446	446
+13	Mappen	Mappe	N	NN	Fem|Nom|Pl	14	subj	_	_
+14	liegen	liegen	V	VVFIN	3|Pl|Pres|_	7	rel	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	448	448
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	7	obja	_	_
+4	auf	auf	P	APPR	Dat	7	pp	_	_
+5	dem	die	A	ART	Def|Neut|Dat|Sg	6	det	112	112
+6	Land	Land	N	NN	Neut|Dat|Sg	4	pn	112	112
+7	gemalt	malen	V	VVPP	_	2	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	in	in	P	APPR	Dat	7	pp	_	_
+10	dem	die	A	ART	Def|Neut|Dat|Sg	12	det	447	447
+11	kleinen	klein	A	ADJA	Pos|Neut|Dat|Sg|Wk|	12	attr	447	447
+12	Häuschen	Häuschen	N	NN	Neut|Dat|Sg	9	pn	447	447
+13	,	,	$	$,	_	0	root	447	447
+14	das	die	P	PRELS	Neut|_|Sg	17	obja	447	447
+15	deine	deine	A	PPOSAT	_|Nom|Pl	16	det	_	_
+16	Großeltern	Großeltern	N	NN	_|Nom|Pl	17	subj	_	_
+17	bewohnten	bewohnen	V	VVFIN	3|Pl|Past|_	12	rel	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	448	448
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	Acc	10	objp	_	_
+2	die	die	A	ART	Def|_|Acc|Pl	4	det	_	_
+3	alten	alt	A	ADJA	Pos|_|Acc|Pl|Wk|	4	attr	_	_
+4	Leute	Leute	N	NN	_|Acc|Pl	1	pn	_	_
+5	kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+7	dich	du	P	PPER	2|Sg|_|Acc	10	obja	_	_
+8	wohl	wohl	A	ADV	_	10	adv	_	_
+9	kaum	kaum	A	ADV	_	10	adv	_	_
+10	erinnern	erinnern	V	VVINF	_	5	aux	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ganz	ganz	A	ADV	_	2	adv	_	_
+2	dunkel	dunkel	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	waren	sein	V	VAFIN	_|Pl|Past|Ind	0	root	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	einfache	einfach	A	ADJA	Pos|Masc|Nom|Pl|St|	5	attr	_	_
+5	Menschen	Mensch	N	NN	Masc|Nom|Pl	2	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+

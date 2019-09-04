@@ -1,0 +1,277 @@
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	326	326
+2	verschenk	verschenk	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	_	_
+5	selber	selber	A	ADV	_	4	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	sich	sie	P	PRF	3|_|_	1	obja	_	_
+3	Cassian	Cassian	N	NE	_|Nom|Sg	1	subj	250	250
+4	auf	auf	P	APPR	Acc	1	objp	_	_
+5	den	die	A	ART	Def|Masc|Acc|Sg	6	det	_	_
+6	Schoß	Schoß	N	NN	Masc|Acc|Sg	4	pn	_	_
+7	und	und	K	KON	_	1	kon	_	_
+8	umarmt	umarmen	V	VVFIN	_|_|Pres|Ind	7	cj	_	_
+9	ihn	er	P	PPER	3|Sg|Masc|Acc	8	obja	250	250
+10	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Schurke	Schurke	N	NN	Masc|Nom|Sg	0	root	447	447
+2	!	!	$	$.	_	0	root	_	_
+
+1	Schurke	Schurke	N	NN	Masc|Nom|Sg	0	root	447	447
+2	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	ihr	ihre	A	PPOSAT	_|_|Sg	0	root	_	_
+5	in	in	P	APPR	Acc	0	root	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	390	390
+7	Wein	Wein	N	NN	Masc|Acc|Sg	5	pn	390	390
+8	gemischt	mischen	V	VVPP	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Hörst	hören	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	326	326
+2	sage	sagen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Schurke	Schurke	N	NN	Masc|Nom|Sg	0	root	447	447
+5	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	auf	auf	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ah	Ah	N	NN	Fem|_|Sg	0	root	66	66
+2	!	!	$	$.	_	0	root	_	_
+
+1	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_|Sg|_|Nom	1	subj	2	2
+4	so	so	A	ADV	_	5	adv	_	_
+5	gemeint	meinen	V	VVPP	_	1	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vorwärts	vorwärts	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	vorwärts	vorwärts	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Komm	Komm	N	NE	_	4	vok	448	448
+2	,	,	$	$,	_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	4	subj	_	_
+4	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_	10	obja	_	_
+7	vor	vor	P	APPR	Dat	10	pp	_	_
+8	dem	die	A	ART	Def|_|Dat|Sg	9	det	_	_
+9	Tor	Tor	N	NN	_|Dat|Sg	7	pn	_	_
+10	abmachen	abmachen	V	VVINF	_	4	aux	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Um	Um	K	KOUI	_	0	root	_	_
+2	Himmels	Himmel	N	NN	Masc|Gen|Sg	0	root	457	457
+3	willen	willen	A	APZR	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	326	326
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	viel	viel	A	PIDAT	Fem|_|Sg	6	det	_	_
+6	Zeit	Zeit	N	NN	Fem|_|Sg	2	obja	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	vors	vor	P	APPRART	Acc	11	objp	_	_
+9	Tor	Tor	N	NN	_|Acc|Sg	8	pn	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	gehen	gehen	V	VVINF	_	2	obji	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Raum	Raum	N	NN	Masc|Nom|Sg	2	subj	_	_
+4	genug	genug	A	ADV	_	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_	0	root	_	_
+4	beliebt	beliebt	A	ADJD	Pos|	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Vetter	Vetter	N	NE	_	0	root	438	438
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	3	vok	250	250
+2	,	,	$	$,	_	0	root	_	_
+3	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	326	326
+5	Sie	sie	P	PPER	3|_|_|_	8	obja	236	236
+6	gleich	gleich	A	ADV	_	8	adv	_	_
+7	wieder	wieder	A	ADV	_	8	adv	_	_
+8	verlieren	verlieren	V	VVINF	_	3	aux	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_|Nom|Sg	2	subj	250	250
+2	lacht	lachen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	keine	keine	A	PIAT	Fem|Nom|Sg	4	det	_	_
+4	Zeit	Zeit	N	NN	Fem|Nom|Sg	2	pred	_	_
+5	zum	zu	P	APPRART	Dat	4	pp	_	_
+6	Lachen	Lache	N	NN	_|Dat|_	5	pn	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	vorwärts	vorwärts	A	ADV	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	vorwärts	vorwärts	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Gefecht	Gefecht	N	NN	Neut|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	2	adv	_	_
+2	übel	übel	A	ADJD	Pos|	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	449	449
+4	gut	gut	A	ADJD	Pos|	5	pred	_	_
+5	gemacht	machen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	noch	noch	A	ADV	_	5	adv	_	_
+2	sieben	sieben	C	CARD	_	5	attr	_	_
+3	oder	oder	K	KON	_	2	kon	_	_
+4	acht	acht	C	CARD	_	3	cj	_	_
+5	Jahre	Jahr	N	NN	Neut|_|Pl	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	und	und	K	KON	_	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	9	subj	449	449
+9	wärst	sein	V	VAFIN	2|Sg|Past|Subj	7	cj	_	_
+10	ein	eine	A	ART	Indef|Masc|Nom|Sg	12	det	450	450
+11	gefährlicher	gefährlich	A	ADJA	Pos|Masc|Nom|Sg|St|	12	attr	450	450
+12	Gegner	Gegner	N	NN	Masc|Nom|Sg	9	pred	450	450
+13	-	-	$	$(	_	0	root	_	_
+14	wenn	wenn	K	KOUS	_	0	root	_	_
+15	auch	auch	A	ADV	_	17	adv	_	_
+16	nicht	nicht	P	PTKNEG	_	17	adv	_	_
+17	für	für	P	APPR	Acc	0	root	_	_
+18	mich	ich	P	PPER	1|Sg|_|Acc	17	pn	326	326
+19	.	.	$	$.	_	0	root	_	_
+
+1	Sticht	stechen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	ihm	er	P	PPER	3|Sg|_|Dat	1	objd	450	450
+3	ins	in	P	APPRART	Acc	1	pp	_	_
+4	Herz	Herz	N	NN	_|Acc|_	3	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|Nom|Sg	2	subj	235	235
+2	sinkt	sinken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nieder	nieder	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Weh	wehen	V	VVIMP	Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	weh	weh	P	PTKVZ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	zu	zu	P	APPR	Dat	4	pp	_	_
+3	Cassian	Cassian	N	NE	_|Dat|_	2	pn	250	250
+4	hinfliegend	hinfliegen	A	ADJD	_|<PPRES	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	Ihnen	sie	P	PPER	3|Pl|_|Dat	3	objd	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	nichts	nichts	P	PIS	_|Nom|Sg	3	subj	_	_
+5	geschehen	geschehen	V	VVINF	_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	tut	tun	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	326	326
+4	leid	leid	P	PTKVZ	_	2	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Vetter	Vetter	N	NE	_|_|Sg	2	vok	235	235
+7	Martin	Martin	N	NE	_|_|Sg	6	app	235	235
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	445	445
+2	Diener	Diener	N	NN	Masc|Nom|Sg	3	subj	445	445
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	gnädiger	gnädig	A	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	_	_
+6	Herr	Herr	N	NN	Masc|Nom|Sg	3	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sein	seine	A	PPOSAT	Masc|Nom|Sg	2	det	2	2
+2	Herr	Herr	N	NN	Masc|Nom|Sg	3	subj	451	451
+3	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	hier	hier	A	ADV	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Nehm	Nehm	N	NE	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Er	er	P	PPER	3|Sg|Masc|Nom	0	root	451	451
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	452	452
+5	Sack	Sack	N	NN	Masc|Acc|Sg	0	root	452	452
+6	.	.	$	$.	_	0	root	_	_
+

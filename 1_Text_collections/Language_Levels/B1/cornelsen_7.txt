@@ -1,0 +1,86 @@
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	(1
+2	Talkrunde	Talkrund	N	NN	Fem|Nom|Sg	5	subj	_	-
+3	am	an	PREP	APPRART	Dat	2	pp	_	-
+4	Mittwoch	Mittwoch	N	NN	Masc|Dat|Sg	3	pn	_	1)
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	mir	ich	PRO	PPER	1|Sg|_|Dat	8	objd	_	(0)
+7	gut	gut	ADV	ADJD	Pos|	8	adv	_	-
+8	gefallen	fallen	V	VVPP	_	5	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	es	es	PRO	PPER	3|Sg|Neut|_	2	expl	_	-
+4	wichtig	wichtig	ADV	ADJD	Pos|	2	pred	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	dass	dass	KOUS	KOUS	_	15	konj	_	-
+7	das	die	ART	ART	Def|Neut|_|Sg	8	det	_	-
+8	Thema	Thema	N	NN	Fem|Nom|Sg	15	subj	_	-
+9	Stressbewältigung	Stressbewältigung	N	NN	Fem|Nom|Sg	8	app	_	-
+10	immer	immer	ADV	ADV	_	11	adv	_	-
+11	wieder	wieder	ADV	ADV	_	15	adv	_	-
+12	in	in	PREP	APPR	Dat	15	pp	_	-
+13	den	die	ART	ART	Def|_|Dat|Pl	14	det	_	-
+14	Medien	Media	N	NN	_|Dat|Pl	12	pn	_	-
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Menschen	Mensch	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	leiden	leiden	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	unter	unter	PREP	APPR	_	3	pp	_	-
+5	Stress	Stress	N	NN	Masc|_|Sg	4	pn	_	(3)
+6	,	,	$,	$,	_	0	root	_	-
+7	kennen	kennen	V	VVFIN	_|Pl|Pres|_	3	kon	_	-
+8	aber	aber	ADV	ADV	_	7	adv	_	-
+9	nicht	nicht	PTKNEG	PTKNEG	_	7	adv	_	-
+10	die	die	ART	ART	Def|Masc|_|Pl	11	det	_	-
+11	Gründe	Grund	N	NN	Masc|_|Pl	7	obja	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	es	es	PRO	PPER	3|Sg|Neut|_	2	expl	_	-
+4	allerdings	allerdings	ADV	ADV	_	2	adv	_	-
+5	schade	schade	ADV	ADJD	Pos|	2	pred	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	dass	dass	KOUS	KOUS	_	16	konj	_	-
+8	das	die	ART	ART	Def|Neut|Nom|Sg	9	det	_	(2
+9	Thema	Thema	N	NN	Neut|Nom|Sg	16	subj	_	2)
+10	im	in	PREP	APPRART	Dat	16	pp	_	-
+11	Fernsehen	Fernsehen	N	NN	Neut|Dat|Sg	10	pn	_	-
+12	meistens	meistens	ADV	ADV	_	16	adv	_	-
+13	nur	nur	ADV	ADV	_	16	adv	_	-
+14	eine	eine	ART	ART	Indef|Fem|_|Sg	15	det	_	-
+15	Seite	Seite	N	NN	Fem|_|Sg	16	obja	_	-
+16	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Auch	auch	ADV	ADV	_	2	adv	_	-
+2	in	in	PREP	APPR	Dat	5	pp	_	-
+3	dieser	diese	ART	PDAT	Fem|Dat|Sg	4	det	_	(1
+4	Talkrunde	Talkrund	N	NN	Fem|Dat|Sg	2	pn	_	1)
+5	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+6	das	die	ART	ART	Def|Neut|Nom|Sg	7	det	_	(2
+7	Thema	Thema	N	NN	Neut|Nom|Sg	5	subj	_	2)
+8	„	„	ADJA	ADJA	_|Masc|Nom|Sg|_	9	attr	_	-
+9	Stress	Stress	N	NN	Masc|Nom|Sg	5	pred	_	-
+10	im	in	PREP	APPRART	Dat	9	pp	_	-
+11	Beruf	Beruf	N	NN	Masc|Dat|Sg	10	pn	_	-
+12	“	“	$(	$(	_	0	root	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	auch	auch	ADV	ADV	_	3	adv	_	-
+3	Arbeitslose	Arbeitslose	N	NN	_|Nom|Pl	4	subj	_	-
+4	haben	haben	V	VAFIN	3|Pl|Pres|_	1	cj	_	-
+5	Stress	Stress	N	NN	Masc|_|Sg	4	obja	_	(3)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|_|Sg	5	obja	_	-
+2	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	-
+3	man	man	PRO	PIS	_|Nom|Sg	2	subj	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	5	adv	_	-
+5	vergessen	vergessen	V	VVINF	_	2	aux	_	-
+6	!	!	$.	$.	_	0	root	_	-
+

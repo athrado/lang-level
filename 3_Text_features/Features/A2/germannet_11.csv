@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,9.642857142857142
+LIX,34.08730158730158
+# words,135
+# sents,14
+discourse entities,0.2857142857142857
+avg entity frequency,2.25
+vocabulary density,0.6176470588235294
+adjectives,1.0
+nouns,1.8571428571428572
+verbs,2.0
+pronouns,1.3571428571428572
+particles,1.7857142857142858
+punctuation marks,1.4285714285714286
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.6428571428571429
+aux verbs,0.42857142857142855
+full verbs,1.0714285714285714
+split verbs,0.0
+nominative,0.7142857142857143
+accusative,0.5714285714285714
+dative,0.21428571428571427
+genitive,0.0
+gen modifiers,0.0
+prep with gen,0.0
+all genitives,0.0
+accusative obj,0.5
+dative obj,0.0
+genitive obj,0.0
+prepositional obj,0.14285714285714285
+acc+dat obj,0.5
+gen+prep obj,0.14285714285714285
+present forms,0.7857142857142857
+past forms,0.35714285714285715
+perfect forms,0.0
+pqp forms,0.0
+perfect+pqp forms,0.0
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.0
+all futur forms,0.0
+subj 1 forms,0.0
+subj 2 forms,0.0
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.0
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.0
+comp+superlative,0.0
+conjunctions,0.07142857142857142
+subjunctions,0.0
+relative clauses,0.0
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.0
+question words,0.0
+question marks,0.0
+subj/pred inversions,0.5714285714285714
+placeholder 'es',0.07142857142857142
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,3.857142857142857
+concessive,0.5
+conditional,3.4285714285714284
+consecutive,1.4285714285714286
+final,0.2857142857142857
+interrogative,0.21428571428571427
+modal,0.07142857142857142
+other,6.214285714285714
+temporal,0.8571428571428571
+A1 features,2
+A1 features summed,0.7142857142857143
+A2 features,5
+A2 features summed,9.214285714285715
+B1 features,4
+B1 features summed,3.0
+level features (all),21
+level features (all) summed,16.214285714285715

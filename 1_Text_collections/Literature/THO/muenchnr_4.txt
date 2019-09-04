@@ -1,0 +1,494 @@
+1	»	»	$	$(	_	0	root	_	_
+2	Ah	Ah	N	NN	Fem|_|Sg	0	root	_	_
+3	so	so	A	ADV	_	2	adv	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Nacha	Nacha	F	FM	_	0	root	_	_
+2	is	is	F	FM	_	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	0	root	50	50
+5	was	was	P	PIS	_	0	root	_	_
+6	anders	anders	A	ADV	_	5	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wenn	wenn	K	KOUS	_	0	root	_	_
+9	Sie	sie	P	PPER	3|_|_|_	0	root	50	50
+10	net	net	A	ADJD	_	0	root	_	_
+11	von	von	P	APPR	_	10	pp	_	_
+12	hier	hier	A	ADV	_	13	adv	76	76
+13	san	san	N	NE	_|_|_	11	pn	76	76
+14	«	«	$	$(	_	0	root	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	erwidert	erwidern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+17	der	die	A	ART	Def|Masc|Nom|Sg	18	det	1	1
+18	Schaffner	Schaffner	N	NN	Masc|Nom|Sg	16	subj	1	1
+19	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	öffnet	öffnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	43	43
+4	Türe	Türe	N	NN	Fem|_|Sg	2	obja	43	43
+5	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Universität	Universität	N	NN	Fem|_|Sg	0	root	51	51
+3	!	!	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	Professor	Professor	N	NN	Masc|Nom|Sg	3	subj	49	49
+2	Spengler	Spengler	N	NE	Masc|Nom|Sg	1	app	49	49
+3	steigt	steigen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ab	ab	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	1	1
+2	Schaffner	Schaffner	N	NN	Masc|Nom|Sg	3	subj	1	1
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ihm	er	P	PPER	3|Sg|_|Dat	3	objd	49	49
+5	behilflich	behilflich	A	ADJD	_	3	pred	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	8	subj	49	49
+8	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	acht	acht	C	CARD	_	8	objd	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	22	konj	_	_
+12	der	die	A	ART	Def|Masc|Nom|Sg	14	det	1023	1023
+13	alte	alt	A	ADJA	Pos|Masc|Nom|Sg|Wk|	14	attr	1023	1023
+14	Herr	Herr	N	NN	Masc|Nom|Sg	22	subj	1023	1023
+15	auf	auf	P	APPR	Dat	21	objp	_	_
+16	dem	die	A	ART	Def|Masc|Dat|Sg	18	det	_	_
+17	glatten	glatt	A	ADJA	Pos|Masc|Dat|Sg|Wk|	18	attr	_	_
+18	Asphalt	Asphalt	N	NN	Masc|Dat|Sg	15	pn	_	_
+19	gut	gut	A	ADJD	Pos|	21	pred	_	_
+20	zu	zu	P	PTKZU	_	21	part	_	_
+21	stehen	stehen	V	VVINF	_	22	obji	_	_
+22	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	8	objc	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	klopft	klopfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	49	49
+4	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	1	1
+5	wohlwollend	wohlwollen	A	ADJD	_|<PPRES	2	adv	_	_
+6	auf	auf	P	APPR	Acc	2	objp	_	_
+7	die	die	A	ART	Def|_|Acc|_	8	det	656	656
+8	Schulter	Schulter	N	NN	_|Acc|_	6	pn	656	656
+9	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Soo	Soo	N	NE	Masc|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Herr	Herr	N	NN	Masc|_|Sg	2	app	_	_
+5	Professa	Professa	N	NE	Masc|_|Sg	4	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Nur	nur	A	ADV	_	4	adv	1626	1626
+2	net	net	A	ADV	_	3	adv	1626	1626
+3	gar	gar	A	ADV	_	4	adv	1626	1626
+4	z	z	N	NN	_	0	root	1626	1626
+5	'	'	$	$(	_	0	root	_	_
+6	fleißig	fleißig	A	ADJD	Pos|	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	pfeift	pfeifen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	2	kon	_	_
+5	es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+6	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	4	cj	_	_
+7	weiter	weiter	P	PTKVZ	_	6	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	1	1
+2	Schaffner	Schaffner	N	NN	Masc|Nom|Sg	3	subj	1	1
+3	wendet	wenden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	nochmal	nochmal	A	ADV	_	3	adv	_	_
+6	an	an	P	APPR	_	3	objp	_	_
+7	den	die	A	ART	Def|_|_|_	8	det	6	6
+8	Herrn	Herrn	N	NN	_|_|_	6	pn	6	6
+9	:	\:	$	$.	_	0	root	_	_
+10	»	»	$	$(	_	0	root	_	_
+11	Alle	alle	A	PIDAT	_|_|_	12	det	_	_
+12	Tag	Tag	N	NN	_|Nom|Sg	18	subj	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	punkt	punkt	N	NN	Fem|Nom|Sg	12	kon	_	_
+15	acht	acht	C	CARD	_	16	attr	_	_
+16	Uhr	Uhr	N	NN	Fem|Nom|Sg	14	app	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	fahrt	fahren	V	VVFIN	2|Pl|Pres|Ind	0	root	_	_
+19	dös	dös	A	ADJD	_	18	adv	_	_
+20	alte	alt	A	ADJA	Pos|_|_|_|_|	21	attr	_	_
+21	Mannderl	Mannderl	N	NN	_|_|_	18	obja	_	_
+22	auf	auf	P	APPR	_	18	pp	_	_
+23	d	d	N	NN	Fem|_|Sg	22	pn	_	_
+24	'	'	$	$(	_	0	root	_	_
+25	Universität	Universität	N	NN	Fem|_|Sg	23	app	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	Nix	nix	P	PIS	_	0	root	_	_
+2	wia	wia	F	FM	_	0	root	_	_
+3	lauta	lauta	F	FM	_	2	app	_	_
+4	Weltgeschüchte	Weltgeschüchte	F	FM	_	3	app	_	_
+5	!	!	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	In	in	P	APPR	_	0	root	_	_
+2	Berlin	Berlin	N	NE	_|_|Sg	1	pn	382	382
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Straßenwagen	Straßenwage	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	fährt	fahren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	durch	durch	P	APPR	Acc	3	pp	_	_
+5	den	die	A	ART	Def|Masc|Acc|Sg	6	det	_	_
+6	Tiergarten	Tiergarten	N	NN	Masc|Acc|Sg	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Seitab	Seitab	N	NN	Masc|_|Sg	0	root	_	_
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Bäume	Baum	N	NN	Masc|Nom|Pl	2	subj	_	_
+4	gefällt	fällen	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	cj	_	_
+9	ein	eine	A	ART	Indef|Masc|Nom|Sg	11	det	322	322
+10	sonderbarer	sonderbar	A	ADJA	Pos|Masc|Nom|Sg|St|	11	attr	322	322
+11	Anblick	Anblick	N	NN	Masc|Nom|Sg	8	pred	322	322
+12	,	,	$	$,	_	0	root	_	_
+13	mitten	mitten	A	ADV	_	14	adv	_	_
+14	in	in	P	APPR	Dat	19	pp	_	_
+15	der	die	A	ART	Def|Fem|Dat|Sg	16	det	_	_
+16	Großstadt	Großstadt	N	NN	Fem|Dat|Sg	14	pn	_	_
+17	Waldarbeit	Waldarbeit	N	NN	Fem|Dat|Sg	16	app	_	_
+18	zu	zu	P	PTKZU	_	19	part	_	_
+19	sehen	sehen	V	VVINF	_	8	obji	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	1	1
+2	Schaffner	Schaffner	N	NN	Masc|Nom|Sg	3	subj	1	1
+3	wendet	wenden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	an	an	P	APPR	Acc	3	objp	_	_
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	7	det	303	303
+7	Herrn	Herrn	N	NN	Masc|Acc|Sg	5	pn	303	303
+8	,	,	$	$,	_	0	root	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	_	_
+10	Ähnlichkeit	Ähnlichkeit	N	NN	Fem|Dat|Sg	14	objd	_	_
+11	mit	mit	P	APPR	Dat	10	pp	_	_
+12	dem	die	A	ART	Def|Masc|Dat|Sg	13	det	_	_
+13	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	11	pn	_	_
+14	hat	haben	V	VAFIN	3|Sg|Pres|Ind	3	kon	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	2	part	_	_
+2	man	man	P	PIS	_|Nom|Sg	3	grad	_	_
+3	in	in	P	APPR	_	6	pp	_	_
+4	Norddeutschland	Norddeutschland	N	NN	Neut|_|Sg	3	pn	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	häufig	häufig	A	ADJD	Pos|	7	adv	_	_
+7	trifft	treffen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Starkes	stark	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	_	_
+2	Kinn	Kinn	N	NN	Neut|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Habyschnurrbart	Habyschnurrbart	N	NE	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	1	1
+2	Schaffner	Schaffner	N	NN	Masc|Nom|Sg	3	subj	1	1
+3	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	»	»	$	$(	_	0	root	_	_
+6	Das	die	P	PDS	Neut|Nom|Sg	7	subj	_	_
+7	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	nun	nun	A	ADV	_	7	adv	_	_
+9	schon	schon	A	ADV	_	7	adv	_	_
+10	so	so	A	ADV	_	12	adv	_	_
+11	vier	vier	C	CARD	_	12	attr	_	_
+12	Wochen	Woche	N	NN	Fem|_|Pl	7	zeit	_	_
+13	.	.	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	deutet	deuten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	APPR	Acc	2	objp	_	_
+4	die	die	A	ART	Def|Masc|Acc|Pl	5	det	_	_
+5	Holzarbeiter	Holzarbeiter	N	NN	Masc|Acc|Pl	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	53	53
+2	Doppelgänger	Doppelgänger	N	NN	Masc|Nom|Sg	5	subj	53	53
+3	Kaiser	Kaiser	N	NE	Masc|Gen|Sg	2	gmod	54	54
+4	Wilhelms	Wilhelm	N	NE	Masc|Gen|Sg	3	app	53	53
+5	schweigt	schweigen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wenn	wenn	K	KOUS	_	9	konj	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	9	subj	_	_
+4	nur	nur	A	ADV	_	9	adv	_	_
+5	nich	nich	A	ADJD	_	9	adv	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	8	det	52	52
+7	ganzen	ganz	A	ADJA	Pos|Masc|Acc|Sg|_|	8	attr	52	52
+8	Tiergarten	Tiergarten	N	NN	Masc|Acc|Sg	9	obja	52	52
+9	umschlagen	umschlagen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+10	!	!	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+12	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+13	der	die	A	ART	Def|Masc|Nom|Sg	14	det	1	1
+14	Schaffner	Schaffner	N	NN	Masc|Nom|Sg	12	subj	1	1
+15	.	.	$	$.	_	0	root	_	_
+
+1	Keine	keine	A	PIAT	Fem|_|Sg	2	det	_	_
+2	Antwort	Antwort	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	1	1
+2	Schaffner	Schaffner	N	NN	Masc|Nom|Sg	3	subj	1	1
+3	versucht	versuchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	3	expl	_	_
+5	noch	noch	A	ADV	_	3	adv	_	_
+6	einmal	einmal	A	ADV	_	3	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Den	die	A	ART	Def|Masc|Acc|Sg	4	det	52	52
+3	ganzen	ganz	A	ADJA	Pos|Masc|Acc|Sg|_|	4	attr	52	52
+4	Tiergarten	Tiergarten	N	NN	Masc|Acc|Sg	0	root	52	52
+5	!	!	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wär	wär	V	VAFIN	3|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	doch	doch	A	ADV	_	2	adv	_	_
+5	jammerschade	jammerschade	A	ADJD	Pos|	2	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	blickt	blicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	0	0
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	53	53
+5	Doppelgänger	Doppelgänger	N	NN	Masc|Nom|Sg	2	subj	53	53
+6	Kaiser	Kaiser	N	NE	Masc|Gen|Sg	5	gmod	54	54
+7	Wilhelms	Wilhelm	N	NE	Masc|Gen|Sg	6	app	53	53
+8	an	an	P	PTKVZ	_	2	avz	_	_
+9	;	;	$	$.	_	0	root	_	_
+10	strenge	streng	A	ADJA	Pos|_|_|_|_|	0	root	_	_
+11	und	und	K	KON	_	10	kon	_	_
+12	abweisend	abweisen	A	ADJD	_|<PPRES	11	cj	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+3	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	:	\:	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	0	0
+3	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+4	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	56	56
+6	Absicht	Absicht	N	NN	Fem|_|Sg	3	obja	56	56
+7	,	,	$	$,	_	0	root	_	_
+8	mich	ich	P	PRF	1|Sg|Acc	14	obja	_	_
+9	mit	mit	P	APPR	Dat	14	objp	_	_
+10	Ihnen	sie	P	PPER	3|Pl|_|Dat	9	pn	7	7
+11	in	in	P	APPR	Acc	10	pp	_	_
+12	eine	eine	A	ART	Indef|Fem|Acc|Sg	13	det	_	_
+13	Konversation	Konversation	N	NN	Fem|Acc|Sg	11	pn	_	_
+14	einzulassen	einlassen	V	VVIZU	_	3	obji	_	_
+15	.	.	$	$.	_	0	root	_	_
+16	«	«	$	$(	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|_|Sg	3	det	60	60
+2	schöne	schön	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	60	60
+3	Straße	Straß	N	NN	Fem|_|Sg	0	root	60	60
+4	,	,	$	$,	_	0	root	60	60
+5	die	die	A	ART	Def|_|_|_	6	det	60	60
+6	Ludwigstraße	Ludwigstraß	N	NN	_|_|_	3	app	60	60
+7	in	in	P	APPR	_	6	pp	60	60
+8	München	München	N	NE	Neut|_|Sg	7	pn	55	55
+9	.	.	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	0	0
+2	Freund	Freund	N	NN	Masc|Nom|Sg	7	subj	169	169
+3	,	,	$	$,	_	0	root	169	169
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	169	169
+5	Bürgermeister	Bürgermeister	N	NN	Masc|Nom|Sg	2	app	169	169
+6	,	,	$	$,	_	0	root	_	_
+7	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	sie	sie	P	PPER	3|Sg|Fem|Nom	10	subj	56	56
+10	hätte	haben	V	VAFIN	3|Sg|Past|Subj	7	s	_	_
+11	einen	eine	A	ART	Indef|Masc|Acc|Sg	13	det	_	_
+12	monumentalen	monumental	A	ADJA	Pos|Masc|Acc|Sg|_|	13	attr	_	_
+13	Charakter	Charakter	N	NN	Masc|Acc|Sg	10	obja	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Südlich	südlich	A	ADJD	Pos|	3	adv	_	_
+2	die	die	A	ART	Def|Fem|_|Sg	3	det	_	_
+3	Feldherrnhalle	Feldherrnhalle	N	NE	Fem|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|Nom|Pl	2	det	57	57
+2	Standbilder	Standbild	N	NN	_|Nom|Pl	4	subj	57	57
+3	darin	darin	P	PROAV	_	2	pp	57	57
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+5	verdeckt	verdeckt	A	ADJD	Pos|	4	pred	_	_
+6	durch	durch	P	APPR	Acc	4	pp	_	_
+7	zwei	zwei	C	CARD	_	9	attr	_	_
+8	dicke	dick	A	ADJA	Pos|Fem|Acc|Pl|St|	9	attr	_	_
+9	Flaggenstangen	Flaggenstang	N	NN	Fem|Acc|Pl	6	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	_	_
+2	Freund	Freund	N	NN	Masc|Nom|Sg	7	subj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	_	_
+5	Bürgermeister	Bürgermeister	N	NN	Masc|Nom|Sg	2	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	in	in	P	APPR	_	11	pp	_	_
+10	Venedig	Venedig	N	NE	Neut|_|Sg	9	pn	370	370
+11	hätten	haben	V	VAFIN	3|Pl|Past|Subj	7	s	_	_
+12	sie	sie	P	PPER	3|Pl|_|Nom	11	subj	57	57
+13	die	die	A	ART	Def|_|_|_	14	det	_	_
+14	nämlichen	nämlich	A	ADJA	_|_|Pl	11	obja	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Weiter	Weiter	A	ADV	_	2	adv	58	58
+2	nördlich	nördlich	A	ADJD	Pos|	4	adv	58	58
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	4	det	58	58
+4	Rangierbahnhof	Rangierbahnhof	N	NN	Masc|Nom|Sg	0	root	58	58
+5	.	.	$	$.	_	0	root	_	_
+
+1	Belebt	beleben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	die	die	A	ART	Def|Fem|Nom|Sg	3	det	909	909
+3	Gegend	Gegend	N	NN	Fem|Nom|Sg	1	subj	909	909
+4	großartig	großartig	A	ADJD	Pos|	1	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|_|Nom|Sg	2	det	_	_
+2	Motorwagen	Motorwage	N	NN	_|Nom|Sg	3	subj	_	_
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	an	an	P	PTKVZ	_	3	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	ein	eine	A	ART	Indef|_|Nom|Sg	7	det	_	_
+7	Akkumulatorwagen	Akkumulatorwage	N	NN	_|Nom|Sg	8	subj	_	_
+8	fährt	fahren	V	VVFIN	3|Sg|Pres|Ind	3	kon	_	_
+9	ab	ab	P	PTKVZ	_	8	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Schaffner	Schaffner	N	NN	Masc|Nom|Pl	2	subj	_	_
+2	stürzen	stürzen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	heraus	heraus	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	schreien	schreien	V	VVFIN	_|Pl|Pres|_	2	kon	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	pfeifen	pfeifen	V	VVFIN	_|Pl|Pres|_	5	s	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	reißen	reißen	V	VVFIN	_|Pl|Pres|_	7	kon	_	_
+10	eine	eine	A	ART	Indef|Fem|_|Sg	11	det	1572	1572
+11	Stange	Stange	N	NN	Fem|_|Sg	9	obja	1572	1572
+12	herum	herum	P	PTKVZ	_	9	avz	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	koppeln	koppeln	V	VVFIN	_|Pl|Pres|_	9	kon	_	_
+15	die	die	A	ART	Def|Masc|_|Pl	16	det	_	_
+16	Wägen	Wagen	N	NN	Masc|_|Pl	14	obja	_	_
+17	an	an	P	PTKVZ	_	14	avz	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	erste	erst	A	ADJA	_|Masc|Nom|Sg|Wk|	3	attr	_	_
+3	Führer	Führer	N	NN	Masc|Nom|Sg	4	subj	_	_
+4	läutet	läuten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	der	die	A	ART	Def|_|_|_	7	det	_	_
+7	zweite	zweit	A	ADJA	Masc|Nom|Sg	8	subj	_	_
+8	läutet	läuten	V	VVFIN	3|Sg|Pres|Ind	4	kon	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	alle	alle	A	PIDAT	Masc|_|Pl	11	det	_	_
+11	Schaffner	Schaffner	N	NN	Masc|_|Pl	12	obja	_	_
+12	pfeifen	pfeifen	V	VVINF	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	267	267
+2	Zug	Zug	N	NN	Masc|Nom|Sg	3	subj	267	267
+3	fährt	fahren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|_|_|Sg	2	part	_	_
+2	andrer	andere	P	PIS	Masc|Nom|Sg	3	subj	_	_
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Akkumulatorwagen	Akkumulatorwage	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	an	an	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|_|Nom|Sg	2	det	_	_
+2	Motorwagen	Motorwage	N	NN	_|Nom|Sg	3	subj	_	_
+3	fährt	fahren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ab	ab	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wie	wie	K	KOKOM	_	5	kom	_	_
+2	gesagt	sagen	V	VVPP	_	1	cj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	lebhaft	lebhaft	A	ADJD	Pos|	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	59	59
+2	Freund	Freund	N	NN	Masc|Nom|Sg	7	subj	59	59
+3	,	,	$	$,	_	0	root	59	59
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	59	59
+5	Bürgermeister	Bürgermeister	N	NN	Masc|Nom|Sg	2	app	59	59
+6	,	,	$	$,	_	0	root	_	_
+7	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	das	die	A	ART	Def|Neut|_|Sg	10	det	_	_
+10	Muster	Muster	N	NN	Neut|_|Sg	17	obja	_	_
+11	zu	zu	P	APPR	Dat	10	pp	_	_
+12	dem	die	A	ART	Def|Masc|Dat|Sg	13	det	58	58
+13	Rangierbahnhof	Rangierbahnhof	N	NN	Masc|Dat|Sg	11	pn	58	58
+14	hätte	haben	V	VAFIN	3|Sg|Past|Subj	7	s	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	14	subj	59	59
+16	nirgends	nirgends	A	ADV	_	17	adv	_	_
+17	gesehen	sehen	V	VVPP	_	14	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	Original	Original	N	NN	Neut|Nom|Sg	1	subj	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Weiter	Weiter	A	ADV	_	2	adv	78	78
+2	nördlich	nördlich	A	ADJD	Pos|	5	adv	78	78
+3	die	die	A	ART	Def|_|_|_	5	det	78	78
+4	eigentliche	eigentlich	A	ADJA	Pos|_|_|_|_|	5	attr	78	78
+5	Ludwigstraße	Ludwigstraß	N	NN	_|_|_	0	root	78	78
+6	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	ein	eine	A	ART	Indef|Neut|_|Sg	3	det	_	_
+3	Lineal	Lineal	N	NN	Neut|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Keine	keine	A	PIAT	Fem|_|Pl	2	det	_	_
+2	Unregelmäßigkeiten	Unregelmäßigkeit	N	NN	Fem|_|Pl	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	keine	keine	A	PIAT	Masc|_|Pl	5	det	_	_
+5	Bäume	Baum	N	NN	Masc|_|Pl	2	app	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	nur	nur	A	ADV	_	8	adv	_	_
+8	Fenster	Fenster	N	NN	Neut|_|_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,279 @@
+1	Wer	wer	P	PWS	_|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	keine	keine	A	PIAT	Fem|_|Sg	4	det	_	_
+4	Ahnung	Ahnung	N	NN	Fem|_|Sg	2	obja	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Recht	Recht	N	NN	Neut|_|Sg	2	obja	554	554
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|Dat	6	objd	_	_
+4	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+5	alles	alle	P	PIS	_|_|Sg	6	obja	_	_
+6	bieten	bieten	V	VVINF	_	7	obji	_	_
+7	lassen	lassen	V	VVINF	_	2	aux	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	6	konj	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	555	555
+3	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	gebildet	bilden	V	VVPP	_	6	aux	_	_
+6	wäre	sein	V	VAFIN	1|Sg|Past|Subj	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	möcht	möcht	A	ADJD	_	10	adv	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	0	root	555	555
+11	auch	auch	A	ADV	_	10	adv	_	_
+12	pfeifen	pfeifen	V	VVINF	_	0	root	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Einige	einige	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ruhe	Ruhe	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ruhe	Ruhe	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Weiterspielen	weiterspielen	V	VVINF	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	_	_
+2	auf	auf	P	APPR	Dat	1	pp	_	_
+3	den	die	A	ART	Def|Fem|Dat|Pl	4	det	564	564
+4	Stufen	Stufe	N	NN	Fem|Dat|Pl	2	pn	564	564
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	556	556
+2	bitte	bitten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	um	um	P	APPR	Acc	2	objp	_	_
+4	Ruhe	Ruhe	N	NN	Fem|Acc|Sg	3	pn	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	meine	meine	A	PPOSAT	Fem|Acc|Pl	7	det	556	556
+7	Herrschaften	Herrschaft	N	NN	Fem|Acc|Pl	4	app	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Einige	einige	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bravo	Bravo	F	FM	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Bravo	Bravo	F	FM	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Zweiter	zweit	A	ADJA	_|Masc|_|_|St|	2	attr	_	_
+2	Skandalmacher	Skandalmacher	N	NN	Masc|_|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	0	root	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	schon	schon	A	ADV	_	2	adv	_	_
+6	g	g	N	NN	_	2	obja	526	526
+7	'	'	$	$(	_	0	root	_	_
+8	sagt	sagen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Gelächter	Gelächter	N	NN	_|_|_	0	root	557	557
+2	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	505	505
+2	Dichter	Dichter	N	NN	_|_|_	0	root	505	505
+3	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	lachen	lachen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	2	subj	505	505
+4	gar	gar	A	ADV	_	2	adv	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	stellen	stellen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	505	505
+4	sich	sie	P	PRF	3|_|_	2	obja	_	_
+5	vor	vor	P	PTKVZ	_	2	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	man	man	P	PIS	_|Nom|Sg	8	subj	_	_
+8	hätt	hätt	V	VVFIN	_|Sg|_|_	2	kon	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	den	die	A	ART	Def|_|Dat|Pl	11	det	481	481
+11	Leuten	Leute	N	NN	_|Dat|Pl	14	objd	481	481
+12	nichts	nichts	P	PIS	_	14	obja	_	_
+13	zu	zu	P	PTKZU	_	14	part	_	_
+14	essen	essen	V	VVINF	_	8	obji	_	_
+15	gegeben	geben	V	VVPP	_	14	neb	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	da	da	A	ADV	_	2	adv	_	_
+2	hätt	hätt	V	VVFIN	_|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+5	Sie	sie	P	PPER	3|_|_|Nom	8	subj	505	505
+6	schon	schon	A	ADV	_	8	adv	_	_
+7	längst	längst	A	ADV	_	8	adv	_	_
+8	erschlagen	erschlagen	V	VVPP	_	2	neb	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Gelächter	Gelächter	N	NN	_|_|_	0	root	557	557
+2	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	505	505
+2	Dichter	Dichter	N	NN	_|_|_	0	root	505	505
+3	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Dieser	diese	A	PDAT	Masc|Nom|Sg	2	det	558	558
+2	Haderlump	Haderlump	N	NN	Masc|Nom|Sg	0	root	558	558
+3	!	!	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	558	558
+4	sich	sie	P	PRF	3|_|_	2	obja	_	_
+5	über	über	P	APPR	Acc	2	pp	_	_
+6	mich	ich	P	PPER	1|Sg|_|Acc	5	pn	525	525
+7	lustig	lustig	A	ADJD	Pos|	2	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Viele	viele	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Pst	Pst	N	NE	_	0	root	552	552
+2	!	!	$	$.	_	0	root	_	_
+
+1	Pst	Pst	N	NE	_	0	root	552	552
+2	!	!	$	$.	_	0	root	_	_
+
+1	Einige	einige	P	PIS	_|Nom|Pl	2	subj	_	_
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	_	_
+3	Unruhe	Unruhe	N	NN	Fem|Nom|Sg	4	subj	_	_
+4	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	ärger	arg	A	ADJD	Comp|	4	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Dir	du	P	PPER	2|Sg|_|Dat	0	root	_	_
+3	Bissige	Bissige	N	NN	_|Nom|Sg	4	subj	_	_
+4	pfeift	pfeifen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	484	484
+2	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	0	root	484	484
+3	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+3	wollen	wollen	V	VMFIN	3|Pl|Pres|_	1	cj	_	_
+4	ein	eine	A	ART	Indef|Masc|Nom|Sg	6	det	_	_
+5	gebildeter	gebildet	A	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	_	_
+6	Mensch	Mensch	N	NN	Masc|Nom|Sg	7	pred	_	_
+7	sein	sein	V	VAINF	_	3	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+4	Sie	sie	P	PPER	3|_|_|_	2	obja	_	_
+5	an	an	P	PTKVZ	_	2	avz	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Einige	einige	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ruhe	Ruhe	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ruhe	Ruhe	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	505	505
+2	Dichter	Dichter	N	NN	_|_|_	0	root	505	505
+3	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	gehn	gehn	V	VVFIN	_|_|_|_	0	root	_	_
+3	die	die	A	ART	Def|_|Nom|_	4	det	_	_
+4	Leut	Leut	N	NN	_|Nom|_	2	subj	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	gar	gar	A	ADV	_	2	adv	_	_
+7	fort	fort	P	PTKVZ	_	2	avz	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	_|Nom|Pl	6	subj	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	die	die	P	PRELS	_|Nom|Pl	4	subj	559	559
+4	fortgehen	fortgehen	V	VVFIN	3|Pl|Pres|_	1	rel	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+7	wenigstens	wenigstens	A	ADV	_	9	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	pfeifen	pfeifen	V	VVINF	_	6	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	0	root	_	_
+3	zum	zu	P	APPRART	Dat	2	pp	_	_
+4	Bissigen	Bissige	N	NN	_|Dat|_	3	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	gehn	gehn	V	VVFIN	3|_|_|_	0	root	_	_
+3	Sie	sie	P	PPER	3|_|_|Nom	2	subj	559	559
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wenn	wenn	K	KOUS	_	12	konj	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	s	s	P	PPER	_|Sg|_|Nom	12	subj	2	2
+10	Ihnen	sie	P	PPER	3|Pl|_|Dat	12	objd	559	559
+11	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+12	gefällt	gefallen	V	VVFIN	3|Sg|Pres|Ind	2	neb	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Halten	halten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	559	559
+3	Ihr	ihre	A	PPOSAT	Neut|_|Sg	4	det	559	559
+4	Maul	Maul	N	NN	Neut|_|Sg	1	obja	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	559	559
+2	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	auf	auf	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Einige	einige	P	PIS	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hinaus	hinaus	P	PTKVZ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+

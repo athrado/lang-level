@@ -1,0 +1,131 @@
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	studiere	studieren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	an	an	PREP	APPR	Dat	2	pp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	-
+5	Hochschule	Hochschule	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	der	die	ART	ART	Def|_|Gen|Pl	7	det	_	-
+7	Medien	Media	N	NN	_|Gen|Pl	5	gmod	_	-
+8	in	in	PREP	APPR	_	2	pp	_	-
+9	Stuttgart	Stuttgart	N	NE	Neut|_|Sg	8	pn	_	(1)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)
+2	Studiengang	Studiengang	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Online-Medien-Management	Online-Medien-Management	N	NN	Neut|Nom|Sg	3	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|Masc|Nom|Sg	4	det	_	-
+4	Bachelor-Studiengang	Bachelor-Studiengang	N	NN	Masc|Nom|Sg	2	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Musik	Musik	N	NN	Fem|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	wichtig	wichtig	ADV	ADJD	Pos|	2	pred	_	-
+4	für	für	PREP	APPR	Acc	2	pp	_	-
+5	mich	ich	PRO	PPER	1|Sg|_|Acc	4	pn	_	(0)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	höre	hören	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	viel	viel	ART	PIDAT	Fem|_|Sg	4	det	_	-
+4	Musik	Musik	N	NN	Fem|_|Sg	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Radio	Radio	N	NN	Neut|_|Sg	2	obja	_	-
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	aber	aber	ADV	ADV	_	2	adv	_	-
+5	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+6	so	so	ADV	ADV	_	7	adv	_	-
+7	toll	toll	ADV	ADJD	Pos|	2	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	mag	mögen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Klassik	Klassik	N	NN	Fem|_|Sg	2	obja	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	aber	aber	KON	KON	_	3	kon	_	-
+6	auch	auch	ADV	ADV	_	7	adv	_	-
+7	Jazz	Jazz	N	NN	Masc|_|Sg	5	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	spiele	spielen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ganz	ganz	ADV	ADV	_	4	adv	_	-
+4	gut	gut	ADV	ADJD	Pos|	2	adv	_	-
+5	Gitarre	Gitarre	N	NN	Fem|_|Sg	2	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	schon	schon	ADV	ADV	_	6	adv	_	-
+4	als	als	KOKOM	KOKOM	_	6	kom	_	-
+5	Kind	Kind	N	NN	Neut|_|Sg	4	cj	_	-
+6	angefangen	anfangen	V	VVPP	_	2	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Gestern	gestern	ADV	ADV	_	2	adv	_	-
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	ein	eine	ART	ART	Indef|Neut|_|Sg	6	det	_	-
+5	tolles	toll	ADJA	ADJA	Pos|Neut|_|Sg|St|	6	attr	_	-
+6	Konzert	Konzert	N	NN	Neut|_|Sg	0	root	_	-
+7	gehört	gehören	V	VVPP	_	0	root	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(1
+2	Jazzchor	Jazzchor	N	NN	Masc|Nom|Sg	4	subj	_	-
+3	Stuttgart	Stuttgart	N	NE	Neut|Nom|Sg	2	app	_	1)
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	gesungen	singen	V	VVPP	_	4	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(3
+2	Chor	Chor	N	NN	Masc|Nom|Sg	3	subj	_	3)
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	ungefähr	ungefähr	ADV	ADJD	Pos|	3	adv	_	-
+5	30	30	CARD	CARD	_	6	attr	_	(2
+6	Sängerinnen	Sängerin	N	NN	Fem|_|Pl	3	obja	_	2)
+7	und	und	KON	KON	_	6	kon	_	-
+8	Sänger	Sänger	N	NN	Masc|_|_	7	cj	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	glaube	glauben	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	viele	viele	PRO	PIS	_|Nom|Pl	5	subj	_	-
+5	sind	sein	V	VAFIN	3|Pl|Pres|Ind	2	s	_	-
+6	Studenten	Student	N	NN	Masc|Nom|Pl	5	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Jedenfalls	jedenfalls	ADV	ADV	_	2	adv	_	-
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+3	sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(2)
+4	noch	noch	ADV	ADV	_	2	adv	_	-
+5	jung	jung	ADV	ADJD	Pos|	2	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	die	die	ART	ART	Def|Fem|Nom|Sg	3	det	_	-
+3	Chorleiterin	Chorleiterin	N	NN	Fem|Nom|Sg	4	subj	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	-
+5	cool	cool	ADV	ADJD	Pos|	4	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Leider	leider	ADV	ADV	_	2	adv	_	-
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	nicht	nicht	PTKNEG	PTKNEG	_	5	adv	_	-
+5	singen	singen	V	VVINF	_	2	aux	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	aber	aber	KON	KON	_	2	kon	_	-
+8	dieser	diese	ART	PDAT	Masc|Nom|Sg	9	det	_	(3
+9	Chor	Chor	N	NN	Masc|Nom|Sg	10	subj	_	3)
+10	gefällt	gefallen	V	VVFIN	3|Sg|Pres|Ind	7	cj	_	-
+11	mir	ich	PRO	PPER	1|Sg|_|Dat	10	objd	_	(0)
+12	sehr	sehr	ADV	ADV	_	10	adv	_	-
+13	.	.	$.	$.	_	0	root	_	-
+

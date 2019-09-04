@@ -1,0 +1,402 @@
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	weich	weich	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	3	vok	275	275
+2	,	,	$	$,	_	0	root	_	_
+3	rede	reden	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	3	obja	_	_
+5	doch	doch	A	ADV	_	3	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+7	in	in	P	APPR	Acc	3	pp	_	_
+8	solche	solche	A	PIDAT	Neut|Acc|Pl	9	det	_	_
+9	Dinge	Ding	N	NN	Neut|Acc|Pl	7	pn	_	_
+10	hinein	hinein	P	PTKVZ	_	3	avz	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	kein	keine	A	PIAT	Neut|Nom|Sg	4	det	_	_
+4	Hineinreden	Hineinrede	N	NN	Neut|Nom|Sg	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gräm	Gräm	N	NE	_	0	root	368	368
+2	'	'	$	$(	_	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	0	root	369	369
+4	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Nimm	nehmen	V	VVIMP	Sg	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_	1	obja	368	368
+4	doch	doch	A	ADV	_	1	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wie	wie	P	PWAV	_	8	adv	_	_
+7	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	369	369
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	anderes	andere	P	PIS	_|_|Sg	4	obja	_	_
+4	erlebt	erleben	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	vielleicht	vielleicht	A	ADV	_	7	adv	_	_
+7	besseres	gut	A	ADJA	Comp|Neut|_|Sg|St|	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Dein	deine	A	PPOSAT	Neut|Nom|Sg	2	det	369	369
+2	Leben	Leben	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	reicher	reich	A	ADJD	Comp|	3	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	als	als	K	KOKOM	_	10	kom	_	_
+7	ein	eine	A	ART	Indef|Neut|_|Sg	8	det	_	_
+8	Mutterleben	Mutterleben	N	NN	Neut|_|Sg	6	cj	_	_
+9	hätte	haben	V	VAFIN	_|Sg|Past|Subj	3	kon	_	_
+10	sein	sein	V	VAINF	_	11	aux	_	_
+11	können	können	V	VMINF	_	9	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	369	369
+2	warst	sein	V	VAFIN	2|Sg|Past|Ind	0	root	_	_
+3	eine	eine	A	ART	Indef|Fem|Nom|Sg	4	det	_	_
+4	Künstlerin	Künstlerin	N	NN	Fem|Nom|Sg	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	vor	vor	P	APPR	_	1	pp	275	275
+3	sich	sie	P	PRF	3|_|_	2	pn	275	275
+4	hin	hin	A	APZR	_	2	part	275	275
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	984	984
+2	pfeif	pfeif	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	drauf	drauf	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|_|Sg	2	det	_	_
+2	große	groß	A	ADJA	Fem|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	_	_
+5	berühmte	berühmt	A	ADJA	Fem|_|Sg	2	app	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	das	die	P	PDS	Neut|Nom|Sg	8	subj	_	_
+8	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+9	doch	doch	A	ADV	_	11	adv	_	_
+10	was	was	P	PIS	_|Nom|_	11	pred	_	_
+11	heißen	heißen	V	VVINF	_	8	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	mancherlei	mancherlei	A	ADV	_	2	adv	_	_
+6	anderes	andere	P	PIS	_|_|Sg	2	obja	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	sehr	sehr	A	ADV	_	9	adv	_	_
+9	schönes	schön	A	ADJA	Pos|Neut|_|Sg|St|	0	root	_	_
+10	erlebt	erleben	V	VVPP	_	0	root	_	_
+11	-	-	$	$(	_	0	root	_	_
+12	nach	nach	P	APPR	Dat	0	root	_	_
+13	mir	ich	P	PPER	1|Sg|_|Dat	12	pn	370	370
+14	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	370	370
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	370	370
+5	davon	davon	P	PROAV	_	2	pp	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	5	obja	_	_
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+4	alles	alle	P	PIS	Neut|Nom|Sg	3	app	_	_
+5	bedeuten	bedeuten	V	VVINF	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	2	det	371	371
+2	Frau	Frau	N	NN	Fem|Nom|Sg	9	subj	371	371
+3	,	,	$	$,	_	0	root	371	371
+4	die	die	P	PRELS	Fem|Nom|Sg	7	subj	371	371
+5	kein	keine	A	PIAT	Neut|_|Sg	6	det	_	_
+6	Kind	Kind	N	NN	Neut|_|Sg	7	obja	_	_
+7	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	rel	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	gar	gar	A	ADV	_	14	adv	_	_
+11	nie	nie	A	ADV	_	14	adv	_	_
+12	eine	eine	A	ART	Indef|Fem|Nom|Sg	13	det	_	_
+13	Frau	Frau	N	NN	Fem|Nom|Sg	14	pred	_	_
+14	gewesen	sein	V	VAPP	_	9	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	eine	eine	P	PIS	Fem|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	die	die	P	PRELS	Fem|Nom|Sg	7	subj	372	372
+5	einmal	einmal	A	ADV	_	7	adv	_	_
+6	eins	eins	C	CARD	_	8	obja	_	_
+7	hätte	haben	V	VAFIN	3|Sg|Past|Subj	2	rel	_	_
+8	haben	haben	V	VAINF	_	9	aux	_	_
+9	können	können	V	VMINF	_	7	aux	_	_
+10	-	-	$	$(	_	0	root	_	_
+11	haben	haben	V	VAINF	_	12	aux	_	_
+12	müssen	müssen	V	VMFIN	_|Pl|Pres|_	0	root	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	und	und	K	KON	_	0	root	_	_
+15	die	die	P	PRELS	_|_|_	14	cj	372	372
+16	-	-	$	$(	_	0	root	_	_
+17	Blick	Blick	N	NN	Masc|_|Sg	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+4	Mutter	Mutter	N	NN	Fem|Nom|Sg	6	subj	_	_
+5	geworden	werden	V	VAPP	_	6	aux	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	das	die	P	PDS	Neut|Nom|Sg	9	subj	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	kon	_	_
+10	eine	eine	P	PIS	_|Nom|Sg	9	pred	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	ah	ah	A	ADJD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	das	die	P	PDS	Neut|_|Sg	7	obja	_	_
+3	kann	können	V	VMFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	ja	ja	A	ADV	_	7	adv	_	_
+5	kein	keine	A	PIAT	Masc|Nom|Sg	6	det	374	374
+6	Mann	Mann	N	NN	Masc|Nom|Sg	3	subj	374	374
+7	verstehen	verstehen	V	VVINF	_	3	aux	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	5	adv	_	_
+4	keiner	keine	P	PIS	Masc|Nom|Sg	2	subj	_	_
+5	verstehen	verstehen	V	VVINF	_	2	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	_	_
+2	beste	gut	A	ADJA	Masc|Nom|Sg	5	subj	_	_
+3	von	von	P	APPR	Dat	2	pp	_	_
+4	euch	ihr	P	PPER	2|Pl|_|Dat	3	pn	373	373
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	in	in	P	APPR	Dat	5	pp	_	_
+7	diesen	diese	A	PDAT	Neut|Dat|Pl	8	det	133	133
+8	Dingen	Ding	N	NN	Neut|Dat|Pl	6	pn	133	133
+9	noch	noch	A	ADV	_	5	adv	_	_
+10	immer	immer	A	ADV	_	5	adv	_	_
+11	eine	eine	A	ART	Indef|Fem|Nom|Sg	12	det	_	_
+12	Art	Art	N	NN	Fem|Nom|Sg	5	pred	_	_
+13	von	von	P	APPR	Dat	12	pp	_	_
+14	Schuft	Schuft	N	NN	Masc|Dat|Sg	13	pn	380	380
+15	.	.	$	$.	_	0	root	_	_
+
+1	Weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	einer	eine	P	PIS	Masc|Nom|Sg	1	subj	_	_
+4	von	von	P	APPR	Dat	1	pp	_	_
+5	euch	ihr	P	PPER	2|Pl|_|Dat	4	pn	373	373
+6	,	,	$	$,	_	0	root	_	_
+7	wie	wie	P	PWAV	_	14	adv	_	_
+8	viele	viele	P	PIS	_|Nom|Pl	14	subj	_	_
+9	von	von	P	APPR	Dat	8	pp	_	_
+10	ihm	er	P	PPER	3|Sg|_|Dat	9	pn	374	374
+11	in	in	P	APPR	Dat	14	pp	_	_
+12	der	die	A	ART	Def|Fem|Dat|Sg	13	det	34	34
+13	Welt	Welt	N	NN	Fem|Dat|Sg	11	pn	34	34
+14	herumlaufen	herumlaufen	V	VVFIN	3|Pl|Pres|_	1	objc	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	375	375
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	wenigstens	wenigstens	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	0	root	375	375
+7	keins	keine	P	PIS	Neut|_|Sg	8	obja	_	_
+8	gehabt	haben	V	VAPP	_	0	root	_	_
+9	hab	hab	F	FM	_	0	root	_	_
+10	'	'	$	$(	_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	1	obja	_	_
+5	überhaupt	überhaupt	A	ADV	_	1	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wenn	wenn	K	KOUS	_	6	konj	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	984	984
+4	es	es	P	PPER	3|Sg|Neut|_	6	obja	_	_
+5	selbst	selbst	A	ADV	_	6	adv	_	_
+6	wüßte	wüßte	V	VVFIN	1|Sg|_|_	1	cj	_	_
+7	-	-	$	$(	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wieso	Wieso	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	376	376
+3	wirklich	wirklich	A	ADJD	Pos|	1	adv	_	_
+4	eins	eins	C	CARD	_	1	obja	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	So	so	K	KOUS	_	0	root	_	_
+3	red	red	F	FM	_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	doch	doch	A	ADV	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	4	vok	129	129
+2	,	,	$	$,	_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	4	subj	376	376
+4	kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	9	objd	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_	9	obja	377	377
+8	schon	schon	A	ADV	_	9	adv	_	_
+9	sagen	sagen	V	VVINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	lebt	leben	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	2	subj	377	377
+5	denn	denn	A	ADV	_	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	3	adv	_	_
+2	alt	alt	A	ADJD	Pos|	3	pred	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	denn	denn	A	ADV	_	3	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Bub	Bub	N	NN	Masc|Nom|Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|_|Sg	2	det	_	_
+2	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Frag	Frag	N	NE	_	0	root	358	358
+2	'	'	$	$(	_	0	root	358	358
+3	doch	doch	A	ADV	_	1	adv	358	358
+4	nicht	nicht	P	PTKNEG	_	1	adv	358	358
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wenn	wenn	K	KOUS	_	6	konj	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	378	378
+4	ein	eine	A	ART	Indef|Neut|_|Sg	5	det	_	_
+5	Kind	Kind	N	NN	Neut|_|Sg	6	obja	_	_
+6	hätte	haben	V	VAFIN	1|Sg|Past|Subj	1	cj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	es	es	P	PPER	3|Sg|Neut|Nom	9	subj	_	_
+9	würde	werden	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+10	ja	ja	A	ADV	_	14	adv	_	_
+11	doch	doch	A	ADV	_	14	adv	_	_
+12	nicht	nicht	P	PTKNEG	_	13	adv	_	_
+13	mir	ich	P	PPER	1|Sg|_|Dat	14	objd	378	378
+14	gehören	gehören	V	VVINF	_	9	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Neut|_|Sg	4	det	_	_
+4	Kind	Kind	N	NN	Neut|_|Sg	2	obja	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Neut|_|Sg	4	det	_	_
+4	Kind	Kind	N	NN	Neut|_|Sg	2	obja	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	335	335
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	läßt	lassen	V	VVFIN	2|Sg|Pres|Ind	11	objc	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	379	379
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_|Pl|_|Nom	11	subj	_	_
+6	denn	denn	A	ADV	_	11	adv	_	_
+7	so	so	A	ADV	_	11	adv	_	_
+8	in	in	P	APPR	Dat	11	pp	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	34	34
+10	Welt	Welt	N	NN	Fem|Dat|Sg	8	pn	34	34
+11	herumlaufen	herumlaufen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	379	379
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	7	obja	_	_
+5	ja	ja	A	ADV	_	7	adv	_	_
+6	selbst	selbst	A	ADV	_	7	adv	_	_
+7	gesagt	sagen	V	VVPP	_	2	aux	_	_
+8	:	\:	$	$.	_	0	root	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	Der	die	A	ART	Def|_|_|_	11	det	_	_
+11	beste	gut	A	ADJA	Masc|Nom|Sg	14	subj	_	_
+12	von	von	P	APPR	Dat	11	pp	_	_
+13	uns	wir	P	PPER	1|Pl|_|Dat	12	pn	_	_
+14	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+15	in	in	P	APPR	Dat	14	pp	_	_
+16	diesen	diese	A	PDAT	Neut|Dat|Pl	17	det	133	133
+17	Dingen	Ding	N	NN	Neut|Dat|Pl	15	pn	133	133
+18	auch	auch	A	ADV	_	14	adv	_	_
+19	noch	noch	A	ADV	_	14	adv	_	_
+20	eine	eine	A	ART	Indef|Fem|Nom|Sg	21	det	_	_
+21	Art	Art	N	NN	Fem|Nom|Sg	14	pred	_	_
+22	von	von	P	APPR	Dat	21	pp	_	_
+23	Schuft	Schuft	N	NN	Masc|Dat|Sg	22	pn	380	380
+24	.	.	$	$.	_	0	root	_	_
+

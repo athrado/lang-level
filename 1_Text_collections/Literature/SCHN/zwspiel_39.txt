@@ -1,0 +1,328 @@
+1	Insbesondere	insbesondere	A	ADV	_	2	adv	402	402
+2	Wedius	Wedius	N	NE	_|Nom|Sg	3	subj	402	402
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	wieder	wieder	A	ADV	_	3	adv	_	_
+5	unvergleichlich	unvergleichlich	A	ADJD	Pos|	3	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	403	403
+2	schriebst	schreiben	V	VVFIN	2|Sg|Past|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	791	791
+4	einigemal	einigemal	A	ADJD	_	2	adv	_	_
+5	von	von	P	APPR	Dat	2	pp	_	_
+6	ihm	er	P	PPER	3|Sg|_|Dat	5	pn	6	6
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	403	403
+2	kennst	kennen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	6	6
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	von	von	P	APPR	Dat	2	pp	_	_
+6	Dresden	Dresden	N	NE	Neut|Dat|Sg	5	pn	404	404
+7	her	her	P	PTKVZ	_	2	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	begabt	begabt	A	ADJD	Pos|	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Auch	auch	A	ADV	_	2	adv	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	6	6
+3	schätzt	schätzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	3	obja	_	_
+5	sehr	sehr	A	ADV	_	3	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	freut	freuen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	791	791
+4	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|_	0	root	239	239
+2	ab	ab	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	kaltes	kalt	A	ADJA	Pos|Neut|_|Sg|St|	4	attr	_	_
+4	Fleisch	Fleisch	N	NN	Neut|_|Sg	2	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	1	subj	791	791
+3	dir	du	P	PPER	2|Sg|_|Dat	1	objd	_	_
+4	auch	auch	A	ADV	_	1	adv	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Danke	Dank	N	NN	Masc|Dat|Sg	0	root	405	405
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	791	791
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	wirklich	wirklich	A	ADJD	Pos|	2	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	4	subj	406	406
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	schon	schon	A	ADV	_	6	adv	_	_
+6	gegessen	essen	V	VVPP	_	4	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	oder	oder	K	KON	_	0	root	_	_
+2	vielmehr	vielmehr	A	ADV	_	3	adv	_	_
+3	ihr	ihr	P	PPER	2|Pl|_|Nom	1	cj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	»	»	$	$(	_	0	root	_	_
+6	die	die	A	ART	Def|_|Nom|Pl	8	det	_	_
+7	meisten	meiste	A	PIDAT	_|Nom|Pl	8	attr	_	_
+8	Reisenden	Reisende	N	NN	_|Nom|Pl	3	app	_	_
+9	«	«	$	$(	_	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	wie	wie	P	PWAV	_	14	adv	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	14	subj	406	406
+13	früher	früh	A	ADJD	_|	14	adv	_	_
+14	sagtest	sagen	V	VVFIN	2|Sg|Past|_	8	objc	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	einfach	einfach	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	791	791
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	mit	mit	P	APPR	Dat	5	pp	_	_
+4	Sigismund	Sigismund	N	NE	_|Dat|_	3	pn	43	43
+5	gespeist	speisen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|Nom|Sg	5	det	_	_
+4	ganze	ganz	A	ADJA	Pos|Fem|Nom|Sg|_|	5	attr	_	_
+5	Zeit	Zeit	N	NN	Fem|Nom|Sg	2	pred	_	_
+6	in	in	P	APPR	_	5	pp	_	_
+7	Berlin	Berlin	N	NE	_|_|Sg	6	pn	141	141
+8	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zwei	zwei	C	CARD	_	2	attr	_	_
+2	Tage	Tag	N	NN	Masc|_|Pl	3	grad	_	_
+3	nach	nach	P	APPR	Dat	5	pp	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	3	pn	407	407
+5	kam	kommen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+6	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	6	6
+7	dort	dort	A	ADV	_	5	adv	_	_
+8	an	an	P	PTKVZ	_	5	avz	_	_
+9	;	;	$	$.	_	0	root	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	407	407
+11	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	es	es	P	PPER	3|Sg|Neut|_	16	obja	_	_
+14	dir	du	P	PPER	2|Sg|_|Dat	16	objd	408	408
+15	ja	ja	A	ADV	_	16	adv	_	_
+16	geschrieben	schreiben	V	VVPP	_	11	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Freilich	freilich	A	ADV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	4	subj	408	408
+4	schriebst	schreiben	V	VVFIN	2|Sg|Past|Ind	0	root	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	407	407
+6	alles	alle	P	PIS	_|_|Sg	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Einmal	einmal	A	ADV	_	2	adv	_	_
+2	warst	sein	V	VAFIN	2|Sg|Past|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	408	408
+4	mit	mit	P	APPR	Dat	2	pp	_	_
+5	ihm	er	P	PPER	3|Sg|_|Dat	4	pn	6	6
+6	in	in	P	APPR	Dat	2	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	_	_
+8	Nationalgalerie	Nationalgalerie	N	NN	Fem|Dat|Sg	6	pn	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Auch	auch	A	ADV	_	2	adv	_	_
+2	im	in	P	APPRART	Dat	5	pp	_	_
+3	Pergamenischen	pergamenisch	A	ADJA	Pos|Neut|Dat|Sg|Wk|	4	attr	_	_
+4	Museum	Museum	N	NN	Neut|Dat|Sg	2	pn	_	_
+5	waren	sein	V	VAFIN	1|Pl|Past|Ind	0	root	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	5	subj	_	_
+7	zusammen	zusammen	P	PTKVZ	_	5	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	lustig	lustig	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sagen	sagen	V	VVINF	_	2	aux	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	6	subj	409	409
+6	tust	tun	V	VVFIN	2|Sg|Pres|Ind	3	s	_	_
+7	viel	viel	P	PIS	_	6	obja	_	_
+8	für	für	P	APPR	Acc	6	pp	_	_
+9	seine	seine	A	PPOSAT	Fem|Acc|Sg	11	det	6	6
+10	allgemeine	allgemein	A	ADJA	Pos|Fem|Acc|Sg|_|	11	attr	_	_
+11	Bildung	Bildung	N	NN	Fem|Acc|Sg	8	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	6	obja	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	791	791
+5	dich	du	P	PPER	2|Sg|_|Acc	6	obja	409	409
+6	fragen	fragen	V	VVINF	_	7	aux	_	_
+7	wollte	wollen	V	VMFIN	1|Sg|Past|_	2	cj	_	_
+8	:	\:	$	$.	_	0	root	_	_
+9	wie	wie	K	KOKOM	_	0	root	_	_
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+11	sich	sie	P	PRF	3|_|_	19	obja	_	_
+12	denn	denn	A	ADV	_	19	adv	_	_
+13	Sigismund	Sigismund	N	NN	_|Nom|Sg	10	subj	43	43
+14	in	in	P	APPR	Acc	19	pp	_	_
+15	diese	diese	A	PDAT	Fem|Acc|Sg	16	det	410	410
+16	Soiree	Soiree	N	NN	Fem|Acc|Sg	14	pn	410	410
+17	beim	bei	P	APPRART	Dat	19	pp	_	_
+18	Intendanten	Intendant	N	NN	Masc|Dat|_	17	pn	411	411
+19	hineingeschwindelt	hineinschwindeln	V	VVPP	_	10	aux	_	_
+20	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hineingeschwindelt	hineinschwindeln	V	VVPP	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	ja	ja	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+5	schriebst	schreiben	V	VVFIN	2|Sg|Past|Ind	0	root	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	791	791
+7	doch	doch	A	ADV	_	5	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	17	konj	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	17	subj	6	6
+11	mit	mit	P	APPR	Dat	16	pp	_	_
+12	seinem	seine	A	PPOSAT	Neut|Dat|Sg	13	det	6	6
+13	Walzerspiel	Walzerspiel	N	NN	Neut|Dat|Sg	11	pn	_	_
+14	geradezu	geradezu	A	ADV	_	16	adv	_	_
+15	Sensation	Sensation	N	NN	Fem|_|Sg	16	obja	_	_
+16	hervorgerufen	hervorrufen	V	VVPP	_	17	aux	_	_
+17	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	objc	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	6	6
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	sich	sie	P	PRF	3|_|_	7	obja	_	_
+5	doch	doch	A	ADV	_	7	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	hineingeschwindelt	hineinschwindeln	V	VVPP	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Als	Als	K	KOKOM	_	5	kom	_	_
+2	Neffe	Neffe	N	NN	_|_|Sg	1	cj	_	_
+3	der	die	A	ART	Def|Fem|Gen|Sg	4	det	_	_
+4	Baronin	Baronin	N	NN	Fem|Gen|Sg	2	gmod	_	_
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	6	6
+7	das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+8	wahrhaftig	wahrhaftig	A	ADV	_	5	adv	_	_
+9	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+10	notwendig	notwendig	A	ADJD	Pos|	5	pred	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ach	ach	I	ITJ	_	0	root	_	_
+2	ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	daran	daran	P	PROAV	_	5	objp	_	_
+5	dachte	denken	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	791	791
+7	gar	gar	A	ADV	_	8	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Übrigens	übrigens	A	ADV	_	2	adv	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	10	obja	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	412	412
+5	Intendant	Intendant	N	NN	Masc|Nom|Sg	2	subj	412	412
+6	auch	auch	A	ADV	_	10	adv	_	_
+7	lebhaft	lebhaft	A	ADJD	Pos|	10	adv	_	_
+8	nach	nach	P	APPR	Dat	10	objp	_	_
+9	dir	du	P	PPER	2|Sg|_|Dat	8	pn	_	_
+10	erkundigt	erkundigen	V	VVPP	_	2	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	schätzt	schätzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	791	791
+4	sehr	sehr	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	lächelnd	lächeln	A	ADJD	_|<PPRES	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+

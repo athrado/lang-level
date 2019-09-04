@@ -1,0 +1,382 @@
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	3	3
+2	freue	freuen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	2	obja	_	_
+4	sehr	sehr	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Händedruck	Händedruck	N	NN	Masc|_|Sg	0	root	495	495
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	3	adv	_	_
+2	heute	heute	A	ADV	_	3	adv	_	_
+3	früh	früh	A	ADJD	Pos|	4	adv	_	_
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	_	_
+6	gekommen	kommen	V	VVPP	_	4	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	bleiben	bleiben	V	VVINF	_	1	cj	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	2	adv	_	_
+4	unbestimmt	unbestimmt	A	ADJD	Pos|	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	185	185
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	einiger	einige	A	PIAT	Fem|Dat|Sg	5	det	_	_
+5	Unordnung	Unordnung	N	NN	Fem|Dat|Sg	3	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wie	wie	P	PWAV	_	9	adv	_	_
+8	Sie	sie	P	PPER	3|Pl|_|Nom	9	subj	_	_
+9	sehen	sehen	V	VVFIN	3|Pl|Pres|_	2	objc	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	hier	hier	A	ADV	_	9	adv	_	_
+4	wohl	wohl	A	ADV	_	9	adv	_	_
+5	überhaupt	überhaupt	A	ADV	_	6	adv	_	_
+6	keine	keine	A	PIAT	Fem|Nom|Sg	8	det	_	_
+7	rechte	recht	A	ADJA	Pos|Fem|Nom|Sg|_|	8	attr	_	_
+8	Ordnung	Ordnung	N	NN	Fem|Nom|Sg	9	pred	_	_
+9	werden	werden	V	VAINF	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	185	185
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	diese	diese	A	PDAT	Fem|_|Sg	4	det	186	186
+4	Wohnung	Wohnung	N	NN	Fem|_|Sg	5	obja	186	186
+5	aufgeben	aufgeben	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Schade	schade	A	ADJD	Pos|	0	root	_	_
+2	;	;	$	$.	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	185	185
+4	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+5	sie	sie	P	PPER	3|Sg|Fem|Nom	4	subj	186	186
+6	so	so	A	ADV	_	7	adv	_	_
+7	gewohnt	gewohnt	A	ADJD	Pos|	4	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Wohin	Wohin	P	PWAV	_	2	adv	_	_
+2	wollen	wollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	denn	denn	A	ADV	_	5	adv	_	_
+5	ziehen	ziehen	V	VVINF	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	möglich	möglich	A	ADJD	Pos|	2	pred	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	12	konj	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	188	188
+7	vorläufig	vorläufig	A	ADJD	Pos|	12	adv	_	_
+8	gar	gar	A	ADV	_	9	adv	_	_
+9	kein	keine	A	PIAT	Neut|_|Sg	11	det	_	_
+10	festes	fest	A	ADJA	Pos|Neut|_|Sg|St|	11	attr	_	_
+11	Quartier	Quartier	N	NN	Neut|_|Sg	12	obja	_	_
+12	nehme	nehmen	V	VVFIN	1|Sg|Pres|_	2	objc	_	_
+13	und	und	K	KON	_	12	kon	_	_
+14	so	so	A	ADV	_	15	adv	_	_
+15	herumwandere	herumwandern	V	VVFIN	_|Sg|Pres|_	13	cj	_	_
+16	wie	wie	K	KOKOM	_	15	kom	_	_
+17	in	in	P	APPR	Dat	16	cj	_	_
+18	den	die	A	ART	Def|Neut|Dat|Pl	20	det	187	187
+19	letzten	letzte	A	ADJA	Pos|Neut|Dat|Pl|_|	20	attr	187	187
+20	Jahren	Jahr	N	NN	Neut|Dat|Pl	17	pn	187	187
+21	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	188	188
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	sogar	sogar	A	ADV	_	2	adv	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	53	53
+5	Idee	Idee	N	NN	Fem|_|Sg	2	obja	53	53
+6	,	,	$	$,	_	0	root	_	_
+7	meine	meine	A	PPOSAT	Fem|_|Pl	8	det	188	188
+8	Sachen	Sache	N	NN	Fem|_|Pl	11	obja	_	_
+9	verauktionieren	verauktionieren	N	NE	Fem|_|Pl	8	app	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	lassen	lassen	V	VVINF	_	2	obji	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	188	188
+4	kein	keine	A	PIAT	Masc|Nom|Sg	6	det	_	_
+5	sympathischer	sympathisch	A	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	_	_
+6	Gedanke	Gedanke	N	NN	Masc|Nom|Sg	2	pred	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	sympathisch	sympathisch	A	ADJD	Pos|	4	pred	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	188	188
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	189	189
+7	Gedanke	Gedanke	N	NN	Masc|Nom|Sg	4	subj	189	189
+8	eigentlich	eigentlich	A	ADV	_	4	adv	_	_
+9	auch	auch	A	ADV	_	4	adv	_	_
+10	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|_	3	expl	_	_
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	auch	auch	A	ADV	_	3	adv	_	_
+5	die	die	A	ART	Def|Fem|Nom|Sg	7	det	_	_
+6	materielle	materiell	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	_	_
+7	Seite	Seite	N	NN	Fem|Nom|Sg	3	subj	_	_
+8	der	die	A	ART	Def|Fem|Gen|Sg	9	det	190	190
+9	Frage	Frage	N	NN	Fem|Gen|Sg	7	gmod	190	190
+10	ein	eine	A	ART	Indef|_|_|Sg	0	root	_	_
+11	wenig	wenig	A	ADV	_	12	adv	_	_
+12	in	in	P	APPR	_	0	root	_	_
+13	Betracht	Betracht	N	NN	_|_|_	12	pn	191	191
+14	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	188	188
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	zuviel	zuviel	A	ADV	_	4	adv	_	_
+4	gebraucht	brauchen	V	VVPP	_	2	aux	_	_
+5	in	in	P	APPR	Dat	4	pp	_	_
+6	diesen	diese	A	PDAT	Neut|Dat|Pl	8	det	187	187
+7	letzten	letzte	A	ADJA	Pos|Neut|Dat|Pl|_|	8	attr	187	187
+8	Jahren	Jahr	N	NN	Neut|Dat|Pl	5	pn	187	187
+9	,	,	$	$,	_	0	root	_	_
+10	das	die	P	PDS	Neut|Nom|Sg	11	subj	_	_
+11	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	2	kon	_	_
+12	sich	sie	P	PRF	3|_|_	15	obja	_	_
+13	irgendwie	irgendwie	A	ADV	_	15	adv	_	_
+14	wieder	wieder	A	ADV	_	15	adv	_	_
+15	ausgleichen	ausgleichen	V	VVINF	_	11	aux	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Später	spät	A	ADJD	_|	2	adv	_	_
+2	richt	richt	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	188	188
+5	mich	ich	P	PRF	1|Sg|Acc	2	obja	_	_
+6	wohl	wohl	A	ADV	_	2	adv	_	_
+7	wieder	wieder	A	ADV	_	2	adv	_	_
+8	neu	neu	A	ADJD	Pos|	2	adv	_	_
+9	ein	ein	P	PTKVZ	_	2	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Irgend	Irgend	N	NE	_|Dat|_	3	objd	920	920
+2	einmal	einmal	A	ADV	_	1	adv	920	920
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	man	man	P	PIS	_|Nom|Sg	3	subj	_	_
+5	doch	doch	A	ADV	_	3	adv	_	_
+6	wieder	wieder	A	ADV	_	3	adv	_	_
+7	zur	zu	P	APPRART	Dat	3	objp	_	_
+8	Ruhe	Ruhe	N	NN	Fem|Dat|Sg	7	pn	_	_
+9	und	und	K	KON	_	7	kon	_	_
+10	zur	zu	P	APPRART	Dat	9	cj	_	_
+11	Arbeit	Arbeit	N	NN	Fem|Dat|Sg	10	pn	192	192
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nun	nun	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	5	pred	_	_
+5	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_|_|_|Nom	5	subj	192	192
+8	Ihnen	sie	P	PPER	3|Pl|_|Dat	5	objd	187	187
+9	denn	denn	A	ADV	_	5	adv	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	machen	machen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	unsere	unsre	A	PPOSAT	Masc|Nom|Pl	4	det	_	_
+4	Freunde	Freund	N	NN	Masc|Nom|Pl	2	subj	_	_
+5	und	und	K	KON	_	4	kon	_	_
+6	Bekannten	Bekannte	N	NN	_|Nom|Pl	5	cj	193	193
+7	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	193	193
+3	denn	denn	A	ADV	_	6	adv	_	_
+4	noch	noch	A	ADV	_	6	adv	_	_
+5	niemanden	niemand	P	PIS	_|Acc|Sg	6	obja	_	_
+6	gesehen	sehen	V	VVPP	_	1	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Niemanden	niemand	P	PIS	_|Acc|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	194	194
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	auch	auch	A	ADV	_	6	adv	_	_
+5	nur	nur	A	ADV	_	6	adv	_	_
+6	Ihnen	sie	P	PPER	3|Pl|_|Dat	7	objd	195	195
+7	geschrieben	schreiben	V	VVPP	_	2	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	12	konj	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	194	194
+11	da	da	A	ADV	_	12	adv	_	_
+12	bin	sein	V	VAFIN	1|Sg|Pres|Ind	7	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	2	adv	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	195	195
+3	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+4	noch	noch	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+6	bei	bei	P	APPR	Dat	3	pp	_	_
+7	Wegrats	Wegrat	N	NN	Masc|Gen|Sg	6	pn	78	78
+8	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	3	3
+2	zögere	zögern	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	sogar	sogar	A	ADV	_	2	adv	_	_
+4	hinzugehen	hinzugehen	V	VVINF	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+3	eigentlich	eigentlich	A	ADV	_	2	adv	_	_
+4	in	in	P	APPR	Dat	2	pp	_	_
+5	gewissen	gewiss	A	ADJA	Pos|Neut|Dat|Pl|_|	6	attr	_	_
+6	Jahren	Jahr	N	NN	Neut|Dat|Pl	4	pn	_	_
+7	die	die	A	ART	Def|Masc|Nom|Pl	8	det	196	196
+8	Orte	Ort	N	NN	Masc|Nom|Pl	12	subj	196	196
+9	gar	gar	A	ADV	_	10	adv	196	196
+10	nicht	nicht	P	PTKNEG	_	12	adv	196	196
+11	mehr	mehr	A	ADV	_	10	adv	196	196
+12	betreten	betreten	V	VVPP	_	2	neb	196	196
+13	,	,	$	$,	_	0	root	196	196
+14	in	in	P	APPR	Dat	19	pp	196	196
+15	denen	die	P	PRELS	Masc|Dat|Pl	14	pn	196	196
+16	man	man	P	PIS	_|Nom|Sg	20	subj	_	_
+17	jüngere	jung	A	ADJA	Comp|Masc|_|Pl|St|	18	attr	_	_
+18	Tage	Tag	N	NN	Masc|_|Pl	19	obja	_	_
+19	verbracht	verbringen	V	VVPP	_	20	aux	_	_
+20	hat	haben	V	VAFIN	3|Sg|Pres|Ind	8	rel	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	findet	finden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Neut|_|Pl	4	det	133	133
+4	Dinge	Ding	N	NN	Neut|_|Pl	2	obja	133	133
+5	und	und	K	KON	_	4	kon	_	_
+6	Menschen	Mensch	N	NN	Masc|_|_	5	cj	197	197
+7	selten	selten	A	ADJD	Pos|	2	adv	_	_
+8	so	so	A	ADV	_	9	adv	_	_
+9	wieder	wieder	A	ADV	_	2	adv	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	wie	wie	P	PWAV	_	0	root	_	_
+12	man	man	P	PIS	_|Nom|Sg	0	root	_	_
+13	sie	sie	P	PPER	3|Pl|_|Nom	14	subj	133	133
+14	verlassen	verlassen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	2	adv	_	_
+2	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	139	139
+3	Gabriele	Gabriele	N	NE	Fem|Nom|Sg	2	app	139	139
+4	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	13	obja	_	_
+6	ja	ja	A	ADV	_	13	adv	_	_
+7	im	in	P	APPRART	Dat	13	pp	_	_
+8	Laufe	Lauf	N	NN	Masc|Dat|Sg	7	pn	_	_
+9	ihrer	ihre	A	PPOSAT	Fem|Gen|Sg	10	det	133	133
+10	Krankheit	Krankheit	N	NN	Fem|Gen|Sg	8	gmod	_	_
+11	recht	recht	A	ADJD	Pos|	13	adv	_	_
+12	sehr	sehr	A	ADV	_	13	adv	_	_
+13	verändert	verändern	V	VVPP	_	14	aux	_	_
+14	haben	haben	V	VAINF	_	4	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|Nom|Sg	2	subj	3	3
+2	sprach	sprechen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	3	3
+4	wenigstens	wenigstens	A	ADV	_	2	adv	_	_
+5	davon	davon	P	PROAV	_	2	pp	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	3	3
+2	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	6	obja	_	_
+4	am	am	P	PTKA	_	5	adv	_	_
+5	liebsten	liebsten	A	ADJD	_	6	adv	_	_
+6	vermeiden	vermeiden	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	sie	sie	P	PPER	3|_|_|_	9	obja	133	133
+9	wiederzusehen	wiedersehen	V	VVIZU	_	6	obji	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+2	müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	133	133
+4	doch	doch	A	ADV	_	5	adv	_	_
+5	verstehen	verstehen	V	VVINF	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Sala	Sala	N	NE	_	2	vok	26	26
+8	.	.	$	$.	_	0	root	_	_
+

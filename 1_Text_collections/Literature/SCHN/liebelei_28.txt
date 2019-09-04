@@ -1,0 +1,486 @@
+1	Theodor	Theodor	N	NE	_	0	root	0	0
+2	stark	stark	A	ADJD	Pos|	3	adv	0	0
+3	Komm	Komm	N	NE	_	1	app	0	0
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Adieu	Adieu	N	NE	Fem|_|Sg	0	root	340	340
+3	,	,	$	$,	_	0	root	340	340
+4	Christine	Christine	N	NE	Fem|_|Sg	2	app	340	340
+5	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	_	0	root	493	493
+2	Leb	Leb	N	NE	_	1	app	493	493
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Auf	auf	P	APPR	_	1	pp	87	87
+3	Wiedersehn	Wiedersehn	N	NE	_|_|_	2	pn	87	87
+4	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Theodor	Theodor	N	NE	Masc|Dat|Sg	5	objd	0	0
+3	und	und	K	KON	_	2	kon	_	_
+4	Fritz	Fritz	N	NE	Masc|Dat|Sg	3	cj	1	1
+5	gehen	gehen	V	VVINF	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|Nom|Sg	2	subj	87	87
+2	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	beklommen	beklimmt	A	ADJD	Pos|	4	adv	_	_
+4	stehen	stehen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	dann	dann	A	ADV	_	7	adv	_	_
+7	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	4	kon	_	_
+8	sie	sie	P	PPER	3|Sg|Fem|Nom	7	subj	87	87
+9	bis	bis	P	APPR	Acc	7	pp	_	_
+10	zur	zu	P	APPRART	Dat	9	pp	_	_
+11	Tür	Tür	N	NN	Fem|Dat|Sg	10	pn	492	492
+12	,	,	$	$,	_	0	root	492	492
+13	die	die	P	PRELS	Fem|Nom|Sg	15	subj	492	492
+14	offen	offen	A	ADJD	Pos|	15	adv	_	_
+15	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	11	rel	_	_
+16	;	;	$	$.	_	0	root	_	_
+17	halblaut	halblaut	A	ADJD	Pos|	18	adv	1	1
+18	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+19	...	...	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|Nom|Sg	2	subj	1	1
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	2	adv	_	_
+4	einmal	einmal	A	ADV	_	2	adv	_	_
+5	zurück	zurück	P	PTKVZ	_	2	avz	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	drückt	drücken	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	sie	sie	P	PPER	3|_|_|_	7	obja	492	492
+9	an	an	P	APPR	Acc	7	objp	_	_
+10	sein	seine	A	PPOSAT	Neut|Acc|Sg	11	det	1	1
+11	Herz	Herz	N	NN	Neut|Acc|Sg	9	pn	493	493
+12	Leb	Leb	N	NE	Neut|Acc|Sg	11	app	493	493
+13	wohl	wohl	A	ADV	_	7	adv	_	_
+14	!	!	$	$.	_	0	root	_	_
+15	...	...	$	$.	_	0	root	_	_
+
+1	Dasselbe	dieselbe	A	PDAT	Neut|_|Sg	2	det	_	_
+2	Zimmer	Zimmer	N	NN	Neut|_|Sg	0	root	_	_
+3	wie	wie	K	KOKOM	_	2	kom	_	_
+4	im	in	P	APPRART	Dat	3	cj	_	_
+5	vorigen	vorig	A	ADJA	Pos|_|Dat|_|_|	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	um	um	P	APPR	Acc	2	pp	_	_
+4	die	die	A	ART	Def|Fem|Acc|Sg	5	det	_	_
+5	Mittagsstunde	Mittagsstunde	N	NN	Fem|Acc|Sg	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	allein	allein	A	ADV	_	1	adv	87	87
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	87	87
+2	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	am	an	P	APPRART	Dat	2	pp	_	_
+4	Fenster	Fenster	N	NN	Neut|Dat|Sg	3	pn	26	26
+5	;	;	$	$.	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	näht	nähen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+8	;	;	$	$.	_	0	root	_	_
+9	legt	legen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+10	die	die	A	ART	Def|Fem|Nom|Sg	11	det	495	495
+11	Arbeit	Arbeit	N	NN	Fem|Nom|Sg	9	subj	495	495
+12	wieder	wieder	A	ADV	_	9	adv	_	_
+13	hin	hin	P	PTKVZ	_	9	avz	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Lina	Lina	N	NN	Fem|_|Sg	0	root	496	496
+2	die	die	A	ART	Def|Fem|_|Sg	4	det	_	_
+3	neunjährige	neunjährig	A	ADJA	Pos|Fem|_|Sg|_|	4	attr	_	_
+4	Tochter	Tochter	N	NN	Fem|_|Sg	0	root	_	_
+5	Katharinens	Katharinens	N	NE	Fem|_|Sg	4	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	ein	eine	A	ART	Indef|_|_|Sg	10	det	_	_
+9	Guten	gut	A	ADJA	Pos|_|_|_|_|	10	attr	_	_
+10	Tag	Tag	N	NN	_|_|Sg	7	zeit	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	Fräul	Fräul	N	NE	_|_|Sg	10	app	_	_
+13	'	'	$	$(	_	0	root	_	_
+14	n	n	N	NN	Fem|Nom|Sg	7	subj	311	311
+15	Christin	Christin	N	NN	Fem|Nom|Sg	14	app	311	311
+16	'	'	$	$(	_	0	root	_	_
+17	!	!	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	sehr	sehr	A	ADV	_	3	adv	_	_
+3	zerstreut	zerstreut	A	ADJD	Pos|	0	root	_	_
+4	Grüß	grüßen	V	VVIMP	Sg	0	root	_	_
+5	dich	du	P	PPER	Masc|Acc|Sg	0	root	54	54
+6	Gott	Gott	N	NN	Masc|_|Sg	5	app	54	54
+7	,	,	$	$,	_	0	root	_	_
+8	mein	meine	A	PPOSAT	Neut|_|Sg	9	det	497	497
+9	Kind	Kind	N	NN	Neut|_|Sg	6	app	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	was	was	P	PWS	Neut|_|Sg	12	obja	_	_
+12	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	9	rel	_	_
+13	denn	denn	A	ADV	_	12	adv	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Lina	Lina	N	NN	Fem|_|Sg	0	root	496	496
+2	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	175	175
+3	Mutter	Mutter	N	NN	Fem|Nom|Sg	4	subj	175	175
+4	schickt	schicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	497	497
+6	,	,	$	$,	_	0	root	_	_
+7	ob	ob	K	KOUS	_	15	konj	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	15	subj	497	497
+9	die	die	A	ART	Def|Fem|_|Pl	10	det	_	_
+10	Karten	Karte	N	NN	Fem|_|Pl	14	obja	_	_
+11	fürs	für	P	APPRART	Acc	10	pp	_	_
+12	Theater	Theater	N	NN	Neut|Acc|_	11	pn	_	_
+13	gleich	gleich	A	ADJD	Pos|	14	adv	_	_
+14	mitnehmen	mitnehmen	V	VVINF	_	15	aux	_	_
+15	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	4	neb	_	_
+16	-	-	$	$(	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	162	162
+3	Vater	Vater	N	NN	Masc|Nom|Sg	4	subj	162	162
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	noch	noch	A	ADV	_	6	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+7	zu	zu	P	APPR	Dat	4	pp	_	_
+8	Haus	Haus	N	NN	Neut|Dat|Sg	7	pn	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Kind	Kind	N	NN	Neut|Dat|Sg	8	app	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+13	warten	warten	V	VVINF	_	12	aux	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Lina	Lina	N	NN	Fem|_|Sg	0	root	496	496
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Fräul	Fräul	N	NE	Fem|_|Sg	0	root	311	311
+5	'	'	$	$(	_	0	root	311	311
+6	n	n	N	NN	Fem|_|Sg	4	app	311	311
+7	Christin	Christin	N	NN	Fem|_|Sg	6	app	311	311
+8	'	'	$	$(	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	da	da	K	KOUS	_	0	root	_	_
+11	komm	komm	N	NE	_	0	root	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	ich	ich	P	PPER	1|Sg|_|Nom	0	root	497	497
+14	nach	nach	P	APPR	Dat	13	pp	_	_
+15	dem	die	A	ART	Def|Neut|Dat|Sg	16	det	515	515
+16	Essen	Esse	N	NN	Neut|Dat|Sg	14	pn	515	515
+17	wieder	wieder	A	ADV	_	14	adv	_	_
+18	her	her	P	PTKVZ	_	0	root	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	_	0	root	159	159
+2	Schön	Schön	N	NE	_	1	app	159	159
+3	.	.	$	$.	_	0	root	_	_
+
+1	Lina	Lina	N	NN	Fem|_|Sg	0	root	496	496
+2	schon	schon	A	ADV	_	3	adv	_	_
+3	gehend	gehen	A	ADJD	_|<PPRES	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	wendet	wenden	V	VVFIN	_|_|Pres|_	0	root	_	_
+6	sich	sie	P	PRF	3|_|_	5	obja	_	_
+7	wieder	wieder	A	ADV	_	5	adv	_	_
+8	um	um	P	APPR	_	0	root	_	_
+9	Und	und	K	KON	_	0	root	_	_
+10	die	die	A	ART	Def|Fem|Nom|Sg	11	det	175	175
+11	Mutter	Mutter	N	NN	Fem|Nom|Sg	12	subj	175	175
+12	laßt	laßt	V	VVFIN	_|Sg|_|_	9	cj	_	_
+13	das	die	A	ART	Def|Neut|_|Sg	14	det	311	311
+14	Fräulein	Fräulein	N	NN	Neut|_|Sg	12	obja	311	311
+15	Christin	Christin	N	NE	Fem|_|Sg	14	app	311	311
+16	'	'	$	$(	_	0	root	_	_
+17	schön	schön	A	ADJD	Pos|	12	adv	_	_
+18	grüßen	grüßen	V	VVINF	_	0	root	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	und	und	K	KON	_	0	root	_	_
+21	ob	ob	K	KOUS	_	26	konj	_	_
+22	'	'	$	$(	_	0	root	_	_
+23	s	s	P	PPER	_|Sg|_|Nom	26	subj	175	175
+24	noch	noch	A	ADV	_	26	adv	_	_
+25	Kopfweh	Kopfweh	N	NN	Neut|_|Sg	26	obja	_	_
+26	hat	haben	V	VAFIN	3|Sg|Pres|Ind	20	cj	_	_
+27	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	mein	meine	A	PPOSAT	Neut|_|Sg	5	det	106	106
+5	Kind	Kind	N	NN	Neut|_|Sg	0	root	106	106
+6	.	.	$	$.	_	0	root	_	_
+
+1	Lina	Lina	N	NE	Fem|_|Sg	0	root	340	340
+2	Adieu	Adieu	N	NE	Fem|_|Sg	1	app	340	340
+3	,	,	$	$,	_	0	root	_	_
+4	Fräul	Fräul	N	NE	Fem|_|Sg	2	kon	187	187
+5	'	'	$	$(	_	0	root	187	187
+6	n	n	N	NN	Fem|_|Sg	1	app	187	187
+7	Christin	Christin	N	NN	Fem|_|Sg	6	app	187	187
+8	'	'	$	$(	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	_	0	root	340	340
+2	Adieu	Adieu	N	NE	_	1	app	340	340
+3	!	!	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	3	adv	_	_
+2	Lina	Lina	N	NN	Fem|Nom|Sg	3	subj	496	496
+3	hinausgeht	hinausgehen	V	VVFIN	3|Sg|Pres|Ind	5	objc	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	Mizi	Mizi	N	NE	_|Nom|Sg	5	subj	38	38
+7	an	an	P	APPR	Dat	5	pp	_	_
+8	der	die	A	ART	Def|Fem|Dat|Sg	9	det	210	210
+9	Tür	Tür	N	NN	Fem|Dat|Sg	7	pn	210	210
+10	.	.	$	$.	_	0	root	_	_
+
+1	Lina	Lina	N	NN	Fem|_|Sg	0	root	38	38
+2	Guten	gut	A	ADJA	Pos|_|_|Sg|_|	3	attr	38	38
+3	Tag	Tag	N	NN	_|_|Sg	1	app	38	38
+4	,	,	$	$,	_	0	root	38	38
+5	Fräul	Fräul	N	NE	_|_|Sg	3	app	38	38
+6	'	'	$	$(	_	0	root	38	38
+7	n	n	N	NN	_|_|Sg	5	app	38	38
+8	Mizi	Mizi	N	NE	_|_|Sg	7	app	38	38
+9	.	.	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	Masc|Nom|Sg	0	root	_	_
+2	Servus	Servus	N	NE	Masc|Nom|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	kleiner	klein	A	ADJA	Pos|Masc|Nom|Sg|St|	5	attr	_	_
+5	Fratz	Fratz	N	NN	Masc|Nom|Sg	2	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Lina	Lina	N	NN	Fem|_|Sg	0	root	496	496
+2	ab	ab	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	6	vok	87	87
+2	,	,	$	$,	_	0	root	_	_
+3	Mizi	Mizi	N	NE	_|Dat|_	6	objd	2	2
+
+1	Christine	Christine	N	NE	Fem|Nom|Sg	2	subj	87	87
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	wie	wie	K	KOKOM	_	7	kom	_	_
+6	Mizi	Mizi	N	NE	_	5	cj	38	38
+7	kommt	kommen	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	ihr	ihre	A	PPOSAT	_|_|Sg	0	root	87	87
+10	entgegen	entgegen	P	APPR	Dat	12	pp	_	_
+11	Also	also	A	ADV	_	10	adv	_	_
+12	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+13	sie	sie	P	PPER	3|Pl|_|Nom	12	subj	_	_
+14	zurück	zurück	P	PTKVZ	_	12	avz	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	_	0	root	38	38
+2	Woher	woher	A	ADV	_	3	adv	_	_
+3	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	499	499
+5	denn	denn	A	ADV	_	7	adv	_	_
+6	das	die	P	PDS	Neut|_|Sg	7	obja	_	_
+7	wissen	wissen	V	VVINF	_	3	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|Nom|Sg	4	subj	87	87
+2	Und	und	K	KON	_	1	kon	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	cj	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	keinen	keine	A	PIAT	Masc|Acc|Sg	6	det	_	_
+6	Brief	Brief	N	NN	Masc|Acc|Sg	4	obja	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	nichts	nichts	P	PIS	_	0	root	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	Neut|_|Sg	0	root	_	_
+2	Nein	Nein	N	NN	Neut|_|Sg	1	app	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Auch	auch	A	ADV	_	3	adv	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	4	subj	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	keinen	keine	A	PIAT	Masc|Acc|Sg	6	det	_	_
+6	Brief	Brief	N	NN	Masc|Acc|Sg	4	obja	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	_	0	root	38	38
+2	Was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+3	sollen	sollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+4	wir	wir	P	PPER	1|Pl|_|Nom	3	subj	_	_
+5	uns	wir	P	PRF	1|Pl|Dat	7	objd	_	_
+6	denn	denn	A	ADV	_	7	adv	_	_
+7	schreiben	schreiben	V	VVINF	_	3	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+9	...	...	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	4	obja	87	87
+2	Seit	seit	P	APPR	Dat	1	pp	87	87
+3	vorgestern	vorgestern	A	ADV	_	2	adv	87	87
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+5	sie	sie	P	PPER	3|Pl|_|Nom	4	subj	_	_
+6	fort	fort	P	PTKVZ	_	4	avz	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	_	0	root	38	38
+2	Na	Na	I	ITJ	_	0	root	_	_
+3	ja	ja	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	das	die	P	PDS	Neut|Nom|Sg	6	subj	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	ja	ja	A	ADV	_	6	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+9	so	so	A	ADV	_	10	adv	_	_
+10	lang	lang	A	ADJD	Pos|	6	pred	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Deswegen	Deswegen	P	PROAV	_	2	pp	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+4	ja	ja	A	ADV	_	8	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+6	solche	solche	A	PIDAT	Fem|_|Pl	7	det	_	_
+7	Geschichten	Geschichte	N	NN	Fem|_|Pl	8	obja	_	_
+8	machen	machen	V	VVINF	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	499	499
+2	versteh	versteh	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	2	obja	498	498
+5	gar	gar	A	ADV	_	6	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+7	...	...	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	4	pred	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	4	subj	498	498
+3	nur	nur	A	ADV	_	4	adv	_	_
+4	aussiehst	aussehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	498	498
+2	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	5	adv	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	verweint	verweinen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Dein	deine	A	PPOSAT	Masc|Nom|Sg	2	det	498	498
+2	Vater	Vater	N	NN	Masc|Nom|Sg	3	subj	499	499
+3	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	7	objd	498	498
+5	ja	ja	A	ADV	_	7	adv	_	_
+6	was	was	P	PIS	_	7	obja	_	_
+7	anmerken	anmerken	V	VVINF	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wenn	wenn	K	KOUS	_	13	konj	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	13	subj	499	499
+11	nach	nach	P	APPR	Dat	13	pp	_	_
+12	Haus	Haus	N	NN	Neut|Dat|Sg	11	pn	147	147
+13	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	3	neb	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	einfach	einfach	A	ADJD	Pos|	4	adv	_	_
+3	Mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	_	_
+4	Vater	Vater	N	NN	Masc|Nom|Sg	5	subj	_	_
+5	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	alles	alle	P	PIS	_|_|Sg	5	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	_|Nom|_	3	subj	38	38
+2	fast	fast	A	ADV	_	3	adv	_	_
+3	erschrocken	erschrecken	V	VVPP	_	0	root	_	_
+4	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	2	2
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|_	7	obja	_	_
+6	ihm	er	P	PPER	3|Sg|_|Dat	7	objd	2	2
+7	gesagt	sagen	V	VVPP	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	_	0	root	38	38
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	wieder	wieder	A	ADV	_	7	adv	_	_
+5	einmal	einmal	A	ADV	_	7	adv	_	_
+6	gescheit	gescheit	A	ADJD	Pos|	7	pred	_	_
+7	gewesen	sein	V	VAPP	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	natürlich	natürlich	A	ADJD	Pos|	1	cj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	5	objd	_	_
+5	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	man	man	P	PIS	_|Nom|Sg	5	subj	_	_
+7	ja	ja	A	ADV	_	5	adv	_	_
+8	auch	auch	A	ADV	_	5	adv	_	_
+9	gleich	gleich	A	ADJD	Pos|	10	attr	_	_
+10	alles	alle	P	PIS	_|_|Sg	5	obja	_	_
+11	am	an	P	APPRART	Dat	5	pp	_	_
+12	Gesicht	Gesicht	N	NN	Neut|Dat|Sg	11	pn	500	500
+13	an	an	P	PTKVZ	_	5	avz	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+4	am	an	P	APPRART	Dat	2	pp	_	_
+5	End	End	N	NN	Neut|Dat|Sg	4	pn	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	auch	auch	A	ADV	_	2	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wer	wer	P	PWS	_|Nom|Sg	12	subj	_	_
+10	'	'	$	$(	_	0	root	_	_
+11	s	s	P	PPER	_|_|_|Nom	12	pred	2	2
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Christine	christin	A	ADJA	Pos|_|_|_|_|	2	attr	_	_
+2	Ja	Ja	N	NN	_|_|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	_	0	root	38	38
+2	Und	und	K	KON	_	0	root	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	2	2
+5	geschimpft	schimpfen	V	VVPP	_	3	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|Nom|Sg	2	subj	87	87
+2	schüttelt	schütteln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	277	277
+4	Kopf	Kopf	N	NN	Masc|Acc|Sg	2	obja	277	277
+5	.	.	$	$.	_	0	root	_	_
+
+1	Mizi	Mizi	N	NE	_	0	root	38	38
+2	Also	also	A	ADV	_	3	adv	_	_
+3	was	was	P	PIS	_	7	obja	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	4	subj	2	2
+6	denn	denn	A	ADV	_	7	adv	_	_
+7	gesagt	sagen	V	VVPP	_	4	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Christine	christin	A	ADJA	Pos|Neut|_|Sg|Wk|	2	attr	_	_
+2	Nichts	Nichts	N	NN	Neut|_|Sg	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+

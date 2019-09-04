@@ -1,0 +1,342 @@
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Woher	Woher	P	PWAV	_	2	adv	_	_
+2	kennen	kennen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	die	die	A	ART	Def|Masc|Nom|Pl	4	det	_	_
+4	Herren	Herr	N	NN	Masc|Nom|Pl	2	subj	_	_
+5	einander	einander	P	PRF	_	2	obja	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	gut	gut	A	ADJD	Pos|	2	adv	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	7	pp	_	_
+2	Weihnachten	Weihnachten	N	NN	_|Dat|_	1	pn	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	eben	eben	A	ADV	_	6	adv	282	282
+5	dieser	diese	A	PDAT	Fem|Dat|Sg	6	det	282	282
+6	Stube	Stube	N	NN	Fem|Dat|Sg	3	pn	282	282
+7	sah	sehen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	0	0
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	_	_
+10	Herrn	Herrn	N	NN	Masc|Acc|Sg	7	obja	_	_
+11	Doktor	Doktor	N	NN	Masc|Acc|Sg	10	app	_	_
+12	zum	zu	P	APPRART	Dat	7	pp	_	_
+13	erstenmal	erstenmal	N	NN	_|Dat|_	12	pn	10	10
+14	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	Und	und	K	KON	_	0	root	_	_
+4	gingen	gehen	V	VVFIN	_|Pl|Past|_	3	cj	_	_
+5	zusammen	zusammen	A	ADV	_	4	adv	_	_
+6	fort	fort	P	PTKVZ	_	4	avz	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	erlaubten	erlauben	V	VVFIN	1|Pl|Past|_	0	root	_	_
+3	uns	wir	P	PRF	1|Pl|Dat	2	objd	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	machten	machen	V	VVFIN	_|Pl|Past|_	1	cj	_	_
+3	einen	eine	A	ART	Indef|Masc|Acc|Sg	5	det	_	_
+4	wunderschönen	wunderschön	A	ADJA	Pos|Masc|Acc|Sg|_|	5	attr	_	_
+5	Spaziergang	Spaziergang	N	NN	Masc|Acc|Sg	2	obja	_	_
+6	durch	durch	P	APPR	Acc	2	pp	_	_
+7	die	die	A	ART	Def|Fem|Acc|Sg	8	det	_	_
+8	Winternacht	Winternacht	N	NN	Fem|Acc|Sg	6	pn	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	wenig	wenig	A	PIDAT	_|_|_	4	det	106	106
+4	Stunden	Stunde	N	NN	_|_|_	2	obja	106	106
+5	,	,	$	$,	_	0	root	_	_
+6	deren	die	A	PRELAT	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	107	107
+8	mich	ich	P	PRF	1|Sg|Acc	11	obja	_	_
+9	so	so	A	ADV	_	10	adv	_	_
+10	gern	gern	A	ADV	_	11	adv	_	_
+11	erinnere	erinnern	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wem	wer	P	PWS	_|Dat|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+4	Doktor	Doktor	N	NN	Masc|_|Sg	3	app	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	gilt	gelten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	Ihr	ihre	A	PPOSAT	Masc|Nom|Sg	9	det	106	106
+8	werter	wert	A	ADJA	Pos|Masc|Nom|Sg|St|	9	attr	_	_
+9	Besuch	Besuch	N	NN	Masc|Nom|Sg	6	subj	_	_
+10	:	\:	$	$.	_	0	root	_	_
+11	dem	die	A	ART	Def|_|Dat|Sg	13	det	542	542
+12	blassen	blass	A	ADJA	Pos|Fem|Dat|Sg|Wk|	13	attr	542	542
+13	Fräulein	Fräulein	N	NN	Fem|Dat|Sg	0	root	542	542
+14	Tochter	Tochter	N	NN	Fem|Dat|Sg	13	app	542	542
+15	,	,	$	$,	_	0	root	_	_
+16	dem	die	A	ART	Def|Masc|Dat|Sg	18	det	_	_
+17	liebenswürdigen	liebenswürdig	A	ADJA	Pos|Masc|Dat|Sg|Wk|	18	attr	_	_
+18	Herrn	Herrn	N	NN	Masc|Dat|Sg	14	kon	_	_
+19	Adjunkten	Adjunkt	N	NN	Masc|Dat|_	18	app	_	_
+20	oder	oder	K	KON	_	18	kon	_	_
+21	mir	ich	P	PPER	1|Sg|_|Dat	20	cj	107	107
+22	kranken	krank	A	ADJA	Pos|Masc|Dat|Sg|Wk|	23	attr	208	208
+23	Manne	Mann	N	NN	Masc|Dat|Sg	0	root	208	208
+24	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Gott	Gott	N	NN	Masc|Nom|Sg	2	subj	164	164
+2	sei	sein	V	VAFIN	3|Sg|Pres|Subj	0	root	_	_
+3	Dank	Dank	N	NN	Masc|Nom|Sg	2	pred	833	833
+4	,	,	$	$,	_	0	root	_	_
+5	Ihnen	sie	P	PPER	3|Pl|_|Dat	0	root	106	106
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Es	es	P	PPER	3|Sg|Neut|_	13	expl	_	_
+3	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+4	übrigens	übrigens	A	ADV	_	3	adv	_	_
+5	keine	keine	A	PIAT	Fem|Nom|Sg	7	det	108	108
+6	leichte	leicht	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	108	108
+7	Sache	Sache	N	NN	Fem|Nom|Sg	3	pred	108	108
+8	,	,	$	$,	_	0	root	_	_
+9	in	in	P	APPR	Acc	13	objp	_	_
+10	Ihre	ihre	A	PPOSAT	Fem|Acc|Sg	11	det	108	108
+11	Gasse	Gasse	N	NN	Fem|Acc|Sg	9	pn	_	_
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	gelangen	gelangen	V	VVINF	_	3	subjc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	_	_
+2	Gedränge	Gedränge	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	groß	groß	A	ADJD	Pos|	3	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Traben	Traben	N	NN	Neut|_|Sg	0	root	_	_
+2	unten	unten	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	nur	nur	A	ADV	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Herr	Herr	N	NN	Masc|_|Sg	2	vok	_	_
+7	Doktor	Doktor	N	NN	Masc|_|Sg	6	app	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	14	konj	_	_
+10	man	man	P	PIS	_|Nom|Sg	14	subj	_	_
+11	nur	nur	A	ADV	_	14	adv	_	_
+12	die	die	A	ART	Def|Masc|_|Pl	13	det	_	_
+13	Hufschläge	Hufschlag	N	NN	Masc|_|Pl	14	obja	_	_
+14	hört	hören	V	VVFIN	3|Sg|Pres|Ind	7	objc	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	daß	daß	K	KOUS	_	21	konj	_	_
+17	es	es	P	PPER	3|Sg|Neut|_	21	expl	_	_
+18	sonst	sonst	A	ADV	_	21	adv	_	_
+19	so	so	A	ADV	_	20	adv	_	_
+20	stille	stille	A	ADJD	_	21	pred	_	_
+21	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	objc	_	_
+22	,	,	$	$,	_	0	root	_	_
+23	daß	daß	K	KOUS	_	27	konj	_	_
+24	die	die	A	ART	Def|_|Nom|Pl	25	det	86	86
+25	Leute	Leute	N	NN	_|Nom|Pl	27	subj	86	86
+26	nicht	nicht	P	PTKNEG	_	27	adv	_	_
+27	rufen	rufen	V	VVFIN	3|Pl|Pres|_	21	objc	_	_
+28	wie	wie	K	KOKOM	_	27	kom	_	_
+29	früher	früh	A	ADJD	_|	28	cj	_	_
+30	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Masc|Nom|Pl	5	det	109	109
+4	blauen	blau	A	ADJA	Pos|Masc|Nom|Pl|Wk|	5	attr	109	109
+5	Kürassiere	Kürassier	N	NN	Masc|Nom|Pl	2	pred	109	109
+6	,	,	$	$,	_	0	root	109	109
+7	die	die	P	PRELS	Masc|Nom|Pl	9	subj	109	109
+8	jetzt	jetzt	A	ADV	_	9	adv	_	_
+9	vorbeiziehen	vorbeizeihen	V	VVFIN	3|Pl|_|_	5	rel	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	ja	ja	A	ADV	_	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	denn	denn	A	ADV	_	1	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	_|Nom|Pl	2	subj	_	_
+2	reiten	reiten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	in	in	P	APPR	Acc	2	pp	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	110	110
+5	Tod	Tod	N	NN	Masc|Acc|Sg	3	pn	110	110
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	tun	tun	V	VVFIN	3|Pl|Pres|Ind	0	root	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	viele	viele	P	PIS	_|Nom|Pl	2	subj	_	_
+5	in	in	P	APPR	Dat	2	pp	_	_
+6	diesen	diese	A	PDAT	Masc|Dat|Pl	7	det	111	111
+7	Tagen	Tag	N	NN	Masc|Dat|Pl	5	pn	111	111
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Acc	0	root	_	_
+2	den	die	A	ART	Def|Masc|Acc|Sg	4	det	547	547
+3	sichern	sichern	A	ADJA	_|Masc|Acc|Sg|_	4	attr	547	547
+4	Tod	Tod	N	NN	Masc|Acc|Sg	1	pn	547	547
+5	.	.	$	$.	_	0	root	_	_
+
+1	die	die	A	ART	Def|_|_|_	0	root	_	_
+2	in	in	P	APPR	_	0	root	_	_
+3	den	die	A	ART	Def|_|_|_	0	root	_	_
+4	sichern	sichern	V	VVINF	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	allen	alle	P	PIS	_|Dat|Pl	1	pn	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	denn	denn	A	ADV	_	1	adv	_	_
+4	nichts	nichts	P	PIS	_	1	obja	_	_
+5	davon	davon	P	PROAV	_	1	pp	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	sich	sie	P	PRF	3|_|_	4	obja	_	_
+4	erinnernd	erinnern	A	ADJD	_|<PPRES	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ah	Ah	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dies	dies	P	PDS	Neut|Nom|Sg	3	subj	_	_
+5	das	die	A	ART	Def|Neut|Nom|Sg	7	det	_	_
+6	todgeweihte	todgeweiht	A	ADJA	Pos|Neut|Nom|Sg|Wk|	7	attr	_	_
+7	Regiment	Regiment	N	NN	Neut|Nom|Sg	3	pred	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	mühsam	mühsam	A	ADJD	Pos|	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	aber	aber	K	KON	_	2	kon	_	_
+5	stark	stark	A	ADJD	Pos|	4	cj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	todgeweihte	todgeweiht	A	ADJA	Neut|_|Sg	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	von	von	P	APPR	Dat	6	pp	_	_
+4	dem	die	P	PRELS	Neut|Dat|Sg	3	pn	_	_
+5	keiner	keine	P	PIS	Masc|Nom|Sg	7	subj	_	_
+6	zurückkommen	zurückkommen	V	VVINF	_	7	aux	_	_
+7	wird	werden	V	VAFIN	3|Sg|Pres|Ind	1	rel	_	_
+8	und	und	K	KON	_	7	kon	_	_
+9	darf	dürfen	V	VMFIN	_|Sg|Pres|Ind	8	cj	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	0	0
+2	hörte	hören	V	VVFIN	1|Sg|Past|_	0	root	_	_
+3	davon	davon	P	PROAV	_	2	pp	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	denn	denn	A	ADV	_	1	adv	_	_
+4	wahr	wahr	A	ADJD	Pos|	1	pred	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Am	an	P	APPRART	Dat	0	root	_	_
+2	Fenster	Fenster	N	NN	Neut|Dat|Sg	1	pn	15	15
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Keiner	keine	P	PIS	Masc|Nom|Sg	2	subj	_	_
+2	darf	dürfen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Gierig	gierig	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,239 @@
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(1
+2	Alexanderplatz	Alexanderplatz	N	NN	Masc|Nom|Sg	3	subj	_	1)
+3	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	kurz	kurz	ADV	ADJD	Pos|	3	adv	_	-
+5	„	„	N	NE	_|Nom|_	3	pred	_	(5
+6	Alex	Alex	N	NE	_|Nom|_	5	app	_	5)
+7	“	“	$(	$(	_	0	root	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(0
+2	Platz	Platz	N	NN	Masc|Nom|Sg	3	subj	_	0)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	im	in	PREP	APPRART	Dat	3	pp	_	-
+5	Berliner	Berliner	ADJA	ADJA	Pos|_|Dat|Sg|_|	6	attr	_	-
+6	Stadtteil	Stadtteil	N	NN	_|Dat|Sg	4	pn	_	-
+7	Mitte	Mitte	N	NN	Fem|Nom|Sg	3	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sehr	sehr	ADV	ADV	_	4	adv	_	-
+4	zentral	zentral	ADV	ADJD	Pos|	2	adv	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Touristen	Tourist	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	besuchen	besuchen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	den	die	ART	ART	Def|Masc|Acc|Sg	5	det	_	(1
+5	Alexanderplatz	Alexanderplatz	N	NN	Masc|Acc|Sg	3	obja	_	1)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Täglich	täglich	ADV	ADJD	Pos|	2	adv	_	-
+2	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	mehr	mehr	ADV	ADV	_	4	adv	_	-
+4	als	als	KOKOM	KOKOM	_	2	kom	_	-
+5	360.000	360.000	CARD	CARD	_	4	cj	_	-
+6	Menschen	Mensch	N	NN	Masc|Nom|Pl	2	subj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|Nom|Sg	5	det	_	-
+4	wichtige	wichtig	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	5	attr	_	-
+5	Sehenswürdigkeit	Sehenswürdigkeit	N	NN	Fem|Nom|Sg	2	pred	_	-
+6	der	die	ART	ART	Def|Fem|Gen|Sg	7	det	_	-
+7	Stadt	Stadt	N	NN	Fem|Gen|Sg	5	gmod	_	-
+8	Berlin	Berlin	N	NE	_|_|Sg	7	app	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Sein	seine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)
+2	Name	Name	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	von	von	PREP	APPR	_	3	pp	_	-
+5	Alexander	Alexander	N	NE	_|_|_	4	pn	_	-
+6	I.	I.	N	NE	_|_|_	5	app	_	-
+7	von	von	PREP	APPR	Dat	3	pp	_	-
+8	Russland	Russland	N	NE	Neut|Dat|Sg	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Alexanderplatz	Alexanderplatz	N	NN	Masc|Dat|Sg	1	pn	_	(3)
+3	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	es	es	PRO	PPER	3|Sg|Neut|Nom	3	subj	_	-
+5	einen	eine	ART	ART	Indef|Masc|Acc|Sg	6	det	_	(2
+6	Bahnhof	Bahnhof	N	NN	Masc|Acc|Sg	3	obja	_	2)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(2
+2	Bahnhof	Bahnhof	N	NN	Masc|Nom|Sg	3	subj	_	2)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	groß	groß	ADV	ADJD	Pos|	3	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Züge	Zug	N	NN	Masc|Nom|Pl	11	subj	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	S-Bahnen	S-Bahn	N	NN	_|Nom|_	2	kon	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	U-Bahnen	U-Bahn	N	NN	_|Nom|_	4	kon	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	Straßenbahnen	Straßenbahn	N	NN	_|Nom|_	6	kon	_	-
+9	und	und	KON	KON	_	8	kon	_	-
+10	Busse	Bus	N	NN	_|Nom|_	9	cj	_	-
+11	fahren	fahren	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+12	hier	hier	ADV	ADV	_	11	adv	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Auch	auch	ADV	ADV	_	3	adv	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	3	det	_	-
+3	Bus	Bus	N	NN	Fem|Dat|Sg	6	objd	_	-
+4	Linie	Linie	N	NN	Fem|Dat|Sg	3	app	_	-
+5	100	100	CARD	CARD	_	4	app	_	-
+6	fährt	fahren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+7	zum	zu	PREP	APPRART	Dat	6	pp	_	-
+8	Alexanderplatz	Alexanderplatz	N	NN	Masc|Dat|Sg	7	pn	_	(3)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Auf	auf	PREP	APPR	Dat	4	pp	_	-
+2	dem	die	ART	ART	Def|Masc|Dat|Sg	3	det	_	(1
+3	Alexanderplatz	Alexanderplatz	N	NN	Masc|Dat|Sg	1	pn	_	1)
+4	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	es	es	PRO	PPER	3|Sg|Neut|Nom	4	subj	_	-
+6	viele	viele	ART	PIDAT	Neut|_|Pl	7	det	_	-
+7	Geschäfte	Geschäft	N	NN	Neut|_|Pl	4	obja	_	-
+8	und	und	KON	KON	_	7	kon	_	-
+9	Einkaufszentren	Einkaufszentrum	N	NN	Neut|_|Pl	8	cj	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Man	man	PRO	PIS	_|Nom|Sg	2	subj	_	-
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	hier	hier	ADV	ADV	_	5	adv	_	-
+4	gut	gut	ADV	ADJD	Pos|	5	adv	_	-
+5	bummeln	bummeln	V	VVINF	_	2	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	auch	auch	ADV	ADV	_	2	adv	_	-
+4	Hotels	Hotel	N	NN	Neut|_|_	2	obja	_	-
+5	am	an	PREP	APPRART	Dat	2	pp	_	-
+6	Alexanderplatz	Alexanderplatz	N	NN	Masc|Dat|Sg	5	pn	_	(3)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ein	ein	ART	ART	Indef|Neut|Nom|Sg	2	det	_	-
+2	Hotel	Hotel	N	NN	Neut|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	sehr	sehr	ADV	ADV	_	5	adv	_	-
+5	groß	groß	ADV	ADJD	Pos|	3	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|_	2	expl	_	-
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Park	Park	N	NN	Masc|Nom|Sg	2	subj	_	-
+4	Inn	Inn	N	NE	Masc|Nom|Sg	3	app	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Auf	auf	PREP	APPR	Dat	4	objp	_	-
+2	dem	die	ART	ART	Def|Masc|Dat|Sg	3	det	_	(0
+3	Platz	Platz	N	NN	Masc|Dat|Sg	1	pn	_	0)
+4	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	auch	auch	ADV	ADV	_	4	adv	_	-
+6	die	die	ART	ART	Def|Fem|Nom|Sg	7	det	_	(4
+7	Weltzeituhr	Weltzeituhr	N	NN	Fem|Nom|Sg	4	subj	_	4)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(4)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	zehn	zehn	CARD	CARD	_	4	attr	_	-
+4	Meter	Meter	N	NN	_|_|Pl	5	grad	_	-
+5	hoch	hoch	ADV	ADJD	Pos|	2	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Auf	auf	PREP	APPR	Dat	4	pp	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	3	det	_	-
+3	Uhr	Uhr	N	NN	Fem|Dat|Sg	1	pn	_	-
+4	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+5	man	man	PRO	PIS	_|Nom|Sg	4	subj	_	-
+6	die	die	ART	ART	Def|Masc|_|Pl	7	det	_	-
+7	Namen	Name	N	NN	Masc|_|Pl	13	obja	_	-
+8	und	und	KON	KON	_	7	kon	_	-
+9	Uhrzeiten	Uhrzeit	N	NN	Fem|_|Pl	8	cj	_	-
+10	von	von	PREP	APPR	Dat	9	pp	_	-
+11	148	148	CARD	CARD	_	12	attr	_	-
+12	Städten	Stadt	N	NN	Fem|Dat|Pl	10	pn	_	-
+13	sehen	sehen	V	VVINF	_	4	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	:	\:	$.	$.	_	0	root	_	-
+3	Auf	auf	PREP	APPR	Dat	6	objp	_	-
+4	dem	die	ART	ART	Def|_|Dat|Sg	5	det	_	(5
+5	Alex	Alex	N	NE	_|Dat|Sg	3	pn	_	5)
+6	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+7	der	die	ART	ART	Def|Masc|Nom|Sg	8	det	_	(6
+8	Fernsehturm	Fernsehturm	N	NN	Masc|Nom|Sg	6	subj	_	6)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(6)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	365	365	CARD	CARD	_	4	attr	_	-
+4	Meter	Meter	N	NN	_|_|Pl	5	grad	_	-
+5	hoch	hoch	ADV	ADJD	Pos|	2	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Kein	keine	ART	PIAT	Neut|Nom|Sg	2	det	_	-
+2	Gebäude	Gebäude	N	NN	Neut|Nom|Sg	5	subj	_	-
+3	in	in	PREP	APPR	_	2	pp	_	-
+4	Deutschland	Deutschland	N	NE	Neut|_|Sg	3	pn	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	so	so	ADV	ADV	_	7	adv	_	-
+7	groß	groß	ADV	ADJD	Pos|	5	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(1
+2	Alexanderplatz	Alexanderplatz	N	NN	Masc|Nom|Sg	3	subj	_	1)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	auch	auch	ADV	ADV	_	3	adv	_	-
+5	in	in	PREP	APPR	Dat	3	pp	_	-
+6	der	die	ART	ART	Def|Fem|Dat|Sg	7	det	_	-
+7	Kunst	Kunst	N	NN	Fem|Dat|Sg	5	pn	_	-
+8	berühmt	berühmt	ADV	ADJD	Pos|	3	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ein	ein	ART	ART	Indef|Neut|Nom|Sg	2	det	_	-
+2	Buch	Buch	N	NN	Neut|Nom|Sg	6	subj	_	-
+3	von	von	PREP	APPR	_	2	pp	_	-
+4	Alfred	Alfred	N	NE	_|_|_	3	pn	_	(7
+5	Döblin	Döblin	N	NE	_|_|_	4	app	_	7)
+6	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+7	„	„	N	NE	Masc|Nom|Sg	6	pred	_	-
+8	Berlin	Berlin	N	NE	Masc|Nom|Sg	7	app	_	-
+9	Alexanderplatz	Alexanderplatz	N	NN	Masc|Nom|Sg	8	app	_	-
+10	“	“	$(	$(	_	0	root	_	-
+11	(	(	$(	$(	_	0	root	_	-
+12	1929	1929	CARD	CARD	_	0	root	_	-
+13	)	)	$(	$(	_	0	root	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	auch	auch	ADV	ADV	_	2	adv	_	-
+4	einen	eine	ART	ART	Indef|Masc|Acc|Sg	5	det	_	-
+5	Film	Film	N	NN	Masc|Acc|Sg	2	obja	_	-
+6	(	(	$(	$(	_	0	root	_	-
+7	1980	1980	CARD	CARD	_	2	zeit	_	-
+8	)	)	$(	$(	_	0	root	_	-
+9	zum	zu	PREP	APPRART	Dat	2	objp	_	-
+10	Roman	Roman	N	NN	Masc|Dat|Sg	9	pn	_	-
+11	von	von	PREP	APPR	_	10	pp	_	-
+12	Döblin	Döblin	N	NE	_|_|_	11	pn	_	(7)
+13	:	\:	$.	$.	_	0	root	_	-
+14	Die	die	ART	ART	Def|Fem|Nom|Sg	15	det	_	-
+15	Regie	Regie	N	NN	Fem|Nom|Sg	16	subj	_	-
+16	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+17	Rainer	Rainer	N	NE	_	16	obja	_	-
+18	Werner	Werner	N	NE	_	17	app	_	-
+19	Fassbinder	Fassbinder	N	NE	_	18	app	_	-
+20	.	.	$.	$.	_	0	root	_	-
+

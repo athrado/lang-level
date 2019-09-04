@@ -1,0 +1,128 @@
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(0
+2	Müritzsee	Müritzsee	N	NN	Masc|Nom|Sg	3	subj	_	0)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	das	die	ART	ART	Def|Neut|Nom|Sg	6	det	_	-
+5	größte	groß	ADJA	ADJA	Sup|Neut|Nom|Sg|Wk|	6	attr	_	-
+6	Gewässer	Gewässer	N	NN	Neut|Nom|Sg	3	pred	_	-
+7	in	in	PREP	APPR	_	6	pp	_	-
+8	Deutschland	Deutschland	N	NE	Neut|_|Sg	7	pn	_	(2)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	im	in	PREP	APPRART	Dat	2	objp	_	-
+4	Bundesland	Bundesland	N	NN	Neut|Dat|Sg	3	pn	_	-
+5	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	N	NE	Neut|Dat|Sg	4	app	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(1
+2	Bodensee	Bodensee	N	NN	Masc|Nom|Sg	3	subj	_	1)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	noch	noch	ADV	ADV	_	3	adv	_	-
+5	größer	groß	ADV	ADJD	Comp|	3	pred	_	-
+6	als	als	KOKOM	KOKOM	_	3	kom	_	-
+7	der	die	ART	ART	Def|_|_|_	8	det	_	(4
+8	Müritzsee	Müritzsee	N	NN	_|_|_	6	cj	_	4)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	jedoch	jedoch	ADV	ADV	_	2	adv	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+5	komplett	komplett	ADV	ADJD	Pos|	2	adv	_	-
+6	in	in	PREP	APPR	_	2	objp	_	-
+7	Deutschland	Deutschland	N	NE	Neut|_|Sg	6	pn	_	(2)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Große	groß	ADJA	ADJA	Pos|_|Nom|Pl|St|	2	attr	_	-
+2	Teile	Teil	N	NN	_|Nom|Pl	5	subj	_	-
+3	des	die	ART	ART	Def|Masc|Gen|Sg	4	det	_	(1
+4	Bodensees	Bodensee	N	NN	Masc|Gen|Sg	2	gmod	_	1)
+5	liegen	liegen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+6	in	in	PREP	APPR	Dat	5	objp	_	-
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	-
+8	Schweiz	Schweiz	N	NE	Fem|Dat|Sg	6	pn	_	-
+9	und	und	KON	KON	_	6	kon	_	-
+10	in	in	PREP	APPR	Dat	9	cj	_	-
+11	Österreich	Österreich	N	NE	Neut|Dat|Sg	10	pn	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	3	pp	_	-
+2	Sommer	Sommer	N	NN	Masc|Dat|Sg	1	pn	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	der	die	ART	ART	Def|Masc|Nom|Sg	5	det	_	(0
+5	Müritzsee	Müritzsee	N	NN	Masc|Nom|Sg	3	subj	_	0)
+6	ein	eine	ART	ART	Indef|Neut|Nom|Sg	8	det	_	-
+7	beliebtes	beliebt	ADJA	ADJA	Pos|Neut|Nom|Sg|St|	8	attr	_	-
+8	Reiseziel	Reiseziel	N	NN	Neut|Nom|Sg	3	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	über	über	PREP	APPR	_	2	pp	_	-
+4	3,5	3,5	CARD	CARD	_	5	attr	_	-
+5	Kilometer	Kilometer	N	NN	_|_|Pl	3	pn	_	-
+6	lang	lang	PREP	APPO	Acc	0	root	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	An	an	PREP	APPR	_	4	pp	_	-
+2	einigen	einige	ART	PIAT	_|_|_	3	det	_	-
+3	Stellen	Stelle	N	NN	_|_|_	1	pn	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	der	die	ART	ART	Def|Masc|Nom|Sg	6	det	_	(3
+6	See	See	N	NN	Masc|Nom|Sg	4	subj	_	3)
+7	bis	bis	PREP	APPR	Acc	4	pp	_	-
+8	zu	zu	PREP	APPR	Dat	7	pp	_	-
+9	750	750	CARD	CARD	_	10	attr	_	-
+10	Meter	Meter	N	NN	_|Dat|Pl	8	pn	_	-
+11	breit	breit	ADV	ADJD	Pos|	4	pred	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Gäste	Gast	N	NN	Masc|Nom|Pl	2	subj	_	-
+2	fahren	fahren	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	aus	aus	PREP	APPR	Dat	2	pp	_	-
+4	ganz	ganz	ART	PIDAT	Neut|Dat|Sg	5	det	_	(2
+5	Deutschland	Deutschland	N	NE	Neut|Dat|Sg	3	pn	_	2)
+6	an	an	PREP	APPR	Acc	2	pp	_	-
+7	den	die	ART	ART	Def|Masc|Acc|Sg	8	det	_	(3
+8	See	See	N	NN	Masc|Acc|Sg	6	pn	_	3)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Gäste	Gast	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	auch	auch	ADV	ADV	_	3	adv	_	-
+5	nur	nur	ADV	ADV	_	3	adv	_	-
+6	für	für	PREP	APPR	Acc	3	pp	_	-
+7	einen	eine	ART	ART	Indef|Masc|Acc|Sg	8	det	_	-
+8	Tag	Tag	N	NN	Masc|Acc|Sg	6	pn	_	-
+9	an	an	PREP	APPR	_	3	objp	_	-
+10	den	die	ART	ART	Def|_|_|_	11	det	_	(4
+11	Müritzsee	Müritzsee	N	NN	_|_|_	9	pn	_	4)
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	-
+2	Bundeshauptstadt	Bundeshauptstadt	N	NN	Fem|Nom|Sg	4	subj	_	-
+3	Berlin	Berlin	N	NE	_|Nom|Sg	2	app	_	-
+4	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	mit	mit	PREP	APPR	Dat	4	pp	_	-
+6	dem	die	ART	ART	Def|Neut|Dat|Sg	7	det	_	-
+7	Auto	Auto	N	NN	Neut|Dat|Sg	5	pn	_	-
+8	nur	nur	ADV	ADV	_	4	adv	_	-
+9	90	90	CARD	CARD	_	10	attr	_	-
+10	Minuten	Minute	N	NN	Fem|Nom|Pl	11	subj	_	-
+11	entfernt	entfernen	V	VVPP	_	4	neb	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Größere	groß	ADJA	ADJA	Comp|Fem|Nom|Pl|St|	2	attr	_	-
+2	Städte	Stadt	N	NN	Fem|Nom|Pl	7	subj	_	-
+3	am	an	PREP	APPRART	Dat	2	pp	_	-
+4	Ufer	Ufer	N	NN	Neut|Dat|Sg	3	pn	_	-
+5	des	die	ART	ART	Def|Masc|Gen|Sg	6	det	_	(3
+6	Sees	See	N	NN	Masc|Gen|Sg	4	gmod	_	3)
+7	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+8	Waren	Ware	N	NN	Fem|Nom|Pl	7	pred	_	-
+9	und	und	KON	KON	_	8	kon	_	-
+10	Röbel	Röbel	N	NE	Neut|Nom|Sg	9	cj	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

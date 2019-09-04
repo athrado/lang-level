@@ -1,0 +1,378 @@
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Verstehst	verstehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Marie	Marie	N	NE	_	1	vok	8	8
+6	?	?	$	$.	_	0	root	_	_
+
+1	Meine	meine	A	PPOSAT	Masc|Nom|Pl	2	det	379	379
+2	Küsse	Kuss	N	NN	Masc|Nom|Pl	3	subj	_	_
+3	brennen	brennen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	auf	auf	P	APPR	Dat	3	pp	_	_
+5	seiner	seine	A	PPOSAT	Fem|Dat|Sg	6	det	0	0
+6	Brust	Brust	N	NN	Fem|Dat|Sg	4	pn	378	378
+7	,	,	$	$,	_	0	root	_	_
+8	kein	keine	A	PIAT	Neut|Nom|Sg	9	det	_	_
+9	Weib	Weib	N	NN	Neut|Nom|Sg	11	subj	_	_
+10	mehr	mehr	A	ADV	_	9	adv	_	_
+11	küßt	küßt	V	VVFIN	_|Sg|_|_	3	kon	_	_
+12	sie	sie	P	PPER	3|_|_|_	11	obja	378	378
+13	weg	weg	P	PTKVZ	_	11	avz	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	jung	jung	A	ADJD	Pos|	2	pred	_	_
+4	vor	vor	P	APPR	Dat	2	pp	_	_
+5	einer	eine	A	ART	Indef|Fem|Dat|Sg	6	det	_	_
+6	Stunde	Stunde	N	NN	Fem|Dat|Sg	4	pn	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	uralt	uralt	A	ADJD	Pos|	9	pred	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	0	0
+11	mit	mit	P	APPR	Dat	9	pp	_	_
+12	einem	eine	A	ART	Indef|Neut|Dat|Sg	13	det	_	_
+13	Male	Mal	N	NN	Neut|Dat|Sg	11	pn	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	379	379
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	jung	jung	A	ADJD	Pos|	2	pred	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	379	379
+6	denke	denken	V	VVFIN	1|Sg|Pres|_	2	kon	_	_
+7	seiner	seine	A	PPOSAT	_|_|_	0	root	0	0
+8	nicht	nicht	P	PTKNEG	_	0	root	_	_
+9	mehr	mehr	A	ADV	_	8	adv	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+3	reitet	reiten	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	in	in	P	APPR	Acc	3	pp	_	_
+5	den	die	A	ART	Def|Masc|Acc|Sg	6	det	110	110
+6	Tod	Tod	N	NN	Masc|Acc|Sg	4	pn	110	110
+7	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	0	root	_	_
+2	in	in	P	APPR	Acc	5	pp	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	110	110
+4	Tod	Tod	N	NN	Masc|Acc|Sg	2	pn	110	110
+5	reitet	reiten	V	VVFIN	_|_|Pres|_	7	s	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	7	subj	0	0
+9	'	'	$	$(	_	0	root	_	_
+10	s	s	P	PPER	_|_|_|Nom	7	pred	110	110
+11	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	382	382
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	auch	auch	A	ADV	_	5	adv	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	9	objd	_	_
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	7	det	_	_
+7	Gruß	Gruß	N	NN	Masc|Acc|Sg	9	obja	_	_
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	bringen	bringen	V	VVINF	_	2	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	schlürf	schlürfen	V	VVIMP	Sg	0	root	_	_
+12	ihn	er	P	PPER	3|Sg|Masc|Acc	11	obja	0	0
+13	ein	ein	P	PTKVZ	_	11	avz	_	_
+14	:	\:	$	$.	_	0	root	_	_
+15	letzte	letzte	A	ADJA	Pos|Masc|Nom|Pl|St|	16	attr	_	_
+16	Grüße	Gruß	N	NN	Masc|Nom|Pl	17	subj	_	_
+17	schmecken	schmecken	V	VVFIN	3|Pl|Pres|_	31	s	_	_
+18	gut	gut	A	ADJD	Pos|	17	adv	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	wie	wie	P	PWAV	_	22	adv	_	_
+21	Flammen	Flamme	N	NN	Fem|Nom|Pl	22	subj	_	_
+22	rinnen	rinnen	V	VVFIN	3|Pl|Pres|_	17	objc	_	_
+23	sie	sie	P	PPER	3|_|_|_	22	obja	24	24
+24	durch	durch	P	APPR	Acc	22	pp	_	_
+25	den	die	A	ART	Def|Masc|Acc|Sg	26	det	380	380
+26	Leib	Leib	N	NN	Masc|Acc|Sg	24	pn	380	380
+27	und	und	K	KON	_	22	kon	_	_
+28	bringen	bringen	V	VVFIN	_|Pl|Pres|_	27	cj	_	_
+29	Glück	Glück	N	NN	Neut|_|Sg	28	obja	381	381
+30	,	,	$	$,	_	0	root	_	_
+31	sagen	sagen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+32	die	die	A	ART	Def|_|Nom|Pl	33	det	86	86
+33	Leute	Leute	N	NN	_|Nom|Pl	31	subj	86	86
+34	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mir	ich	P	PPER	1|Sg|_|Dat	0	root	382	382
+2	einen	eine	A	ART	Indef|Masc|Acc|Sg	3	det	_	_
+3	Gruß	Gruß	N	NN	Masc|Acc|Sg	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	Masc|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	383	383
+5	,	,	$	$,	_	0	root	_	_
+6	der	die	P	PRELS	Masc|Nom|Sg	10	subj	383	383
+7	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	383	383
+8	einen	eine	A	ART	Indef|Masc|Acc|Sg	9	det	_	_
+9	Gruß	Gruß	N	NN	Masc|Acc|Sg	10	obja	_	_
+10	schickt	schicken	V	VVFIN	3|Sg|Pres|Ind	1	rel	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	schwer	schwer	A	ADJD	Pos|	6	adv	_	_
+5	zu	zu	P	PTKZU	_	6	part	_	_
+6	raten	raten	V	VVINF	_	1	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sahst	sehen	V	VVFIN	2|Sg|Past|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	den	die	A	ART	Def|_|_|_	4	det	_	_
+4	andern	andern	A	ADJA	_|_|_	1	obja	_	_
+5	auch	auch	A	ADV	_	1	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Seinen	seine	A	PPOSAT	Masc|_|_	3	det	0	0
+2	braunen	braun	A	ADJA	Pos|Masc|_|_|_|	3	attr	_	_
+3	Kameraden	Kamerad	N	NN	Masc|_|_	4	obja	_	_
+4	sah	sehen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	384	384
+6	auch	auch	A	ADV	_	4	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	saßen	sitzen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+3	zusammen	zusammen	P	PTKVZ	_	2	avz	_	_
+4	und	und	K	KON	_	2	kon	_	_
+5	tranken	trinken	V	VVFIN	_|Pl|Past|Ind	4	cj	_	_
+6	Ungarwein	Ungarwein	N	NN	Masc|_|Sg	5	obja	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Meinem	meine	A	PPOSAT	_|Dat|Sg	0	root	384	384
+2	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+3	weh	weh	A	ADJD	_	2	pred	_	_
+4	ums	um	P	APPRART	Acc	2	pp	_	_
+5	Herz	Herz	N	NN	_|Acc|_	4	pn	494	494
+6	;	;	$	$.	_	0	root	_	_
+7	hätte	haben	V	VAFIN	1|Sg|Past|Subj	14	neb	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	384	384
+9	gewollt	gewollt	A	ADJD	Pos|	7	adv	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Kaiser	Kaiser	N	NE	_|_|Sg	14	obja	498	498
+12	und	und	K	KON	_	11	kon	_	_
+13	Vaterland	Vaterland	N	NN	Neut|_|Sg	12	cj	431	431
+14	hätte	haben	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	14	subj	0	0
+16	um	um	P	APPR	Acc	14	pp	_	_
+17	mich	ich	P	PRF	1|Sg|Acc	16	pn	_	_
+18	verraten	verraten	V	VVINF	_	0	root	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	_	_
+2	andere	andere	A	ADJA	_|_|_	3	subj	_	_
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	fröhlich	fröhlich	A	ADJD	Pos|	3	pred	_	_
+5	und	und	K	KON	_	4	kon	_	_
+6	kühn	kühn	A	ADJD	Pos|	5	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+3	sagte	sagen	V	VVFIN	3|Sg|Past|_	1	cj	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Grüßen	grüßen	V	VVFIN	3|Pl|Pres|_	9	s	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	385	385
+4	Ihre	ihre	A	PPOSAT	Fem|_|Sg	5	det	8	8
+5	Base	Base	N	NN	Fem|_|Sg	2	obja	385)	385)
+6	Marie	Marie	N	NE	Fem|_|Sg	5	app	8	8
+7	,	,	$	$,	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+9	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	0	0
+11	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Sg|Fem|Nom	3	subj	8	8
+3	hätte	haben	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+4	mich	ich	P	PPER	1|Sg|_|Acc	6	obja	0	0
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	sollen	sollen	V	VMINF	_	3	aux	_	_
+7	warten	warten	V	VVINF	_	8	aux	_	_
+8	lassen	lassen	V	VVINF	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+4	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+3	sagte	sagen	V	VVFIN	3|Sg|Past|_	1	cj	_	_
+4	noch	noch	A	ADV	_	3	adv	_	_
+5	mehr	mehr	A	ADV	_	3	adv	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	»	»	$	$(	_	0	root	_	_
+8	Es	es	P	PPER	3|Sg|Neut|Nom	9	subj	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	20	s	_	_
+10	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+11	gut	gut	A	ADJD	Pos|	9	pred	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	daß	daß	K	KOUS	_	17	konj	_	_
+14	sie	sie	P	PPER	3|Sg|Fem|Nom	17	subj	24	24
+15	nicht	nicht	P	PTKNEG	_	16	adv	_	_
+16	gekommen	kommen	V	VVPP	_	17	aux	_	_
+17	ist	sein	V	VAFIN	3|Sg|Pres|Ind	9	objc	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	«	«	$	$(	_	0	root	_	_
+20	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+21	er	er	P	PPER	3|Sg|Masc|Nom	20	subj	0	0
+22	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Vor	vor	P	APPR	Dat	7	objp	_	_
+3	Bösem	Böser	N	NN	_|Dat|Sg	2	pn	386	386
+4	hätte	haben	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+5	sie	sie	P	PPER	3|Sg|Fem|Nom	4	subj	24	24
+6	mich	ich	P	PPER	1|Sg|_|Acc	7	obja	_	_
+7	bewahren	bewahren	V	VVINF	_	8	aux	_	_
+8	können	können	V	VMINF	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	Dat	4	objp	_	_
+2	Bösem	Böser	N	NN	_|Dat|Sg	1	pn	386	386
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	4	obja	0	0
+4	bewahren	bewahren	V	VVINF	_	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	ließest	lassen	V	VVFIN	2|Sg|Past|Subj	5	objc	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	0	0
+5	warten	warten	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	20	20
+2	versprach	versprechen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	0	0
+4	nie	nie	A	ADV	_	2	adv	_	_
+5	-	-	$	$(	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|_|Sg	3	det	_	_
+2	ganze	ganz	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Nacht	Nacht	N	NN	Fem|_|Sg	4	zeit	_	_
+4	schwebtest	schweben	V	VVFIN	2|Sg|Past|_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	_	_
+6	in	in	P	APPR	_	4	pp	_	_
+7	seinen	seine	A	PPOSAT	_|_|_	8	det	0	0
+8	Armen	Arm	N	NN	_|_|_	6	pn	_	_
+9	dahin	dahin	A	ADV	_	4	adv	_	_
+10	durch	durch	P	APPR	Acc	4	pp	_	_
+11	einen	eine	A	ART	Indef|Masc|Acc|Sg	13	det	_	_
+12	weiten	weit	A	ADJA	Pos|Masc|Acc|Sg|_|	13	attr	_	_
+13	Saal	Saal	N	NN	Masc|Acc|Sg	10	pn	_	_
+14	mit	mit	P	APPR	Dat	4	pp	_	_
+15	tausend	tausend	C	CARD	_	16	attr	_	_
+16	Lichtern	Licht	N	NN	_|Dat|Pl	14	pn	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	ein	eine	A	ART	Indef|Neut|Nom|Sg	5	det	_	_
+5	Versprechen	Versprechen	N	NN	Neut|Nom|Sg	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nun	nun	A	ADV	_	3	adv	_	_
+3	reitet	reiten	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+5	in	in	P	APPR	Acc	3	pp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	110	110
+7	Tod	Tod	N	NN	Masc|Acc|Sg	5	pn	110	110
+8	-	-	$	$(	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	reut	reuen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	2	obja	_	_
+5	doch	doch	A	ADV	_	2	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Reut	reuen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	mich	ich	P	PPER	1|Sg|_|Acc	1	obja	387	387
+3	-	-	$	$(	_	0	root	_	_
+4	ja	ja	P	PTKANT	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+

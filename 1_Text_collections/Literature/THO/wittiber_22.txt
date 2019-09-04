@@ -1,0 +1,510 @@
+1	Leise	Leise	N	NN	_|Nom|Sg	2	subj	_	_
+2	schlich	schleichen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	371	371
+4	vorwärts	vorwärts	A	ADV	_	2	adv	_	_
+5	und	und	K	KON	_	2	kon	_	_
+6	horchte	horchen	V	VVFIN	_|Sg|Past|_	5	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	wie	wie	K	KOKOM	_	2	kom	_	_
+4	Schnarchen	Schnarchen	N	NN	Neut|_|Sg	3	cj	372	372
+5	und	und	K	KON	_	2	kon	_	_
+6	hörte	hören	V	VVFIN	_|Sg|Past|_	5	cj	_	_
+7	plötzlich	plötzlich	A	ADJD	Pos|	6	adv	_	_
+8	auf	auf	P	PTKVZ	_	6	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ursula	Ursula	N	NE	Fem|Nom|Sg	2	subj	43	43
+2	blieb	bleiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	auf	auf	P	APPR	Dat	2	objp	_	_
+4	ihrem	ihre	A	PPOSAT	_|Dat|Sg	5	det	43	43
+5	Posten	Posten	N	NN	_|Dat|Sg	3	pn	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	drückte	drücken	V	VVFIN	_|Sg|Past|_	6	cj	_	_
+8	das	die	A	ART	Def|Neut|_|Sg	9	det	_	_
+9	Ohr	Ohr	N	NN	Neut|_|Sg	7	obja	_	_
+10	an	an	P	APPR	Acc	7	objp	_	_
+11	die	die	A	ART	Def|Fem|Acc|Sg	12	det	151	151
+12	Tür	Tür	N	NN	Fem|Acc|Sg	10	pn	151	151
+13	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wirklich	wirklich	A	ADJD	Pos|	1	cj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+5	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+6	wieder	wieder	A	ADV	_	5	adv	_	_
+7	ein	eine	A	ART	Indef|Neut|Nom|Sg	9	det	373	373
+8	tiefes	tief	A	ADJA	Pos|Neut|Nom|Sg|St|	9	attr	373	373
+9	Schnarchen	Schnarchen	N	NN	Neut|Nom|Sg	5	pred	373	373
+10	,	,	$	$,	_	0	root	_	_
+11	das	die	P	PRELS	Neut|_|Sg	0	root	373	373
+12	schnell	schnell	A	ADJD	Pos|	18	adv	_	_
+13	erstickte	erstickt	A	ADJA	Pos|_|Nom|Sg|_|	18	subj	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	in	in	P	APPR	Acc	14	cj	_	_
+16	ein	eine	A	ART	Indef|Neut|Acc|Sg	17	det	_	_
+17	Brummen	Brummen	N	NN	Neut|Acc|Sg	15	pn	_	_
+18	überging	übergehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Denn	denn	K	KON	_	0	root	_	_
+2	drinnen	drinnen	A	ADV	_	3	adv	_	_
+3	hielt	halten	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+4	Zenzi	Zenzi	N	NE	Fem|Nom|Sg	3	subj	87	87
+5	ihre	ihre	A	PPOSAT	Fem|_|Sg	6	det	87	87
+6	Hand	Hand	N	NN	Fem|_|Sg	3	obja	_	_
+7	dem	die	A	ART	Def|_|Dat|Sg	8	det	23	23
+8	Schormayer	Schormayer	N	NN	_|Dat|Sg	3	objd	23	23
+9	auf	auf	P	APPR	_	3	pp	_	_
+10	Maul	Maul	N	NN	Neut|_|Sg	9	pn	283	283
+11	und	und	K	KON	_	10	kon	_	_
+12	Nase	Nase	N	NN	Fem|_|Sg	11	cj	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	und	und	K	KON	_	3	kon	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	16	subj	2	2
+16	wehrte	wehren	V	VVFIN	3|Sg|Past|_	14	cj	_	_
+17	sich	sie	P	PRF	3|_|_	16	obja	_	_
+18	dagegen	dagegen	P	PROAV	_	16	pp	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	klopfte	klopfen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	Ursula	Ursula	N	NE	Fem|Nom|Sg	2	subj	43	43
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Zenzi	Zenzi	N	NE	Fem|_|Sg	0	root	87	87
+3	!	!	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	Keine	keine	A	PIAT	Fem|_|Sg	2	det	_	_
+2	Antwort	Antwort	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Zenzi	Zenzi	N	NE	Fem|_|Sg	0	root	87	87
+3	,	,	$	$,	_	0	root	87	87
+4	hoscht	hoscht	F	FM	Fem|_|Sg	2	app	87	87
+5	g	g	F	FM	Fem|_|Sg	4	app	87	87
+6	'	'	$	$(	_	0	root	_	_
+7	hört	hören	V	VVIMP	Pl	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	3	det	_	_
+2	schlaftrunkene	schlaftrunken	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	_	_
+3	Weiberstimme	Weiberstimme	N	NN	Fem|Nom|Sg	4	subj	_	_
+4	gab	geben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+5	an	an	P	PTKVZ	_	4	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wos	Wos	F	FM	_	0	root	_	_
+3	is	is	F	FM	_	2	app	_	_
+4	denn	denn	A	ADV	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Mach	machen	V	VVIMP	Sg	0	root	_	_
+3	auf	auf	P	PTKVZ	_	2	avz	_	_
+4	!	!	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Han	Han	N	NE	_	0	root	143	143
+3	?	?	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Aufmacha	Aufmacha	N	NE	_	3	obja	_	_
+3	sollst	sollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Zu	Zu	P	PTKA	_	3	adv	_	_
+3	wos	wos	A	ADJD	_	0	root	_	_
+4	denn	denn	A	ADV	_	3	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	I	I	F	FM	_	0	root	_	_
+2	schlof	schlof	F	FM	_	1	app	_	_
+3	ja	ja	F	FM	_	2	app	_	_
+4	scho	scho	F	FM	_	3	app	_	_
+5	!	!	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Dös	Dös	N	NE	_|Gen|_	13	gmod	28	28
+3	sell	sell	F	FM	_|Gen|_	2	app	28	28
+4	sag	sag	F	FM	_|Gen|_	3	app	28	28
+5	i	i	F	FM	_|Gen|_	4	app	28	28
+6	dir	dir	F	FM	_|Gen|_	5	app	28	28
+7	nacha	nacha	F	FM	_|Gen|_	6	app	28	28
+8	,	,	$	$,	_	0	root	28	28
+9	z	z	N	NN	_|Gen|_	7	app	28	28
+10	'	'	$	$(	_	0	root	_	_
+11	weg	weg	A	ADV	_	13	adv	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	n	n	N	NN	_	0	root	_	_
+14	was	was	P	PIS	_	0	root	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Jetz	Jetz	N	NE	_	0	root	307	307
+2	mach	mach	F	FM	_	1	app	307	307
+3	amal	amal	F	FM	_	2	app	307	307
+4	auf	auf	P	PTKVZ	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	und	und	K	KON	_	0	root	_	_
+7	g	g	N	NN	_	6	cj	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	schwind	schwind	F	FM	_	7	app	_	_
+10	!	!	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Loß	Loß	F	FM	_	0	root	_	_
+3	mi	mi	F	FM	_	2	app	_	_
+4	do	do	F	FM	_	3	app	_	_
+5	schlafa	schlafa	F	FM	_	4	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Wann	Wann	P	PWAV	_	0	root	_	_
+2	mi	mi	N	NE	_	0	root	34	34
+3	an	an	P	APPR	_	2	pp	34	34
+4	ganz	ganz	A	ADV	_	7	adv	374	374
+5	'	'	$	$(	_	0	root	374	374
+6	n	n	A	ADJA	_|_|_|Sg|_	7	attr	374	374
+7	Tag	Tag	N	NN	_|_|Sg	3	pn	374	374
+8	arbet	arbet	F	FM	_|_|Sg	7	app	374	374
+9	,	,	$	$,	_	0	root	374	374
+10	derf	derf	F	FM	_|_|Sg	8	app	374	374
+11	mi	mi	F	FM	_|_|Sg	10	app	374	374
+12	do	do	F	FM	_|_|Sg	11	app	374	374
+13	aa	aa	F	FM	_|_|Sg	12	app	374	374
+14	'	'	$	$(	_	0	root	_	_
+15	r	r	F	FM	_	2	app	_	_
+16	amal	amal	F	FM	_	15	app	_	_
+17	sein	seine	A	PPOSAT	_|_|Sg	18	det	318	318
+18	Ruah	Ruah	N	NN	_|_|Sg	0	root	374)	374)
+19	hamm	hamm	N	NE	_|_|Sg	18	app	318	318
+20	!	!	$	$.	_	0	root	_	_
+21	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Stehst	Stehst	F	FM	_	0	root	_	_
+3	d	d	F	FM	_	2	app	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	it	it	F	FM	_	3	app	_	_
+6	auf	auf	P	PTKVZ	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Na	Na	I	ITJ	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	I	I	F	FM	_|Nom|Sg	2	subj	_	_
+2	mag	mögen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	it	it	N	NE	_	2	obja	55	55
+4	,	,	$	$,	_	0	root	55	55
+5	i	i	F	FM	_	3	app	55	55
+6	möcht	möcht	F	FM	_	5	app	55	55
+7	schlafa	schlafa	F	FM	_	6	app	55	55
+8	.	.	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Dös	Dös	N	NE	_	0	root	28	28
+2	ander	ander	F	FM	_	1	app	28	28
+3	werst	werst	F	FM	_	2	app	28	28
+4	na	na	F	FM	_	3	app	28	28
+5	morg	morg	F	FM	_	4	app	28	28
+6	'	'	$	$(	_	0	root	28	28
+7	n	n	F	FM	_	5	app	28	28
+8	hör	hör	F	FM	_	7	app	28	28
+9	'	'	$	$(	_	0	root	28	28
+10	n	n	N	NN	_	8	app	28	28
+11	!	!	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	Zenzi	Zenzi	N	NE	Fem|Nom|Sg	2	subj	87	87
+2	gab	geben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	keine	keine	A	PIAT	Fem|_|Sg	4	det	_	_
+4	Antwort	Antwort	N	NN	Fem|_|Sg	2	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	schrie	schreien	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	Ursula	Ursula	N	NE	Fem|Nom|Sg	2	subj	43	43
+4	zornig	zornig	A	ADJD	Pos|	2	adv	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	»	»	$	$(	_	0	root	_	_
+7	I	I	C	CARD	_	8	attr	_	_
+8	woaß	woaß	F	FM	_|_|Pl	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	wer	wer	P	PWS	_|Nom|Sg	0	root	_	_
+11	bei	bei	P	APPR	Dat	10	pp	_	_
+12	dir	du	P	PPER	2|Sg|_|Dat	11	pn	_	_
+13	drin	drin	A	ADV	_	12	adv	_	_
+14	is	is	F	FM	_	0	root	_	_
+15	!	!	$	$.	_	0	root	_	_
+16	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wo	Wo	P	PWAV	_	0	root	_	_
+3	herin	herin	N	NE	_	0	root	392	392
+4	?	?	$	$.	_	0	root	_	_
+
+1	Bei	bei	P	APPR	Dat	6	pp	_	_
+2	mir	ich	P	PPER	_|Dat|Sg	1	pn	2	2
+3	is	is	F	FM	_	2	app	_	_
+4	durchaus	durchaus	A	ADV	_	6	adv	_	_
+5	gar	gar	A	ADV	_	6	adv	_	_
+6	neamd	neamd	A	ADJD	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	lüag	lüag	F	FM	_	0	root	_	_
+5	no	no	F	FM	_	4	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	0	root	375	375
+2	Loas	Loas	N	NE	_|Nom|Sg	1	app	375	375
+3	,	,	$	$,	_	0	root	_	_
+4	du	du	F	FM	_|Nom|Sg	2	app	_	_
+5	abscheilige	abscheilige	F	FM	_|Nom|Sg	4	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Aba	Aba	N	NE	_|_|Sg	0	root	97	97
+2	morg	morg	F	FM	_|_|Sg	1	app	97	97
+3	'	'	$	$(	_	0	root	97	97
+4	n	n	F	FM	_|_|Sg	2	app	97	97
+5	schmeiß	schmeiß	F	FM	_|_|Sg	4	app	97	97
+6	i	i	F	FM	_|_|Sg	5	app	97	97
+7	di	di	F	FM	_|_|Sg	6	app	97	97
+8	naus	naus	F	FM	_|_|Sg	7	app	97	97
+9	,	,	$	$,	_	0	root	_	_
+10	daß	daß	K	KOUS	_	17	konj	_	_
+11	d	d	N	NN	_|Nom|_	17	pred	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	draußd	draußd	F	FM	_|Nom|_	11	app	_	_
+14	lieg	lieg	F	FM	_|Nom|_	13	app	_	_
+15	'	'	$	$(	_	0	root	_	_
+16	n	n	N	NN	_|Nom|_	14	app	_	_
+17	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	du	du	P	PPER	2|Sg|_|Nom	0	root	375	375
+20	schlecht	schlecht	A	ADJD	Pos|	22	adv	_	_
+21	'	'	$	$(	_	0	root	_	_
+22	s	s	P	PPER	_|_|Sg	0	root	676	676
+23	Mensch	Mensch	N	NN	_|_|Sg	22	app	676	676
+24	,	,	$	$,	_	0	root	_	_
+25	du	du	P	PPER	2|Sg|_|Nom	0	root	375	375
+26	!	!	$	$.	_	0	root	_	_
+27	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Mei	Mei	N	NN	Fem|_|Sg	0	root	354	354
+3	Ruah	Ruah	N	NE	Fem|_|Sg	2	app	354	354
+4	laß	laß	F	FM	Fem|_|Sg	3	app	_	_
+5	mi	mi	F	FM	Fem|_|Sg	4	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Derf	Derf	N	NE	_|Nom|Sg	8	subj	_	_
+2	mi	mi	F	FM	_|Nom|Sg	1	app	_	_
+3	net	net	F	FM	_|Nom|Sg	2	app	_	_
+4	amal	amal	F	FM	_|Nom|Sg	3	app	_	_
+5	in	in	P	APPR	_	4	pp	_	_
+6	da	da	A	ADV	_	7	adv	_	_
+7	Nacht	Nacht	N	NN	Fem|_|Sg	5	pn	_	_
+8	sei	sein	V	VAFIN	3|Sg|Pres|Subj	0	root	_	_
+9	Rauh	Rauh	N	NE	_|Nom|_	8	pred	318	318
+10	hamm	hamm	N	NE	_|Nom|_	9	app	318	318
+11	?	?	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	De	De	F	FM	_	0	root	_	_
+3	kriagst	kriagst	F	FM	_	2	app	_	_
+4	na	na	F	FM	_	3	app	_	_
+5	morg	morg	F	FM	_	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	n	n	N	NN	_	5	app	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	der	die	A	ART	Def|_|_|_	3	det	_	_
+3	sell	sell	F	FM	_|_|_	1	cj	_	_
+4	si	si	F	FM	_|_|_	3	app	_	_
+5	schama	schama	F	FM	_|_|_	4	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Pfui	Pfui	F	FM	_	0	root	_	_
+2	Deifi	Deifi	F	FM	_	1	app	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Pfui	Pfui	F	FM	_	0	root	_	_
+2	Deifi	Deifi	F	FM	_	1	app	_	_
+3	!	!	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	Von	von	P	APPR	Dat	4	pp	_	_
+2	ihrem	ihre	A	PPOSAT	Neut|Dat|Sg	3	det	3	3
+3	Schreien	Schrei	N	NN	Neut|Dat|Sg	1	pn	894	894
+4	wachte	wachen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	13	13
+6	Schormayer	Schormayer	N	NN	Masc|Nom|Sg	4	subj	13	13
+7	doch	doch	A	ADV	_	4	adv	_	_
+8	auf	auf	P	PTKVZ	_	4	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	13	13
+2	rumpelte	rumpeln	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	auf	auf	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	is	is	F	FM	_	0	root	_	_
+4	denn	denn	A	ADV	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	i	i	A	ADJD	_	2	adv	_	_
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Bscht	Bscht	N	NE	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+5	machte	machen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+6	Zenzi	Zenzi	N	NE	Fem|Nom|Sg	5	subj	87	87
+7	und	und	K	KON	_	5	kon	_	_
+8	flüsterte	flüstern	V	VVFIN	_|Sg|Past|_	7	cj	_	_
+9	ihm	er	P	PPER	3|Sg|_|Dat	8	objd	2	2
+10	ins	in	P	APPRART	Acc	8	pp	_	_
+11	Ohr	Ohr	N	NN	Neut|Acc|Sg	10	pn	376	376
+12	:	\:	$	$.	_	0	root	_	_
+13	»	»	$	$(	_	0	root	_	_
+14	D	D	N	NN	Neut|Nom|_	24	subj	_	_
+15	'	'	$	$(	_	0	root	_	_
+16	Urschula	Urschula	F	FM	Neut|Nom|_	14	app	_	_
+17	is	is	F	FM	Neut|Nom|_	16	app	_	_
+18	drasd	drasd	F	FM	Neut|Nom|_	17	app	_	_
+19	und	und	K	KON	_	18	kon	_	_
+20	hot	hot	F	FM	Neut|Nom|_	19	cj	_	_
+21	wos	wos	F	FM	Neut|Nom|_	20	app	_	_
+22	g	g	F	FM	Neut|Nom|_	21	app	_	_
+23	'	'	$	$(	_	0	root	_	_
+24	spannt	spannen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+26	«	«	$	$(	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	3	koord	_	_
+2	Ursula	Ursula	N	NE	Fem|Nom|Sg	3	subj	43	43
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	schon	schon	A	ADV	_	8	adv	_	_
+5	in	in	P	APPR	Acc	8	objp	_	_
+6	ihre	ihre	A	PPOSAT	Fem|Acc|Sg	7	det	43	43
+7	Kammer	Kammer	N	NN	Fem|Acc|Sg	5	pn	_	_
+8	gegangen	gehen	V	VVPP	_	3	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	und	und	K	KON	_	0	root	_	_
+11	auf	auf	P	APPR	Dat	14	pp	_	_
+12	dem	die	A	ART	Def|Masc|Dat|Sg	13	det	_	_
+13	Bettrande	Bettrand	N	NN	Masc|Dat|Sg	11	pn	_	_
+14	sitzend	sitzen	A	ADJD	_|<PPRES	10	cj	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	fing	fangen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+17	sie	sie	P	PPER	3|Sg|Fem|Nom	16	subj	43	43
+18	zu	zu	P	PTKZU	_	19	part	_	_
+19	heulen	heulen	V	VVINF	_	16	obji	_	_
+20	an	an	P	PTKVZ	_	0	root	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Da	da	A	ADV	_	3	adv	_	_
+3	hört	hören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	3	subj	43	43
+5	do	do	F	FM	_	0	root	_	_
+6	allssammete	allssammete	F	FM	_	5	app	_	_
+7	auf	auf	P	PTKVZ	_	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	A	A	N	NN	_|_|_	0	root	_	_
+2	so	so	A	ADV	_	1	adv	_	_
+3	a	a	F	FM	_|_|_	1	app	_	_
+4	Schand	Schand	F	FM	_|_|_	3	app	_	_
+5	!	!	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	Derweilen	Derweilen	N	NE	_|Dat|_	2	objd	377	377
+2	rieb	reiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	ihr	ihre	A	PPOSAT	Masc|Nom|Sg	5	det	377	377
+5	Vater	Vater	N	NN	Masc|Nom|Sg	2	subj	378	378
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	_	_
+7	Schlaf	Schlaf	N	NN	Masc|Acc|Sg	2	obja	_	_
+8	aus	aus	P	APPR	Dat	2	pp	_	_
+9	den	die	A	ART	Def|Neut|Dat|Pl	10	det	336	336
+10	Augen	Auge	N	NN	Neut|Dat|Pl	8	pn	336	336
+11	und	und	K	KON	_	2	kon	_	_
+12	wollte	wollen	V	VMFIN	_|Sg|Past|_	11	cj	_	_
+13	aufstehen	aufstehen	V	VVINF	_	12	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Zenzi	Zenzi	N	NE	Fem|Nom|Sg	2	subj	87	87
+2	hielt	halten	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	378	378
+4	zurück	zurück	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Bleib	Bleib	F	FM	_	0	root	_	_
+3	no	no	F	FM	_	2	app	_	_
+4	a	a	F	FM	_	3	app	_	_
+5	wengl	wengl	F	FM	_	4	app	_	_
+6	do	do	F	FM	_	5	app	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	bis	bis	K	KOUS	_	10	konj	_	_
+9	sie	sie	P	PPER	3|_|_|_	10	obja	87	87
+10	schlaft	schlafen	V	VVFIN	2|Pl|Pres|Ind	0	root	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	net	net	P	PTKNEG	_	13	adv	_	_
+13	daß	daß	K	KOUS	_	20	konj	_	_
+14	s	s	P	PPER	_|_|_|Nom	20	subj	87	87
+15	'	'	$	$(	_	0	root	_	_
+16	di	di	F	FM	_|Nom|_	14	app	_	_
+17	no	no	F	FM	_|Nom|_	16	app	_	_
+18	'	'	$	$(	_	0	root	_	_
+19	mal	mal	A	ADV	_	20	adv	_	_
+20	hört	hören	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+21	!	!	$	$.	_	0	root	_	_
+22	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	I	I	C	CARD	_	3	obja	_	_
+3	will	wollen	V	VMFIN	_|Sg|Pres|Ind	9	s	_	_
+4	in	in	P	APPR	_	3	pp	_	_
+5	mei	mei	A	ADJA	_|Neut|_|Sg|_	6	attr	_	_
+6	Bett	Bett	N	NN	Neut|_|Sg	4	pn	_	_
+7	«	«	$	$(	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	brummte	brummen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	2	2
+11	.	.	$	$.	_	0	root	_	_
+

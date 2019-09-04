@@ -1,0 +1,335 @@
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Anna	Anna	N	NE	Fem|_|Sg	0	root	109	109
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Meine	meine	A	PPOSAT	Fem|Nom|Sg	2	det	226	226
+2	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	228	228
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	von	von	P	APPR	Dat	7	pp	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	pn	226	226
+6	später	spät	A	ADJD	_|	7	adv	_	_
+7	fortgegangen	fortgehen	V	VVPP	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	der	die	A	ART	Def|Masc|Nom|Sg	11	det	227	227
+11	Bub	Bub	N	NN	Masc|Nom|Sg	9	cj	227	227
+12	'	'	$	$(	_	0	root	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	den	die	P	PRELS	Masc|Acc|Sg	0	root	227	227
+15	sie	sie	P	PPER	3|_|_|Nom	17	subj	228	228
+16	mir	ich	P	PPER	1|Sg|_|Dat	17	objd	226	226
+17	zurückgelassen	zurücklassen	V	VVPP	_	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	absichtlich	absichtlich	A	ADJD	Pos|	2	adv	_	_
+2	kalt	kalt	A	ADJD	Pos|	3	adv	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	gestorben	sterben	V	VVPP	_	3	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ersehet	ersehen	V	VVFIN	2|Pl|Pres|Subj	0	root	_	_
+2	daraus	daraus	P	PROAV	_	1	pp	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	meine	meine	A	PPOSAT	Masc|_|Pl	5	det	230	230
+5	Freunde	Freund	N	NN	Masc|_|Pl	0	root	511	511
+6	:	\:	$	$.	_	0	root	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	das	die	A	ART	Def|Neut|Nom|Sg	9	det	229	229
+9	Schicksal	Schicksal	N	NN	Neut|Nom|Sg	10	subj	229	229
+10	wünscht	wünschen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+11	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	daß	daß	K	KOUS	_	21	konj	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	21	subj	230	230
+15	durch	durch	P	APPR	Acc	20	pp	_	_
+16	Alltagssorgen	Alltagssorge	N	NN	_|Acc|_	15	pn	231	231
+17	an	an	P	APPR	Acc	20	pp	_	_
+18	den	die	A	ART	Def|Masc|Acc|Sg	19	det	579	579
+19	Boden	Boden	N	NN	Masc|Acc|Sg	17	pn	579	579
+20	geschmiedet	schmieden	V	VVPP	_	21	aux	_	_
+21	werde	werden	V	VAFIN	1|Sg|Pres|_	10	objc	_	_
+22	.	.	$	$.	_	0	root	_	_
+
+1	Menschen	Mensch	N	NN	Masc|Nom|Pl	4	subj	580	580
+2	meiner	meine	A	PPOSAT	Fem|Gen|Sg	3	det	230	230
+3	Art	Art	N	NN	Fem|Gen|Sg	1	gmod	_	_
+4	müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+5	frei	frei	A	ADJD	Pos|	6	pred	_	_
+6	sein	sein	V	VAINF	_	4	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wenn	wenn	K	KOUS	_	12	konj	_	_
+9	sie	sie	P	PPER	3|Pl|_|Nom	12	subj	231	231
+10	sich	sie	P	PRF	3|_|_	11	obja	_	_
+11	ausleben	ausleben	V	VVINF	_	12	aux	_	_
+12	sollen	sollen	V	VMFIN	3|Pl|Pres|_	4	neb	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Lebt	leben	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	wohl	wohl	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ab	ab	P	PTKVZ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	!	!	$	$.	_	0	root	_	_
+
+1	Will	wollen	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+2	ihm	er	P	PPER	3|Sg|_|Dat	1	objd	2	2
+3	nach	nach	P	PTKVZ	_	1	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	_	_
+2	Kleine	klein	A	ADJA	Masc|Nom|Sg	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	angefangen	anfangen	V	VVPP	_	3	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	seine	seine	A	PPOSAT	Fem|_|Sg	7	det	2	2
+7	Suppe	Suppe	N	NN	Fem|_|Sg	9	obja	_	_
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	essen	essen	V	VVINF	_	4	obji	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Anna	Anna	N	NE	Fem|_|Sg	0	root	109	109
+2	.	.	$	$.	_	0	root	_	_
+
+1	Laß	Laß	V	VVIMP	_	0	root	_	_
+2	ihn	er	P	PPER	3|Sg|Masc|Acc	1	obja	2	2
+3	!	!	$	$.	_	0	root	_	_
+
+1	Laß	Laß	V	VVIMP	_	0	root	_	_
+2	ihn	er	P	PPER	3|Sg|Masc|Acc	1	obja	2	2
+3	!	!	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	7	objd	2	2
+4	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	232	232
+6	Letzte	Letzte	N	NN	Neut|_|Sg	7	obja	232	232
+7	nehmen	nehmen	V	VVINF	_	2	aux	232	232
+8	,	,	$	$,	_	0	root	232	232
+9	was	was	P	PRELS	Neut|Nom|Sg	12	subj	232	232
+10	ihm	er	P	PPER	3|Sg|_|Dat	11	objd	2	2
+11	geblieben	bleiben	V	VVPP	_	12	aux	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	rel	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wieso	Wieso	P	PWAV	_	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	sie	sie	P	PPER	3|Sg|Fem|Nom	1	subj	_	_
+3	an	an	P	PTKVZ	_	1	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Anna	Anna	N	NE	Fem|Nom|Sg	2	subj	109	109
+2	bindet	binden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dem	die	A	ART	Def|_|Dat|Sg	4	det	233	233
+4	Kleinen	Kleine	N	NN	_|Dat|Sg	2	objd	233	233
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+6	Serviette	Serviette	N	NN	Fem|_|Sg	2	obja	_	_
+7	um	um	P	PTKVZ	_	2	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|Nom|Sg	2	subj	6	6
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	herbei	herbei	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	streicht	streichen	V	VVFIN	2|Pl|Pres|Ind	2	s	_	_
+6	ihr	ihr	P	PPER	2|Pl|_|Nom	5	subj	_	_
+7	über	über	P	APPR	Acc	5	objp	_	_
+8	die	die	A	ART	Def|Neut|Acc|Pl	9	det	_	_
+9	Haare	Haar	N	NN	Neut|Acc|Pl	7	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Anna	Anna	N	NE	Fem|Nom|Sg	2	subj	109	109
+2	blickt	blicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	auf	auf	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|Nom|Sg	2	subj	6	6
+2	nickt	nicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	wie	wie	K	KOKOM	_	2	kom	_	_
+4	verstehend	verstehen	A	ADJD	_|<PPRES	3	cj	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	ja	ja	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	setzen	setzen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	essen	essen	V	VVINF	_	4	cj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Vorhang	Vorhang	N	NN	Masc|_|Sg	0	root	470	470
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	445	445
+2	Diener	Diener	N	NN	Masc|Nom|Sg	3	subj	445	445
+
+1	Ein	ein	A	ART	Indef|Neut|_|Sg	2	det	_	_
+2	Dachzimmer	Dachzimmer	N	NN	Neut|_|Sg	0	root	_	_
+3	im	in	P	APPRART	Dat	2	pp	_	_
+4	Stil	Stil	N	NN	Neut|Dat|Sg	3	pn	_	_
+5	Ende	Ende	N	NN	Neut|Dat|Sg	4	app	_	_
+6	des	die	A	ART	Def|_|Gen|Sg	7	det	_	_
+7	XVII.	XVII.	N	NN	_|Gen|Sg	5	gmod	_	_
+
+1	Jahrhunderts	Jahrhundert	N	NN	Neut|Gen|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Kleine	klein	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+2	deutsche	deutsch	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Stadt	Stadt	N	NN	Fem|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Blick	Blick	N	NN	Masc|_|Sg	0	root	_	_
+2	durch	durch	P	APPR	Acc	1	pp	_	_
+3	das	die	A	ART	Def|Neut|Acc|Sg	4	det	361	361
+4	Fenster	Fenster	N	NN	Neut|Acc|Sg	2	pn	361	361
+5	auf	auf	P	APPR	Acc	4	pp	361	361
+6	Dächer	Dach	N	NN	Neut|Acc|Pl	5	pn	361	361
+7	und	und	K	KON	_	6	kon	_	_
+8	Türme	Turm	N	NN	Masc|Acc|Pl	7	cj	_	_
+9	und	und	K	KON	_	5	kon	_	_
+10	weiter	weiter	A	ADV	_	9	cj	_	_
+11	hinaus	hinaus	A	APZR	_	5	part	_	_
+12	auf	auf	P	APPR	Acc	0	root	_	_
+13	eine	eine	A	ART	Indef|Fem|Acc|Sg	14	det	234	234
+14	Hügellandschaft	Hügellandschaft	N	NN	Fem|Acc|Sg	12	pn	234	234
+15	,	,	$	$,	_	0	root	234	234
+16	über	über	P	APPR	Acc	23	pp	234	234
+17	die	die	P	PRELS	Fem|Acc|Sg	16	pn	234	234
+18	der	die	A	ART	Def|Masc|Nom|Sg	20	det	_	_
+19	rötliche	rötlich	A	ADJA	Pos|Masc|Nom|Sg|Wk|	20	attr	_	_
+20	Glanz	Glanz	N	NN	Masc|Nom|Sg	23	subj	_	_
+21	der	die	A	ART	Def|Fem|Gen|Sg	22	det	_	_
+22	Abendsonne	Abendsonne	N	NN	Fem|Gen|Sg	20	gmod	_	_
+23	fließt	fließen	V	VVFIN	3|Sg|Pres|Ind	14	rel	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Zimmer	Zimmer	N	NN	Neut|_|Sg	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	einiger	einige	A	PIAT	Fem|Dat|Sg	5	det	_	_
+5	Unordnung	Unordnung	N	NN	Fem|Dat|Sg	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|_|Sg	3	det	_	_
+2	offene	offen	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Truhe	Truhe	N	NN	Fem|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	4	det	_	_
+2	offener	offen	A	ADJA	Pos|Masc|Nom|Sg|St|	4	attr	_	_
+3	halbausgeräumter	halbausgeräumt	A	ADJA	Pos|Masc|Nom|Sg|St|	4	attr	_	_
+4	Schrank	Schrank	N	NN	Masc|Nom|Sg	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wäsche	Wäsche	N	NN	Fem|Nom|Sg	4	subj	_	_
+2	und	und	K	KON	_	1	kon	_	_
+3	Kleidungsstücke	Kleidungsstück	N	NN	Neut|Nom|Pl	2	cj	_	_
+4	liegen	liegen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+5	auf	auf	P	APPR	Dat	4	pp	_	_
+6	Stühlen	Stuhl	N	NN	Masc|Dat|Pl	5	pn	_	_
+7	herum	herum	P	PTKVZ	_	4	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|Nom|Sg	2	subj	235	235
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	beschäftigt	beschäftigen	V	VVPP	_	2	aux	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	einen	eine	A	ART	Indef|Masc|Acc|Sg	6	det	461	461
+6	Reisesack	Reisesack	N	NN	Masc|Acc|Sg	8	obja	461	461
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	packen	packen	V	VVINF	_	3	obji	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	8	vok	236	236
+2	nahe	nahe	A	ADJD	_	3	adv	236	236
+3	vor	vor	P	APPR	Dat	1	pp	236	236
+4	ihm	er	P	PPER	3|Sg|_|Dat	3	pn	235	235
+5	,	,	$	$,	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Weine	Wein	N	NN	Masc|_|_	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Kind	Kind	N	NN	Neut|_|Sg	1	app	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	weine	weinen	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+8	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	237	237
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	still	still	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	4	obja	235	235
+2	ohne	ohne	P	APPR	Acc	4	pp	_	_
+3	sich	sie	P	PRF	3|_|Acc	2	pn	_	_
+4	umzuwenden	umzuwenden	V	VVINF	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	237	237
+2	höre	hören	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+4	deinem	deine	A	PPOSAT	Masc|Dat|Sg	5	det	238	238
+5	Atem	Atem	N	NN	Masc|Dat|Sg	2	objd	_	_
+6	an	an	P	PTKVZ	_	2	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	10	konj	_	_
+9	du	du	P	PPER	2|Sg|_|Nom	10	subj	238	238
+10	weinst	weinen	V	VVFIN	2|Sg|Pres|Ind	2	objc	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	1	subj	237	237
+3	dir	du	P	PPER	2|Sg|_|Dat	4	objd	238	238
+4	helfen	helfen	V	VVINF	_	1	aux	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+

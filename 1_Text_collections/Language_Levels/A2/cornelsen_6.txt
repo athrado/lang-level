@@ -1,0 +1,95 @@
+1	Ja	ja	PTKANT	PTKANT	_	0	root	_	-
+2	.	.	$.	$.	_	0	root	_	-
+
+1	Vielleicht	vielleicht	ADV	ADV	_	2	adv	_	-
+2	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	-
+3	die	die	ART	ART	Def|Fem|Nom|Pl	4	det	_	-
+4	Sachen	Sache	N	NN	Fem|Nom|Pl	2	subj	_	-
+5	sogar	sogar	ADV	ADV	_	8	adv	_	-
+6	zu	zu	PTKA	PTKA	_	7	adv	_	-
+7	gut	gut	ADV	ADJD	Pos|	8	adv	_	-
+8	eingepackt	einpacken	V	VVPP	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	(1
+2	Lebensmittel	Lebensmittel	N	NN	Neut|Nom|Pl	3	subj	_	1)
+3	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	-
+4	in	in	PREP	APPR	Dat	3	pp	_	-
+5	einem	eine	ART	ART	Indef|Neut|Dat|Sg	8	det	_	-
+6	sehr	sehr	ADV	ADV	_	7	adv	_	-
+7	großen	groß	ADJA	ADJA	Pos|Neut|Dat|Sg|Wk|	8	attr	_	-
+8	Paket	Paket	N	NN	Neut|Dat|Sg	4	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Alles	alle	PRO	PIS	Neut|Nom|Sg	2	subj	_	-
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+3	noch	noch	ADV	ADV	_	8	adv	_	-
+4	einmal	einmal	ADV	ADV	_	8	adv	_	-
+5	extra	extra	ADV	ADV	_	8	adv	_	-
+6	mit	mit	PREP	APPR	Dat	8	pp	_	-
+7	Papier	Papier	N	NN	Neut|Dat|Sg	6	pn	_	-
+8	eingepackt	einpacken	V	VVPP	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Jetzt	jetzt	ADV	ADV	_	2	adv	_	-
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	sehr	sehr	ADV	ADV	_	5	adv	_	-
+5	viel	viel	ADV	ADV	_	2	adv	_	-
+6	Altpapier	Altpapier	N	NN	Neut|_|Sg	2	obja	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	das	die	PRO	PDS	Neut|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	3	adv	_	-
+5	das	die	ART	ART	Def|Neut|Nom|Sg	6	det	_	-
+6	Schlimmste	Schlimmste	N	NN	Neut|Nom|Sg	3	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	mich	ich	PRO	PRF	1|Sg|Acc	6	obja	_	-
+4	besonders	besonders	ADV	ADV	_	6	adv	_	-
+5	darüber	darüber	PROAV	PROAV	_	6	pp	_	-
+6	geärgert	ärgern	V	VVPP	_	2	aux	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	dass	dass	KOUS	KOUS	_	13	konj	_	-
+9	der	die	ART	ART	Def|Masc|Nom|Sg	10	det	_	-
+10	Service	Service	N	NN	Masc|Nom|Sg	13	subj	_	-
+11	sehr	sehr	ADV	ADV	_	12	adv	_	-
+12	teuer	teuer	ADV	ADJD	Pos|	13	pred	_	-
+13	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	objc	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	(1
+2	Lebensmittel	Lebensmittel	N	NN	Neut|Nom|Pl	3	subj	_	1)
+3	kosten	kosen	V	VVFIN	3|Pl|_|_	0	root	_	-
+4	viel	viel	ADV	ADV	_	5	adv	_	-
+5	mehr	mehr	ADV	ADV	_	6	adv	_	-
+6	als	als	KOKOM	KOKOM	_	3	kom	_	-
+7	im	in	PREP	APPRART	Dat	6	cj	_	-
+8	Supermarkt	Supermarkt	N	NN	Masc|Dat|Sg	7	pn	_	-
+9	und	und	KON	KON	_	3	kon	_	-
+10	man	man	PRO	PIS	_|Nom|Sg	11	subj	_	-
+11	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	9	cj	_	-
+12	Versandkosten	Versandkosten	N	NN	_|_|_	14	obja	_	-
+13	*	*	N	NE	_|_|_	12	app	_	-
+14	bezahlen	bezahlen	V	VVINF	_	11	aux	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Für	für	PREP	APPR	Acc	10	pp	_	-
+2	Lebensmittel	Lebensmittel	N	NN	Neut|Acc|Pl	1	pn	_	(2
+3	,	,	$,	$,	_	0	root	_	-
+4	die	die	PRO	PRELS	Neut|Nom|Pl	8	subj	_	(2)
+5	in	in	PREP	APPR	Acc	8	pp	_	-
+6	den	die	ART	ART	Def|Masc|Acc|Sg	7	det	_	-
+7	Kühlschrank	Kühlschrank	N	NN	Masc|Acc|Sg	5	pn	_	-
+8	müssen	müssen	V	VMFIN	3|Pl|Pres|_	2	rel	_	2)
+9	,	,	$,	$,	_	0	root	_	-
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+11	es	es	PRO	PPER	3|Sg|Neut|Nom	10	subj	_	-
+12	besonders	besonders	ADV	ADV	_	13	adv	_	-
+13	teuer	teuer	ADV	ADJD	Pos|	10	pred	_	-
+14	.	.	$.	$.	_	0	root	_	-
+

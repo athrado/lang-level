@@ -1,0 +1,456 @@
+1	Wie	Wie	P	PWAV	_	3	adv	_	_
+2	lange	lange	A	ADJD	_	3	pred	_	_
+3	bleiben	bleiben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Kaum	kaum	A	ADV	_	2	adv	_	_
+2	länger	lang	A	ADJD	Comp|	0	root	_	_
+3	als	als	K	KOKOM	_	2	kom	_	_
+4	bis	bis	P	APPR	Acc	3	cj	_	_
+5	morgen	morgen	A	ADV	_	4	adv	_	_
+6	abend	abend	A	ADV	_	4	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	92	92
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	hier	hier	A	ADV	_	2	adv	_	_
+4	kein	keine	A	PIAT	Neut|_|Sg	6	det	_	_
+5	anderes	anderes	A	ADJA	_|Neut|_|Sg|_	6	attr	_	_
+6	Geschäft	Geschäft	N	NN	Neut|_|Sg	2	obja	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	als	als	K	KOUS	_	0	root	_	_
+9	mich	ich	P	PPER	1|Sg|_|Acc	14	obja	92	92
+10	im	in	P	APPRART	Dat	14	pp	_	_
+11	kaiserlichen	kaiserlich	A	ADJA	Pos|Neut|Dat|Sg|Wk|	12	attr	_	_
+12	Oberforstamt	Oberforstamt	N	NN	Neut|Dat|Sg	10	pn	_	_
+13	zu	zu	P	PTKZU	_	14	part	_	_
+14	melden	melden	V	VVINF	_	0	root	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	92	92
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	nämlich	nämlich	A	ADV	_	11	adv	_	_
+4	meine	meine	A	PPOSAT	Fem|_|Sg	5	det	92	92
+5	Ernennung	Ernennung	N	NN	Fem|_|Sg	11	obja	_	_
+6	zum	zu	P	APPRART	Dat	11	pp	_	_
+7	Oberförster	Oberförster	N	NN	Masc|Dat|Sg	6	pn	261	261
+8	in	in	P	APPR	Dat	11	pp	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	93	93
+10	Steiermark	Steiermark	N	NN	Fem|Dat|Sg	8	pn	93	93
+11	erhalten	erhalten	V	VVPP	_	2	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Blick	Blick	N	NN	Masc|_|Sg	0	root	_	_
+2	auf	auf	P	APPR	_	1	pp	_	_
+3	Marie	Marie	N	NE	_|_|_	2	pn	8	8
+4	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	0	root	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	93	93
+3	Steiermark	Steiermark	N	NN	Fem|Dat|Sg	1	pn	93	93
+4	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	_	0	root	_	_
+2	Tauplitz	Tauplitz	N	NE	_|_|_	1	pn	259	259
+3	,	,	$	$,	_	0	root	_	_
+4	zu	zu	P	APPR	Dat	9	objp	_	_
+5	Füßen	Fuß	N	NN	Masc|Dat|Pl	4	pn	_	_
+6	der	die	A	ART	Def|Fem|Gen|Sg	8	det	_	_
+7	weißen	weiß	A	ADJA	Pos|Fem|Gen|Sg|Wk|	8	attr	_	_
+8	Wand	Wand	N	NN	Fem|Gen|Sg	5	gmod	_	_
+9	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+10	das	die	A	ART	Def|Neut|Nom|Sg	11	det	94	94
+11	Forsthaus	Forsthaus	N	NN	Neut|Nom|Sg	9	subj	94	94
+12	,	,	$	$,	_	0	root	94	94
+13	in	in	P	APPR	Dat	16	objp	94	94
+14	dem	die	P	PRELS	Neut|Dat|Sg	13	pn	94	94
+15	ich	ich	P	PPER	1|Sg|_|Nom	17	subj	0	0
+16	wohnen	wohnen	V	VVINF	_	17	aux	_	_
+17	werde	werden	V	VAFIN	1|Sg|Pres|_	11	rel	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	Dat	5	pp	_	_
+2	drei	drei	C	CARD	_	3	attr	_	_
+3	Jahren	Jahr	N	NN	Neut|Dat|Pl	1	pn	_	_
+4	erst	erst	A	ADV	_	3	adv	_	_
+5	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+7	aufgebaut	aufbauen	V	VVPP	_	5	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	behaglich	behaglich	A	ADJD	Pos|	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	licht	licht	A	ADJD	Pos|	9	kon	_	_
+12	und	und	K	KON	_	11	kon	_	_
+13	geräumig	geräumig	A	ADJD	Pos|	12	cj	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Seine	seine	A	PPOSAT	Fem|_|Sg	2	det	94	94
+2	Majestät	Majestät	N	NN	Fem|_|Sg	10	obja	_	_
+3	selbst	selbst	A	ADV	_	2	adv	_	_
+4	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+5	vorigen	vorig	A	ADJA	Pos|Masc|Nom|Pl|Wk|	6	attr	_	_
+6	Sommer	Sommer	N	NN	Masc|Nom|Pl	4	subj	_	_
+7	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	_	_
+8	Nacht	Nacht	N	NN	Fem|_|Sg	9	grad	_	_
+9	dort	dort	A	ADV	_	10	adv	_	_
+10	geschlafen	schlafen	V	VVPP	_	4	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	kaiserliches	kaiserlich	A	ADJA	Pos|Neut|Nom|Sg|St|	4	attr	_	_
+4	Revier	Revier	N	NN	Neut|Nom|Sg	2	pred	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	selten	selten	A	ADJD	Pos|	9	adv	_	_
+5	von	von	P	APPR	Dat	9	pp	_	_
+6	den	die	A	ART	Def|Fem|Dat|Pl	8	det	_	_
+7	höchsten	hoch	A	ADJA	Sup|Fem|Dat|Pl|_|	8	attr	_	_
+8	Herrschaften	Herrschaft	N	NN	Fem|Dat|Pl	5	pn	_	_
+9	aufgesucht	aufsuchen	V	VVPP	_	3	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	an	an	P	APPR	Dat	2	objp	_	_
+4	einem	eine	A	ART	Indef|Masc|Dat|Sg	6	det	95	95
+5	dunkelgrünen	dunkelgrün	A	ADJA	Pos|Masc|Dat|Sg|Wk|	6	attr	95	95
+6	See	See	N	NN	Masc|Dat|Sg	3	pn	95	95
+7	,	,	$	$,	_	0	root	95	95
+8	der	die	P	PRELS	Masc|Nom|Sg	12	subj	95	95
+9	die	die	A	ART	Def|Fem|_|Pl	11	det	_	_
+10	trefflichsten	trefflich	A	ADJA	Sup|Fem|_|Pl|Wk|	11	attr	_	_
+11	Forellen	Forelle	N	NN	Fem|_|Pl	12	obja	_	_
+12	hat	haben	V	VAFIN	3|Sg|Pres|Ind	6	rel	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Hinter	hinter	P	APPR	Dat	4	pp	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	3	det	96	96
+3	Hause	Haus	N	NN	Neut|Dat|Sg	1	pn	96	96
+4	steigen	steigen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	die	die	A	ART	Def|Fem|Nom|Pl	6	det	_	_
+6	Tannen	Tann	N	NN	Fem|Nom|Pl	4	subj	_	_
+7	an	an	P	PTKVZ	_	4	avz	_	_
+8	und	und	K	KON	_	4	kon	_	_
+9	breiten	breiten	V	VVFIN	_|Pl|Pres|_	8	cj	_	_
+10	sich	sie	P	PRF	3|_|_	9	obja	_	_
+11	hoch	hoch	A	ADJD	Pos|	9	adv	_	_
+12	bis	bis	P	APPR	Acc	9	pp	_	_
+13	zu	zu	P	APPR	Dat	12	pp	_	_
+14	den	die	A	ART	Def|Fem|Dat|Pl	15	det	_	_
+15	Schutthalden	Schutthalde	N	NN	Fem|Dat|Pl	13	pn	_	_
+16	des	die	A	ART	Def|Neut|Gen|Sg	18	det	_	_
+17	Toten	Toten	A	ADJA	_|Neut|Gen|Sg|_	18	attr	_	_
+18	Gebirges	Gebirge	N	NN	Neut|Gen|Sg	15	gmod	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Rings	Ring	N	NN	Masc|Gen|Sg	0	root	_	_
+2	um	um	P	APPR	Acc	5	objp	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	95	95
+4	See	See	N	NN	Masc|Acc|Sg	2	pn	95	95
+5	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	Buchen	Buche	N	NN	Fem|Nom|Pl	5	subj	_	_
+7	und	und	K	KON	_	6	kon	_	_
+8	Birken	Birk	N	NN	Fem|Nom|Pl	7	cj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	3	det	_	_
+2	nächste	nah	A	ADJA	_|Neut|Nom|Sg|Wk|	3	attr	_	_
+3	Dorf	Dorf	N	NN	Neut|Nom|Sg	4	subj	_	_
+4	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	zwei	zwei	C	CARD	_	6	attr	_	_
+6	Stunden	Stunde	N	NN	Fem|_|Pl	7	grad	_	_
+7	weit	weit	A	ADJD	Pos|	4	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	auf	auf	P	APPR	Dat	15	pp	_	_
+10	einem	eine	A	ART	Indef|Masc|Dat|Sg	12	det	_	_
+11	schmalen	schmal	A	ADJA	Pos|Masc|Dat|Sg|Wk|	12	attr	_	_
+12	Weg	Weg	N	NN	Masc|Dat|Sg	9	pn	_	_
+13	durch	durch	P	APPR	Acc	12	pp	_	_
+14	Jungholz	Jungholz	N	NN	Neut|Acc|Sg	13	pn	_	_
+15	steigt	steigen	V	VVFIN	3|Sg|Pres|Ind	4	kon	_	_
+16	man	man	P	PIS	_|Nom|Sg	15	subj	_	_
+17	hinab	hinab	A	ADV	_	15	adv	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	eine	eine	A	ART	Indef|Fem|Nom|Sg	7	det	_	_
+4	einsam	einsam	A	ADJD	Pos|	5	adv	_	_
+5	stille	still	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	_	_
+6	schöne	schön	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	_	_
+7	Gegend	Gegend	N	NN	Fem|Nom|Sg	2	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	0	0
+2	freue	freuen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	2	obja	_	_
+4	hin	hin	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	ziemlich	ziemlich	A	ADJD	_	5	adv	_	_
+5	unerwartet	unerwartet	A	ADJD	Pos|	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+2	wohl	wohl	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	_	_
+2	Stelle	Stelle	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	erst	erst	A	ADV	_	8	adv	_	_
+5	vor	vor	P	APPR	Dat	8	pp	_	_
+6	kurzem	kurz	A	ADJA	Pos|_|Dat|Sg|St|	5	pn	_	_
+7	frei	frei	A	ADJD	Pos|	8	pred	_	_
+8	worden	werden	V	VAPP	_	3	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	97	97
+2	Förster	Förster	N	NN	Masc|Nom|Sg	4	subj	97	97
+3	dort	dort	A	ADV	_	2	adv	97	97
+4	starb	sterben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+5	plötzlich	plötzlich	A	ADJD	Pos|	4	adv	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	8	subj	97	97
+8	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+9	noch	noch	A	ADV	_	8	adv	_	_
+10	jung	jung	A	ADJD	Pos|	8	pred	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	kaum	kaum	A	ADV	_	13	adv	_	_
+13	vierzig	vierzig	C	CARD	_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Vierzig	vierzig	C	CARD	_	2	attr	_	_
+2	Jahre	Jahr	N	NN	Neut|_|Pl	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Jawohl	Jawohl	N	NN	Neut|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	1	app	_	_
+4	Adjunkt	Adjunkt	N	NN	Masc|_|Sg	3	app	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	vierzig	vierzig	C	CARD	_	0	root	_	_
+7	Jahr	Jahr	N	NN	Neut|_|Sg	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	treibt	treiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	98	98
+5	der	die	P	PDS	Masc|Nom|Sg	2	subj	_	_
+6	da	da	A	ADV	_	5	adv	_	_
+7	oben	oben	A	ADV	_	2	adv	_	_
+8	-	-	$	$(	_	0	root	_	_
+9	und	und	K	KON	_	2	kon	_	_
+10	so	so	A	ADV	_	11	adv	_	_
+11	gleicht	gleichen	V	VVFIN	3|Sg|Pres|Ind	9	cj	_	_
+12	er	er	P	PPER	3|Sg|Masc|Nom	11	subj	_	_
+13	'	'	$	$(	_	0	root	_	_
+14	s	s	P	PPER	_	11	obja	98	98
+15	aus	aus	P	PTKVZ	_	11	avz	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Leute	Leute	N	NN	_|Nom|Pl	4	subj	99	99
+2	mit	mit	P	APPR	Dat	1	pp	99	99
+3	neunundsiebzig	neunundsiebzig	C	CARD	_	2	pn	99	99
+4	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	fort	fort	P	PTKVZ	_	4	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	können	können	V	VMFIN	_|Pl|Pres|_	4	kon	_	_
+8	sich	sie	P	PRF	3|_|_	10	obja	_	_
+9	leidlich	leidlich	A	ADJD	Pos|	10	adv	_	_
+10	erhalten	erhalten	V	VVINF	_	7	aux	_	_
+11	-	-	$	$(	_	0	root	_	_
+12	bis	bis	P	APPR	Acc	0	root	_	_
+13	achtzig	achtzig	C	CARD	_	12	pn	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	fünfundachtzig	fünfundachtzig	C	CARD	_	0	root	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	neunzig	neunzig	C	CARD	_	0	root	_	_
+18	-	-	$	$(	_	0	root	_	_
+19	bei	bei	P	APPR	Dat	0	root	_	_
+20	guter	gut	A	ADJA	Pos|Fem|Dat|Sg|St|	21	attr	_	_
+21	Pflege	Pflege	N	NN	Fem|Dat|Sg	19	pn	_	_
+22	,	,	$	$,	_	0	root	_	_
+23	in	in	P	APPR	Dat	0	root	_	_
+24	sorglicher	sorglich	A	ADJA	Pos|Fem|Dat|Sg|St|	25	attr	_	_
+25	Hut	Hut	N	NN	Fem|Dat|Sg	23	pn	_	_
+26	-	-	$	$(	_	0	root	_	_
+27	-	-	$	$(	_	0	root	_	_
+28	verstehen	verstehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+29	Sie	sie	P	PPER	3|Pl|_|Nom	28	subj	99	99
+30	mich	ich	P	PPER	1|Sg|_|Acc	28	obja	_	_
+31	,	,	$	$,	_	0	root	_	_
+32	Herr	Herr	N	NN	Masc|Acc|Sg	30	app	_	_
+33	Adjunkt	Adjunkt	N	NN	Masc|Acc|Sg	32	app	_	_
+34	?	?	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	100	100
+3	gratuliere	gratulieren	V	VVFIN	1|Sg|Pres|_	1	cj	_	_
+4	zum	zu	P	APPRART	Dat	3	pp	_	_
+5	Oberforstmeister	Oberforstmeister	N	NN	_|Dat|Sg	4	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Herr	Herr	N	NN	Masc|_|Sg	13	obja	_	_
+8	Adjunkt	Adjunkt	N	NN	Masc|_|Sg	7	app	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	aber	aber	K	KON	_	8	kon	_	_
+11	die	die	A	ART	Def|_|_|_	12	det	8	8
+12	Marie	Marie	N	NN	_|_|_	10	cj	8	8
+13	lass	lass	V	VVFIN	1|Sg|_|_	3	kon	_	_
+14	'	'	$	$(	_	0	root	_	_
+15	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	100	100
+16	nicht	nicht	P	PTKNEG	_	13	adv	_	_
+17	fort	fort	P	PTKVZ	_	13	avz	_	_
+18	-	-	$	$(	_	0	root	_	_
+19	verstehen	verstehen	V	VVFIN	3|Pl|Pres|_	13	kon	_	_
+20	Sie	sie	P	PPER	3|Pl|_|Nom	19	subj	_	_
+21	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	101	101
+2	Herr	Herr	N	NN	Masc|Nom|Sg	4	subj	101	101
+3	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	2	app	101	101
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	ja	ja	A	ADV	_	4	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	-	-	$	$(	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Marie	Marie	N	NE	Masc|Nom|Sg	2	kon	8	8
+5	,	,	$	$,	_	0	root	8	8
+6	Der	die	A	ART	Def|Masc|Nom|Sg	7	det	76	76
+7	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	4	kon	8	8
+8	.	.	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|Nom|Sg	7	subj	_	_
+2	Schindler	Schindler	N	NE	Masc|Nom|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	_	_
+5	Arzt	Arzt	N	NN	Masc|Nom|Sg	1	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	ein	ein	P	PTKVZ	_	7	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	3	subj	103	103
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	in	in	P	APPR	Dat	3	pp	_	_
+5	mittleren	mittel	A	ADJA	Comp|Neut|Dat|Pl|_|	6	attr	102	102
+6	Jahren	Jahr	N	NN	Neut|Dat|Pl	4	pn	102	102
+7	,	,	$	$,	_	0	root	_	_
+8	leicht	leicht	A	ADJD	Pos|	0	root	_	_
+9	angegraut	angrauen	V	VVPP	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	2	attr	_	_
+2	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	3	attr	8	8
+3	Abend	Abend	N	NN	Masc|_|Sg	0	root	8	8
+4	,	,	$	$,	_	0	root	8	8
+5	Fräulein	Fräulein	N	NN	Neut|_|_	3	app	8	8
+6	Marie	Marie	N	NE	Neut|_|_	5	app	8	8
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	blaß	blaß	V	VVFIN	_	5	objc	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	102	102
+4	wieder	wieder	A	ADV	_	5	adv	_	_
+5	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	3	subj	6	6
+3	wirft	werfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	einen	eine	A	ART	Indef|Masc|Acc|Sg	6	det	_	_
+5	zornigen	zornig	A	ADJA	Pos|Masc|Acc|Sg|_|	6	attr	_	_
+6	Blick	Blick	N	NN	Masc|Acc|Sg	3	obja	_	_
+7	auf	auf	P	APPR	Acc	6	pp	_	_
+8	ihn	er	P	PPER	3|Sg|Masc|Acc	7	pn	0	0
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	101	101
+4	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	101	101
+5	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	4	app	101	101
+6	?	?	$	$.	_	0	root	_	_
+
+1	Wahrhaftig	wahrhaftig	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	freu	freuen	V	VVIMP	Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	0	0
+5	mich	ich	P	PRF	1|Sg|Acc	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Sie	sie	P	PPER	3|_|_|_	8	obja	104	104
+8	wiederzusehen	wiedersehen	V	VVIZU	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	104	104
+2	drückt	drücken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	101	101
+4	herzlich	herzlich	A	ADJD	Pos|	2	adv	_	_
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	105	105
+6	Hand	Hand	N	NN	Fem|_|Sg	2	obja	105	105
+7	.	.	$	$.	_	0	root	_	_
+

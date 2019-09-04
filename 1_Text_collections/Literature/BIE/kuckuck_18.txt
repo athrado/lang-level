@@ -1,0 +1,464 @@
+1	Freilich	freilich	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+3	seid	sein	V	VAIMP	Pl	0	root	_	_
+4	Ihr	ihr	P	PPER	3|Sg|Fem|Dat	3	objd	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	28	28
+6	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	3	pred	28	28
+7	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	aber	aber	K	KON	_	0	root	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	28	28
+6	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	7	subj	28	28
+7	will	wollen	V	VMFIN	3|Sg|Pres|Ind	4	cj	_	_
+8	Euere	eure	A	PPOSAT	Fem|_|Sg	9	det	_	_
+9	Tochter	Tochter	N	NN	Fem|_|Sg	7	obja	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+3	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	jeder	jede	P	PIS	Masc|Nom|Sg	3	subj	_	_
+5	sagen	sagen	V	VVINF	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	so	so	A	ADV	_	3	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Alter	Alter	N	NN	_|_|_	3	vok	311	311
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Zeig	zeigen	V	VVIMP	Sg	0	root	_	_
+3	her	her	P	PTKVZ	_	2	avz	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Den	die	A	ART	Def|Masc|Acc|Sg	3	det	456	456
+3	Brief	Brief	N	NN	Masc|Acc|Sg	0	root	456	456
+4	vom	von	P	APPRART	Dat	3	pp	456	456
+5	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	4	pn	222	222
+6	,	,	$	$,	_	0	root	222	222
+7	mit	mit	P	APPR	Dat	5	pp	222	222
+8	dem	die	A	ART	Def|Masc|Dat|Sg	9	det	222	222
+9	Drachen	Drache	N	NN	Masc|Dat|Sg	7	pn	222	222
+10	und	und	K	KON	_	9	kon	_	_
+11	der	die	A	ART	Def|Fem|Dat|Sg	13	det	_	_
+12	roten	rot	A	ADJA	Pos|Fem|Dat|Sg|Wk|	13	attr	_	_
+13	Unterschrift	Unterschrift	N	NN	Fem|Dat|Sg	10	cj	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Hähä	Hähä	N	NE	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Nee	Nee	N	NE	Masc|Nom|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	312	312
+4	Lieber	Liebe	N	NN	Masc|Nom|Sg	1	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zwar	zwar	A	ADV	_	2	adv	_	_
+4	:	\:	$	$.	_	0	root	_	_
+
+1	aber	aber	A	ADV	_	3	adv	_	_
+2	so	so	A	ADV	_	3	adv	_	_
+3	gescheidt	gescheidt	A	ADJD	_	8	pred	_	_
+4	wie	wie	K	KOKOM	_	3	kom	_	_
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+6	abgerissener	abgerissen	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	_	_
+7	Bänkelsänger	Bänkelsänger	N	NN	Masc|Nom|Sg	4	cj	_	_
+8	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+9	wir	wir	P	PPER	1|Pl|_|Nom	8	subj	_	_
+10	doch	doch	A	ADV	_	8	adv	_	_
+11	noch	noch	A	ADV	_	8	adv	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Weg	Weg	N	NN	Masc|_|Sg	0	root	_	_
+2	aus	aus	P	APPR	Dat	1	pp	_	_
+3	meinem	meine	A	PPOSAT	Neut|Dat|Sg	4	det	312	312
+4	Felde	Feld	N	NN	Neut|Dat|Sg	2	pn	1288	1288
+5	,	,	$	$,	_	0	root	1288	1288
+6	Vagabund	Vagabund	N	NN	Masc|Dat|Sg	4	app	1288	1288
+7	!	!	$	$.	_	0	root	_	_
+
+1	denkst	denken	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	313	313
+3	,	,	$	$,	_	0	root	_	_
+4	ich	ich	P	PPER	_|Nom|Sg	0	root	2	2
+5	seh	seh	F	FM	_	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_	0	root	_	_
+8	deinem	deine	A	PPOSAT	Masc|Dat|Sg	9	det	313	313
+9	Rock	Rock	N	NN	Masc|Dat|Sg	0	root	_	_
+10	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+11	an	an	P	PTKVZ	_	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	wie	wie	P	PWAV	_	16	pred	_	_
+14	dein	deine	A	PPOSAT	Masc|Nom|Sg	15	det	313	313
+15	Beutel	Beutel	N	NN	Masc|Nom|Sg	16	subj	315	315
+16	aussieht	aussehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	du	du	P	PPER	2|Sg|_|Nom	0	root	313	313
+19	-	-	$	$(	_	0	root	_	_
+20	Beamter	Beamter	N	NN	Masc|_|_	0	root	_	_
+21	der	die	A	ART	Def|Fem|Gen|Sg	23	det	314	314
+22	dritten	dritt	A	ADJA	_|Fem|Gen|Sg|Wk|	23	attr	314	314
+23	Rangklasse	Rangklasse	N	NN	Fem|Gen|Sg	20	gmod	314	314
+24	?	?	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+2	hob	heben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	einen	eine	A	ART	Indef|Masc|Acc|Sg	4	det	_	_
+4	Lehmkloß	Lehmkloß	N	NN	Masc|Acc|Sg	2	obja	_	_
+5	auf	auf	P	PTKVZ	_	2	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ihn	er	P	PPER	3|Sg|Masc|Acc	12	obja	315	315
+8	nach	nach	P	APPR	Dat	12	pp	_	_
+9	Herrn	Herrn	N	NN	_|Dat|_	8	pn	267	267
+10	We-tê-king	We-tê-king	N	NE	_|Dat|_	9	app	267	267
+11	zu	zu	P	PTKZU	_	12	part	_	_
+12	werfen	werfen	V	VVINF	_	2	obji	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	4	pp	_	_
+2	diesem	diese	A	PDAT	Masc|Dat|Sg	3	det	354	354
+3	Augenblick	Augenblick	N	NN	Masc|Dat|Sg	1	pn	354	354
+4	merkte	merken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	316	316
+6	Hofdichter	Hofdichter	N	NN	Masc|Nom|Sg	4	subj	316	316
+7	,	,	$	$,	_	0	root	_	_
+8	woran	woran	P	PWAV	_	11	pp	_	_
+9	er	er	P	PPER	3|Sg|Masc|Nom	11	subj	316	316
+10	es	es	P	PPER	3|Sg|Neut|_	13	obja	_	_
+11	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+12	fehlen	fehlen	V	VVINF	_	13	obji	_	_
+13	lassen	lassen	V	VVINF	_	11	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	316	316
+2	zog	ziehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	seinen	seine	A	PPOSAT	Masc|_|_	4	det	316	316
+4	Geldriemen	Geldriemen	N	NN	Masc|_|Sg	2	obja	317	317
+5	,	,	$	$,	_	0	root	317	317
+6	an	an	P	APPR	Dat	12	pp	317	317
+7	dem	die	P	PRELS	Masc|Dat|Sg	6	pn	317	317
+8	an	an	P	APPR	Acc	12	objp	_	_
+9	die	die	A	ART	Def|Fem|Acc|Pl	11	det	_	_
+10	fünfzig	fünfzig	C	CARD	_	11	attr	_	_
+11	Kupfermünzen	Kupfermünze	N	NN	Fem|Acc|Pl	8	pn	_	_
+12	hingen	hängen	V	VVFIN	_|Pl|Past|_	4	rel	_	_
+13	und	und	K	KON	_	12	kon	_	_
+14	warf	werfen	V	VVFIN	_|Sg|Past|Ind	13	cj	_	_
+15	ihn	er	P	PPER	3|Sg|Masc|Acc	14	obja	316	316
+16	dem	die	A	ART	Def|Masc|Dat|Sg	17	det	160	160
+17	Bauern	Bauer	N	NN	Masc|Dat|Sg	14	objd	160	160
+18	vor	vor	P	APPR	Acc	14	pp	_	_
+19	die	die	A	ART	Def|Masc|Acc|Pl	20	det	318	318
+20	Füße	Fuß	N	NN	Masc|Acc|Pl	18	pn	318	318
+21	:	\:	$	$.	_	0	root	_	_
+22	Da	Da	K	KOUS	_	0	root	_	_
+23	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Hä	Hä	F	FM	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	289	289
+3	Herr	Herr	N	NN	Masc|Nom|Sg	1	subj	289	289
+4	Münze	Münze	N	NN	Fem|_|Sg	1	obja	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Laßt	Laßt	V	VVIMP	_	0	root	_	_
+2	sehn	sehnen	V	VVIMP	Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	biedere	bieder	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	_
+3	Szö-Ta	Szö-Ta	N	NN	Masc|Nom|Sg	4	subj	_	_
+4	zählte	zählen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	_	_
+6	Kupferzeug	Kupferzeug	N	NN	Neut|_|Sg	4	obja	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Hm	hm	I	ITJ	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Achtundvierzig	achtundvierzig	C	CARD	_	2	attr	_	_
+2	Stück	Stück	N	NN	_|_|Pl	0	root	_	_
+3	Große	Große	N	NN	_|_|_	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+2	kraute	kraute	V	VVFIN	3|Sg|_|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	hinter	hinter	P	APPR	Dat	2	pp	_	_
+5	den	die	A	ART	Def|Neut|Dat|Pl	6	det	319	319
+6	Ohren	Ohr	N	NN	Neut|Dat|Pl	4	pn	319	319
+7	:	\:	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+4	für	für	P	APPR	Acc	3	pp	_	_
+5	die	die	P	PDS	_|Acc|_	4	pn	_	_
+6	da	da	P	PTKVZ	_	3	avz	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	später	spät	A	ADJD	_|	6	adv	_	_
+6	kommt	kommen	V	VVFIN	_|_|Pres|Ind	4	cj	_	_
+7	noch	noch	A	ADV	_	6	adv	_	_
+8	mehr	mehr	A	ADV	_	6	adv	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	viel	viel	A	ADV	_	11	adv	_	_
+11	mehr	mehr	A	ADV	_	8	kon	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	wenn	wenn	K	KOUS	_	0	root	_	_
+14	sie	sie	P	PPER	3|_|_|_	0	root	319	319
+15	erst	erst	A	ADV	_	16	adv	_	_
+16	beim	bei	P	APPRART	Dat	0	root	_	_
+17	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	16	pn	320	320
+18	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ti-ti-ti-ti	Ti-ti-ti-ti	N	NE	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Kaiser	Kaiser	N	NE	_|_|Sg	0	root	222	222
+2	!	!	$	$.	_	0	root	_	_
+
+1	Lassen	lassen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	321	321
+3	mich	ich	P	PPER	1|Sg|_|Acc	1	obja	322	322
+4	mit	mit	P	APPR	Dat	1	pp	_	_
+5	dem	die	A	ART	Def|Masc|Dat|Sg	6	det	28	28
+6	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	4	pn	28	28
+7	zufrieden	zufrieden	A	ADJD	Pos|	1	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	3	pp	_	_
+2	Ihnen	sie	P	PPER	3|Pl|_|Dat	1	pn	321	321
+3	handle	handeln	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	322	322
+5	.	.	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	8	objp	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	3	det	28	28
+3	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	1	pn	28	28
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	unsereins	unsereins	P	PIS	Neut|Nom|Sg	4	subj	_	_
+6	bloß	bloß	A	ADV	_	8	adv	_	_
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	tun	tun	V	VVINF	_	4	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	wenns	wenns	N	NE	_|Nom|Sg	13	subj	390	390
+11	ans	an	P	APPRART	Acc	10	pp	390	390
+12	Halsabschneiden	Halsabschneiden	N	NN	Neut|Acc|Sg	11	pn	390	390
+13	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	4	kon	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Noch	noch	A	ADV	_	2	adv	_	_
+2	so	so	A	ADV	_	4	adv	_	_
+3	ein	eine	A	ART	Indef|_|_|Sg	4	det	_	_
+4	Riemelchen	Riemelchen	N	NN	_|_|Sg	0	root	_	_
+5	voll	voll	A	ADJD	Pos|	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|Nom|Sg	3	subj	267	267
+2	We-tê-king	We-tê-king	N	NE	Masc|Nom|Sg	1	app	267	267
+3	fuhr	fahren	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	in	in	P	APPR	_	3	pp	_	_
+5	den	die	A	ART	Def|_|_|_	6	det	_	_
+6	Brustbausch	Brustbausch	N	NN	_|_|_	4	pn	_	_
+7	und	und	K	KON	_	3	kon	_	_
+8	zog	ziehen	V	VVFIN	_|Sg|Past|Ind	7	cj	_	_
+9	eine	eine	A	ART	Indef|Fem|_|Sg	10	det	324	324
+10	Silberstange	Silberstange	N	NN	Fem|_|Sg	8	obja	324	324
+11	hervor	hervor	P	PTKVZ	_	8	avz	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	323	323
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	kein	keine	A	PIAT	Neut|_|Sg	5	det	_	_
+5	Kleingeld	Kleingeld	N	NN	Neut|_|Sg	3	obja	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	aber	aber	K	KON	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	damit	damit	K	KOUS	_	11	konj	_	_
+10	Ihr	ihr	P	PPER	2|Pl|_|Nom	11	subj	_	_
+11	seht	sehen	V	VVFIN	2|Pl|Pres|Ind	7	cj	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	daß	daß	K	KOUS	_	18	konj	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	18	subj	323	323
+15	mich	ich	P	PRF	1|Sg|Acc	18	obja	_	_
+16	nicht	nicht	P	PTKNEG	_	18	adv	_	_
+17	lumpen	lumpen	A	ADJD	_	18	adv	_	_
+18	lasse	lassen	V	VVFIN	1|Sg|Pres|_	11	objc	_	_
+19	-	-	$	$(	_	0	root	_	_
+20	:	\:	$	$.	_	0	root	_	_
+21	Da	Da	K	KOUS	_	0	root	_	_
+22	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	324	324
+2	Silberstange	Silberstange	N	NN	Fem|Nom|Sg	3	subj	324	324
+3	flog	fliegen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	dem	die	A	ART	Def|_|Dat|Sg	5	det	_	_
+5	Alten	Alt	N	NN	_|Dat|Sg	3	objd	_	_
+6	vor	vor	P	APPR	Acc	3	pp	_	_
+7	die	die	A	ART	Def|Masc|Acc|Pl	8	det	318	318
+8	Füße	Fuß	N	NN	Masc|Acc|Pl	6	pn	318	318
+9	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Silber	Silber	N	NN	Neut|_|Sg	0	root	325	325
+3	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	kenn	kenn	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	326	326
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Silber	Silber	N	NN	Neut|_|Sg	0	root	325	325
+2	?	?	$	$.	_	0	root	_	_
+
+1	Nee	nee	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	falsch	falsch	A	ADJD	Pos|	4	pred	_	_
+4	sein	sein	V	VAINF	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+3	wer	wer	P	PWS	_|Nom|Sg	0	root	_	_
+4	solls	solls	N	NE	_|Nom|Pl	5	subj	_	_
+5	wechseln	wechseln	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Gebt	geben	V	VVIMP	Pl	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	326	326
+3	Kupfer	Kupfer	N	NN	Neut|_|_	1	obja	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|_|Sg	3	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Das	die	A	ART	Def|Neut|Nom|Sg	3	det	_	_
+3	Silber	Silber	N	NN	Neut|Nom|Sg	5	subj	_	_
+4	da	da	A	ADV	_	3	adv	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	hundertmal	hundertmal	A	ADV	_	8	adv	_	_
+7	so	so	A	ADV	_	8	adv	_	_
+8	viel	viel	P	PIS	_|Dat|_	5	objd	_	_
+9	wert	wert	A	ADJD	Pos|	5	pred	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	als	als	K	KOUS	_	0	root	_	_
+12	der	die	A	ART	Def|Masc|_|_	13	det	_	_
+13	Riemen	Riemen	N	NN	Masc|_|_	0	root	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	Seid	sein	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	blöde	blöde	A	ADJD	Pos|	1	pred	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Szö-Ta	Szö-Ta	N	NE	_|Nom|Sg	2	subj	326	326
+2	betrachtete	betrachten	V	VVFIN	3|Sg|Past|_	6	s	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	_	_
+4	Stange	Stange	N	NN	Fem|_|Sg	2	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wog	wiegen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+7	sie	sie	P	PPER	3|Sg|Fem|Nom	6	subj	326	326
+8	in	in	P	APPR	Dat	6	pp	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	195	195
+10	Hand	Hand	N	NN	Fem|Dat|Sg	8	pn	195	195
+11	,	,	$	$,	_	0	root	_	_
+12	schlug	schlagen	V	VVFIN	_|Sg|Past|Ind	6	kon	_	_
+13	sie	sie	P	PPER	3|_|_|_	12	obja	326	326
+14	auf	auf	P	APPR	Acc	12	objp	_	_
+15	einen	eine	A	ART	Indef|Masc|Acc|Sg	16	det	1266	1266
+16	Stein	Stein	N	NN	Masc|Acc|Sg	14	pn	1266	1266
+17	,	,	$	$,	_	0	root	_	_
+18	machte	machen	V	VVFIN	_|Sg|Past|_	12	kon	_	_
+19	Hum	Hum	N	NE	_	18	obja	_	_
+20	!	!	$	$.	_	0	root	_	_
+
+1	machte	machen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+2	Hem	Hem	N	NE	_|Nom|Sg	1	subj	327	327
+3	!	!	$	$.	_	0	root	_	_
+
+1	rieb	reiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+2	sie	sie	P	PPER	3|Sg|Fem|Nom	1	subj	327	327
+3	an	an	P	APPR	Dat	1	pp	_	_
+4	seinem	seine	A	PPOSAT	Masc|Dat|Sg	5	det	327	327
+5	Kittel	Kittel	N	NN	Masc|Dat|Sg	3	pn	328	328
+6	,	,	$	$,	_	0	root	_	_
+7	schabte	schaben	V	VVFIN	_|Sg|Past|_	1	kon	_	_
+8	an	an	P	APPR	Dat	7	pp	_	_
+9	ihr	ihr	P	PPER	3|Sg|Fem|Dat	8	pn	327	327
+10	mit	mit	P	APPR	Dat	7	pp	_	_
+11	seinem	seine	A	PPOSAT	_|Dat|Sg	12	det	328	328
+12	Messer	Messer	N	NN	_|Dat|Sg	10	pn	_	_
+13	und	und	K	KON	_	7	kon	_	_
+14	schrie	schreien	V	VVFIN	_|Sg|Past|_	13	cj	_	_
+15	schließlich	schließlich	A	ADV	_	14	adv	_	_
+16	:	\:	$	$.	_	0	root	_	_
+17	Lao-Mu	Lao-Mu	N	NE	_	0	root	329	329
+18	!	!	$	$.	_	0	root	_	_
+
+1	Lao-Mu	Lao-Mu	N	NE	_	0	root	329	329
+2	!	!	$	$.	_	0	root	_	_
+
+1	Aus	aus	P	APPR	Dat	4	objp	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	3	det	330	330
+3	Reisfelde	Reisfeld	N	NN	Neut|Dat|Sg	1	pn	330	330
+4	kam	kommen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+5	eine	eine	A	ART	Indef|Fem|Nom|Sg	7	det	_	_
+6	alte	alt	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	_	_
+7	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	_	_
+8	und	und	K	KON	_	4	kon	_	_
+9	rief	rufen	V	VVFIN	_|Sg|Past|Ind	8	cj	_	_
+10	:	\:	$	$.	_	0	root	_	_
+11	Was	was	P	PWS	Neut|Nom|Sg	12	subj	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	331	331
+3	Herr	Herr	N	NN	Masc|Nom|Sg	5	subj	331	331
+4	da	da	A	ADV	_	3	adv	331	331
+5	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+6	die	die	A	ART	Def|_|_|_	7	det	288	288
+7	Pao-Szö	Pao-Szö	N	NN	_|_|_	8	obja	288	288
+8	kaufen	kaufen	V	VVINF	_	5	aux	_	_
+9	;	;	$	$.	_	0	root	_	_
+10	kennst	kennen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+11	du	du	P	PPER	2|Sg|_|Nom	10	subj	_	_
+12	Silber	Silber	N	NN	Neut|_|Sg	10	obja	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	Alte	Alt	N	NN	_|_|_	12	app	_	_
+15	?	?	$	$.	_	0	root	_	_
+

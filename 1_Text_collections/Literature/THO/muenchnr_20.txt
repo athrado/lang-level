@@ -1,0 +1,458 @@
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	(	(	$	$(	_	0	root	312	312
+3	enttäuscht	enttäuschen	V	VVPP	_	1	par	_	_
+4	)	)	$	$(	_	0	root	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Das	die	P	PDS	Neut|Nom|Sg	7	subj	_	_
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	wahr	wahr	A	ADJD	Pos|	7	pred	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+4	müßte	müssen	V	VMFIN	3|Sg|Past|Subj	0	root	_	_
+5	eben	eben	A	ADV	_	8	adv	_	_
+6	andere	andere	A	ADJA	_|Masc|_|_|_	7	attr	_	_
+7	Schuhe	Schuh	N	NN	Masc|_|_	8	obja	_	_
+8	tragen	tragen	V	VVINF	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	sich	sie	P	PRF	3|_|_	5	obja	_	_
+3	überhaupt	überhaupt	A	ADV	_	5	adv	_	_
+4	daran	daran	P	PROAV	_	5	objp	_	_
+5	gewöhnen	gewöhnen	V	VVINF	_	1	cj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Oh	oh	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|_|Nom|Sg	4	det	_	_
+4	Mensch	Mensch	N	NN	_|Nom|Sg	2	subj	_	_
+5	gesund	gesund	A	ADJD	Pos|	6	pred	_	_
+6	werden	werden	V	VAINF	_	2	aux	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	325	325
+4	fühle	fühlen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+5	mich	ich	P	PRF	1|Sg|Acc	4	obja	_	_
+6	jetzt	jetzt	A	ADV	_	4	adv	_	_
+7	schon	schon	A	ADV	_	4	adv	_	_
+8	ganz	ganz	A	ADV	_	9	adv	_	_
+9	anders	anders	A	ADV	_	4	adv	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	325	325
+4	meine	meinen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+5	körperlich	körperlich	A	ADJD	Pos|	4	adv	_	_
+6	und	und	K	KON	_	5	kon	_	_
+7	geistig	geistig	A	ADJD	Pos|	8	adv	_	_
+8	gesund	gesund	A	ADJD	Pos|	6	cj	_	_
+9	werden	werden	V	VAINF	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	A-ah	A-ah	N	NE	_	0	root	326	326
+2	!	!	$	$.	_	0	root	_	_
+
+1	Diese	diese	A	PDAT	Fem|_|Sg	2	det	327	327
+2	Luft	Luft	N	NN	Fem|_|Sg	0	root	327	327
+3	!	!	$	$.	_	0	root	_	_
+
+1	Diese	diese	A	PDAT	Fem|_|Sg	2	det	327	327
+2	Luft	Luft	N	NN	Fem|_|Sg	0	root	327	327
+3	!	!	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Wie	Wie	P	PWAV	_	6	adv	_	_
+4	die	die	A	ART	Def|Fem|Nom|Sg	5	det	328	328
+5	Sonne	Sonne	N	NN	Fem|Nom|Sg	6	subj	328	328
+6	verglüht	verglühen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	6	obja	_	_
+2	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+4	jeden	jede	A	PIDAT	Masc|_|Sg	5	det	566	566
+5	Abend	Abend	N	NN	Masc|_|Sg	6	zeit	566	566
+6	haben	haben	V	VAINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	10	obja	_	_
+5	von	von	P	APPR	Dat	10	pp	_	_
+6	dem	die	A	ART	Def|Masc|Dat|Sg	7	det	_	_
+7	Zauber	Zauber	N	NN	Masc|Dat|Sg	5	pn	_	_
+8	der	die	A	ART	Def|Fem|Gen|Sg	9	det	318	318
+9	Natur	Natur	N	NN	Fem|Gen|Sg	7	gmod	318	318
+10	umfangen	umfangen	V	VVINF	_	11	aux	_	_
+11	lassen	lassen	V	VVINF	_	3	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	0	0
+4	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+5	am	am	P	PTKA	_	6	adv	_	_
+6	liebsten	liebsten	A	ADJD	_	4	adv	_	_
+7	gar	gar	A	ADV	_	8	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+9	mehr	mehr	A	ADV	_	8	adv	_	_
+10	weg	weg	P	PTKVZ	_	4	avz	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	was	was	P	PIS	_	3	obja	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	bleiben	bleiben	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	einfach	einfach	A	ADJD	Pos|	2	adv	_	_
+4	morgen	morgen	A	ADV	_	2	adv	_	_
+5	noch	noch	A	ADV	_	2	adv	_	_
+6	hier	hier	A	ADV	_	2	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Ach	ach	I	ITJ	_	0	root	_	_
+4	ja	ja	P	PTKANT	_	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	das	die	P	PDS	Neut|Nom|Sg	7	subj	_	_
+7	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+8	himmlisch	himmlisch	A	ADJD	_	7	pred	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Schatz	Schatz	N	NN	Masc|_|Sg	3	vok	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	0	0
+2	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	morgen	morgen	A	ADV	_	9	adv	_	_
+4	zur	zu	P	APPRART	Dat	9	pp	_	_
+5	Schneiderin	Schneiderin	N	NN	Fem|Dat|Sg	4	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	und	und	K	KON	_	4	kon	_	_
+8	dann	dann	A	ADV	_	7	cj	_	_
+9	sollen	sollen	V	VMINF	_	2	aux	_	_
+10	wir	wir	P	PPER	1|Pl|_|Nom	14	pred	_	_
+11	bei	bei	P	APPR	Dat	14	pp	_	_
+12	Hofrats	Hofrat	N	NN	Masc|Gen|Sg	13	gmod	_	_
+13	Besuch	Besuch	N	NN	Masc|Dat|Sg	11	pn	_	_
+14	machen	machen	V	VVINF	_	0	root	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	und	und	K	KON	_	0	root	_	_
+17	abends	abends	A	ADV	_	18	adv	_	_
+18	ist	sein	V	VAFIN	3|Sg|Pres|Ind	16	cj	_	_
+19	der	die	A	ART	Def|Masc|Nom|Sg	21	det	_	_
+20	'	'	$	$(	_	0	root	_	_
+21	Rosenkavalier	Rosenkavalier	N	NN	Masc|Nom|Sg	18	subj	_	_
+22	'	'	$	$(	_	0	root	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	und	und	K	KON	_	0	root	_	_
+25	...	...	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Richtig	richtig	A	ADJD	Pos|	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	ja	ja	A	ADV	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Na	Na	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	denn	denn	K	KON	_	0	root	_	_
+4	nich	nich	F	FM	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Eigentlich	eigentlich	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	schade	schade	A	ADJD	Pos|	2	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Mir	ich	P	PPER	1|Sg|_|Dat	4	objd	329	329
+4	blutet	bluten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	ja	ja	A	ADV	_	4	adv	_	_
+6	das	die	A	ART	Def|Neut|Nom|Sg	7	det	473	473
+7	Herz	Herz	N	NN	Neut|Nom|Sg	4	subj	473	473
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	15	konj	_	_
+10	man	man	P	PIS	_|Nom|Sg	15	subj	_	_
+11	sich	sie	P	PRF	3|_|_	14	obja	_	_
+12	von	von	P	APPR	_	14	pp	_	_
+13	hier	hier	A	ADV	_	12	adv	_	_
+14	losreißen	losreißen	V	VVINF	_	15	aux	_	_
+15	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	4	objc	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Mir	ich	P	PPER	1|Sg|_|Dat	0	root	329	329
+4	auch	auch	A	ADV	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Diese	diese	A	PDAT	Fem|_|Pl	2	det	330	330
+2	Farben	Farbe	N	NN	Fem|_|Pl	0	root	330	330
+3	!	!	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	diese	diese	A	PDAT	Fem|_|Pl	4	det	330	330
+4	Farben	Farbe	N	NN	Fem|_|Pl	0	root	330	330
+5	!	!	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Du	du	P	PPER	2|Sg|_|Nom	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	dort	dort	A	ADV	_	6	adv	_	_
+6	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	ein	eine	A	ART	Indef|Masc|Nom|Sg	8	det	_	_
+8	Mann	Mann	N	NN	Masc|Nom|Sg	6	subj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Er	er	P	PPER	3|Sg|Masc|Nom	4	subj	0	0
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	was	was	P	PIS	_	4	obja	_	_
+7	wie	wie	K	KOKOM	_	4	kom	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	ne	ne	A	ADJA	_|Fem|_|Sg|_	10	attr	_	_
+10	Säge	Säge	N	NN	Fem|_|Sg	7	cj	_	_
+11	umhängen	umhängen	V	VVINF	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sicher	sicher	A	ADJD	Pos|	2	adv	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	n	n	N	NN	Masc|Nom|_	2	pred	_	_
+6	Holzfäller	Holzfäller	N	NN	Masc|Nom|_	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Wie	Wie	P	PWAV	_	4	adv	_	_
+4	stilvoll	stilvoll	A	ADJD	Pos|	6	pred	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	6	subj	0	0
+6	aussieht	aussehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	(	(	$	$(	_	0	root	311	311
+3	seufzend	seufzen	A	ADJD	_|<PPRES	1	par	311	311
+4	)	)	$	$(	_	0	root	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Ach	ach	I	ITJ	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wer	wer	P	PWS	_|Nom|Sg	12	subj	_	_
+9	auch	auch	A	ADV	_	12	adv	_	_
+10	so	so	A	ADV	_	11	adv	_	_
+11	einer	eine	P	PIS	Masc|Nom|Sg	12	pred	_	_
+12	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	He	He	N	NE	Masc|_|_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	guter	gut	A	ADJA	Pos|Masc|_|_|St|	4	attr	_	_
+4	Mann	Mann	N	NN	Masc|_|_	1	app	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	HOLZER	HOLZER	N	NE	_	0	root	332	332
+2	:	\:	$	$.	_	0	root	_	_
+3	Han	Han	N	NE	_	0	root	331	331
+4	?	?	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	311	311
+4	leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	wohl	wohl	A	ADV	_	4	adv	_	_
+6	immer	immer	A	ADV	_	7	adv	_	_
+7	hier	hier	A	ADV	_	4	adv	_	_
+8	heraußen	heraußen	A	ADJD	_	4	adv	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	In	in	P	APPR	Dat	0	root	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	318	318
+5	Natur	Natur	N	NN	Fem|Dat|Sg	3	pn	318	318
+6	?	?	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	wissen	wissen	V	VVFIN	_|Pl|Pres|_	3	cj	_	_
+5	vielleicht	vielleicht	A	ADV	_	4	adv	_	_
+6	gar	gar	A	ADV	_	7	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wie	wie	P	PWAV	_	10	adv	_	_
+10	beneidenswert	beneidenswert	A	ADJD	Pos|	12	adv	_	_
+11	Sie	sie	P	PPER	3|Pl|_|Nom	12	subj	311	311
+12	sind	sein	V	VAFIN	3|Pl|Pres|Ind	4	objc	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	HOLZER	HOLZER	N	NE	_	0	root	332	332
+2	:	\:	$	$.	_	0	root	_	_
+3	Am	an	P	APPRART	_|Dat	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	-	-	$	$(	_	3	par	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	-	-	$	$(	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	(	(	$	$(	_	0	root	_	_
+2	Entfernt	entfernen	V	VVIMP	Pl	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	SIE	SIE	N	NE	_	0	root	312	312
+2	:	\:	$	$.	_	0	root	_	_
+3	Wie	Wie	P	PWAV	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	4	obja	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+4	gesagt	sagen	V	VVPP	_	2	aux	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	ER	ER	N	NE	_	0	root	311	311
+2	:	\:	$	$.	_	0	root	_	_
+3	Ach	ach	I	ITJ	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	was	was	P	PIS	_	0	root	_	_
+7	...	...	$	$.	_	0	root	_	_
+8	so	so	A	ADV	_	9	adv	333	333
+9	was	was	A	PIAT	Neut|_|Sg	10	det	333	333
+10	Bäuerliches	Bäuerliches	N	NN	Neut|_|Sg	0	root	333	333
+11	,	,	$	$,	_	0	root	333	333
+12	was	was	P	PRELS	Neut|_|Sg	17	obja	333	333
+13	die	die	A	ART	Def|_|Nom|Pl	14	det	334	334
+14	Leute	Leute	N	NN	_|Nom|Pl	17	subj	334	334
+15	hier	hier	A	ADV	_	17	adv	_	_
+16	oft	oft	A	ADV	_	17	adv	_	_
+17	sagen	sagen	V	VVFIN	3|Pl|Pres|_	10	rel	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	aber	aber	A	ADV	_	5	adv	_	_
+5	umkehren	umkehren	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	(	(	$	$(	_	0	root	_	_
+2	Bleibt	Bleibt	N	NE	_|Nom|Pl	3	subj	_	_
+3	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	atmet	atmen	V	VVFIN	_|_|Pres|_	4	cj	_	_
+6	tief	tief	A	ADJD	Pos|	5	adv	_	_
+7	auf	auf	P	PTKVZ	_	5	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	)	)	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Diese	diese	A	PDAT	Fem|_|Sg	2	det	318	318
+2	Natur	Natur	N	NN	Fem|_|Sg	0	root	318	318
+3	!	!	$	$.	_	0	root	_	_
+
+1	Fabrikant	Fabrikant	N	NN	Masc|Nom|Sg	15	subj	335	335
+2	Friedrich	Friedrich	N	NE	Neut|Nom|Sg	1	app	335	335
+3	Wilhelm	Wilhelm	N	NE	Neut|Nom|Sg	2	app	335	335
+4	Käsebier	Käsebier	N	NN	Neut|Nom|Sg	3	app	335	335
+5	aus	aus	P	APPR	Dat	4	pp	_	_
+6	Charlottenburg	Charlottenburg	N	NE	_|Dat|Sg	5	pn	369	369
+7	,	,	$	$,	_	0	root	_	_
+8	seine	seine	A	PPOSAT	Fem|Nom|Sg	9	det	335	335
+9	Frau	Frau	N	NN	Fem|Nom|Sg	4	kon	349	349
+10	Mathilde	Mathilde	N	NE	Fem|Nom|Sg	9	app	349	349
+11	und	und	K	KON	_	9	kon	_	_
+12	seine	seine	A	PPOSAT	Fem|Nom|Sg	13	det	335	335
+13	Tochter	Tochter	N	NN	Fem|Nom|Sg	11	cj	344	344
+14	Lilly	Lilly	N	NE	Fem|Nom|Sg	13	app	344	344
+15	konnten	können	V	VMFIN	_|Pl|Past|Ind	0	root	_	_
+16	endlich	endlich	A	ADJD	Pos|	25	adv	_	_
+17	die	die	A	ART	Def|Fem|_|Sg	20	det	_	_
+18	längst	längst	A	ADV	_	19	adv	_	_
+19	ersehnte	ersehnt	A	ADJA	Pos|Fem|_|Sg|_|	20	attr	_	_
+20	Reise	Reis	N	NN	Fem|_|Sg	25	obja	_	_
+21	nach	nach	P	APPR	Dat	25	pp	_	_
+22	dem	die	A	ART	Def|Masc|Dat|Sg	24	det	343	343
+23	sonnigen	sonnig	A	ADJA	Pos|Masc|Dat|Sg|Wk|	24	attr	343	343
+24	Süden	Süden	N	NN	Masc|Dat|Sg	21	pn	343	343
+25	antreten	antreten	V	VVINF	_	15	aux	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	336	336
+2	fuhren	fahren	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+3	über	über	P	APPR	_	2	pp	_	_
+4	München-Innsbruck	München-Innsbruck	N	NE	Neut|_|Sg	3	pn	_	_
+5	nach	nach	P	APPR	Dat	3	kon	_	_
+6	Verona	Verona	N	NE	_|Dat|Sg	5	pn	337	337
+7	,	,	$	$,	_	0	root	_	_
+8	und	und	K	KON	_	2	kon	_	_
+9	wir	wir	P	PPER	1|Pl|_|Nom	10	subj	_	_
+10	wollen	wollen	V	VMFIN	1|Pl|Pres|_	8	cj	_	_
+11	sie	sie	P	PPER	3|_|_|_	20	obja	336	336
+12	ihre	ihre	A	PPOSAT	Masc|_|Pl	14	det	336	336
+13	tiefen	tief	A	ADJA	Pos|Masc|_|Pl|Wk|	14	attr	425	425
+14	Eindrücke	Eindruck	N	NN	Masc|_|Pl	19	obja	425	425
+15	von	von	P	APPR	_	14	pp	425	425
+16	hier	hier	A	ADV	_	15	adv	425	425
+17	ab	ab	P	APPR	Dat	19	pp	_	_
+18	selbst	selbst	A	ADV	_	17	adv	_	_
+19	schildern	schildern	V	VVINF	_	20	obji	_	_
+20	lassen	lassen	V	VVINF	_	10	aux	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+2	Mathilde	Mathilde	N	NE	Neut|_|Sg	1	app	_	_
+3	Käsebier	Käsebier	N	NN	Neut|_|Sg	2	app	_	_
+4	an	an	P	APPR	_	3	pp	_	_
+5	Frau	Frau	N	NN	Masc|_|Sg	4	pn	352	352
+6	Kommerzienrat	Kommerzienrat	N	NN	Masc|_|Sg	5	app	352	352
+7	Wilhelmine	Wilhelmine	N	NE	Masc|_|Sg	6	app	352	352
+8	Liekefett	Liekefett	N	NE	Masc|_|Sg	7	app	352	352
+9	in	in	P	APPR	_	6	pp	_	_
+10	Neukölln	Neukölln	N	NE	Neut|_|Sg	9	pn	353	353
+11	.	.	$	$.	_	0	root	_	_
+
+1	Verona	Verona	N	NE	_|_|Sg	0	root	337	337
+2	,	,	$	$,	_	0	root	337	337
+3	12	12	C	CARD	_	4	attr	337	337
+4	febbraio	febbraio	F	FM	_|_|Pl	1	app	337	337
+5	.	.	$	$.	_	0	root	_	_
+
+1	My	My	F	FM	_	0	root	_	_
+2	Darling	Darling	F	FM	_	1	app	_	_
+3	!	!	$	$.	_	0	root	_	_
+

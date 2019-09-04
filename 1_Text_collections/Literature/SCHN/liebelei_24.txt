@@ -1,0 +1,514 @@
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	Es	es	P	PPER	3|Sg|Neut|_	3	expl	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	mich	ich	P	PPER	1|Sg|_|Acc	3	obja	427	427
+5	niemand	niemand	P	PIS	_|Nom|Sg	3	subj	_	_
+6	gesehn	gesehn	V	VVINF	_	0	root	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	und	und	K	KON	_	0	root	_	_
+9	daß	daß	K	KOUS	_	14	konj	_	_
+10	dein	deine	A	PPOSAT	Masc|Nom|Sg	11	det	_	_
+11	Vater	Vater	N	NN	Masc|Nom|Sg	14	subj	_	_
+12	im	in	P	APPRART	Dat	14	pp	_	_
+13	Theater	Theater	N	NN	Neut|Dat|Sg	12	pn	89	89
+14	ist	sein	V	VAFIN	3|Sg|Pres|Ind	20	objc	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	hab	hab	V	VAFIN	1|Sg|_|_	8	cj	_	_
+17	'	'	$	$(	_	0	root	_	_
+18	ich	ich	P	PPER	1|Sg|_|Nom	16	subj	427	427
+19	ja	ja	A	ADV	_	20	adv	_	_
+20	gewußt	gewußt	V	VVPP	_	16	aux	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Christine	christin	A	ADJA	Pos|_|_|_|_|	0	root	_	_
+2	Was	was	P	PWS	Neut|Nom|Sg	3	subj	_	_
+3	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	3	objd	427	427
+5	an	an	P	APPR	Dat	3	objp	_	_
+6	den	die	A	ART	Def|_|Dat|Pl	7	det	102	102
+7	Leuten	Leute	N	NN	_|Dat|Pl	5	pn	102	102
+8	!	!	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	Also	also	A	ADV	_	1	adv	1	1
+3	da	da	A	ADV	_	1	adv	1	1
+4	-	-	$	$(	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	sich	sie	P	PRF	3|_|_	1	obja	_	_
+3	im	in	P	APPRART	Dat	8	pp	_	_
+4	Zimmer	Zimmer	N	NN	Neut|Dat|Sg	3	pn	_	_
+5	um	um	P	APPR	Acc	4	pp	_	_
+6	Das	die	P	PDS	Neut|Acc|Sg	5	pn	_	_
+7	also	also	A	ADV	_	4	adv	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	dein	deine	A	PPOSAT	Neut|Nom|Sg	10	det	428	428
+10	Zimmer	Zimmer	N	NN	Neut|Nom|Sg	8	subj	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Sehr	sehr	A	ADV	_	2	adv	_	_
+2	hübsch	hübsch	A	ADJD	Pos|	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Du	du	P	PPER	2|Sg|_|Nom	3	subj	428	428
+3	siehst	sehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	ja	ja	A	ADV	_	3	adv	_	_
+5	gar	gar	A	ADV	_	6	adv	_	_
+6	nichts	nichts	P	PIS	_	3	obja	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Will	wollen	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+2	den	die	A	ART	Def|Masc|Acc|Sg	3	det	_	_
+3	Schirm	Schirm	N	NN	Masc|Acc|Sg	7	obja	_	_
+4	von	von	P	APPR	_	3	pp	_	_
+5	der	die	A	ART	Def|Fem|_|Sg	6	det	384	384
+6	Lampe	Lampe	N	NN	Fem|_|Sg	4	pn	384	384
+7	nehmen	nehmen	V	VVINF	_	1	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	laß	laß	V	VVFIN	_	0	root	_	_
+5	nur	nur	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	das	die	P	PDS	Neut|Nom|Sg	8	subj	_	_
+8	blendet	blenden	V	VVFIN	3|Sg|Pres|Ind	4	kon	_	_
+9	mich	ich	P	PPER	1|Sg|_|Acc	8	obja	466	466
+10	,	,	$	$,	_	0	root	_	_
+11	ist	sein	V	VAFIN	3|Sg|Pres|Ind	8	kon	_	_
+12	besser	gut	A	ADJD	Comp|	11	adv	_	_
+13	so	so	A	ADV	_	11	adv	_	_
+14	...	...	$	$.	_	0	root	_	_
+15	Also	also	A	ADV	_	16	adv	_	_
+16	da	da	A	ADV	_	0	root	_	_
+17	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	A	ART	Def|Neut|Nom|Sg	4	det	301	301
+4	Fenster	Fenster	N	NN	Neut|Nom|Sg	2	pred	301	301
+5	,	,	$	$,	_	0	root	_	_
+6	von	von	P	APPR	Dat	0	root	_	_
+7	dem	die	P	PRELS	_|Dat|Sg	6	pn	301	301
+8	du	du	P	PPER	2|Sg|_|Nom	0	root	429	429
+9	mir	ich	P	PRF	1|Sg|Dat	10	objd	_	_
+10	erzählt	erzählen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+11	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	an	an	P	APPR	Dat	17	pp	_	_
+14	dem	die	P	PRELS	_|Dat|Sg	13	pn	301	301
+15	du	du	P	PPER	2|Sg|_|Nom	17	subj	429	429
+16	immer	immer	A	ADV	_	17	adv	_	_
+17	arbeitest	arbeiten	V	VVFIN	2|Sg|Pres|_	7	rel	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+20	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Und	und	K	KON	_	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	5	det	_	_
+4	schöne	schön	A	ADJA	Pos|Fem|_|Sg|_|	5	attr	_	_
+5	Aussicht	Aussicht	N	NN	Fem|_|Sg	2	cj	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Lächelnd	lächeln	A	ADJD	_|<PPRES	2	adv	_	_
+2	Über	über	P	APPR	Acc	7	pp	_	_
+3	wieviel	wieviel	A	PWAT	Neut|Acc|Pl	4	det	_	_
+4	Dächer	Dach	N	NN	Neut|Acc|Pl	2	pn	_	_
+5	man	man	P	PIS	_|Nom|Sg	7	subj	_	_
+6	da	da	A	ADV	_	7	adv	_	_
+7	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	...	...	$	$.	_	0	root	_	_
+9	Und	und	K	KON	_	0	root	_	_
+10	da	da	K	KOUS	_	0	root	_	_
+11	drüben	drüben	N	NE	_	0	root	431	431
+12	-	-	$	$(	_	0	root	_	_
+13	ja	ja	P	PTKANT	_	0	root	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	was	was	P	PWS	Neut|Nom|Sg	16	pred	_	_
+16	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+17	denn	denn	A	ADV	_	16	adv	_	_
+18	das	die	P	PDS	Neut|Nom|Sg	16	subj	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	das	die	A	ART	Def|Neut|_|Sg	21	det	125	125
+21	Schwarze	Schwarz	N	NN	Neut|_|Sg	0	root	125	125
+22	,	,	$	$,	_	0	root	_	_
+23	das	die	P	PRELS	Neut|_|Sg	0	root	125	125
+24	man	man	P	PIS	_|Nom|Sg	27	subj	_	_
+25	da	da	A	ADV	_	27	adv	_	_
+26	drüben	drüben	P	PDS	_	27	obja	_	_
+27	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+28	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	_	_
+5	Kahlenberg	Kahlenberg	N	NN	Masc|Nom|Sg	3	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	Richtig	richtig	A	ADJD	Pos|	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	_	_
+5	eigentlich	eigentlich	A	ADV	_	2	adv	_	_
+6	schöner	schön	A	ADJD	Comp|	2	adv	_	_
+7	als	als	K	KOKOM	_	2	kom	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	cj	466	466
+9	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Oh	oh	I	ITJ	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	430	430
+3	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+4	gern	gern	A	ADV	_	7	adv	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	hoch	hoch	A	ADJD	Pos|	7	adv	_	_
+7	wohnen	wohnen	V	VVINF	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	über	über	P	APPR	Acc	12	pp	_	_
+10	alle	alle	A	PIDAT	Neut|Acc|Pl	11	det	_	_
+11	Dächer	Dach	N	NN	Neut|Acc|Pl	9	pn	_	_
+12	sehn	sehn	V	VVFIN	_	3	kon	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	15	subj	430	430
+15	finde	finden	V	VVFIN	1|Sg|Pres|_	12	kon	_	_
+16	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+17	sehr	sehr	A	ADV	_	18	adv	_	_
+18	schön	schön	A	ADJD	Pos|	0	root	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	auch	auch	A	ADV	_	3	adv	_	_
+3	still	still	A	ADJD	Pos|	9	pred	_	_
+4	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+6	in	in	P	APPR	Dat	9	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	_	_
+8	Gasse	Gasse	N	NN	Fem|Dat|Sg	6	pn	_	_
+9	sein	sein	V	VAINF	_	4	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	_	6	vok	208	208
+2	Ach	Ach	N	NE	_	1	app	208	208
+3	,	,	$	$,	_	0	root	_	_
+4	bei	bei	P	APPR	Dat	6	pp	_	_
+5	Tag	Tag	N	NN	_|Dat|Sg	4	pn	453	453
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	Lärm	Lärm	N	NN	Masc|Nom|Sg	6	subj	_	_
+8	genug	genug	A	ADV	_	6	pred	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	_	0	root	_	_
+2	Fährt	Fährt	N	NE	_	1	app	_	_
+3	denn	denn	A	ADV	_	7	adv	_	_
+4	da	da	A	ADV	_	7	adv	_	_
+5	je	je	A	ADV	_	7	adv	_	_
+6	ein	eine	A	ART	Indef|_|_|Sg	7	det	_	_
+7	Wagen	Wage	N	NN	_|_|Sg	0	root	_	_
+8	vorbei	vorbei	P	PTKVZ	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	_|Nom|Sg	9	subj	_	_
+2	Selten	Selten	N	NE	_|Nom|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	aber	aber	K	KON	_	2	kon	_	_
+5	gleich	gleich	A	ADJD	Pos|	8	adv	431	431
+6	im	in	P	APPRART	Dat	5	pp	431	431
+7	Haus	Haus	N	NN	Neut|Dat|Sg	6	pn	147	147
+8	drüben	drüben	N	NE	_|Nom|Sg	4	cj	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	eine	eine	A	ART	Indef|Fem|Nom|Sg	11	det	_	_
+11	Schlosserei	Schlosserei	N	NN	Fem|Nom|Sg	9	pred	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Neut|_|_	5	vok	_	_
+2	O	O	N	NN	Neut|_|_	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	sehr	sehr	A	ADV	_	7	adv	_	_
+7	unangenehm	unangenehm	A	ADJD	Pos|	5	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	4	obja	_	_
+4	niedergesetzt	niedersetzen	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Das	die	P	PDS	Neut|_|Sg	3	obja	_	_
+3	gewöhnt	gewöhnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	man	man	P	PIS	_|Nom|Sg	3	subj	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	hört	hören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	_	_
+5	gar	gar	A	ADV	_	6	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+7	mehr	mehr	A	ADV	_	6	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|Nom|Sg	2	subj	1	1
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	rasch	rasch	A	ADJD	Pos|	2	adv	_	_
+4	wieder	wieder	A	ADV	_	2	adv	_	_
+5	auf	auf	P	APPR	_	2	pp	_	_
+6	Bin	Bin	N	NN	Fem|_|Sg	5	pn	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	2	pred	432	432
+8	wirklich	wirklich	A	ADJD	Pos|	9	adv	_	_
+9	zum	zu	P	APPRART	Dat	2	pp	_	_
+10	erstenmal	erstenmal	N	NN	_|Dat|_	9	pn	433	433
+11	da	da	P	PTKVZ	_	2	avz	_	_
+12	-	-	$	$(	_	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	432	432
+4	alles	alle	P	PIS	_|_|Sg	3	app	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	bekannt	bekannt	A	ADJD	Pos|	2	pred	_	_
+7	vor	vor	P	PTKVZ	_	2	avz	_	_
+8	!	!	$	$.	_	0	root	_	_
+9	...	...	$	$.	_	0	root	_	_
+
+1	Genau	Genau	A	ADV	_	2	adv	_	_
+2	so	so	A	ADV	_	3	adv	_	_
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	432	432
+6	mir	ich	P	PRF	1|Sg|Dat	10	objd	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	s	s	P	PPER	_	10	obja	433	433
+9	eigentlich	eigentlich	A	ADV	_	10	adv	_	_
+10	vorgestellt	vorstellen	V	VVPP	_	3	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	4	adv	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	4	subj	1	1
+3	Miene	Miene	N	NN	Fem|_|Sg	4	obja	_	_
+4	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	sich	sie	P	PRF	3|_|_	0	root	_	_
+7	näher	nah	A	ADJD	Comp|	8	adv	_	_
+8	im	in	P	APPRART	Dat	0	root	_	_
+9	Zimmer	Zimmer	N	NN	Neut|Dat|Sg	8	pn	_	_
+10	umzusehn	umzusehn	N	NE	Neut|Dat|Sg	9	app	_	_
+11	:	\:	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	anschaun	anschaun	N	NE	_	5	obja	_	_
+5	darfst	dürfen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+7	dir	du	P	PPER	2|Sg|_|Dat	5	objd	_	_
+8	da	da	A	ADV	_	5	adv	_	_
+9	nichts	nichts	P	PIS	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|Dat|Sg	3	objd	1	1
+2	Was	was	P	PWS	Neut|Nom|Sg	3	pred	_	_
+3	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+4	denn	denn	A	ADV	_	3	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+6	für	für	P	APPR	Acc	0	root	_	_
+7	Bilder	Bild	N	NN	_|Acc|_	6	pn	_	_
+8	?	?	$	$.	_	0	root	_	_
+9	...	...	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	_	0	root	73	73
+2	Geh	Geh	N	NE	_	1	app	73	73
+3	!	!	$	$.	_	0	root	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	_	0	root	248	248
+2	Ah	Ah	N	NE	_	1	app	248	248
+3	,	,	$	$,	_	0	root	_	_
+4	die	die	P	PRELS	_|_|_	0	root	248	248
+5	möcht	möcht	A	ADJD	_	7	adv	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	0	root	466	466
+8	mir	ich	P	PRF	1|Sg|Dat	9	objd	_	_
+9	ansehn	ansehn	V	VVINF	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	384	384
+4	Lampe	Lampe	N	NN	Fem|_|Sg	2	obja	384	384
+5	und	und	K	KON	_	2	kon	_	_
+6	beleuchtet	beleuchten	V	VVFIN	_|_|Pres|_	5	cj	_	_
+7	die	die	A	ART	Def|_|_|Pl	8	det	436	436
+8	Bilder	Bild	N	NN	_|_|Pl	6	obja	436	436
+9	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	...	...	$	$.	_	0	root	_	_
+3	Abschied	Abschied	N	NN	Masc|_|Sg	0	root	434	434
+4	-	-	$	$(	_	0	root	_	_
+5	und	und	K	KON	_	3	kon	_	_
+6	Heimkehr	Heimkehr	N	NN	Fem|_|Sg	5	cj	435	435
+7	!	!	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	Richtig	richtig	A	ADJD	Pos|	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	Abschied	Abschied	N	NN	Masc|_|Sg	0	root	434	434
+5	und	und	K	KON	_	4	kon	_	_
+6	Heimkehr	Heimkehr	N	NN	Fem|_|Sg	5	cj	435	435
+7	!	!	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	_	_
+3	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+4	schon	schon	A	ADV	_	3	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	11	konj	_	_
+7	die	die	A	ART	Def|_|Nom|Pl	8	det	436	436
+8	Bilder	Bild	N	NN	_|Nom|Pl	11	subj	436	436
+9	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+10	schön	schön	A	ADJD	Pos|	11	pred	_	_
+11	sind	sein	V	VAFIN	3|Pl|Pres|Ind	3	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Beim	bei	P	APPRART	Dat	5	pp	_	_
+3	Vater	Vater	N	NN	Masc|Dat|Sg	2	pn	_	_
+4	drin	drin	A	ADV	_	3	adv	_	_
+5	hängt	hängen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	eins	eins	P	PIS	_|Nom|Sg	5	subj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	das	die	P	PDS	Neut|Nom|Sg	9	subj	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	kon	_	_
+10	viel	viel	A	ADV	_	11	adv	_	_
+11	besser	gut	A	ADJD	Comp|	9	pred	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	_|Nom|_	3	pred	166	166
+2	Was	Was	N	NE	_|Nom|_	1	app	166	166
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+5	für	für	P	APPR	Acc	3	pp	_	_
+6	ein	eine	A	ART	Indef|Neut|Acc|Sg	7	det	_	_
+7	Bild	Bild	N	NN	Neut|Acc|Sg	5	pn	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	87	87
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	87	87
+4	ein	eine	A	ART	Indef|Neut|_|Sg	5	det	87	87
+5	Mädel	Mädel	N	NN	Neut|_|Sg	3	obja	87	87
+6	,	,	$	$,	_	0	root	87	87
+7	die	die	P	PRELS	Fem|Nom|Sg	8	subj	87	87
+8	schaut	schauen	V	VVFIN	3|Sg|Pres|Ind	1	rel	_	_
+9	zum	zu	P	APPRART	Dat	8	pp	_	_
+10	Fenster	Fenster	N	NN	Neut|Dat|Sg	9	pn	26	26
+11	hinaus	hinaus	P	PTKVZ	_	8	avz	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	und	und	K	KON	_	0	root	_	_
+14	draußen	draußen	A	ADV	_	13	cj	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	weißt	weißen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+19	der	die	A	ART	Def|Masc|Nom|Sg	20	det	437	437
+20	Winter	Winter	N	NN	Masc|Nom|Sg	18	subj	437	437
+21	-	-	$	$(	_	0	root	_	_
+22	und	und	K	KON	_	20	kon	_	_
+23	das	die	P	PDS	Neut|Nom|Sg	22	cj	_	_
+24	heißt	heißen	V	VVPP	_	18	aux	_	_
+25	»	»	$	$(	_	0	root	_	_
+26	Verlassen	Verlassen	N	NN	Neut|_|Sg	0	root	_	_
+27	«	«	$	$(	_	0	root	_	_
+28	.	.	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	So	so	A	ADV	_	1	adv	1	1
+3	...	...	$	$.	_	0	root	_	_
+
+1	Stellt	stellen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	die	die	A	ART	Def|Fem|Nom|Sg	3	det	384	384
+3	Lampe	Lampe	N	NN	Fem|Nom|Sg	1	subj	384	384
+4	hin	hin	A	APZR	_	0	root	_	_
+5	Ah	Ah	N	NN	Fem|_|Sg	0	root	190	190
+6	,	,	$	$,	_	0	root	_	_
+7	und	und	K	KON	_	0	root	_	_
+8	da	da	A	ADV	_	9	adv	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	7	cj	_	_
+10	deine	deine	A	PPOSAT	Fem|Nom|Sg	11	det	438	438
+11	Bibliothek	Bibliothek	N	NN	Fem|Nom|Sg	9	subj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Setzt	setzen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	sich	sie	P	PRF	3|_|_	1	obja	_	_
+3	neben	neben	P	APPR	Acc	1	pp	_	_
+4	die	die	A	ART	Def|_|Acc|_	6	det	_	_
+5	kleine	klein	A	ADJA	Pos|_|Acc|_|_|	6	attr	_	_
+6	Bücherstellage	Bücherstellage	N	NN	_|Acc|_	3	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|_|Sg	0	root	87	87
+2	Die	die	A	ART	Def|_|_|_	0	root	_	_
+3	schau	schau	A	ADJD	Pos|	5	adv	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	0	root	438	438
+6	lieber	lieb	A	ADJD	Comp|	7	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+8	an	an	P	PTKVZ	_	0	root	_	_
+9	-	-	$	$(	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	_	0	root	20	20
+2	Warum	Warum	N	NE	_	1	app	20	20
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ah	Ah	N	NN	Fem|_|Sg	0	root	190	190
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Schiller	Schiller	N	NE	_|_|Sg	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+4	Hauff	Hauff	F	FM	_	0	root	_	_
+5	...	...	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Konversationslexikon	Konversationslexikon	N	NN	Neut|_|Sg	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+4	Donnerwetter	Donnerwetter	N	NN	_|_|_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Christine	Christine	N	NE	Fem|Nom|Sg	2	subj	87	87
+2	Geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nur	nur	A	ADV	_	2	adv	_	_
+4	bis	bis	P	APPR	Acc	2	pp	_	_
+5	zum	zu	P	APPRART	Dat	4	pp	_	_
+6	G	G	N	NN	Neut|Dat|_	5	pn	_	_
+7	...	...	$	$.	_	0	root	_	_
+
+1	Fritz	Fritz	N	NE	Masc|_|Sg	0	root	1	1
+2	lächelnd	lächeln	A	ADJD	_|<PPRES	4	adv	1	1
+3	Ach	ach	I	ITJ	_	0	root	1	1
+4	so	so	A	ADV	_	1	adv	1	1
+5	...	...	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Buch	Buch	N	NN	Neut|_|Sg	0	root	_	_
+3	für	für	P	APPR	Acc	2	pp	_	_
+4	Alle	Alle	N	NN	_|Acc|_	3	pn	_	_
+5	...	...	$	$.	_	0	root	_	_
+

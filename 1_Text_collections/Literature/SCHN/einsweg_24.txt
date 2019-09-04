@@ -1,0 +1,404 @@
+1	Dann	dann	A	ADV	_	2	adv	108	108
+2	Irene	Irene	N	NE	_	0	root	108	108
+3	Herms	Herms	N	NE	_	2	app	108	108
+4	.	.	$	$.	_	0	root	_	_
+
+1	Diener	Diener	N	NN	Masc|_|_	0	root	269	269
+2	.	.	$	$.	_	0	root	_	_
+
+1	Fräulein	Fräulein	N	NN	Neut|Nom|Sg	3	subj	108	108
+2	Herms	Herms	N	NE	Neut|Nom|Sg	1	app	108	108
+3	fragt	fragen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	ob	ob	K	KOUS	_	11	konj	_	_
+6	der	die	A	ART	Def|Masc|Nom|Sg	8	det	383	383
+7	gnädige	gnädig	A	ADJA	Pos|Masc|Nom|Sg|Wk|	8	attr	383	383
+8	Herr	Herr	N	NN	Masc|Nom|Sg	11	subj	383	383
+9	zu	zu	P	PTKZU	_	10	part	_	_
+10	sprechen	sprechen	V	VVINF	_	11	aux	_	_
+11	sei	sein	V	VAFIN	3|Sg|Pres|Subj	3	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gewiß	gewiß	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	26	26
+2	lasse	lassen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	bitten	bitten	V	VVINF	_	2	obji	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Diener	Diener	N	NN	Masc|_|_	0	root	269	269
+2	ab	ab	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	_|Nom|Sg	3	subj	108	108
+2	Herms	Herms	N	NE	_|Nom|Sg	1	app	108	108
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ein	ein	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	108	108
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	etwa	etwa	A	ADV	_	2	adv	_	_
+4	43	43	C	CARD	_	5	attr	_	_
+5	Jahre	Jahr	N	NN	Neut|_|Pl	6	grad	_	_
+6	alt	alt	A	ADJD	Pos|	2	pred	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+9	aber	aber	A	ADV	_	8	adv	_	_
+10	jünger	jung	A	ADJD	Comp|	8	pred	_	_
+11	aus	aus	P	PTKVZ	_	8	avz	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	108	108
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	einfach	einfach	A	ADJD	Pos|	6	adv	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	geschmackvoll	geschmackvoll	A	ADJD	Pos|	4	cj	_	_
+6	gekleidet	kleiden	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ihre	ihre	A	PPOSAT	Fem|Nom|Pl	2	det	108	108
+2	Bewegungen	Bewegung	N	NN	Fem|Nom|Pl	3	subj	270	270
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	lebendig	lebendig	A	ADJD	Pos|	3	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	zuweilen	zuweilen	A	ADV	_	7	adv	_	_
+7	von	von	P	APPR	_	3	pp	_	_
+8	einer	eine	A	ART	Indef|Fem|_|Sg	11	det	_	_
+9	beinahe	beinahe	A	ADV	_	10	adv	_	_
+10	jugendlichen	jugendlich	A	ADJA	Pos|Fem|_|Sg|Wk|	11	attr	_	_
+11	Hastigkeit	Hastigkeit	N	NN	Fem|_|Sg	7	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Ihr	ihre	A	PPOSAT	Neut|Nom|Sg	2	det	270	270
+2	Haar	Haar	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dunkelblond	dunkelblond	A	ADJD	Pos|	3	adv	_	_
+5	und	und	K	KON	_	0	root	_	_
+6	reich	reich	A	ADJD	Pos|	5	cj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	die	die	A	ART	Def|Neut|_|Pl	9	det	271	271
+9	Augen	Auge	N	NN	Neut|_|Pl	0	root	271	271
+10	heiter	heiter	A	ADJD	Pos|	16	adv	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	manchmal	manchmal	A	ADV	_	13	adv	_	_
+13	gütig	gütig	A	ADJD	Pos|	10	kon	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	leicht	leicht	A	ADJD	Pos|	14	cj	_	_
+16	zu	zu	P	APPR	Dat	0	root	_	_
+17	Tränen	Träne	N	NN	Fem|Dat|Pl	16	pn	_	_
+18	geneigt	neigen	V	VVPP	_	0	root	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	108	108
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	lächelnd	lächeln	A	ADJD	_|<PPRES	2	adv	_	_
+4	ein	ein	P	PTKVZ	_	2	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	nickt	nicken	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+7	Sala	Sala	N	NE	_	6	obja	26	26
+8	freundlich	freundlich	A	ADJD	Pos|	6	adv	_	_
+9	zu	zu	P	PTKVZ	_	6	avz	_	_
+10	und	und	K	KON	_	2	kon	_	_
+11	reicht	reichen	V	VVFIN	_|_|Pres|Ind	10	cj	_	_
+12	Julian	Julian	N	NE	Masc|Dat|Sg	11	objd	129	129
+13	,	,	$	$,	_	0	root	129	129
+14	der	die	P	PRELS	Masc|Nom|Sg	16	subj	129	129
+15	ihr	ihr	P	PPER	3|Sg|Fem|Dat	16	objd	108	108
+16	entgegenging	entgegengehen	V	VVFIN	3|Sg|Past|Ind	12	rel	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	mit	mit	P	APPR	Dat	24	pp	_	_
+19	einem	eine	A	ART	Indef|Masc|Dat|Sg	22	det	_	_
+20	beinahe	beinahe	A	ADV	_	21	adv	_	_
+21	glücklichen	glücklich	A	ADJA	Pos|Masc|Dat|Sg|Wk|	22	attr	_	_
+22	Gesichtsausdruck	Gesichtsausdruck	N	NN	Masc|Dat|Sg	18	pn	_	_
+23	die	die	A	ART	Def|Fem|_|Sg	24	det	_	_
+24	Hand	Hand	N	NN	Fem|_|Sg	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	2	attr	_	_
+2	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Na	Na	I	ITJ	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	108	108
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	272	272
+4	Gewohnheit	Gewohnheit	N	NN	Fem|_|Sg	2	obja	272	272
+5	,	,	$	$,	_	0	root	_	_
+6	dieses	diese	A	PDAT	_|_|Sg	8	det	_	_
+7	»	»	$	$(	_	0	root	_	_
+8	Na	Na	N	NE	_|_|Sg	14	obja	_	_
+9	«	«	$	$(	_	0	root	_	_
+10	im	in	P	APPRART	Dat	14	pp	_	_
+11	fragend	fragen	A	ADJD	_|<PPRES	12	adv	_	_
+12	herzlichen	herzlich	A	ADJA	Pos|Masc|Dat|Sg|Wk|	13	attr	_	_
+13	Ton	Ton	N	NN	Masc|Dat|Sg	10	pn	_	_
+14	auszusprechen	aussprechen	V	VVIZU	_	2	obji	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Hab	Hab	N	NE	_	0	root	150	150
+2	'	'	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	273	273
+4	also	also	A	ADV	_	7	adv	_	_
+5	doch	doch	A	ADV	_	7	adv	_	_
+6	recht	recht	A	ADJD	Pos|	7	pred	_	_
+7	getan	tun	V	VVPP	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	mich	ich	P	PRF	1|Sg|Acc	0	root	_	_
+10	noch	noch	A	ADV	_	15	adv	_	_
+11	ein	eine	A	ART	Indef|_|_|Sg	13	det	274	274
+12	paar	paar	A	PIDAT	Masc|_|_	13	attr	274	274
+13	Tage	Tag	N	NN	Masc|_|_	15	obja	274	274
+14	zu	zu	P	PTKZU	_	15	part	_	_
+15	gedulden	gedulden	V	VVINF	_	0	root	_	_
+16	!	!	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	0	root	_	_
+2	hab	hab	A	ADJA	_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	273	273
+5	ihn	er	P	PPER	3|Sg|Masc|Acc	0	root	274	274
+6	ja	ja	A	ADV	_	5	adv	_	_
+7	wieder	wieder	A	ADV	_	5	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Sala	Sala	N	NE	_|Dat|_	1	pn	26	26
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	150	150
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	5	adv	_	_
+5	lang	lang	A	ADJD	Pos|	9	adv	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	10	subj	_	_
+7	uns	wir	P	PRF	1|Pl|_	9	obja	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	gesehen	sehen	V	VVPP	_	10	aux	_	_
+10	haben	haben	V	VAFIN	1|Pl|Pres|_	1	objc	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Über	über	A	ADV	_	3	adv	_	_
+2	drei	drei	C	CARD	_	3	attr	_	_
+3	Jahre	Jahr	N	NN	Neut|_|Pl	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|Nom|Sg	2	subj	275	275
+2	nickt	nicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nur	nur	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	erst	erst	A	ADV	_	3	adv	_	_
+3	läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	3	subj	275	275
+5	ihre	ihre	A	PPOSAT	Fem|_|Sg	6	det	275	275
+6	Hand	Hand	N	NN	Fem|_|Sg	3	obja	_	_
+7	aus	aus	P	APPR	Dat	0	root	_	_
+8	der	die	A	ART	Def|_|_|_	0	root	_	_
+9	seinen	seine	P	PPOSS	_|_|_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	in	in	P	APPR	Dat	9	pp	_	_
+4	unserm	unsre	A	PPOSAT	Neut|Dat|Sg	6	det	_	_
+5	ganzen	ganz	A	ADJA	Pos|Neut|Dat|Sg|Wk|	6	attr	_	_
+6	Leben	Leben	N	NN	Neut|Dat|Sg	3	pn	_	_
+7	noch	noch	A	ADV	_	8	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	vorgekommen	vorkommen	V	VVPP	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Dein	deine	A	PPOSAT	Masc|Nom|Sg	3	det	276	276
+2	letzter	letzte	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	_
+3	Brief	Brief	N	NN	Masc|Nom|Sg	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	auch	auch	A	ADV	_	4	adv	_	_
+6	schon	schon	A	ADV	_	4	adv	_	_
+7	zwei	zwei	C	CARD	_	8	attr	_	_
+8	Monate	Monat	N	NN	Masc|_|Pl	9	grad	_	_
+9	alt	alt	A	ADJD	Pos|	4	pred	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	26	26
+2	sage	sagen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	»	»	$	$(	_	0	root	_	_
+4	Brief	Brief	N	NN	Masc|_|Sg	2	obja	_	_
+5	«	«	$	$(	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	um	um	K	KOUI	_	11	konj	_	_
+8	mich	ich	P	PRF	1|Sg|Acc	11	obja	_	_
+9	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	blamieren	blamieren	V	VVINF	_	2	neb	_	_
+12	:	\:	$	$.	_	0	root	_	_
+13	es	es	P	PPER	3|Sg|Neut|Nom	14	subj	_	_
+14	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+15	aber	aber	A	ADV	_	14	adv	_	_
+16	nur	nur	A	ADV	_	14	adv	_	_
+17	eine	eine	A	ART	Indef|Fem|Nom|Sg	18	det	_	_
+18	Ansichtskarte	Ansichtskarte	N	NN	Fem|Nom|Sg	14	pred	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	276	276
+4	nur	nur	A	ADV	_	6	adv	_	_
+5	überall	überall	A	ADV	_	6	adv	_	_
+6	herumgeflogen	herumfliegen	V	VVPP	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Setz	Setz	N	NE	_	0	root	579	579
+2	'	'	$	$(	_	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	0	root	276	276
+4	doch	doch	A	ADV	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+2	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	276	276
+4	alles	alle	P	PIS	Neut|Nom|Sg	3	app	_	_
+5	erfahren	erfahren	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	276	276
+3	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	_	_
+5	Hut	Hut	N	NN	Masc|Acc|Sg	6	obja	_	_
+6	ablegen	ablegen	V	VVINF	_	1	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	276	276
+2	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	ein	eine	A	ART	Indef|_|_|Sg	5	part	_	_
+5	bißchen	bisschen	P	PIS	_|Nom|_	2	pred	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Selbstverständlich	selbstverständlich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	6	pred	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	6	subj	_	_
+6	aussiehst	aussehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Sala	Sala	N	NE	_|Dat|_	1	pn	26	26
+3	.	.	$	$.	_	0	root	_	_
+
+1	Schön	schön	A	ADJD	Pos|	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+4	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	26	26
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	6	obja	_	_
+5	immer	immer	A	ADV	_	6	adv	_	_
+6	gewußt	gewußt	V	VVPP	_	2	aux	_	_
+7	:	\:	$	$.	_	0	root	_	_
+8	Der	die	A	ART	Def|Masc|Nom|Sg	10	det	_	_
+9	graue	grau	A	ADJA	Pos|Masc|Nom|Sg|Wk|	10	attr	_	_
+10	Bart	Bart	N	NN	Masc|Nom|Sg	11	subj	_	_
+11	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+12	ihm	er	P	PPER	3|Sg|_|Dat	15	objd	26	26
+13	sehr	sehr	A	ADV	_	14	adv	_	_
+14	interessant	interessant	A	ADJD	Pos|	15	adv	_	_
+15	stehen	stehen	V	VVINF	_	11	aux	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	lauter	lauter	A	PIAT	Neut|_|Pl	6	det	_	_
+5	angenehme	angenehm	A	ADJA	Pos|Neut|_|Pl|St|	6	attr	_	_
+6	Dinge	Ding	N	NN	Neut|_|Pl	8	obja	_	_
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	hören	hören	V	VVINF	_	2	aux	_	_
+9	bekommen	bekommen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	277	277
+2	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	6	obja	_	_
+4	nun	nun	A	ADV	_	6	adv	_	_
+5	leider	leider	A	ADV	_	6	adv	_	_
+6	entfernen	entfernen	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hoffentlich	hoffentlich	A	ADV	_	2	adv	_	_
+2	vertreib	vertreib	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	277	277
+5	Sie	sie	P	PPER	3|_|_|_	2	obja	275	275
+6	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	fällt	fallen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Ihnen	sie	P	PPER	3|Pl|_|Dat	2	objd	278	278
+4	ein	ein	P	PTKVZ	_	2	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Fräulein	Fräulein	N	NN	Neut|_|_	2	vok	108	108
+7	Herms	Herms	N	NE	Neut|_|_	6	app	108	108
+8	!	!	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	278	278
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	zu	zu	P	APPR	Dat	2	objp	_	_
+5	Wegrats	Wegrat	N	NN	Masc|Gen|Sg	4	pn	78	78
+6	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	3	obja	_	_
+3	sagst	sagen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	zu	zu	P	APPR	Dat	3	pp	_	_
+6	dem	die	A	ART	Def|Neut|Dat|Sg	7	det	_	_
+7	Unglück	Unglück	N	NN	Neut|Dat|Sg	5	pn	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Julian	Julian	N	NE	Masc|Dat|Sg	7	app	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	furchtbar	furchtbar	A	ADJD	Pos|	2	pred	_	_
+4	!	!	$	$.	_	0	root	_	_
+

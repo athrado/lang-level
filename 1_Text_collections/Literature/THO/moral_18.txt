@@ -1,0 +1,492 @@
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	ebenso	ebenso	A	ADV	_	1	adv	227	227
+3	:	\:	$	$.	_	0	root	_	_
+4	Entschuldigen	Entschuldigen	N	NN	Neut|_|_	0	root	228	228
+5	S	S	N	NN	Neut|_|_	4	app	228	228
+6	'	'	$	$(	_	0	root	228	228
+7	,	,	$	$,	_	0	root	228	228
+8	Herr	Herr	N	NN	Masc|_|Sg	5	app	228	228
+9	Assessor	Assessor	N	NE	Masc|_|Sg	8	app	228	228
+10	,	,	$	$,	_	0	root	_	_
+11	wenn	wenn	K	KOUS	_	17	konj	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	17	subj	226	226
+13	mir	ich	P	PRF	1|Sg|Dat	16	objd	_	_
+14	eine	eine	A	ART	Indef|Fem|_|Sg	15	det	_	_
+15	Bemerkung	Bemerkung	N	NN	Fem|_|Sg	16	obja	_	_
+16	erlauben	erlauben	V	VVINF	_	17	aux	_	_
+17	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+18	...	...	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	292	292
+4	widersprechen	widersprechen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	sich	sie	P	PRF	3|_|Dat	4	objd	_	_
+6	ja	ja	A	ADV	_	4	adv	_	_
+7	fortwährend	fortwährend	A	ADJD	_|_	4	adv	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Einmal	einmal	A	ADV	_	2	adv	_	_
+2	ja	ja	A	ADV	_	3	adv	_	_
+3	einmal	einmal	A	ADV	_	0	root	_	_
+4	nein	nein	P	PTKANT	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	227	227
+2	:	\:	$	$.	_	0	root	_	_
+3	Entschuldigen	Entschuldigen	N	NN	Neut|_|_	0	root	228	228
+4	S	S	N	NN	Neut|_|_	3	app	228	228
+5	'	'	$	$(	_	0	root	228	228
+6	,	,	$	$,	_	0	root	228	228
+7	Herr	Herr	N	NN	Masc|_|Sg	4	app	228	228
+8	Assessor	Assessor	N	NE	Masc|_|Sg	7	app	228	228
+9	!	!	$	$.	_	0	root	_	_
+
+1	Nämlich	nämlich	A	ADV	_	2	adv	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	226	226
+3	glaub	glaub	V	VVFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	bei	bei	P	APPR	Dat	11	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	_	_
+8	Polizei	Polizei	N	NN	Fem|Dat|Sg	6	pn	_	_
+9	is	is	F	FM	Fem|Dat|Sg	8	app	_	_
+10	alles	alle	P	PIS	_|_|Sg	9	app	_	_
+11	recht	recht	A	ADJD	Pos|	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	was	was	P	PRELS	Neut|Nom|Sg	16	subj	_	_
+14	gut	gut	A	ADJD	Pos|	15	adv	_	_
+15	naus	naus	A	ADJD	_	16	adv	_	_
+16	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	dreht	drehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	um	um	P	PTKVZ	_	2	avz	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	7	subj	_	_
+7	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+8	nie	nie	A	ADV	_	9	adv	_	_
+9	lernen	lernen	V	VVINF	_	7	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	einen	eine	A	ART	Indef|Masc|Acc|Sg	12	det	_	_
+12	Gedanken	Gedanke	N	NN	Masc|Acc|Sg	15	obja	_	_
+13	präzis	präzis	A	ADJD	Pos|	15	adv	_	_
+14	zu	zu	P	PTKZU	_	15	part	_	_
+15	fassen	fassen	V	VVINF	_	9	obji	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_	0	root	228	228
+2	ebenso	ebenso	A	ADV	_	1	adv	228	228
+3	:	\:	$	$.	_	0	root	228	228
+4	Jawoll	Jawoll	F	FM	Masc|_|Sg	0	root	228	228
+5	,	,	$	$,	_	0	root	228	228
+6	Herr	Herr	N	NN	Masc|_|Sg	4	app	228	228
+7	Assessor	Assessor	N	NE	Masc|_|Sg	6	app	228	228
+8	!	!	$	$.	_	0	root	_	_
+
+1	Kleine	klein	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Pause	Pause	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	liest	lesen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Reisacher	Reisacher	N	NE	_|Nom|Sg	2	subj	227	227
+2	schreibt	schreiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	Dat	4	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	293	293
+3	Mitteltüre	Mitteltüre	N	NN	Fem|Dat|Sg	1	pn	293	293
+4	erhebt	erheben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	4	obja	_	_
+6	Lärm	Lärm	N	NN	Masc|Nom|Sg	4	subj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	52	52
+2	Türe	Türe	N	NN	Fem|Nom|Sg	3	subj	52	52
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	aufgerissen	aufreißen	V	VVPP	_	3	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ninon	Ninon	N	NE	_|Nom|Sg	4	subj	294	294
+2	de	de	N	NE	_|Nom|Sg	1	app	294	294
+3	Hauteville	Hauteville	N	NE	_|Nom|Sg	2	app	294	294
+4	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	ein	ein	P	PTKVZ	_	4	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	hinter	hinter	P	APPR	Dat	10	pp	295	295
+8	ihr	ihr	P	PPER	3|Sg|Fem|Dat	7	pn	52	52
+9	ein	eine	A	ART	Indef|Masc|Nom|Sg	10	det	_	_
+10	Schutzmann	Schutzmann	N	NN	Masc|Nom|Sg	0	root	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	der	die	P	PRELS	Masc|Nom|Sg	17	subj	295	295
+13	sie	sie	P	PPER	3|_|_|_	17	obja	52	52
+14	am	an	P	APPRART	Dat	17	pp	_	_
+15	Arme	Arm	N	NN	Masc|Dat|Sg	14	pn	_	_
+16	gefaßt	gefaßt	A	ADJD	Pos|	17	adv	_	_
+17	hält	halten	V	VVFIN	3|Sg|Pres|Ind	10	rel	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Ninon	Ninon	N	NE	_|Nom|Sg	2	subj	296	296
+2	versucht	versuchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	7	obja	_	_
+5	frei	frei	A	ADJD	Pos|	7	pred	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	machen	machen	V	VVINF	_	2	obji	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NN	_|Nom|Sg	2	subj	294	294
+2	trägt	tragen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	großen	groß	A	ADJA	Pos|_|_|Sg|_|	4	attr	_	_
+4	Glockenhut	Glockenhut	N	NN	_|_|Sg	2	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	riecht	riechen	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+7	stark	stark	A	ADJD	Pos|	6	adv	_	_
+8	nach	nach	P	APPR	Dat	6	pp	_	_
+9	Parfüm	Parfüm	N	NN	Neut|Dat|Sg	8	pn	_	_
+10	:	\:	$	$.	_	0	root	_	_
+11	Lassen	lassen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+12	Sie	sie	P	PPER	3|Pl|_|Nom	11	subj	298	298
+13	mich	ich	P	PPER	1|Sg|_|Acc	11	obja	297	297
+14	los	los	P	PTKVZ	_	11	avz	_	_
+15	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	297	297
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	doch	doch	A	ADV	_	6	adv	_	_
+4	keinen	keine	A	PIAT	Masc|Acc|Sg	5	det	_	_
+5	Mord	Mord	N	NN	Masc|Acc|Sg	6	obja	_	_
+6	begangen	begehen	V	VVPP	_	2	aux	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	297	297
+2	bitte	bitten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	lassen	lassen	V	VVFIN	3|Pl|Pres|_	2	s	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	298	298
+6	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	297	297
+7	los	los	P	PTKVZ	_	4	avz	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	aufgestanden	aufgestehen	V	VVPP	_	2	aux	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Was	was	P	PWS	Neut|Nom|Sg	6	subj	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Schutzmann	Schutzmann	N	NN	Masc|Nom|Sg	2	subj	_	_
+2	läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	_	_
+4	Arm	Arm	N	NN	Masc|Acc|Sg	2	obja	_	_
+5	los	los	P	PTKVZ	_	2	avz	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	steht	stehen	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	stramm	stramm	A	ADJD	Pos|	7	adv	_	_
+9	:	\:	$	$.	_	0	root	_	_
+10	Ich	ich	P	PPER	1|Sg|_|Nom	0	root	299	299
+11	melde	melden	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+12	gehorsamste	gehorsam	A	ADJA	Sup|_|Nom|Sg|_|	11	subj	_	_
+13	die	die	A	ART	Def|_|_|_	14	det	_	_
+14	vulgo	vulgo	F	FM	_|_|_	11	obja	_	_
+15	Hochstetter	Hochstetter	F	FM	_|_|_	14	app	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	299	299
+4	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	680	680
+5	,	,	$	$,	_	0	root	_	_
+6	helfen	helfen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+7	Sie	sie	P	PPER	3|Pl|_|Nom	6	subj	300	300
+8	mir	ich	P	PPER	1|Sg|_|Dat	6	objd	299	299
+9	!	!	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	behandelt	behandeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	299	299
+4	wie	wie	K	KOKOM	_	2	kom	_	_
+5	die	die	A	ART	Def|Fem|_|Sg	7	det	_	_
+6	gemeinste	gemein	A	ADJA	Sup|Fem|_|Sg|_|	7	attr	_	_
+7	Verbrecherin	Verbrecherin	N	NN	Fem|_|Sg	4	cj	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Was	was	P	PWS	Neut|_|Sg	4	obja	_	_
+4	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	300	300
+6	denn	denn	A	ADV	_	4	adv	_	_
+7	da	da	A	ADV	_	4	adv	_	_
+8	für	für	P	APPR	Acc	4	pp	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	n	n	F	FM	_|Acc|_	8	pn	_	_
+11	Hut	Hut	F	FM	_|Acc|_	10	app	_	_
+12	auf	auf	P	PTKVZ	_	4	avz	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	300	300
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	hier	hier	A	ADV	_	2	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	zu	zu	P	APPR	Dat	2	pp	_	_
+6	Besuch	Besuch	N	NN	Masc|Dat|Sg	5	pn	301	301
+7	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	302	302
+4	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+5	hier	hier	A	ADV	_	4	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+7	zu	zu	P	APPR	Dat	4	pp	_	_
+8	Besuch	Besuch	N	NN	Masc|Dat|Sg	7	pn	301	301
+9	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	0	root	_	_
+2	nein	nein	P	PTKANT	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	4	pp	_	_
+2	meinem	meine	A	PPOSAT	Neut|Dat|Sg	3	det	302	302
+3	Leben	Leben	N	NN	Neut|Dat|Sg	1	pn	303	303
+4	würde	werden	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	8	objd	302	302
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	einfallen	einfallen	V	VVINF	_	4	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	hier	hier	A	ADV	_	13	adv	_	_
+11	Besuch	Besuch	N	NN	Masc|_|Sg	13	obja	301	301
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	machen	machen	V	VVINF	_	8	obji	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Seien	Sei	N	NN	Fem|_|Pl	0	root	304	304
+4	Sie	sie	P	PPER	3|_|_|_	0	root	303	303
+5	ruhig	ruhig	A	ADJD	Pos|	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Reisacher	Reisacher	N	NE	_|Dat|_	1	pn	227	227
+3	:	\:	$	$.	_	0	root	_	_
+4	Richten	richten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	304	304
+6	das	die	A	ART	Def|Neut|_|Sg	7	det	_	_
+7	Protokoll	Protokoll	N	NN	Neut|_|Sg	4	obja	_	_
+8	her	her	P	PTKVZ	_	4	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ist	Ist	N	NN	Neut|_|Sg	0	root	231	231
+4	hier	hier	A	ADV	_	6	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	_	_
+6	Bureau	Bureau	N	NN	Neut|_|Sg	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wo	wo	P	PWAV	_	11	adv	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	305	305
+10	mich	ich	P	PRF	1|Sg|Acc	11	obja	_	_
+11	beschweren	beschweren	V	VVINF	_	12	aux	_	_
+12	kann	können	V	VMFIN	1|Sg|Pres|Ind	6	rel	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	305	305
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	endlich	endlich	A	ADJD	Pos|	4	adv	_	_
+4	wissen	wissen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	warum	warum	P	PWAV	_	9	adv	_	_
+7	man	man	P	PIS	_|Nom|Sg	10	subj	_	_
+8	mich	ich	P	PPER	1|Sg|_|Acc	9	obja	305	305
+9	verhaftet	verhaften	V	VVPP	_	10	aux	_	_
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	4	objc	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Das	die	P	PDS	Neut|_|Sg	0	root	_	_
+4	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	306	306
+6	hier	hier	A	ADV	_	8	adv	_	_
+7	allerdings	allerdings	A	ADV	_	8	adv	_	_
+8	erfahren	erfahren	V	VVPP	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Zum	zu	P	APPRART	Dat	0	root	_	_
+2	Schutzmann	Schutzmann	N	NN	Masc|Dat|_	1	pn	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	306	306
+2	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	abtreten	abtreten	V	VVINF	_	2	aux	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Schutzmann	Schutzmann	N	NN	Masc|_|_	0	root	_	_
+2	ab	ab	P	APPR	Dat	1	pp	_	_
+3	durch	durch	P	APPR	Acc	2	pp	_	_
+4	die	die	A	ART	Def|Fem|Acc|Sg	5	det	293	293
+5	Mitteltüre	Mitteltüre	N	NN	Fem|Acc|Sg	3	pn	293	293
+6	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Oh	Oh	F	FM	_	0	root	_	_
+4	monsieur	monsieur	F	FM	_	3	app	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	307	307
+4	mißhandelt	mißhandeln	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	7	obja	307	307
+4	in	in	P	APPR	Acc	3	pp	_	_
+5	einen	eine	A	ART	Indef|Masc|Acc|Sg	6	det	348	348
+6	Stall	Stall	N	NN	Masc|Acc|Sg	4	pn	348	348
+7	gesperrt	sperren	V	VVPP	_	2	aux	_	_
+8	mit	mit	P	APPR	Dat	7	pp	_	_
+9	zwei	zwei	C	CARD	_	10	attr	_	_
+10	Personen	Person	N	NN	Fem|Dat|Pl	8	pn	_	_
+11	von	von	P	APPR	_	10	pp	_	_
+12	der	die	A	ART	Def|_|_|_	13	det	308	308
+13	Landstraße	Landstraße	N	NN	_|_|_	11	pn	308	308
+14	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	308	308
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	307	307
+4	helfen	helfen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	APPR	Dat	5	objp	_	_
+4	Reisacher	Reisacher	N	NN	_|Dat|_	3	pn	227	227
+5	getreten	treten	V	VVPP	_	2	aux	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	Ich	ich	P	PPER	1|Sg|_|Nom	8	subj	307	307
+8	bitte	bitten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	keine	keine	A	PIAT	Fem|_|Sg	11	det	_	_
+11	Konversation	Konversation	N	NN	Fem|_|Sg	0	root	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	307	307
+4	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+5	hier	hier	A	ADV	_	4	adv	_	_
+6	schutzlos	schutzlos	A	ADJD	Pos|	4	pred	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Niemand	niemand	P	PIS	_|Nom|Sg	2	subj	_	_
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	307	307
+4	anhören	anhören	V	VVINF	_	2	aux	_	_
+5	;	;	$	$.	_	0	root	_	_
+6	niemand	niemand	P	PIS	_|Nom|Sg	7	subj	_	_
+7	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	307	307
+9	Antwort	Antwort	N	NN	Fem|_|Sg	7	obja	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|Nom|Sg	3	det	309	309
+2	schreckliche	schrecklich	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	309	309
+3	Person	Person	N	NN	Fem|Nom|Sg	4	subj	309	309
+4	bringt	bringen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	307	307
+6	gelbe	gelb	A	ADJA	Pos|Fem|Acc|Sg|_|	7	attr	_	_
+7	Brühe	Brühe	N	NN	Fem|Acc|Sg	4	obja	_	_
+8	in	in	P	APPR	Dat	7	pp	_	_
+9	einer	eine	A	ART	Indef|Fem|Dat|Sg	10	det	373	373
+10	Blechschüssel	Blechschüssel	N	NN	Fem|Dat|Sg	8	pn	373	373
+11	und	und	K	KON	_	7	kon	_	_
+12	einen	eine	A	ART	Indef|Masc|Acc|Sg	13	det	_	_
+13	Löffel	Löffel	N	NN	Masc|Acc|Sg	11	cj	_	_
+14	-	-	$	$(	_	0	root	_	_
+15	so	so	A	ADV	_	16	adv	_	_
+16	groß	groß	A	ADJD	Pos|	0	root	_	_
+17	!	!	$	$.	_	0	root	_	_
+
+1	Zeigt	zeigen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	ihre	ihre	A	PPOSAT	Fem|Nom|Sg	3	det	309	309
+3	Hand	Hand	N	NN	Fem|Nom|Sg	1	subj	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	essen	essen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	310	310
+5	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	geht	gehen	V	VVFIN	_|_|Pres|Ind	1	cj	_	_
+3	wieder	wieder	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	2	adv	_	_
+2	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	mein	meine	A	PPOSAT	Masc|Nom|Sg	5	det	311	311
+5	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Sie	sie	P	PPER	3|Pl|_|Nom	8	subj	310	310
+8	machen	machen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	daß	daß	K	KOUS	_	13	konj	_	_
+11	meine	meine	A	PPOSAT	Masc|Nom|Pl	12	det	311	311
+12	Freunde	Freund	N	NN	Masc|Nom|Pl	13	subj	_	_
+13	erfahren	erfahren	V	VVFIN	3|Pl|Pres|_	8	objc	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	wie	wie	P	PWAV	_	18	pred	_	_
+16	es	es	P	PPER	3|Sg|Neut|Nom	18	subj	_	_
+17	mir	ich	P	PPER	1|Sg|_|Dat	18	objd	311	311
+18	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	13	objc	_	_
+19	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	blickt	blicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Reisacher	Reisacher	N	NE	_|Dat|_	2	objd	227	227
+4	über	über	P	APPR	Acc	2	pp	_	_
+5	die	die	A	ART	Def|_|Acc|_	6	det	_	_
+6	Schulter	Schulter	N	NN	_|Acc|_	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ihre	ihre	A	PPOSAT	Masc|Nom|Pl	2	det	226	226
+2	Freunde	Freund	N	NN	Masc|Nom|Pl	3	subj	_	_
+3	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+4	Ihnen	sie	P	PPER	3|Pl|_|Dat	6	objd	310	310
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	helfen	helfen	V	VVINF	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Reisacher	Reisacher	N	NE	_|Dat|_	1	pn	227	227
+3	:	\:	$	$.	_	0	root	_	_
+4	Machen	machen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	310	310
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	_	_
+7	Rand	Rand	N	NN	Masc|Acc|Sg	4	obja	_	_
+8	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+9	so	so	A	ADV	_	10	adv	_	_
+10	breit	breit	A	ADJD	Pos|	4	pred	_	_
+11	!	!	$	$.	_	0	root	_	_
+

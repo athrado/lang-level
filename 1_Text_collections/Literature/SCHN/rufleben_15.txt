@@ -1,0 +1,445 @@
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	wünschte	wünschen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	daß	daß	K	KOUS	_	12	konj	_	_
+5	das	die	A	ART	Def|Neut|Nom|Sg	6	det	191	191
+6	Fräulein	Fräulein	N	NN	Neut|Nom|Sg	12	subj	191	191
+7	ihm	er	P	PPER	3|Sg|_|Dat	12	objd	0	0
+8	wieder	wieder	A	ADV	_	12	adv	_	_
+9	aus	aus	P	APPR	Dat	12	pp	_	_
+10	der	die	A	ART	Def|Fem|Dat|Sg	11	det	14	14
+11	Zeitung	Zeitung	N	NN	Fem|Dat|Sg	9	pn	14	14
+12	vorliest	vorlesen	V	VVFIN	3|Sg|Pres|Ind	2	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	wohl	wohl	A	ADV	_	2	adv	_	_
+5	auch	auch	A	ADV	_	2	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Frau	Frau	N	NN	Masc|_|_	2	vok	_	_
+8	Richter	Richter	N	NN	Masc|_|_	7	app	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	155	155
+2	Tante	Tante	N	NN	Fem|_|Sg	0	root	155	155
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	ja	ja	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	0	0
+5	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+6	das	die	A	ART	Def|Neut|_|Sg	7	det	_	_
+7	Blatt	Blatt	N	NN	Neut|_|Sg	11	obja	_	_
+8	nah	nah	A	ADJD	Pos|	9	adv	_	_
+9	zur	zu	P	APPRART	Dat	11	objp	_	_
+10	Kerze	Kerze	N	NN	Fem|Dat|Sg	9	pn	_	_
+11	halten	halten	V	VVINF	_	5	aux	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	da	da	A	ADV	_	14	adv	_	_
+14	wird	werden	V	VAFIN	3|Sg|Pres|Ind	5	kon	_	_
+15	es	es	P	PPER	3|Sg|Neut|Nom	14	subj	_	_
+16	schon	schon	A	ADV	_	17	adv	_	_
+17	gehen	gehen	V	VVINF	_	14	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Ab	ab	P	APPR	Dat	0	root	_	_
+2	links	links	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	756	756
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	756	756
+3	,	,	$	$,	_	0	root	756	756
+4	Marie	Marie	N	NE	Masc|Nom|Sg	2	app	756	756
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	aber	aber	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	liebes	lieb	A	ADJA	Pos|Neut|_|Sg|St|	5	attr	_	_
+5	Fräulein	Fräulein	N	NN	Neut|_|Sg	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	benützen	benützen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+8	Sie	sie	P	PPER	3|Pl|_|Nom	7	subj	192	192
+9	die	die	A	ART	Def|Fem|_|Sg	10	det	715	715
+10	Gelegenheit	Gelegenheit	N	NN	Fem|_|Sg	7	obja	715	715
+11	und	und	K	KON	_	0	root	_	_
+12	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+13	Sie	sie	P	PPER	3|Pl|_|Nom	12	subj	192	192
+14	doch	doch	A	ADV	_	12	adv	_	_
+15	in	in	P	APPR	Acc	12	objp	_	_
+16	die	die	A	ART	Def|Fem|Acc|Sg	18	det	_	_
+17	frische	frisch	A	ADJA	Pos|Fem|Acc|Sg|_|	18	attr	_	_
+18	Luft	Luft	N	NN	Fem|Acc|Sg	15	pn	_	_
+19	-	-	$	$(	_	0	root	_	_
+20	auf	auf	P	APPR	Acc	18	pp	_	_
+21	eine	eine	A	ART	Indef|Fem|Acc|Sg	22	det	_	_
+22	Stunde	Stunde	N	NN	Fem|Acc|Sg	20	pn	_	_
+23	wenigstens	wenigstens	A	ADV	_	20	adv	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wozu	Wozu	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	hälfe	helfen	V	VVFIN	3|Sg|Past|Subj	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	0	0
+4	diese	diese	P	PDS	Fem|Nom|Sg	2	subj	_	_
+5	eine	eine	A	ART	Indef|Fem|_|Sg	6	det	_	_
+6	Stunde	Stunde	N	NN	Fem|_|Sg	2	zeit	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	morgen	morgen	A	ADV	_	4	adv	_	_
+3	wieder	wieder	A	ADV	_	4	adv	_	_
+4	eine	eine	P	PIS	_|_|Sg	1	cj	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	und	und	K	KON	_	0	root	_	_
+7	so	so	A	ADV	_	8	adv	193	193
+8	jeden	jede	A	PIDAT	_|_|Sg	9	det	193	193
+9	Tag	Tag	N	NN	_|_|Sg	6	cj	193	193
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ihr	ihre	A	PPOSAT	Masc|Nom|Sg	2	det	193	193
+2	Vater	Vater	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	6	obja	_	_
+5	daran	daran	P	PROAV	_	6	objp	_	_
+6	gewöhnen	gewöhnen	V	VVINF	_	7	aux	_	_
+7	müssen	müssen	V	VMINF	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ach	ach	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wozu	wozu	P	PWAV	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	194	194
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	gar	gar	A	ADV	_	5	adv	503	503
+5	keine	keine	A	PIAT	Fem|_|Sg	6	det	503	503
+6	Lust	Lust	N	NN	Fem|_|Sg	2	obja	503	503
+7	fortzugehen	fortgehen	V	VVIZU	_	2	obji	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Lassen	lassen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	195	195
+3	mich	ich	P	PPER	1|Sg|_|Acc	1	obja	194	194
+4	nur	nur	A	ADV	_	1	adv	_	_
+5	da	da	A	ADV	_	1	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	scheint	scheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	195	195
+5	haben	haben	V	VAFIN	3|Pl|Pres|_	2	kon	_	_
+6	überhaupt	überhaupt	A	ADV	_	7	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+8	mehr	mehr	A	ADV	_	7	adv	_	_
+9	die	die	A	ART	Def|Fem|_|Sg	10	det	_	_
+10	Kraft	Kraft	N	NN	Fem|_|Sg	5	obja	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	etwas	etwas	A	PIAT	Neut|_|Sg	13	det	_	_
+13	Bestimmtes	Bestimmtes	N	NN	Neut|_|Sg	15	obja	_	_
+14	zu	zu	P	PTKZU	_	15	part	_	_
+15	wollen	wollen	V	VMINF	_	5	obji	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	5	konj	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	196	196
+3	an	an	P	APPR	_	5	objp	_	_
+4	früher	früh	A	ADJD	_|	3	pn	_	_
+5	denke	denken	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	8	konj	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	196	196
+3	mir	ich	P	PRF	1|Sg|Dat	8	objd	_	_
+4	das	die	A	ART	Def|Neut|_|Sg	7	det	197	197
+5	frische	frisch	A	ADJA	Pos|Neut|_|Sg|Wk|	7	attr	197	197
+6	liebe	lieb	A	ADJA	Pos|Neut|_|Sg|Wk|	7	attr	197	197
+7	Wesen	Wesen	N	NN	Neut|_|Sg	8	obja	197	197
+8	vorstelle	vorstellen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	das	die	P	PRELS	Neut|_|Sg	0	root	197	197
+11	ich	ich	P	PPER	1|Sg|_|Nom	0	root	196	196
+12	vor	vor	P	APPR	Dat	11	pp	_	_
+13	einem	eine	A	ART	Indef|Neut|Dat|Sg	14	det	_	_
+14	Jahre	Jahr	N	NN	Neut|Dat|Sg	12	pn	_	_
+15	noch	noch	A	ADV	_	12	adv	_	_
+16	-	-	$	$(	_	0	root	_	_
+17	im	in	P	APPRART	Dat	23	pp	_	_
+18	vergangenen	vergangen	A	ADJA	Pos|Masc|Dat|Sg|Wk|	19	attr	_	_
+19	Herbst	Herbst	N	NN	Masc|Dat|Sg	17	pn	_	_
+20	noch	noch	A	ADV	_	21	adv	_	_
+21	hier	hier	A	ADV	_	17	adv	_	_
+22	zu	zu	P	PTKZU	_	23	part	_	_
+23	finden	finden	V	VVINF	_	24	obji	_	_
+24	pflegte	pflegen	V	VVFIN	_|Sg|Past|_	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	_	_
+4	wahrer	wahr	A	ADJA	Pos|Masc|Nom|Sg|St|	5	attr	_	_
+5	Jammer	Jammer	N	NN	Masc|Nom|Sg	2	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	anders	anders	A	ADV	_	4	adv	_	_
+4	werden	werden	V	VAINF	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Versprechen	versprechen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	200	200
+3	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	0	0
+4	,	,	$	$,	_	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	6	obja	_	_
+6	heut	heuen	V	VVFIN	_|_|Pres|Ind	1	kon	_	_
+7	endlich	endlich	A	ADJD	Pos|	6	adv	_	_
+8	einmal	einmal	A	ADV	_	6	adv	_	_
+9	zu	zu	P	APPR	Dat	6	pp	_	_
+10	Bett	Bett	N	NN	Neut|Dat|Sg	9	pn	198	198
+11	zu	zu	P	PTKZU	_	12	part	_	_
+12	legen	legen	V	VVINF	_	6	obji	_	_
+13	-	-	$	$(	_	0	root	_	_
+14	ja	ja	P	PTKANT	_	0	root	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	morgen	morgen	A	ADV	_	6	adv	_	_
+5	früh	früh	A	ADJD	Pos|	6	adv	_	_
+6	weiterreden	weiterreden	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	199	199
+2	Welt	Welt	N	NN	Fem|Nom|Sg	3	subj	199	199
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	gleich	gleich	A	ADV	_	6	adv	_	_
+5	anders	anders	A	ADV	_	6	pred	_	_
+6	aussehen	aussehen	V	VVINF	_	3	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wenn	wenn	K	KOUS	_	17	konj	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	17	subj	200	200
+10	nur	nur	A	ADV	_	17	adv	_	_
+11	einmal	einmal	A	ADV	_	17	adv	_	_
+12	mit	mit	P	APPR	Dat	17	pp	_	_
+13	wachen	wach	A	ADJA	Pos|Neut|Dat|Pl|_|	14	attr	_	_
+14	Augen	Auge	N	NN	Neut|Dat|Pl	12	pn	_	_
+15	in	in	P	APPR	Acc	17	pp	_	_
+16	sie	sie	P	PPER	3|_|_|Acc	15	pn	199	199
+17	hineinblicken	hineinblicken	V	VVFIN	3|Pl|Pres|_	3	neb	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	ruft	rufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	0	0
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	doch	doch	A	ADV	_	2	adv	_	_
+6	jede	jede	A	PIDAT	Fem|_|Sg	8	det	_	_
+7	halbe	halb	A	ADJA	Pos|Fem|_|Sg|_|	8	attr	_	_
+8	Stunde	Stunde	N	NN	Fem|_|Sg	2	zeit	_	_
+9	und	und	K	KON	_	2	kon	_	_
+10	schreit	schreien	V	VVFIN	_|_|Pres|Ind	9	cj	_	_
+11	in	in	P	APPR	_	10	pp	_	_
+12	meinen	meine	A	PPOSAT	Masc|_|Sg	13	det	0	0
+13	Schlaf	Schlaf	N	NN	Masc|_|Sg	11	pn	_	_
+14	hinein	hinein	P	PTKVZ	_	10	avz	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	seine	seine	A	PPOSAT	_|_|_	4	det	0	0
+4	Tropfen	Tropfen	N	NN	_|_|_	5	obja	_	_
+5	nehmen	nehmen	V	VVINF	_	2	aux	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	dann	dann	A	ADV	_	9	adv	_	_
+9	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	0	0
+11	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+12	rufen	rufen	V	VVINF	_	13	aux	_	_
+13	können	können	V	VMINF	_	9	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	5	obja	8	8
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	nehmen	nehmen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	201	201
+4	sie	sie	P	PPER	3|_|_|_	6	obja	8	8
+5	ihm	er	P	PPER	3|Sg|_|Dat	6	objd	0	0
+6	geben	geben	V	VVINF	_	2	aux	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	auch	auch	A	ADV	_	9	adv	_	_
+9	gegen	gegen	P	APPR	Acc	6	pp	_	_
+10	seinen	seine	A	PPOSAT	Masc|Acc|_	11	det	0	0
+11	Willen	Wille	N	NN	Masc|Acc|_	9	pn	202	202
+12	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	genügt	genügen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wenn	wenn	K	KOUS	_	11	konj	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	11	subj	201	201
+6	ihm	er	P	PPER	3|Sg|_|Dat	11	objd	202	202
+7	zehn	zehn	C	CARD	_	8	attr	_	_
+8	Tropfen	Tropfen	N	NN	Masc|_|Pl	11	obja	_	_
+9	ins	in	P	APPRART	Acc	11	pp	_	_
+10	Wasser	Wasser	N	NN	Neut|Acc|_	9	pn	129	129
+11	träufeln	träufeln	V	VVFIN	3|Pl|Pres|_	2	neb	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	202	202
+2	öffnet	öffnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	A	ART	Def|Neut|_|Sg	4	det	120	120
+4	Fläschchen	Fläschchen	N	NN	Neut|_|Sg	2	obja	120	120
+5	.	.	$	$.	_	0	root	_	_
+
+1	Dieses	diese	A	PDAT	Neut|Nom|Sg	2	det	851	851
+2	Mittel	Mittel	N	NN	Neut|Nom|Sg	3	subj	851	851
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	unwiderstehlich	unwiderstehlich	A	ADJD	Pos|	3	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	4	pp	_	_
+2	diesem	diese	A	PDAT	Neut|Dat|Sg	3	det	120	120
+3	Fläschchen	Fläschchen	N	NN	Neut|Dat|Sg	1	pn	120	120
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	_	_
+6	Schlaf	Schlaf	N	NN	Masc|Nom|Sg	4	subj	_	_
+7	von	von	P	APPR	Dat	6	pp	_	_
+8	hundert	hundert	C	CARD	_	9	attr	204	204
+9	Nächten	Nacht	N	NN	Fem|Dat|Pl	7	pn	204	204
+10	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	viel	viel	P	PIS	_|Nom|Pl	3	subj	_	_
+3	vertrauen	vertrauen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|_|_|_	3	obja	8	8
+5	mir	ich	P	PPER	1|Sg|_|Dat	3	objd	228	228
+6	an	an	P	PTKVZ	_	3	avz	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	4	subj	103	103
+3	etwas	etwas	A	ADV	_	4	adv	_	_
+4	befremdet	befremden	V	VVPP	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ihnen	sie	P	PPER	3|Pl|_|Dat	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Ihnen	sie	P	PPER	3|Pl|_|Dat	0	root	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	ihm	er	P	PPER	3|Sg|_|Dat	4	cj	_	_
+6	selbst	selbst	A	ADV	_	5	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	12	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	_	_
+3	Wohnung	Wohnung	N	NN	Fem|Dat|Sg	1	pn	_	_
+4	von	von	P	APPR	_	3	pp	_	_
+5	Kranken	Kranke	N	NN	_|_|Pl	4	pn	203	203
+6	,	,	$	$,	_	0	root	203	203
+7	die	die	P	PRELS	_|Nom|Pl	10	subj	203	203
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	retten	retten	V	VVINF	_	10	aux	_	_
+10	sind	sein	V	VAFIN	3|Pl|Pres|Ind	5	rel	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	lasse	lassen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+13	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	228	228
+14	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+15	so	so	A	ADV	_	16	adv	_	_
+16	viel	viel	P	PIS	_	12	obja	_	_
+17	zurück	zurück	P	PTKVZ	_	12	avz	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	203	203
+3	ihm	er	P	PPER	3|Sg|_|Dat	5	objd	0	0
+4	je	je	A	ADV	_	5	adv	_	_
+5	gesagt	sagen	V	VVPP	_	1	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	12	konj	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	12	subj	0	0
+9	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	retten	retten	V	VVINF	_	12	aux	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	objc	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	_	_
+2	konnte	können	V	VMFIN	1|Sg|Past|Ind	0	root	_	_
+3	mir	ich	P	PRF	1|Sg|Dat	7	objd	_	_
+4	diese	diese	A	PDAT	Fem|_|Sg	6	det	_	_
+5	grausame	grausam	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	_
+6	Ehrlichkeit	Ehrlichkeit	N	NN	Fem|_|Sg	7	obja	_	_
+7	ersparen	ersparen	V	VVINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Seine	seine	A	PPOSAT	Fem|Nom|Sg	2	det	0	0
+2	Krankheit	Krankheit	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	von	von	P	APPR	Dat	3	pp	_	_
+5	den	die	A	ART	Def|_|_|_	6	det	_	_
+6	aufrichtigen	aufrichtig	A	ADJA	_|_|_	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+

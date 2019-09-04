@@ -1,0 +1,154 @@
+1	Hallo	hallo	ITJ	ITJ	_	0	root	_	-
+2	Marion	Marion	N	NE	Fem|_|Sg	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	5	subj	_	(0)
+5	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+6	es	es	PRO	PPER	3|Sg|Neut|Nom	5	pred	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	dein	deine	ART	PPOSAT	Masc|Nom|Sg	9	det	_	(1)
+9	Daniel	Daniel	N	NE	Masc|Nom|Sg	6	kon	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	hoffe	hoffen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	es	es	PRO	PPER	3|Sg|Neut|Nom	5	subj	_	-
+5	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	2	s	_	-
+6	dir	du	PRO	PPER	2|Sg|_|Dat	5	objd	_	(1)
+7	gut	gut	ADV	ADJD	Pos|	5	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	wohne	wohnen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	jetzt	jetzt	ADV	ADV	_	2	adv	_	-
+4	in	in	PREP	APPR	_	2	objp	_	-
+5	Berlin	Berlin	N	NE	_|_|Sg	4	pn	_	(3)
+6	,	,	$,	$,	_	0	root	_	-
+7	hier	hier	ADV	ADV	_	8	adv	_	-
+8	habe	haben	V	VAFIN	1|Sg|Pres|_	2	kon	_	-
+9	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+10	einen	eine	ART	ART	Indef|Masc|Acc|Sg	12	det	_	-
+11	tollen	toll	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	12	attr	_	-
+12	Arbeitsplatz	Arbeitsplatz	N	NN	Masc|Acc|Sg	13	obja	_	-
+13	gefunden	finden	V	VVPP	_	8	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	sehr	sehr	ADV	ADV	_	4	adv	_	-
+4	glücklich	glücklich	ADV	ADJD	Pos|	2	pred	_	-
+5	mit	mit	PREP	APPR	Dat	2	pp	_	-
+6	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	8	det	_	(0)
+7	neuen	neu	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	8	attr	_	-
+8	Arbeit	Arbeit	N	NN	Fem|Dat|Sg	5	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Masc|Nom|Pl	2	det	_	(0)
+2	Arbeitskollegen	Arbeitskollege	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	sehr	sehr	ADV	ADV	_	5	adv	_	-
+5	nett	nett	ADV	ADJD	Pos|	3	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(2)
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+3	mich	ich	PRO	PPER	1|Sg|_|Acc	2	obja	_	(0)
+4	mit	mit	PREP	APPR	Dat	2	pp	_	-
+5	offenen	offen	ADJA	ADJA	Pos|_|Dat|_|_|	6	attr	_	-
+6	Armen	Arm	N	NN	_|Dat|_	4	pn	_	-
+7	empfangen	empfangen	V	VVINF	_	0	root	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Jeden	jede	ART	PIDAT	_|_|Sg	2	det	_	-
+2	Tag	Tag	N	NN	_|_|Sg	3	zeit	_	-
+3	lerne	lernen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	etwas	etwas	PRO	PIS	_	3	obja	_	-
+6	dazu	dazu	PROAV	PROAV	_	3	pp	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Heute	heute	ADV	ADV	_	2	adv	_	-
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+3	sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(2)
+4	mir	ich	PRO	PPER	1|Sg|_|Dat	5	objd	_	(0)
+5	gezeigt	zeigen	V	VVPP	_	2	aux	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	wie	wie	PWAV	PWAV	_	13	adv	_	-
+8	ich	ich	PRO	PPER	1|Sg|_|Nom	13	subj	_	(0)
+9	Pakete	Paket	N	NN	Neut|_|_	13	obja	_	-
+10	mit	mit	PREP	APPR	Dat	13	pp	_	-
+11	einem	eine	ART	ART	Indef|Masc|Dat|Sg	12	det	_	-
+12	Automaten	Automat	N	NN	Masc|Dat|Sg	10	pn	_	-
+13	verschicke	verschicken	V	VVFIN	1|Sg|Pres|_	5	objc	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	wirklich	wirklich	ADV	ADJD	Pos|	2	adv	_	-
+4	aufregend	aufregen	ADV	ADJD	_|<PPRES	2	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Fem|Nom|Sg	2	det	_	(0)
+2	Arbeit	Arbeit	N	NN	Fem|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	gut	gut	ADV	ADJD	Pos|	3	pred	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	und	und	KON	KON	_	3	kon	_	-
+7	mit	mit	PREP	APPR	Dat	10	pp	_	-
+8	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	9	det	_	(0)
+9	Freundin	Freundin	N	NN	Fem|Dat|Sg	7	pn	_	-
+10	bin	sein	V	VAFIN	1|Sg|Pres|Ind	6	cj	_	-
+11	ich	ich	PRO	PPER	1|Sg|_|Nom	10	subj	_	(0)
+12	sehr	sehr	ADV	ADV	_	13	adv	_	-
+13	glücklich	glücklich	ADV	ADJD	Pos|	10	pred	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(4)
+2	wohnen	wohnen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	jetzt	jetzt	ADV	ADV	_	2	adv	_	-
+4	zusammen	zusammen	ADV	ADV	_	5	adv	_	-
+5	in	in	PREP	APPR	_	2	objp	_	-
+6	Berlin	Berlin	N	NE	_|_|Sg	5	pn	_	(3)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(3)
+2	arbeitet	arbeiten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	als	als	KOKOM	KOKOM	_	2	kom	_	-
+4	Verkäuferin	Verkäuferin	N	NN	Fem|_|Sg	3	cj	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(3)
+2	arbeitet	arbeiten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	immer	immer	ADV	ADV	_	2	adv	_	-
+4	am	an	PREP	APPRART	Dat	2	pp	_	-
+5	Morgen	Morgen	N	NN	_|Dat|_	4	pn	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+8	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	2	kon	_	-
+9	oft	oft	ADV	ADV	_	12	adv	_	-
+10	am	an	PREP	APPRART	Dat	12	pp	_	-
+11	Abend	Abend	N	NN	Masc|Dat|Sg	10	pn	_	-
+12	arbeiten	arbeiten	V	VVINF	_	8	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(4)
+2	sehen	sehen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	uns	wir	PRO	PRF	1|Pl|_	2	obja	_	-
+4	leider	leider	ADV	ADV	_	2	adv	_	-
+5	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+6	so	so	ADV	ADV	_	7	adv	_	-
+7	oft	oft	ADV	ADV	_	2	adv	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(4)
+2	genießen	genießen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	aber	aber	ADV	ADV	_	2	adv	_	-
+4	jede	jede	ART	PIDAT	Fem|_|Sg	5	det	_	-
+5	Minute	Minute	N	NN	Fem|_|Sg	2	obja	_	-
+6	zusammen	zusammen	PTKVZ	PTKVZ	_	2	avz	_	-
+7	und	und	KON	KON	_	2	kon	_	-
+8	reden	reden	V	VVFIN	_|Pl|Pres|_	7	cj	_	-
+9	viel	viel	PRO	PIS	_	8	obja	_	-
+10	miteinander	miteinander	PROAV	PROAV	_	9	pp	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

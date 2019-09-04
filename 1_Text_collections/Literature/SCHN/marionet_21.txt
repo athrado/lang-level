@@ -1,0 +1,399 @@
+1	du	du	P	PPER	2|Sg|_|Nom	0	root	273	273
+2	!	!	$	$.	_	0	root	_	_
+
+1	du	du	P	PPER	2|Sg|_|Nom	2	subj	273	273
+2	bücktest	bücken	V	VVFIN	2|Sg|Past|_	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	2	obja	_	_
+4	und	und	K	KON	_	2	kon	_	_
+5	jagtest	jagen	V	VVFIN	2|Sg|Past|_	4	cj	_	_
+6	nach	nach	P	APPR	Dat	0	root	_	_
+7	einer	eine	A	ART	Indef|Fem|_|Sg	0	root	_	_
+8	und	und	K	KON	_	0	root	_	_
+9	hobst	heben	V	VVFIN	2|Sg|Past|Ind	8	cj	_	_
+10	sie	sie	P	PPER	3|_|_|_	9	obja	274	274
+11	vom	von	P	APPRART	Dat	9	pp	_	_
+12	Boden	Boden	N	NN	Masc|Dat|Sg	11	pn	_	_
+13	auf	auf	P	PTKVZ	_	9	avz	_	_
+14	und	und	K	KON	_	9	kon	_	_
+15	verwahrtest	verwahren	V	VVFIN	2|Sg|Past|_	14	cj	_	_
+16	sie	sie	P	PPER	3|_|_|_	15	obja	274	274
+17	-	-	$	$(	_	0	root	_	_
+18	ich	ich	P	PPER	1|Sg|_|Nom	19	subj	2	2
+19	hab	hab	V	VAFIN	1|Sg|_|_	15	kon	_	_
+20	'	'	$	$(	_	0	root	_	_
+21	s	s	P	PPER	_	23	obja	274	274
+22	wohl	wohl	A	ADV	_	23	adv	_	_
+23	gesehen	sehen	V	VVPP	_	19	aux	_	_
+24	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	an	an	P	APPR	Dat	0	root	_	_
+3	deiner	deine	A	PPOSAT	Fem|Dat|Sg	4	det	273	273
+4	Brust	Brust	N	NN	Fem|Dat|Sg	2	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|Nom|Sg	2	subj	235	235
+2	greift	greifen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	unwillkürlich	unwillkürlich	A	ADJD	Pos|	2	adv	_	_
+4	nach	nach	P	APPR	Dat	2	objp	_	_
+5	seiner	seine	A	PPOSAT	Fem|Dat|Sg	6	det	235	235
+6	Brust	Brust	N	NN	Fem|Dat|Sg	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	235	235
+2	wirft	werfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	einen	eine	A	ART	Indef|Masc|Acc|Sg	5	det	_	_
+4	flüchtigen	flüchtig	A	ADJA	Pos|Masc|Acc|Sg|_|	5	attr	_	_
+5	Blick	Blick	N	NN	Masc|Acc|Sg	2	obja	_	_
+6	nach	nach	P	APPR	Dat	2	pp	_	_
+7	Sophie	Sophie	N	NE	Fem|Dat|Sg	6	pn	236	236
+8	,	,	$	$,	_	0	root	_	_
+9	ob	ob	K	KOUS	_	0	root	_	_
+10	sie	sie	P	PPER	3|_|_|Nom	13	subj	236	236
+11	'	'	$	$(	_	0	root	_	_
+12	s	s	P	PPER	_	13	obja	_	_
+13	gesehen	sehen	V	VVPP	_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	4	obja	_	_
+4	soll	sollen	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_|Sg|_|Nom	4	subj	236	236
+7	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	236	236
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	fort	fort	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	275	275
+6	habe	haben	V	VAFIN	1|Sg|Pres|_	2	kon	_	_
+7	nichts	nichts	P	PIS	_|Dat|_	11	objd	_	_
+8	mehr	mehr	A	ADV	_	7	adv	_	_
+9	von	von	P	APPR	Dat	11	pp	_	_
+10	ihr	ihr	P	PPER	3|Sg|Fem|Dat	9	pn	236	236
+11	gehört	gehören	V	VVPP	_	6	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	3	koord	_	_
+2	mich	ich	P	PPER	1|Sg|_|Acc	3	obja	275	275
+3	bangt	bangen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	0	root	_	_
+9	mich	ich	P	PRF	1|Sg|Acc	14	obja	_	_
+10	einmal	einmal	A	ADV	_	14	adv	_	_
+11	über	über	P	APPR	Dat	14	pp	_	_
+12	solch	solch	A	PIDAT	Fem|Dat|Sg	13	det	_	_
+13	einer	eine	P	PIS	Fem|Dat|Sg	11	pn	_	_
+14	vergessen	vergessen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+15	und	und	K	KON	_	14	kon	_	_
+16	verraten	verraten	V	VVINF	_	17	aux	_	_
+17	könntest	können	V	VMFIN	2|Sg|Past|Subj	15	cj	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Unsinniges	unsinnig	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	_	_
+2	Zeug	Zeug	N	NN	Neut|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Denke	Denke	N	NN	Fem|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Martin	Martin	N	NE	_|_|Sg	1	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	9	konj	_	_
+6	sie	sie	P	PPER	3|Pl|_|Nom	9	subj	276	276
+7	alle	alle	P	PIS	_|Nom|Pl	6	app	_	_
+8	falsch	falsch	A	ADJD	Pos|	9	pred	_	_
+9	sind	sein	V	VAFIN	3|Pl|Pres|Ind	1	objc	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	die	die	P	PRELS	_|Nom|Pl	16	subj	276	276
+12	heimatlos	heimatlos	A	ADJD	Pos|	16	adv	_	_
+13	durch	durch	P	APPR	Acc	16	pp	_	_
+14	die	die	A	ART	Def|Fem|Acc|Sg	15	det	138	138
+15	Welt	Welt	N	NN	Fem|Acc|Sg	13	pn	138	138
+16	ziehen	zeihen	V	VVFIN	3|Pl|_|_	7	rel	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	so	so	A	ADV	_	2	adv	_	_
+2	schön	schön	A	ADJD	Pos|	3	adv	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	5	subj	276	276
+4	auch	auch	A	ADV	_	3	adv	_	_
+5	tanzen	tanzen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	oder	oder	K	KON	_	5	kon	_	_
+7	singen	singen	V	VVINF	_	8	aux	_	_
+8	mögen	mögen	V	VMFIN	_|Pl|Pres|_	6	cj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	denk	denken	V	VVIMP	Sg	1	cj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+6	wär	wär	V	VAFIN	3|Sg|_|_	0	root	_	_
+7	ein	eine	A	ART	Indef|Neut|_|Sg	8	det	_	_
+8	Unglück	Unglück	N	NN	Neut|_|Sg	6	obja	_	_
+9	auch	auch	A	ADV	_	6	adv	_	_
+10	für	für	P	APPR	Acc	6	pp	_	_
+11	dich	du	P	PPER	2|Sg|_|Acc	10	pn	277	277
+12	,	,	$	$,	_	0	root	_	_
+13	Martin	Martin	N	NE	_|Acc|Sg	11	app	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	wenn	wenn	K	KOUS	_	18	konj	_	_
+16	du	du	P	PPER	2|Sg|_|Nom	18	subj	277	277
+17	mich	ich	P	PPER	1|Sg|_|Acc	18	obja	2	2
+18	vergäßest	vergessen	V	VVFIN	2|Sg|Past|Subj	6	neb	_	_
+19	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	ungeduldig	ungeduldig	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	3	adv	_	_
+2	spät	spät	A	ADJD	Pos|	3	pred	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_|Sg|_|Nom	3	subj	2	2
+6	an	an	P	APPR	Dat	3	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	12	12
+8	Zeit	Zeit	N	NN	Fem|Dat|Sg	6	pn	12	12
+9	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	läutet	läuten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zur	zu	P	APPRART	Dat	2	pp	_	_
+4	Vesper	Vesper	N	NN	_|Dat|Sg	3	pn	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Martin	Martin	N	NE	_|Dat|Sg	4	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Drei	drei	C	CARD	_	2	attr	_	_
+2	Stunden	Stunde	N	NN	Fem|_|Pl	3	grad	_	_
+3	noch	noch	A	ADV	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Drei	drei	C	CARD	_	3	attr	_	_
+2	lange	lang	A	ADJA	Pos|Fem|_|Pl|St|	3	attr	_	_
+3	Stunden	Stunde	N	NN	Fem|_|Pl	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	bis	bis	K	KOUS	_	8	konj	_	_
+6	die	die	A	ART	Def|Fem|Nom|Sg	7	det	289	289
+7	Post	Post	N	NN	Fem|Nom|Sg	8	subj	289	289
+8	abgeht	abgehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Lange	Lange	A	ADJD	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	lange	lange	A	ADJD	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hab	Hab	N	NE	_	0	root	77	77
+2	'	'	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	2	2
+4	dir	du	P	PPER	2|Sg|_|Dat	0	root	_	_
+5	weh	weh	P	PTKVZ	_	0	root	_	_
+6	getan	tun	V	VVPP	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	ausbrechend	ausbrechen	A	ADJD	_|<PPRES	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	warum	warum	P	PWAV	_	2	adv	_	_
+2	gehst	gehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	fort	fort	P	PTKVZ	_	2	avz	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	oft	oft	A	ADV	_	6	adv	_	_
+3	noch	noch	A	ADV	_	6	adv	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+5	törichte	töricht	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	_
+6	Frage	Frage	N	NN	Fem|_|Sg	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Weil	weil	K	KOUS	_	4	konj	_	_
+2	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	278	278
+3	irgendwas	irgendwas	P	PIS	_|Nom|Sg	4	subj	_	_
+4	forttreibt	forttreiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+2	strömende	strömend	A	ADJA	Pos|Neut|_|Sg|Wk|<PPRES	3	attr	_	_
+3	Blut	Blut	N	NN	Neut|_|Sg	0	root	_	_
+4	in	in	P	APPR	Dat	3	pp	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	pn	278	278
+6	.	.	$	$.	_	0	root	_	_
+
+1	der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	blühende	blühend	A	ADJA	Pos|Masc|Nom|Sg|Wk|<PPRES	3	attr	_	_
+3	Frühling	Frühling	N	NN	Masc|Nom|Sg	0	root	_	_
+4	draußen	draußen	A	ADV	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	Neues	Neues	N	NN	Neut|_|Sg	5	obja	_	_
+3	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	2	2
+5	sehen	sehen	V	VVINF	_	3	aux	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	Menschen	Mensch	N	NN	Masc|_|_	5	par	31	31
+8	-	-	$	$(	_	0	root	_	_
+9	Städte	Stadt	N	NN	Fem|_|Pl	0	root	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Mich	ich	P	PPER	1|Sg|_|Acc	2	obja	279	279
+2	ärgern	ärgern	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	die	die	A	ART	Def|Fem|Nom|Pl	4	det	_	_
+4	Wände	Wand	N	NN	Fem|Nom|Pl	2	subj	_	_
+5	hier	hier	A	ADV	_	2	adv	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	die	die	A	ART	Def|_|Nom|Pl	8	det	_	_
+8	Mauern	Mauer	N	NN	_|Nom|Pl	9	subj	_	_
+9	engen	engen	V	VVFIN	3|Pl|Pres|_	2	kon	_	_
+10	mich	ich	P	PPER	1|Sg|_|Acc	9	obja	279	279
+11	.	.	$	$.	_	0	root	_	_
+
+1	kein	keine	A	PIAT	Neut|Nom|Sg	2	det	281	281
+2	Lied	Lied	N	NN	Neut|Nom|Sg	4	subj	281	281
+3	mehr	mehr	A	ADV	_	2	adv	281	281
+4	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	279	279
+6	über	über	P	APPR	Acc	4	pp	_	_
+7	die	die	A	ART	Def|Fem|Acc|Pl	8	det	280	280
+8	Lippen	Lippe	N	NN	Fem|Acc|Pl	6	pn	280	280
+9	.	.	$	$.	_	0	root	_	_
+
+1	Hin	hin	A	ADV	_	0	root	_	_
+2	und	und	K	KON	_	0	root	_	_
+3	her	her	P	PTKVZ	_	0	root	_	_
+4	;	;	$	$.	_	0	root	_	_
+5	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	8	det	357	357
+7	unruhigen	unruhig	A	ADJA	Pos|Masc|Acc|Sg|_|	8	attr	357	357
+8	Blick	Blick	N	NN	Masc|Acc|Sg	5	obja	357	357
+9	Sophiens	Sophiens	N	NE	Masc|Acc|Sg	8	app	357	357
+10	auf	auf	P	APPR	_	8	pp	_	_
+11	sich	sie	P	PRF	3|_|_	10	pn	_	_
+12	gerichtet	richten	V	VVPP	_	5	obji	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	'	'	$	$(	_	0	root	_	_
+15	s	s	P	PPER	_|Sg|_|Nom	16	subj	281	281
+16	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	kon	_	_
+17	so	so	A	ADV	_	18	adv	_	_
+18	was	was	A	PIAT	Neut|Nom|Sg	19	det	_	_
+19	Dummes	Dummes	N	NN	Neut|Nom|Sg	16	pred	_	_
+20	um	um	P	APPR	Acc	19	pp	_	_
+21	die	die	A	ART	Def|Fem|Acc|Sg	23	det	_	_
+22	letzte	letzte	A	ADJA	Pos|Fem|Acc|Sg|_|	23	attr	_	_
+23	Stunde	Stunde	N	NN	Fem|Acc|Sg	20	pn	_	_
+24	vor	vor	P	APPR	Dat	23	pp	_	_
+25	dem	die	A	ART	Def|Masc|Dat|Sg	26	det	_	_
+26	Abschied	Abschied	N	NN	Masc|Dat|Sg	24	pn	_	_
+27	!	!	$	$.	_	0	root	_	_
+
+1	Mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	nach	nach	P	APPR	Dat	1	pp	_	_
+5	Hause	Haus	N	NN	Neut|Dat|Sg	4	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Sophie	Sophie	N	NE	Fem|Dat|Sg	5	app	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	spät	spät	A	ADJD	Pos|	3	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	3	konj	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+6	,	,	$	$,	_	0	root	_	_
+7	geh	gehen	V	VVIMP	Sg	0	root	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	0	root	282	282
+10	gleich	gleich	A	ADJD	Pos|	0	root	_	_
+11	fort	fort	P	PTKVZ	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	daß	daß	K	KOUS	_	5	konj	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	282	282
+5	wollte	wollen	V	VMFIN	1|Sg|Past|_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	aber	aber	K	KON	_	0	root	_	_
+8	die	die	A	ART	Def|Fem|_|Sg	9	det	_	_
+9	Mutter	Mutter	N	NN	Fem|_|Sg	7	cj	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	2	adv	_	_
+2	dürft	dürfen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	283	283
+5	länger	lang	A	ADJD	Comp|	0	root	_	_
+6	fortbleiben	fortbleiben	V	VVINF	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	283	283
+2	wollte	wollen	V	VMFIN	1|Sg|Past|_	0	root	_	_
+3	dir	du	P	PRF	2|Sg|Dat	10	objd	_	_
+4	noch	noch	A	ADV	_	10	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	_	_
+6	Geleit	Geleit	N	NN	Neut|_|Sg	10	obja	_	_
+7	bis	bis	P	APPR	Acc	10	pp	_	_
+8	zum	zu	P	APPRART	Dat	7	pp	_	_
+9	Posthaus	Posthaus	N	NN	Neut|Dat|Sg	8	pn	_	_
+10	geben	geben	V	VVINF	_	2	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+

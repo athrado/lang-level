@@ -1,0 +1,105 @@
+1	Meine	meine	ART	PPOSAT	Fem|_|Sg	2	det	_	(0)
+2	Gesundheit	Gesundheit	N	NN	Fem|_|Sg	0	root	_	-
+3	?	?	$.	$.	_	0	root	_	-
+
+1	Ja	ja	PTKANT	PTKANT	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	die	die	PRO	PDS	Fem|Nom|Sg	4	subj	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	mir	ich	PRO	PPER	1|Sg|_|Dat	4	objd	_	(0)
+6	sehr	sehr	ADV	ADV	_	7	adv	_	-
+7	wichtig	wichtig	ADV	ADJD	Pos|	4	pred	_	-
+8	!	!	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	lebe	leben	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	Dat	2	pp	_	-
+4	einem	eine	ART	ART	Indef|Neut|Dat|Sg	5	det	_	-
+5	Dorf	Dorf	N	NN	Neut|Dat|Sg	3	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Da	da	ADV	ADV	_	2	adv	_	-
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+4	viel	viel	ART	PIDAT	Fem|_|Sg	5	det	_	-
+5	Natur	Natur	N	NN	Fem|_|Sg	2	obja	_	-
+6	und	und	KON	KON	_	2	kon	_	-
+7	die	die	ART	ART	Def|Fem|Nom|Sg	8	det	_	-
+8	Luft	Luft	N	NN	Fem|Nom|Sg	9	subj	_	-
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	cj	_	-
+10	noch	noch	ADV	ADV	_	9	adv	_	-
+11	gut	gut	ADV	ADJD	Pos|	9	pred	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	Dat	4	pp	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	3	det	_	-
+3	Stadt	Stadt	N	NN	Fem|Dat|Sg	1	pn	_	-
+4	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	es	es	PRO	PPER	3|Sg|Neut|Nom	4	subj	_	-
+6	zu	zu	PTKA	PTKA	_	7	adv	_	-
+7	viele	viele	ART	PIDAT	Neut|_|Pl	8	det	_	-
+8	Autos	Auto	N	NN	Neut|_|Pl	4	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	fahre	fahren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	selbst	selbst	ADV	ADV	_	2	adv	_	-
+4	viel	viel	ART	PIDAT	Neut|_|Sg	5	det	_	-
+5	Auto	Auto	N	NN	Neut|_|Sg	2	obja	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	aber	aber	KON	KON	_	2	kon	_	-
+8	im	in	PREP	APPRART	Dat	10	pp	_	-
+9	Sommer	Sommer	N	NN	Masc|Dat|Sg	8	pn	_	-
+10	fahre	fahren	V	VVFIN	1|Sg|Pres|_	7	cj	_	-
+11	ich	ich	PRO	PPER	1|Sg|_|Nom	10	subj	_	(0)
+12	auch	auch	ADV	ADV	_	10	adv	_	-
+13	gerne	gerne	ADV	ADV	_	10	adv	_	-
+14	Fahrrad	Fahrrad	N	NN	Neut|_|Sg	10	obja	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	Dat	2	pp	_	-
+4	einem	eine	ART	ART	Indef|Neut|Dat|Sg	5	det	_	-
+5	Restaurant	Restaurant	N	NN	Neut|Dat|Sg	3	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Da	da	ADV	ADV	_	2	adv	_	-
+2	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	man	man	PRO	PIS	_|Nom|Sg	2	subj	_	-
+4	viel	viel	ADV	ADV	_	5	adv	_	-
+5	stehen	stehen	V	VVINF	_	2	aux	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	gehen	gehen	V	VVINF	_	6	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Oft	oft	ADV	ADV	_	2	adv	_	-
+2	tun	tun	V	VVFIN	3|Pl|Pres|Ind	0	root	_	-
+3	mir	ich	PRO	PPER	1|Sg|_|Dat	2	objd	_	(0)
+4	dann	dann	ADV	ADV	_	2	adv	_	-
+5	am	an	PREP	APPRART	Dat	2	pp	_	-
+6	Abend	Abend	N	NN	Masc|Dat|Sg	5	pn	_	-
+7	die	die	ART	ART	Def|Masc|Nom|Pl	8	det	_	-
+8	Füße	Fuß	N	NN	Masc|Nom|Pl	2	subj	_	-
+9	weh	weh	PTKVZ	PTKVZ	_	2	avz	_	-
+10	und	und	KON	KON	_	2	kon	_	-
+11	ich	ich	PRO	PPER	1|Sg|_|Nom	12	subj	_	(0)
+12	habe	haben	V	VAFIN	1|Sg|Pres|_	10	cj	_	-
+13	auch	auch	ADV	ADV	_	12	adv	_	-
+14	ein	eine	ART	ART	Indef|Neut|_|Sg	16	det	_	-
+15	bisschen	bisschen	ART	PIDAT	_|_|_	16	attr	_	-
+16	Rückenschmerzen	Rückenschmerz	N	NN	_|_|_	12	obja	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	schwimmen	schwimmen	V	VVINF	_	2	obji	_	-
+5	und	und	KON	KON	_	2	kon	_	-
+6	es	es	PRO	PPER	3|Sg|Neut|Nom	7	subj	_	-
+7	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	5	cj	_	-
+8	mir	ich	PRO	PPER	1|Sg|_|Dat	7	objd	_	(0)
+9	wieder	wieder	ADV	ADV	_	7	adv	_	-
+10	gut	gut	ADV	ADJD	Pos|	7	pred	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

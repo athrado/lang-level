@@ -1,0 +1,150 @@
+1	Tom	Tom	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	am	an	PREP	APPRART	Dat	8	pp	_	-
+4	Samstag	Samstag	N	NN	_|Dat|Sg	3	pn	_	-
+5	in	in	PREP	APPR	Acc	8	objp	_	-
+6	die	die	ART	ART	Def|Fem|Acc|Sg	7	det	_	(2
+7	Disko	Disko	N	NN	Fem|Acc|Sg	5	pn	_	2)
+8	gehen	gehen	V	VVINF	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+2	Tom	Tom	N	NE	_|Nom|Sg	1	subj	_	(0)
+3	tanzen	tanzen	V	VVINF	_	1	aux	_	-
+4	?	?	$.	$.	_	0	root	_	-
+
+1	Tom	Tom	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	tanzen	tanzen	V	VVINF	_	2	aux	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Tom	Tom	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	0	root	_	-
+3	Anne	Anne	N	NE	Fem|_|Sg	6	obja	_	-
+4	und	und	KON	KON	_	3	kon	_	-
+5	John	John	N	NE	Masc|_|Sg	4	cj	_	(1)
+6	abholen	abholen	V	VVINF	_	2	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Tom	Tom	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	0	root	_	-
+3	mit	mit	PREP	APPR	Dat	10	pp	_	-
+4	Anna	Anna	N	NE	Fem|Dat|Sg	3	pn	_	-
+5	und	und	KON	KON	_	4	kon	_	-
+6	John	John	N	NE	Masc|Dat|Sg	5	cj	_	(1)
+7	in	in	PREP	APPR	Acc	10	objp	_	-
+8	die	die	ART	ART	Def|Fem|Acc|Sg	9	det	_	(2
+9	Disko	Disko	N	NN	Fem|Acc|Sg	7	pn	_	2)
+10	gehen	gehen	V	VVINF	_	2	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Tom	Tom	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	fünf	fünf	CARD	CARD	_	4	attr	_	-
+4	Kilometer	Kilometer	N	NN	_|_|Pl	8	obja	_	-
+5	in	in	PREP	APPR	Acc	8	pp	_	-
+6	die	die	ART	ART	Def|Fem|Acc|Sg	7	det	_	-
+7	Stadt	Stadt	N	NN	Fem|Acc|Sg	5	pn	_	-
+8	fahren	fahren	V	VVINF	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+2	Tom	Tom	N	NE	_|Nom|Sg	1	subj	_	(0)
+3	genug	genug	ART	PIAT	Neut|_|Sg	4	det	_	(3
+4	Benzin	Benzin	N	NN	Neut|_|Sg	1	obja	_	3)
+5	?	?	$.	$.	_	0	root	_	-
+
+1	Nein	nein	PTKANT	PTKANT	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	Tom	Tom	N	NE	_|Nom|Sg	4	subj	_	(0)
+4	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+5	tanken	tanken	V	VVINF	_	4	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Tom	Tom	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	4	adv	_	-
+4	tanken	tanken	V	VVINF	_	2	aux	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	das	die	ART	ART	Def|Neut|Nom|Sg	7	det	_	(3
+7	Benzin	Benzin	N	NN	Neut|Nom|Sg	8	subj	_	3)
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	-
+9	teuer	teuer	ADV	ADJD	Pos|	8	pred	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	fragt	fragen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	seinen	seine	ART	PPOSAT	Masc|_|Sg	4	det	_	(0)|(4
+4	Vater	Vater	N	NN	Masc|_|Sg	2	obja	_	4)
+5	:	\:	$.	$.	_	0	root	_	-
+6	"	"	$(	$(	_	0	root	_	-
+7	Darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+8	ich	ich	PRO	PPER	1|Sg|_|Nom	7	subj	_	(4)
+9	heute	heute	ADV	ADV	_	12	adv	_	-
+10	dein	deine	ART	PPOSAT	Neut|_|Sg	11	det	_	(5)|(6
+11	Auto	Auto	N	NN	Neut|_|Sg	12	obja	_	6)
+12	nehmen	nehmen	V	VVINF	_	7	aux	_	-
+13	?	?	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	(4
+3	Vater	Vater	N	NN	Masc|Nom|Sg	4	subj	_	4)
+4	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	:	\:	$.	$.	_	0	root	_	-
+6	"	"	$(	$(	_	0	root	_	-
+7	Du	du	PRO	PPER	2|Sg|_|Nom	8	subj	_	(5)
+8	darfst	dürfen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	-
+9	das	die	ART	ART	Def|Neut|_|Sg	10	det	_	(6
+10	Auto	Auto	N	NN	Neut|_|Sg	11	obja	_	6)
+11	nehmen	nehmen	V	VVINF	_	8	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	komm	komm	N	NE	_|Nom|Sg	3	subj	_	-
+3	bitte	bitten	V	VVFIN	3|Sg|Pres|Subj	1	cj	_	-
+4	bis	bis	PREP	APPR	Acc	3	pp	_	-
+5	um	um	PREP	APPR	_	4	pp	_	-
+6	Mitternacht	Mitternacht	N	NN	Fem|_|Sg	5	pn	_	(7)
+7	wieder	wieder	ADV	ADV	_	3	adv	_	-
+8	heim	heim	PTKVZ	PTKVZ	_	3	avz	_	-
+9	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Tom	Tom	N	NE	_|Nom|Sg	3	subj	_	(0)
+3	fährt	fahren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	los	los	PTKVZ	PTKVZ	_	3	avz	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	denkt	denken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	:	\:	$.	$.	_	0	root	_	-
+4	"	"	$(	$(	_	0	root	_	-
+5	Ich	ich	PRO	PPER	1|Sg|_|Nom	6	subj	_	(8)
+6	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+7	um	um	PREP	APPR	_	12	pp	_	-
+8	Mitternacht	Mitternacht	N	NN	Fem|_|Sg	7	pn	_	(7)
+9	wieder	wieder	ADV	ADV	_	12	adv	_	-
+10	zu	zu	PREP	APPR	Dat	12	pp	_	-
+11	Hause	Haus	N	NN	Neut|Dat|Sg	10	pn	_	-
+12	sein	sein	V	VAINF	_	6	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	blöd	blöd	ADV	ADJD	Pos|	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(8)
+3	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	1	cj	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	5	adv	_	-
+5	tanken	tanken	V	VVINF	_	3	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	toll	toll	ADV	ADJD	Pos|	2	pred	_	-
+4	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+

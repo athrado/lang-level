@@ -1,0 +1,137 @@
+1	Anna	Anna	N	NE	Fem|Nom|Sg	4	subj	_	(0)
+2	und	und	KON	KON	_	1	kon	_	-
+3	Olaf	Olaf	N	NE	Masc|Nom|Sg	2	cj	_	(1)
+4	wollen	wollen	V	VMFIN	_|Pl|Pres|_	0	root	_	-
+5	heute	heute	ADV	ADV	_	8	adv	_	-
+6	das	die	ART	ART	Def|Neut|_|Sg	7	det	_	(6
+7	Haus	Haus	N	NN	Neut|_|Sg	8	obja	_	6)
+8	putzen	putzen	V	VVINF	_	4	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	-
+2	teilen	teilen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|Dat	2	objd	_	-
+4	dabei	dabei	PROAV	PROAV	_	2	pp	_	-
+5	die	die	ART	ART	Def|Fem|_|Sg	6	det	_	-
+6	Arbeit	Arbeit	N	NN	Fem|_|Sg	2	obja	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Anna	Anna	N	NE	Fem|Nom|Sg	2	subj	_	(0)
+2	kümmert	kümmern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+4	um	um	PREP	APPR	_	2	objp	_	-
+5	Bad	Bad	N	NE	Fem|_|Sg	4	pn	_	(2)
+6	und	und	KON	KON	_	5	kon	_	-
+7	Küche	Küche	N	NN	Fem|_|Sg	6	cj	_	-
+8	und	und	KON	KON	_	2	kon	_	-
+9	Olaf	Olaf	N	NE	Masc|Nom|Sg	10	subj	_	(1)
+10	putzt	putzen	V	VVFIN	3|Sg|Pres|Ind	8	cj	_	-
+11	das	die	ART	ART	Def|Neut|_|Sg	12	det	_	(4
+12	Schlafzimmer	Schlafzimmer	N	NN	Neut|_|Sg	10	obja	_	4)
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Zuerst	zuerst	ADV	ADV	_	2	adv	_	-
+2	erledigt	erledigen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Anna	Anna	N	NE	Fem|Nom|Sg	2	subj	_	(0)
+4	den	die	ART	ART	Def|_|_|_	5	det	_	-
+5	Abwasch	Abwasch	N	NN	_|_|_	2	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Danach	Danach	PROAV	PROAV	_	2	pp	_	-
+2	trocknet	trocknen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(0)
+4	das	die	ART	ART	Def|Neut|_|Sg	6	det	_	-
+5	saubere	sauber	ADJA	ADJA	Pos|Neut|_|Sg|Wk|	6	attr	_	-
+6	Geschirr	Geschirr	N	NN	Neut|_|Sg	2	obja	_	-
+7	ab	ab	PTKVZ	PTKVZ	_	2	avz	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Anschließend	anschließend	ADV	ADJD	_|_	2	adv	_	-
+2	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	(3
+4	Boden	Boden	N	NN	Masc|Nom|Sg	2	subj	_	3)
+5	gefegt	fegen	V	VVPP	_	6	aux	_	-
+6	werden	werden	V	VAINF	_	2	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	am	am	PTKA	PTKA	_	4	adv	_	-
+4	besten	besten	ADV	ADJD	_	2	adv	_	-
+5	mit	mit	PREP	APPR	Dat	2	pp	_	-
+6	einem	eine	ART	ART	Indef|Masc|Dat|Sg	7	det	_	-
+7	Besen	Besen	N	NN	Masc|Dat|Sg	5	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	3	pp	_	-
+2	Bad	Bad	N	NE	_|Dat|_	1	pn	_	(2)
+3	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	es	es	PRO	PPER	3|Sg|Neut|Nom	3	subj	_	-
+5	noch	noch	ADV	ADV	_	3	adv	_	-
+6	mehr	mehr	ART	PIAT	Fem|_|Sg	7	det	_	-
+7	Arbeit	Arbeit	N	NN	Fem|_|Sg	3	obja	_	-
+8	für	für	PREP	APPR	Acc	3	pp	_	-
+9	Anna	Anna	N	NE	Fem|Acc|Sg	8	pn	_	(0)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(0)
+2	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	mit	mit	PREP	APPR	Dat	8	pp	_	-
+4	einem	eine	ART	ART	Indef|Masc|Dat|Sg	5	det	_	-
+5	Schwamm	Schwamm	N	NN	Masc|Dat|Sg	3	pn	_	-
+6	die	die	ART	ART	Def|Fem|_|Sg	7	det	_	-
+7	Badewanne	Badewanne	N	NN	Fem|_|Sg	8	obja	_	-
+8	putzen	putzen	V	VVINF	_	2	aux	_	-
+9	und	und	KON	KON	_	8	kon	_	-
+10	den	die	ART	ART	Def|Masc|Acc|Sg	11	det	_	(3
+11	Boden	Boden	N	NN	Masc|Acc|Sg	13	obja	_	3)
+12	sauber	sauber	ADV	ADJD	Pos|	13	adv	_	-
+13	wischen	wischen	V	VVINF	_	9	cj	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Olaf	Olaf	N	NE	Masc|_|Sg	0	root	_	(1)
+2	saugt	saugen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	währenddessen	währenddessen	PROAV	PROAV	_	2	pp	_	-
+4	das	die	ART	ART	Def|Neut|Nom|Sg	5	det	_	(4
+5	Schlafzimmer	Schlafzimmer	N	NN	Neut|Nom|Sg	2	subj	_	4)
+6	mit	mit	PREP	APPR	Dat	2	pp	_	-
+7	dem	die	ART	ART	Def|Masc|Dat|Sg	8	det	_	-
+8	Staubsauger	Staubsauger	N	NN	Masc|Dat|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Anschließend	anschließend	ADV	ADJD	_|_	2	adv	_	-
+2	beginnt	beginnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(3)
+4	,	,	$,	$,	_	0	root	_	-
+5	mit	mit	PREP	APPR	Dat	10	pp	_	-
+6	einem	eine	ART	ART	Indef|Neut|Dat|Sg	7	det	_	-
+7	Tuch	Tuch	N	NN	Neut|Dat|Sg	5	pn	_	-
+8	Staub	Staub	N	NN	Masc|_|Sg	10	obja	_	(5)
+9	zu	zu	PTKZU	PTKZU	_	10	part	_	-
+10	wischen	wischen	V	VVINF	_	2	obji	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Nachdem	nachdem	KOUS	KOUS	_	5	konj	_	-
+2	er	er	PRO	PPER	3|Sg|Masc|Nom	5	subj	_	(5)
+3	das	die	PRO	PDS	Neut|_|Sg	4	obja	_	-
+4	getan	tun	V	VVPP	_	5	aux	_	-
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	7	neb	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+8	er	er	PRO	PPER	3|Sg|Masc|Nom	7	subj	_	(5)
+9	noch	noch	ADV	ADV	_	13	adv	_	-
+10	die	die	ART	ART	Def|Neut|_|Pl	11	det	_	-
+11	Betten	Bett	N	NN	Neut|_|Pl	13	obja	_	-
+12	frisch	frisch	ADV	ADJD	Pos|	13	adv	_	-
+13	beziehen	beziehen	V	VVINF	_	7	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	das	die	ART	ART	Def|Neut|Nom|Sg	4	det	_	(6
+4	Haus	Haus	N	NN	Neut|Nom|Sg	2	subj	_	6)
+5	wieder	wieder	ADV	ADV	_	2	adv	_	-
+6	schön	schön	ADV	ADJD	Pos|	7	adv	_	-
+7	sauber	sauber	ADV	ADJD	Pos|	2	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

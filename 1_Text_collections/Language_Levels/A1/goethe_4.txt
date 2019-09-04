@@ -1,0 +1,106 @@
+1	Den	die	ART	ART	Def|Masc|Acc|Sg	2	det	_	-
+2	Umzug	Umzug	N	NN	Masc|Acc|Sg	3	obja	_	-
+3	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+4	wir	wir	PRO	PPER	1|Pl|_|Nom	3	subj	_	(0)
+5	endlich	endlich	ADV	ADJD	Pos|	3	adv	_	-
+6	hinter	hinter	PREP	APPR	_	3	objp	_	-
+7	uns	wir	PRO	PRF	1|Pl|_	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+3	ziemlich	ziemlich	ADV	ADJD	_	4	adv	_	-
+4	anstrengend	anstrengend	ADV	ADJD	_|_	2	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Michael	Michael	N	NE	Masc|Nom|Sg	2	subj	_	-
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	noch	noch	ADV	ADV	_	2	adv	_	-
+4	immer	immer	ADV	ADV	_	2	adv	_	-
+5	Rückenschmerzen	Rückenschmerz	N	NN	_|_|_	2	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(0)
+2	hatten	haben	V	VAFIN	1|Pl|Past|Ind	0	root	_	-
+3	mehr	mehr	ADV	ADV	_	4	adv	_	-
+4	als	als	KOKOM	KOKOM	_	2	kom	_	-
+5	75	75	CARD	CARD	_	6	attr	_	-
+6	Umzugskartons	Umzugskarton	N	NN	Masc|_|Pl	4	cj	_	-
+7	!	!	$.	$.	_	0	root	_	-
+
+1	Unsere	unsre	ART	PPOSAT	Fem|Nom|Sg	2	det	_	(0)|(2
+2	Wohnung	Wohnung	N	NN	Fem|Nom|Sg	3	subj	_	2)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	jetzt	jetzt	ADV	ADV	_	3	adv	_	-
+5	in	in	PREP	APPR	Dat	3	pp	_	-
+6	der	die	ART	ART	Def|_|_|_	7	det	_	-
+7	3.	3.	ADJA	ADJA	_|_|_	5	pn	_	-
+
+1	Etage	Etage	N	NN	Fem|_|Sg	0	root	_	-
+2	und	und	KON	KON	_	0	root	_	-
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	cj	_	-
+4	92	92	CARD	CARD	_	5	attr	_	-
+5	m	m	N	NN	_|_|Pl	3	obja	_	-
+6	2	2	CARD	CARD	_	5	app	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	-
+2	Zimmer	Zimmer	N	NN	Neut|Nom|Pl	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	sehr	sehr	ADV	ADV	_	5	adv	_	-
+5	hell	hell	ADV	ADJD	Pos|	3	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(0)
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	jetzt	jetzt	ADV	ADV	_	2	adv	_	-
+4	auch	auch	ADV	ADV	_	2	adv	_	-
+5	ein	eine	ART	ART	Indef|Neut|_|Sg	7	det	_	-
+6	großes	groß	ADJA	ADJA	Pos|Neut|_|Sg|St|	7	attr	_	-
+7	Arbeitszimmer	Arbeitszimmer	N	NN	Neut|_|Sg	2	obja	_	-
+8	mit	mit	PREP	APPR	Dat	2	pp	_	-
+9	viel	viel	ART	PIDAT	Masc|Dat|Sg	10	det	_	-
+10	Platz	Platz	N	NN	Masc|Dat|Sg	8	pn	_	-
+11	für	für	PREP	APPR	Acc	10	pp	_	-
+12	unsere	unsre	ART	PPOSAT	_|Acc|Pl	13	det	_	(0)
+13	Bücher	Buch	N	NN	_|Acc|Pl	11	pn	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Leider	leider	ADV	ADV	_	2	adv	_	-
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(0)
+4	keinen	keine	ART	PIAT	Masc|Acc|Sg	5	det	_	-
+5	Balkon	Balkon	N	NN	Masc|Acc|Sg	2	obja	_	-
+6	und	und	KON	KON	_	2	kon	_	-
+7	die	die	ART	ART	Def|Fem|Nom|Sg	8	det	_	-
+8	Küche	Küche	N	NN	Fem|Nom|Sg	9	subj	_	-
+9	hat	haben	V	VAFIN	3|Sg|Pres|Ind	6	cj	_	-
+10	nur	nur	ADV	ADV	_	9	adv	_	-
+11	7,5	7,5	CARD	CARD	_	12	attr	_	-
+12	m	m	N	NN	_|_|Pl	9	obja	_	-
+13	2	2	CARD	CARD	_	12	app	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Kommt	kommen	V	VVIMP	Pl	0	root	_	-
+2	doch	doch	ADV	ADV	_	1	adv	_	-
+3	mal	mal	ADV	ADV	_	4	adv	_	-
+4	zum	zu	PREP	APPRART	Dat	1	objp	_	-
+5	Essen	Esse	N	NN	_|Dat|_	4	pn	_	-
+6	!	!	$.	$.	_	0	root	_	-
+
+1	Habt	haben	V	VAFIN	2|Pl|Pres|Ind	0	root	_	-
+2	ihr	ihr	PRO	PPER	2|Pl|_|Nom	1	subj	_	(1)
+3	am	an	PREP	APPRART	Dat	1	pp	_	-
+4	Samstagabend	Samstagabend	N	NN	Masc|Dat|Sg	3	pn	_	-
+5	Zeit	Zeit	N	NN	Fem|_|Sg	1	obja	_	-
+6	?	?	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	könnt	können	V	VMFIN	2|Pl|Pres|Ind	0	root	_	-
+3	ihr	ihr	PRO	PPER	2|Pl|_|Nom	2	subj	_	(1)
+4	euch	ihr	PRO	PRF	2|Pl|Dat	7	objd	_	-
+5	die	die	ART	ART	Def|Fem|_|Sg	6	det	_	(2
+6	Wohnung	Wohnung	N	NN	Fem|_|Sg	7	obja	_	2)
+7	ansehen	ansehen	V	VVINF	_	2	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

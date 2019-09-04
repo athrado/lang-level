@@ -1,0 +1,362 @@
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)
+2	Name	Name	N	NN	Masc|Nom|Sg	0	root	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Yosandra	Yosandra	N	NE	_|Nom|Sg	3	subj	_	-
+5	Sandoval.Ich	Sandoval.Ich	N	NE	_|Nom|Sg	4	app	_	-
+6	bin	bin	N	NE	_|Nom|Sg	5	app	_	-
+7	verheiratet	verheiraten	V	VVPP	_	3	aux	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	mein	meine	ART	PPOSAT	Masc|Nom|Sg	10	det	_	(0)|(1
+10	Mann	Mann	N	NN	Masc|Nom|Sg	13	subj	_	-
+11	Jhan	Jhan	N	NE	Masc|Nom|Sg	10	app	_	-
+12	Rodíguez	Rodíguez	N	NE	Masc|Nom|Sg	11	app	_	1)
+13	ist	sein	V	VAFIN	3|Sg|Pres|Ind	3	kon	_	-
+14	Student	Student	N	NN	Masc|Nom|Sg	13	pred	_	-
+15	an	an	PREP	APPR	Dat	14	pp	_	-
+16	der	die	ART	ART	Def|Fem|Dat|Sg	17	det	_	(4
+17	Universität	Universität	N	NN	Fem|Dat|Sg	15	pn	_	-
+18	Stuttgart	Stuttgart	N	NE	Neut|Dat|Sg	17	app	_	4)
+19	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	studiert	studieren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Hidrologie	Hidrologie	N	NE	_	2	obja	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Doktorand	Doktorand	N	NN	Masc|Nom|Sg	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Informatikingenieurin	Informatikingenieurin	N	NN	Fem|Nom|Sg	2	pred	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	aber	aber	KON	KON	_	2	kon	_	-
+6	im	in	PREP	APPRART	Dat	8	pp	_	-
+7	Moment	Moment	N	NN	_|Dat|Sg	6	pn	_	-
+8	lerne	lernen	V	VVFIN	1|Sg|Pres|_	5	cj	_	-
+9	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+10	Deutsch	Deutsch	N	NN	Neut|_|Sg	8	obja	_	(3)
+11	im	in	PREP	APPRART	Dat	8	pp	_	-
+12	Deutschkolleg	Deutschkolleg	N	NN	Neut|Dat|Sg	11	pn	_	-
+13	im	in	PREP	APPRART	Dat	8	pp	_	-
+14	ÖZ	ÖZ	N	NN	_|Dat|_	13	pn	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Früher	früh	ADV	ADJD	_|	2	adv	_	-
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	zwei	zwei	CARD	CARD	_	5	attr	_	-
+5	Jahre	Jahr	N	NN	Neut|_|Pl	11	zeit	_	-
+6	bei	bei	PREP	APPR	Dat	11	pp	_	-
+7	CNTI	CNTI	N	NE	_|Dat|Sg	6	pn	_	-
+8	(	(	$(	$(	_	0	root	_	-
+9	TI-Nationalzentrum	TI-Nationalzentrum	N	NN	_|Dat|Sg	7	app	_	-
+10	)	)	$(	$(	_	0	root	_	-
+11	gearbeitet	arbeiten	V	VVPP	_	2	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Neut|Nom|Pl	2	det	_	(0)
+2	Hobbys	Hobby	N	NN	Neut|Nom|Pl	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	Internetsurfen	Internetsurfen	N	NN	Neut|Nom|Sg	3	pred	_	-
+5	und	und	KON	KON	_	0	root	_	-
+6	telefonieren	telefonieren	V	VVINF	_	5	cj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	-
+2	kommen	kommen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	aus	aus	PREP	APPR	Dat	2	objp	_	-
+4	Venezuela	Venezuela	N	NE	Neut|Dat|Sg	3	pn	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	aus	aus	PREP	APPR	Dat	3	kon	_	-
+7	Caracas	Caracas	N	NE	Neut|Dat|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Jhan	Jhan	N	NE	_|Nom|Sg	2	subj	_	(2)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	32	32	CARD	CARD	_	2	objd	_	-
+4	und	und	KON	KON	_	2	kon	_	-
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	6	subj	_	(0)
+6	bin	sein	V	VAFIN	1|Sg|Pres|Ind	4	cj	_	-
+7	29	29	CARD	CARD	_	8	attr	_	-
+8	Jahre	Jahr	N	NN	Neut|_|Pl	9	grad	_	-
+9	alt	alt	ADV	ADJD	Pos|	6	pred	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	spreche	sprechen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Spanisch	Spanisch	N	NN	_|_|Sg	2	obja	_	-
+4	und	und	KON	KON	_	3	kon	_	-
+5	ein	eine	ART	ART	Indef|Neut|_|Sg	7	det	_	-
+6	bisschen	bisschen	ART	PIDAT	Neut|_|Sg	7	attr	_	-
+7	Deutsch	Deutsch	N	NN	Neut|_|Sg	4	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Jhan	Jhan	N	NE	_|Nom|Sg	2	subj	_	(2)
+2	spricht	sprechen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Spanisch	Spanisch	N	NN	_|_|Sg	2	obja	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	English	English	N	NN	Neut|_|Sg	3	kon	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	Deutsch	Deutsch	N	NN	Neut|_|Sg	6	cj	_	(3)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(5)
+2	wohnen	wohnen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	_	2	objp	_	-
+4	Stuttgart	Stuttgart	N	NE	Neut|_|Sg	3	pn	_	(4
+5	in	in	PREP	APPR	Dat	4	pp	_	-
+6	der	die	ART	ART	Def|Fem|Dat|Sg	7	det	_	-
+7	Hochfirststrasse	Hochfirststrass	N	NN	Fem|Dat|Sg	5	pn	_	-
+8	1	1	CARD	CARD	_	7	app	_	-
+9	/	/	$(	$(	_	0	root	_	-
+10	B.	B.	N	NN	Masc|_|Sg	8	kon	_	4)
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Stuttgart	Stuttgart	N	NE	_|Nom|Sg	7	subj	_	-
+4	interessant.Hier	interessant.Hier	N	NE	_|Nom|Sg	3	app	_	-
+5	in	in	PREP	APPR	_	4	pp	_	-
+6	Stuttgart	Stuttgart	N	NE	Neut|_|Sg	5	pn	_	(4)
+7	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+8	unsere	unsre	ART	PPOSAT	Fem|_|Sg	9	det	_	(5)
+9	Wohnung	Wohnung	N	NN	Fem|_|Sg	7	obja	_	-
+10	zwei	zwei	CARD	CARD	_	11	attr	_	-
+11	Zimmer	Zimmer	N	NN	Neut|_|Pl	9	app	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Rechts	rechts	ADV	ADV	_	2	adv	_	-
+2	neben	neben	PREP	APPR	Dat	5	pp	_	-
+3	der	die	ART	ART	Def|Fem|Dat|Sg	4	det	_	-
+4	Tür	Tür	N	NN	Fem|Dat|Sg	2	pn	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	die	die	ART	ART	Def|Fem|Nom|Sg	7	det	_	(6
+7	Küche	Küche	N	NN	Fem|Nom|Sg	5	subj	_	6)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	(6
+2	Küche	Küche	N	NN	Fem|Nom|Sg	3	subj	_	6)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	klein	klein	ADV	ADJD	Pos|	3	pred	_	-
+5	und	und	KON	KON	_	3	kon	_	-
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	cj	_	-
+7	einen	eine	ART	ART	Indef|Masc|Acc|Sg	8	det	_	-
+8	Balkon	Balkon	N	NN	Masc|Acc|Sg	6	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Links	Link	N	NN	Masc|Nom|Pl	2	pred	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	das	die	ART	ART	Def|Neut|Nom|Sg	4	det	_	(7
+4	Schlafzimmer	Schlafzimmer	N	NN	Neut|Nom|Sg	2	subj	_	7)
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Neut|_|Sg	2	det	_	-
+2	Schlafzimmer	Schlafzimmer	N	NN	Neut|_|Sg	0	root	_	-
+3	is	is	FM	FM	Neut|_|Sg	2	app	_	-
+4	gross	gross	FM	FM	Neut|_|Sg	3	app	_	-
+5	und	und	KON	KON	_	0	root	_	-
+6	hell	hell	ADV	ADJD	Pos|	5	cj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Neben	neben	PREP	APPR	Dat	4	pp	_	-
+2	dem	die	ART	ART	Def|Neut|Dat|Sg	3	det	_	(7
+3	Schlafzimmer	Schlafzimmer	N	NN	Neut|Dat|Sg	1	pn	_	7)
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	das	die	ART	ART	Def|Neut|Nom|Sg	6	det	_	(8
+6	Wohnzimmer	Wohnzimmer	N	NN	Neut|Nom|Sg	4	subj	_	8)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	2	det	_	(8
+2	Wohnzimmer	Wohnzimmer	N	NN	Neut|Nom|Sg	3	subj	_	8)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	gross	groß	ADV	ADJD	Pos|	3	pred	_	-
+5	und	und	KON	KON	_	3	kon	_	-
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	cj	_	-
+7	einen	eine	ART	ART	Indef|Masc|Acc|Sg	8	det	_	-
+8	Balkon	Balkon	N	NN	Masc|Acc|Sg	6	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	-
+2	Flur	Flur	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	kurz	kurz	ADV	ADJD	Pos|	3	pred	_	-
+5	und	und	KON	KON	_	3	kon	_	-
+6	das	die	ART	ART	Def|Neut|Nom|Sg	7	det	_	-
+7	Badzimmer	Badzimmer	N	NN	Neut|Nom|Sg	8	subj	_	-
+8	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	cj	_	-
+9	kein	keine	ART	PIAT	Neut|_|Sg	10	det	_	-
+10	Fenster	Fenster	N	NN	Neut|_|Sg	8	obja	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	_|Nom|Sg	2	det	_	(9)
+2	Lieblingskleidung	Lieblingskleidung	N	NN	_|Nom|Sg	3	pred	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	besondere	besondere	ADJA	ADJA	_|Fem|Nom|Pl|_	5	attr	_	-
+5	Jeans	Jeans	N	NN	Fem|Nom|Pl	3	subj	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	Blusen	Bluse	N	NN	Fem|Nom|Pl	6	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(9)
+2	trage	tragen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	gern	gern	ADV	ADV	_	2	adv	_	-
+4	Stöckelschuhe	Stöckelschuh	N	NN	Masc|_|_	2	obja	_	-
+5	und	und	KON	KON	_	4	kon	_	-
+6	Stiefel	Stiefel	N	NN	Masc|_|_	5	cj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	An	an	PREP	APPR	Dat	4	pp	_	-
+2	kalten	kalt	ADJA	ADJA	Pos|_|Dat|_|_|	3	attr	_	-
+3	Tagen	Tag	N	NN	_|Dat|_	1	pn	_	-
+4	trage	tragen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	(9)
+6	eine	eine	ART	ART	Indef|Fem|Acc|Sg	7	det	_	-
+7	Jacke	Jacke	N	NN	Fem|Acc|Sg	4	obja	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	einen	eine	ART	ART	Indef|Masc|Acc|Sg	10	det	_	-
+10	Pullover	Pullover	N	NN	Masc|Acc|Sg	7	kon	_	-
+11	und	und	KON	KON	_	10	kon	_	-
+12	manchmal	manchmal	ADV	ADV	_	14	adv	_	-
+13	einen	eine	ART	ART	Indef|Masc|Acc|Sg	14	det	_	-
+14	Mantel	Mantel	N	NN	Masc|Acc|Sg	11	cj	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Jeden	jede	ART	PIDAT	_|_|Sg	2	det	_	-
+2	Tag	Tag	N	NN	_|_|Sg	3	zeit	_	-
+3	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	mein	meine	ART	PPOSAT	Masc|Nom|Sg	5	det	_	(9)
+5	Mann	Mann	N	NN	Masc|Nom|Sg	3	subj	_	-
+6	das	die	ART	ART	Def|Neut|Nom|Sg	7	det	_	-
+7	Frühstück	Frühstück	N	NN	Neut|Nom|Sg	3	pred	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	koche	kochen	V	VVFIN	1|Sg|Pres|_	3	s	_	-
+10	ich	ich	PRO	PPER	1|Sg|_|Nom	9	subj	_	(9)
+11	das	die	ART	ART	Def|Neut|_|Sg	12	det	_	-
+12	Mittagessen	Mittagessen	N	NN	Neut|_|Sg	9	obja	_	-
+13	und	und	KON	KON	_	9	kon	_	-
+14	zusammen	zusammen	ADV	ADV	_	15	adv	_	-
+15	kochen	kochen	V	VVFIN	1|Pl|Pres|_	13	cj	_	-
+16	wir	wir	PRO	PPER	1|Pl|_|Nom	15	subj	_	-
+17	das	die	ART	ART	Def|Neut|_|Sg	18	det	_	-
+18	Abendessen	Abendessen	N	NN	Neut|_|Sg	15	obja	_	-
+19	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(9)
+2	koche	kochen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	sehr	sehr	ADV	ADV	_	4	adv	_	-
+4	gern	gern	ADV	ADV	_	2	adv	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(9)
+2	esse	essen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	gern	gern	ADV	ADV	_	2	adv	_	-
+4	Brot	Brot	N	NN	Neut|_|Sg	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Am	Am	PTKA	PTKA	_	2	adv	_	-
+2	liebsten	liebsten	ADV	ADJD	_	3	adv	_	-
+3	esse	essen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(9)
+5	aber	aber	ADV	ADV	_	3	adv	_	-
+6	Arepa	Arepa	N	NE	_	3	obja	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	das	die	PRO	PDS	Neut|Nom|Sg	9	subj	_	-
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	3	kon	_	-
+10	eine	eine	ART	ART	Indef|Fem|Nom|Sg	12	det	_	-
+11	Venezolanische	venezolanisch	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	12	attr	_	-
+12	Spezialität	Spezialität	N	NN	Fem|Nom|Sg	9	pred	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(9)
+2	mag	mögen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Salat	Salat	N	NN	Masc|_|Sg	2	obja	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Reis	Reis	N	NE	Neut|_|Sg	3	kon	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	Rindfleisch	Rindfleisch	N	NN	Neut|_|Sg	6	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(9)
+2	trinke	trinken	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	lieber	lieb	ADV	ADJD	Comp|	2	adv	_	-
+4	Wein	Wein	N	NN	Masc|_|Sg	2	obja	_	-
+5	als	als	KOKOM	KOKOM	_	2	kom	_	-
+6	Bier	Bier	N	NN	_|_|_	5	cj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(9)
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	Weißwein	Weißwein	N	NN	Masc|_|Sg	0	root	_	-
+5	gut	gut	ADV	ADJD	Pos|	0	root	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	aber	aber	KON	KON	_	0	root	_	-
+8	den	die	ART	ART	Def|Masc|Acc|Sg	9	det	_	-
+9	Rosewein	Rosewein	N	NN	Masc|Acc|Sg	7	cj	_	-
+10	besser	gut	ADV	ADJD	Comp|	0	root	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+3	Rotwein	Rotwein	N	NN	Masc|Nom|Sg	4	subj	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	-
+5	am	am	PTKA	PTKA	_	6	adv	_	-
+6	besten	besten	ADV	ADJD	_	4	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	4	pp	_	-
+2	Letzten	letzte	ADJA	ADJA	Pos|_|Dat|Sg|Wk|	3	attr	_	-
+3	Urlaub	Urlaub	N	NN	_|Dat|Sg	1	pn	_	-
+4	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	(9)
+6	in	in	PREP	APPR	_	8	pp	_	-
+7	Stuttgart	Stuttgart	N	NE	Neut|_|Sg	6	pn	_	(4)
+8	geblieben	bleiben	V	VVPP	_	4	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(10)
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	einen	eine	ART	ART	Indef|Masc|Acc|Sg	4	det	_	-
+4	Spaziergang	Spaziergang	N	NN	Masc|Acc|Sg	8	obja	_	-
+5	durch	durch	PREP	APPR	Acc	8	pp	_	-
+6	den	die	ART	ART	Def|Masc|Acc|Sg	7	det	_	-
+7	Wald	Wald	N	NN	Masc|Acc|Sg	5	pn	_	-
+8	gemacht	machen	V	VVPP	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Da	da	ADV	ADV	_	2	adv	_	-
+2	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	-
+3	wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(10)
+4	zum	zu	PREP	APPRART	Dat	8	objp	_	-
+5	“	“	$(	$(	_	0	root	_	-
+6	Bärensee	Bärensee	N	NN	_|Dat|Sg	4	pn	_	-
+7	”	”	$(	$(	_	0	root	_	-
+8	gegangen	gehen	V	VVPP	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Jeden	jede	ART	PIDAT	_|_|Sg	2	det	_	-
+2	Tag	Tag	N	NN	_|_|Sg	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	-
+5	wir	wir	PRO	PPER	1|Pl|_|Nom	4	subj	_	(10)
+6	Joggen	Joggen	N	NN	Neut|Dat|Sg	7	objd	_	-
+7	gegangen	gehen	V	VVPP	_	4	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	An	an	PREP	APPR	Dat	4	pp	_	-
+2	manchen	manche	ART	PIAT	_|Dat|_	3	det	_	-
+3	Tagen	Tag	N	NN	_|Dat|_	1	pn	_	-
+4	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+5	das	die	ART	ART	Def|Neut|Nom|Sg	6	det	_	-
+6	Wetter	Wetter	N	NN	Neut|Nom|Sg	4	subj	_	-
+7	sonnig	sonnig	ADV	ADJD	Pos|	4	pred	_	-
+8	und	und	KON	KON	_	4	kon	_	-
+9	an	an	PREP	APPR	_	12	pp	_	-
+10	anderen	anderen	ADJA	ADJA	_|_|_|_|_	11	attr	_	-
+11	Tagen	Tag	N	NN	_|_|_	9	pn	_	-
+12	war	sein	V	VAFIN	_|Sg|Past|Ind	8	cj	_	-
+13	es	es	PRO	PPER	3|Sg|Neut|Nom	12	subj	_	-
+14	bewölkt	bewölken	V	VVPP	_	12	aux	_	-
+

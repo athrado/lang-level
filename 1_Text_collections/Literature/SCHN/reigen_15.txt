@@ -1,0 +1,493 @@
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	132	132
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	völlig	völlig	A	ADJD	Pos|	4	adv	_	_
+4	angekleidet	angekleidet	A	ADJD	Pos|	2	adv	_	_
+5	in	in	P	APPR	Acc	2	objp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	120	120
+7	Salon	Salon	N	NN	Masc|Acc|Sg	5	pn	120	120
+8	,	,	$	$,	_	0	root	_	_
+9	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+10	eine	eine	A	ART	Indef|Fem|_|Sg	11	det	_	_
+11	Schokoladebäckerei	Schokoladebäckerei	N	NN	Fem|_|Sg	9	obja	_	_
+12	in	in	P	APPR	Acc	9	objp	_	_
+13	die	die	A	ART	Def|Fem|Acc|Sg	14	det	245	245
+14	Erde	Erde	N	NN	Fem|Acc|Sg	12	pn	245	245
+15	sinken	sinken	V	VVINF	_	0	root	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	_
+3	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+4	Also	also	A	ADV	_	3	adv	_	_
+5	morgen	morgen	A	ADV	_	3	adv	_	_
+6	bei	bei	P	APPR	Dat	3	pp	_	_
+7	Lobheimer	Lobheimer	N	NE	_|Dat|_	6	pn	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	das	die	P	PDS	Neut|Nom|Sg	10	subj	_	_
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+11	schön	schön	A	ADJD	Pos|	10	pred	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	Nein	nein	P	PTKANT	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	nein	nein	P	PTKANT	_	0	root	_	_
+7	...	...	$	$.	_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	292	292
+9	sage	sagen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+10	ab	ab	P	PTKVZ	_	9	avz	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	bestimmt	bestimmen	V	VVPP	_	0	root	_	_
+13	-	-	$	$(	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	_
+3	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+4	Also	also	A	ADV	_	3	adv	_	_
+5	übermorgen	übermorgen	A	ADV	_	3	adv	_	_
+6	...	...	$	$.	_	0	root	_	_
+7	hier	hier	A	ADV	_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+4	Was	was	P	PWS	Neut|Nom|Sg	5	subj	_	_
+5	fällt	fallen	V	VVFIN	3|Sg|Pres|Ind	3	objc	_	_
+6	dir	du	P	PPER	2|Sg|_|Dat	5	objd	_	_
+7	ein	ein	P	PTKVZ	_	5	avz	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	_
+3	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+4	Um	um	P	APPR	_	3	pp	_	_
+5	sechs	sechs	C	CARD	_	4	pn	_	_
+6	...	...	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	0	root	_	_
+2	junge	jung	A	ADJA	Pos|_|_|_|_|	0	root	_	_
+3	Frau	Frau	N	NN	Fem|Dat|Sg	8	objd	_	_
+4	Hier	hier	A	ADV	_	3	adv	_	_
+5	an	an	P	APPR	Dat	3	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	246	246
+7	Ecke	Eck	N	NN	Fem|Dat|Sg	5	pn	246	246
+8	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+9	Wagen	Wage	N	NN	_|Nom|Pl	8	subj	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+12	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	89	89
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	89	89
+3	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	89	89
+4	Ja	ja	P	PTKANT	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	viel	viel	P	PIS	_	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	9	subj	_	_
+9	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	4	adv	_	_
+2	übermorgen	übermorgen	A	ADV	_	3	adv	_	_
+3	hier	hier	A	ADV	_	4	adv	_	_
+4	um	um	P	APPR	_	0	root	_	_
+5	sechs	sechs	C	CARD	_	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	sag	sag	V	VVFIN	_	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mein	meine	A	PPOSAT	Masc|Nom|Sg	8	det	_	_
+7	geliebter	geliebt	A	ADJA	Pos|Masc|Nom|Sg|St|	8	attr	_	_
+8	Schatz	Schatz	N	NN	Masc|Nom|Sg	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	...	...	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	besprechen	besprechen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	morgen	morgen	A	ADV	_	2	adv	_	_
+5	beim	bei	P	APPRART	Dat	2	pp	_	_
+6	Kotillon	Kotillon	N	NN	Masc|Dat|Sg	5	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	89	89
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	89	89
+3	Herr	Herr	N	NN	Masc|Nom|Sg	4	subj	89	89
+4	umarmt	umarmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	sie	sie	P	PPER	3|_|_|_	4	obja	132	132
+6	Mein	meine	A	PPOSAT	Masc|Nom|Sg	7	det	247	247
+7	Engel	Engel	N	NN	Masc|Nom|Sg	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	Nicht	nicht	P	PTKNEG	_	8	adv	_	_
+5	wieder	wieder	A	ADV	_	8	adv	_	_
+6	meine	meine	A	PPOSAT	Fem|_|Sg	7	det	247	247
+7	Frisur	Frisur	N	NN	Fem|_|Sg	8	obja	_	_
+8	ruinieren	ruinieren	V	VVINF	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	_
+3	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+4	Also	also	A	ADV	_	3	adv	_	_
+5	morgen	morgen	A	ADV	_	3	adv	_	_
+6	bei	bei	P	APPR	Dat	3	pp	_	_
+7	Lobheimers	Lobheimers	N	NE	_|Dat|_	6	pn	248	248
+8	und	und	K	KON	_	6	kon	_	_
+9	übermorgen	übermorgen	A	ADV	_	10	adv	_	_
+10	in	in	P	APPR	Dat	8	cj	_	_
+11	meinen	meine	A	PPOSAT	_|Dat|_	12	det	247	247
+12	Armen	Arm	N	NN	_|Dat|_	10	pn	295	295
+13	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	580	580
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	580	580
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	580	580
+4	Leb	Leb	N	NE	Fem|_|Sg	3	app	580	580
+5	wohl	wohl	A	ADV	_	4	adv	_	_
+6	...	...	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	_
+3	Herr	Herr	N	NN	Masc|Nom|Sg	0	root	_	_
+4	plötzlich	plötzlich	A	ADJD	Pos|	5	adv	_	_
+5	wieder	wieder	A	ADV	_	3	adv	_	_
+6	besorgt	besorgt	A	ADJD	Pos|	0	root	_	_
+7	Und	und	K	KON	_	0	root	_	_
+8	was	was	P	PWS	Neut|_|Sg	9	obja	_	_
+9	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	7	cj	_	_
+10	du	du	P	PPER	2|Sg|_|Nom	9	subj	249	249
+11	-	-	$	$(	_	0	root	_	_
+12	ihm	er	P	PPER	3|Sg|_|Dat	0	root	1	1
+13	heut	heut	A	ADJD	Pos|	0	root	_	_
+14	sagen	sagen	V	VVINF	_	0	root	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	327	327
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	327	327
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	327	327
+4	Frag	Frag	N	NE	Fem|_|Sg	3	app	327	327
+5	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+6	...	...	$	$.	_	0	root	_	_
+7	frag	frag	A	ADJD	_	8	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	0	root	_	_
+9	...	...	$	$.	_	0	root	_	_
+10	es	es	P	PPER	3|Sg|Neut|Nom	11	subj	_	_
+11	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+12	zu	zu	P	PTKA	_	13	adv	_	_
+13	schrecklich	schrecklich	A	ADJD	Pos|	11	pred	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Warum	Warum	P	PWAV	_	3	adv	_	_
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	251	251
+6	dich	du	P	PPER	2|Sg|_|Acc	3	obja	249	249
+7	so	so	A	ADV	_	8	adv	_	_
+8	lieb	lieb	A	ADJD	Pos|	3	adv	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Adieu	Adieu	N	NE	_	0	root	250	250
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wenn	wenn	K	KOUS	_	9	konj	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	251	251
+4	wieder	wieder	A	ADV	_	9	adv	_	_
+5	Menschen	Mensch	N	NN	Masc|Dat|_	9	objd	_	_
+6	auf	auf	P	APPR	Dat	9	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	252	252
+8	Stiege	Stiege	N	NN	Fem|Dat|Sg	6	pn	252	252
+9	begegne	begegnen	V	VVFIN	1|Sg|Pres|_	11	neb	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	trifft	treffen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+12	mich	ich	P	PPER	1|Sg|_|Acc	11	obja	251	251
+13	der	die	A	ART	Def|Masc|Nom|Sg	14	det	_	_
+14	Schlag	Schlag	N	NN	Masc|Nom|Sg	11	subj	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Pah	Pah	N	NE	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	89	89
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	89	89
+3	Herr	Herr	N	NN	Masc|Nom|Sg	4	subj	89	89
+4	küßt	küßt	V	VVFIN	_|Sg|_|_	0	root	_	_
+5	ihr	ihr	P	PPER	3|Sg|Fem|Dat	4	objd	252	252
+6	noch	noch	A	ADV	_	4	adv	_	_
+7	einmal	einmal	A	ADV	_	4	adv	_	_
+8	die	die	A	ART	Def|Fem|_|Sg	9	det	98	98
+9	Hand	Hand	N	NN	Fem|_|Sg	4	obja	98	98
+10	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	132	132
+4	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	89	89
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	89	89
+3	Herr	Herr	N	NN	Masc|Nom|Sg	4	subj	89	89
+4	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	allein	allein	A	ADV	_	4	adv	_	_
+6	zurück	zurück	P	PTKVZ	_	4	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	89	89
+4	sich	sie	P	PRF	3|_|_	2	obja	_	_
+5	auf	auf	P	APPR	Acc	2	objp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	104	104
+7	Diwan	Diwan	N	NN	Masc|Acc|Sg	5	pn	104	104
+8	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	89	89
+2	lächelt	lächeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	vor	vor	P	APPR	_	2	pp	_	_
+4	sich	sie	P	PRF	3|_|_	3	pn	_	_
+5	hin	hin	A	APZR	_	3	part	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	sagt	sagen	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	zu	zu	P	APPR	Dat	13	pp	_	_
+9	sich	sie	P	PRF	3|_|Dat	8	pn	_	_
+10	selbst	selbst	A	ADV	_	8	adv	_	_
+11	Also	also	A	ADV	_	8	adv	_	_
+12	jetzt	jetzt	A	ADV	_	8	adv	_	_
+13	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+14	'	'	$	$(	_	0	root	_	_
+15	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	292	292
+16	ein	eine	A	ART	Indef|Neut|_|Sg	17	det	_	_
+17	Verhältnis	Verhältnis	N	NN	Neut|_|Sg	13	obja	_	_
+18	mit	mit	P	APPR	Dat	13	pp	_	_
+19	einer	eine	A	ART	Indef|Fem|Dat|Sg	21	det	_	_
+20	anständigen	anständig	A	ADJA	Pos|Fem|Dat|Sg|Wk|	21	attr	_	_
+21	Frau	Frau	N	NN	Fem|Dat|Sg	18	pn	_	_
+22	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|_|Sg	3	det	_	_
+2	behagliches	behaglich	A	ADJA	Pos|Neut|_|Sg|St|	3	attr	_	_
+3	Schlafgemach	Schlafgemach	N	NN	Neut|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	halb	halb	A	ADJD	Pos|	2	adv	_	_
+4	elf	elf	C	CARD	_	5	attr	_	_
+5	Uhr	Uhr	N	NN	Fem|Nom|Sg	2	pred	_	_
+6	nachts	nachts	A	ADV	_	5	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	132	132
+2	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	132	132
+3	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	zu	zu	P	APPR	Dat	3	objp	_	_
+5	Bette	Bett	N	NN	Neut|Dat|Sg	4	pn	253	253
+6	und	und	K	KON	_	3	kon	_	_
+7	liest	lesen	V	VVFIN	_|Sg|Pres|Ind	6	cj	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	3	subj	255	255
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	eben	eben	A	ADV	_	3	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	im	in	P	APPRART	Dat	4	kon	_	_
+7	Schlafrock	Schlafrock	N	NN	Masc|Dat|Sg	6	pn	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	ins	in	P	APPRART	Acc	6	kon	_	_
+10	Zimmer	Zimmer	N	NN	Neut|Acc|_	9	pn	254	254
+11	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	ohne	ohne	P	APPR	Acc	7	pp	_	_
+5	auszuschauen	auszuschau	A	ADJA	Pos|Neut|Dat|Sg|Wk|	6	attr	_	_
+6	Du	Du	N	NN	Neut|Dat|Sg	4	pn	_	_
+7	arbeitest	arbeiten	V	VVFIN	2|Sg|Pres|_	0	root	_	_
+8	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+9	mehr	mehr	A	ADV	_	8	adv	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	_	_
+2	Gatte	Gatte	N	NN	Neut|Nom|Sg	0	root	_	_
+3	Nein	Nein	N	NN	Neut|Nom|Sg	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	292	292
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	PTKA	_	4	adv	_	_
+4	müde	müde	A	ADJD	Pos|	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	außerdem	außerdem	P	PROAV	_	1	cj	_	_
+3	...	...	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	316	316
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	316	316
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	316	316
+4	Nun	nun	A	ADV	_	3	adv	316	316
+5	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	256	256
+4	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	mich	ich	P	PPER	1|Sg|_|Acc	13	obja	_	_
+7	an	an	P	APPR	Dat	13	pp	_	_
+8	meinem	meine	A	PPOSAT	Masc|Dat|Sg	9	det	256	256
+9	Schreibtisch	Schreibtisch	N	NN	Masc|Dat|Sg	7	pn	461	461
+10	plötzlich	plötzlich	A	ADJD	Pos|	13	adv	_	_
+11	so	so	A	ADV	_	12	adv	_	_
+12	einsam	einsam	A	ADJD	Pos|	13	pred	_	_
+13	gefühlt	fühlen	V	VVPP	_	4	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	256	256
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	Sehnsucht	Sehnsucht	N	NN	Fem|_|Sg	2	obja	_	_
+4	nach	nach	P	APPR	Dat	3	pp	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	4	pn	_	_
+6	bekommen	bekommen	V	VVINF	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	132	132
+4	schaut	schauen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	auf	auf	P	APPR	_	4	pp	_	_
+6	Wirklich	wirklich	A	ADJD	Pos|	5	pn	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	3	subj	255	255
+3	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	zu	zu	P	APPR	Dat	3	pp	_	_
+6	ihr	ihr	P	PPER	3|Sg|Fem|Dat	5	pn	132	132
+7	aufs	auf	P	APPRART	Acc	3	objp	_	_
+8	Bett	Bett	N	NN	Neut|Acc|Sg	7	pn	_	_
+9	Lies	Lies	N	NE	Neut|Acc|Sg	8	app	_	_
+10	heute	heute	A	ADV	_	7	adv	_	_
+11	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+12	mehr	mehr	A	ADV	_	11	adv	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	258	258
+2	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	6	objd	_	_
+4	die	die	A	ART	Def|Neut|_|Pl	5	det	374	374
+5	Augen	Auge	N	NN	Neut|_|Pl	6	obja	374	374
+6	verderben	verderben	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	132	132
+4	schlägt	schlagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	257	257
+6	Buch	Buch	N	NN	Neut|_|Sg	4	obja	257	257
+7	zu	zu	P	APPR	Dat	0	root	_	_
+8	Was	was	P	PWS	Neut|_|Sg	9	obja	_	_
+9	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+10	du	du	P	PPER	2|Sg|_|Nom	9	subj	258	258
+11	denn	denn	A	ADV	_	9	adv	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	_	_
+2	Gatte	Gatte	N	NN	Neut|Nom|Sg	0	root	_	_
+3	Nichts	Nichts	N	NN	Neut|Nom|Sg	2	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	mein	meine	A	PPOSAT	Neut|Nom|Sg	6	det	259	259
+6	Kind	Kind	N	NN	Neut|Nom|Sg	3	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Verliebt	verlieben	V	VVPP	_	2	aux	_	_
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	259	259
+4	in	in	P	APPR	Acc	1	pp	_	_
+5	dich	du	P	PPER	2|Sg|_|Acc	4	pn	258	258
+6	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	258	258
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	5	obja	132	132
+4	Man	man	P	PIS	_|Nom|Sg	5	subj	_	_
+5	könnte	können	V	VMFIN	3|Sg|Past|Subj	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	9	subj	_	_
+7	manchmal	manchmal	A	ADV	_	9	adv	_	_
+8	fast	fast	A	ADV	_	9	adv	_	_
+9	vergessen	veressen	V	VVPP	_	5	neb	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+4	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+6	sogar	sogar	A	ADV	_	8	adv	_	_
+7	manchmal	manchmal	A	ADV	_	8	adv	_	_
+8	vergessen	veressen	V	VVPP	_	4	neb	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	Warum	Warum	P	PWAV	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Weil	weil	K	KOUS	_	9	konj	_	_
+4	die	die	A	ART	Def|Fem|Nom|Sg	5	det	260	260
+5	Ehe	Ehe	N	NN	Fem|Nom|Sg	9	subj	260	260
+6	sonst	sonst	A	ADV	_	9	adv	_	_
+7	etwas	etwas	A	PIAT	Neut|Nom|Sg	8	det	_	_
+8	Unvollkommenes	Unvollkommenes	N	NN	Neut|Nom|Sg	9	pred	_	_
+9	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	260	260
+2	würde	werden	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+4	wie	wie	P	PWAV	_	5	adv	_	_
+5	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	261	261
+7	nur	nur	A	ADV	_	8	adv	_	_
+8	sagen	sagen	V	VVINF	_	5	aux	_	_
+9	...	...	$	$.	_	0	root	_	_
+10	sie	sie	P	PPER	3|Sg|Fem|Nom	11	subj	260	260
+11	würde	werden	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+12	ihre	ihre	A	PPOSAT	Fem|_|Sg	13	det	260	260
+13	Heiligkeit	Heiligkeit	N	NN	Fem|_|Sg	14	obja	_	_
+14	verlieren	verlieren	V	VVINF	_	11	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+

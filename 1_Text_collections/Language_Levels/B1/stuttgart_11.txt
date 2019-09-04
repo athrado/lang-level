@@ -1,0 +1,64 @@
+1	Wenn	wenn	KOUS	KOUS	_	4	konj	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	(0)
+3	fliegen	fliegen	V	VVINF	_	4	aux	_	-
+4	könnte	können	V	VMFIN	1|Sg|Past|Subj	6	neb	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+7	ich	ich	PRO	PPER	1|Sg|_|Nom	6	subj	_	(0)
+8	in	in	PREP	APPR	Acc	11	pp	_	-
+9	alle	alle	ART	PIDAT	_|Acc|Pl	10	det	_	-
+10	Länder	Land	N	NN	_|Acc|Pl	8	pn	_	-
+11	reisen	reisen	V	VVINF	_	6	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	glaube	glauben	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	5	subj	_	(0)
+5	würde	werden	V	VAFIN	1|Sg|Past|Subj	2	s	_	-
+6	versuchen	versuchen	V	VVINF	_	5	aux	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	jeden	jede	ART	PIDAT	_|_|Sg	9	det	_	-
+9	Tag	Tag	N	NN	_|_|Sg	0	root	_	-
+10	ein	eine	ART	ART	Indef|Neut|_|Sg	12	det	_	-
+11	anderes	anderes	ADJA	ADJA	_|Neut|_|Sg|_	12	attr	_	-
+12	Land	Land	N	NN	Neut|_|Sg	14	obja	_	-
+13	zu	zu	PTKZU	PTKZU	_	14	part	_	-
+14	besuchen	besuchen	V	VVINF	_	0	root	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	wäre	sein	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	die	die	ART	ART	Def|Fem|Nom|Sg	5	det	_	-
+4	ganze	ganz	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	5	attr	_	-
+5	Zeit	Zeit	N	NN	Fem|Nom|Sg	2	pred	_	-
+6	in	in	PREP	APPR	Dat	5	pp	_	-
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	-
+8	Luft	Luft	N	NN	Fem|Dat|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	jede	jede	ART	PIDAT	Fem|_|Sg	4	det	_	-
+4	Kultur	Kultur	N	NN	Fem|_|Sg	5	obja	_	-
+5	kennen	kennen	V	VVINF	_	6	obji	_	-
+6	lernen	lernen	V	VVINF	_	2	aux	_	-
+7	und	und	KON	KON	_	2	kon	_	-
+8	ich	ich	PRO	PPER	1|Sg|_|Nom	9	subj	_	(0)
+9	könnte	können	V	VMFIN	1|Sg|Past|Subj	7	cj	_	-
+10	die	die	ART	ART	Def|_|_|_	11	det	_	-
+11	beste	gut	ADJA	ADJA	_|_|_	14	obja	_	-
+12	für	für	PREP	APPR	Acc	14	pp	_	-
+13	mich	ich	PRO	PPER	1|Sg|_|Acc	12	pn	_	-
+14	finden	finden	V	VVINF	_	9	aux	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	hätte	haben	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	mehr	mehr	ART	PIAT	Neut|_|Sg	4	det	_	-
+4	Wissen	Wissen	N	NN	Neut|_|Sg	2	obja	_	-
+5	über	über	PREP	APPR	Acc	4	pp	_	-
+6	die	die	ART	ART	Def|Fem|Acc|Sg	7	det	_	-
+7	Welt	Welt	N	NN	Fem|Acc|Sg	5	pn	_	-
+8	...	...	$.	$.	_	0	root	_	-
+

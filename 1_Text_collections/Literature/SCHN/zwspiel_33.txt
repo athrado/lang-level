@@ -1,0 +1,302 @@
+1	Was	was	P	PWS	Neut|_|Sg	6	obja	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	6	subj	6	6
+3	für	für	P	APPR	Acc	6	pp	_	_
+4	schöne	schön	A	ADJA	Pos|Fem|Acc|Pl|St|	5	attr	_	_
+5	Blumen	Blume	N	NN	Fem|Acc|Pl	3	pn	_	_
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Peterl	Peterl	N	NE	_	0	root	98	98
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	_|Nom|Pl	2	subj	_	_
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	für	für	P	APPR	Acc	2	pp	_	_
+4	die	die	A	ART	Def|Fem|Acc|Sg	5	det	354	354
+5	Mama	Mama	N	NN	Fem|Acc|Sg	3	pn	354	354
+6	!	!	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	6	6
+4	eine	eine	A	ART	Indef|Fem|_|Sg	0	root	_	_
+5	weg	weg	P	PTKVZ	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	erlaubst	erlauben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	mein	meine	A	PPOSAT	Masc|Nom|Sg	5	det	_	_
+5	Sohn	Sohn	N	NN	Masc|Nom|Sg	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|Pl	2	det	106	106
+2	Vorigen	Vorige	N	NN	_|_|Pl	0	root	106	106
+3	-	-	$	$(	_	0	root	_	_
+4	Cäcilie	Cäcilie	N	NE	Fem|Nom|Sg	5	subj	78	78
+5	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	hinter	hinter	P	APPR	Dat	10	pp	_	_
+8	ihr	ihr	P	PPER	3|Sg|Fem|Dat	7	pn	78	78
+9	das	die	A	ART	Def|Neut|_|Sg	10	det	_	_
+10	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|Sg	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	2	attr	_	_
+2	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ihr	ihr	P	PPER	_|_|_|_	0	root	6	6
+5	auch	auch	A	ADV	_	4	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	aber	aber	A	ADV	_	2	adv	_	_
+4	nett	nett	A	ADJD	Pos|	2	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Peterl	Peterl	N	NE	_	0	root	98	98
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mama	Mama	N	NN	Fem|_|Sg	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	Blumen	Blume	N	NN	Fem|_|Pl	0	root	355	355
+4	!	!	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|Nom|Sg	2	subj	78	78
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	6	6
+4	,	,	$	$,	_	0	root	_	_
+5	küßt	küßt	V	VVFIN	_	2	kon	_	_
+6	ihn	er	P	PPER	3|Sg|Masc|Acc	5	obja	6	6
+7	ab	ab	P	PTKVZ	_	5	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	356	356
+2	Bub	Bub	N	NN	Masc|Nom|Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	356	356
+2	Bub	Bub	N	NN	Masc|Nom|Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Begrüßt	begrüßen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	dann	dann	A	ADV	_	1	adv	_	_
+3	die	die	A	ART	Def|_|_|_	4	det	_	_
+4	andern	andern	A	ADJA	_|_|_	1	subj	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	reicht	reichen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihr	ihr	P	PPER	3|Sg|Fem|Dat	2	objd	_	_
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	_	_
+5	Blume	Blume	N	NN	Fem|_|Sg	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Peterl	Peterl	N	NE	_|Nom|Sg	2	subj	98	98
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	370	370
+4	auch	auch	A	ADV	_	2	adv	_	_
+5	eine	eine	P	PIS	_|_|Sg	2	obja	_	_
+6	überlassen	überlassen	V	VVINF	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Danke	Danke	V	VVIMP	_	0	root	_	_
+2	sehr	sehr	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	78	78
+2	reicht	reichen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	6	6
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	56	56
+5	Hand	Hand	N	NN	Fem|_|Sg	2	obja	56	56
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Zum	zu	P	APPRART	Dat	0	root	_	_
+3	Stubenmädchen	Stubenmädchen	N	NN	Neut|Dat|_	2	pn	239	239
+4	.	.	$	$.	_	0	root	_	_
+
+1	Bitte	Bitte	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	holen	holen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+5	die	die	A	ART	Def|Fem|_|Pl	6	det	357	357
+6	Sachen	Sache	N	NN	Fem|_|Pl	3	obja	357	357
+7	aus	aus	P	APPR	Dat	3	pp	_	_
+8	dem	die	A	ART	Def|_|Dat|Sg	9	det	358	358
+9	Wagen	Wage	N	NN	_|Dat|Sg	7	pn	358	358
+10	;	;	$	$.	_	0	root	_	_
+11	der	die	A	ART	Def|Masc|Nom|Sg	12	det	359	359
+12	Kutscher	Kutscher	N	NN	Masc|Nom|Sg	13	subj	359	359
+13	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+14	Ihnen	sie	P	PPER	3|Pl|_|Dat	15	objd	357	357
+15	helfen	helfen	V	VVINF	_	13	aux	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	359	359
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	schon	schon	A	ADV	_	4	adv	_	_
+4	bezahlt	bezahlen	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|_	0	root	239	239
+2	ab	ab	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	den	die	A	ART	Def|Masc|Acc|Sg	3	det	692	692
+3	Hut	Hut	N	NN	Masc|Acc|Sg	4	obja	692	692
+4	abnehmend	abnehmen	A	ADJD	_|<PPRES	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Na	Na	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Marie	Marie	N	NE	_	0	root	95	95
+4	?	?	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	den	die	A	ART	Def|_|_|_	3	det	_	_
+3	andern	andern	A	ADJA	_|_|_	1	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ihr	ihr	P	PPER	2|Pl|_|Nom	2	subj	_	_
+2	habt	haben	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+3	am	an	P	APPRART	Dat	6	pp	_	_
+4	Ende	Ende	N	NN	Neut|Dat|Sg	3	pn	232	232
+5	noch	noch	A	ADV	_	6	adv	_	_
+6	gearbeitet	arbeiten	V	VVPP	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Albertus	Albertus	N	NE	_	0	root	61	61
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	versucht	versuchen	V	VVPP	_	2	aux	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	zum	zu	P	APPRART	Dat	1	pp	78	78
+3	Fräulein	Fräulein	N	NN	Neut|Dat|_	2	pn	78	78
+4	.	.	$	$.	_	0	root	100)	100)
+
+1	War	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	1	subj	6	6
+3	brav	brav	A	ADJD	Pos|	1	pred	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Peterl	Peterl	N	NE	_	0	root	98	98
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sehr	sehr	A	ADV	_	2	adv	_	_
+2	brav	brav	A	ADJD	Pos|	5	pred	_	_
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	360	360
+5	gewesen	sein	V	VAPP	_	3	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	6	objd	360	360
+4	auch	auch	A	ADV	_	6	adv	_	_
+5	was	was	P	PIS	_	6	obja	_	_
+6	mitgebracht	mitbringen	V	VVPP	_	1	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Natürlich	natürlich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	kriegst	kriegen	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	3	obja	_	_
+5	erst	erst	A	ADV	_	3	adv	_	_
+6	morgen	morgen	A	ADV	_	3	adv	_	_
+7	früh	früh	A	ADJD	Pos|	3	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Peterl	Peterl	N	NE	_	0	root	98	98
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	jetzt	jetzt	A	ADV	_	2	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	370	370
+4	zu	zu	P	PTKZU	_	5	part	_	_
+5	müd	müd	V	VVINF	_	2	aux	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	um	um	K	KOUI	_	9	konj	_	_
+9	auszupacken	auspacken	V	VVIZU	_	5	neb	_	_
+10	;	;	$	$.	_	0	root	_	_
+11	morgen	morgen	A	ADV	_	17	adv	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	wenn	wenn	K	KOUS	_	15	konj	_	_
+14	du	du	P	PPER	2|Sg|_|Nom	15	subj	361	361
+15	aufwachst	aufwachen	V	VVFIN	2|Sg|Pres|Ind	17	neb	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+18	du	du	P	PPER	2|Sg|_|Nom	17	subj	361	361
+19	'	'	$	$(	_	0	root	_	_
+20	s	s	P	PPER	_	24	obja	_	_
+21	auf	auf	P	APPR	Dat	24	pp	_	_
+22	deinem	deine	A	PPOSAT	_|Dat|Sg	23	det	361	361
+23	Tischerl	Tischerl	N	NN	_|Dat|Sg	21	pn	_	_
+24	finden	finden	V	VVINF	_	17	aux	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Peterl	Peterl	N	NE	_	0	root	98	98
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+2	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	schon	schon	A	ADV	_	5	adv	_	_
+5	sehen	sehen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Peterl	Peterl	N	NE	_	0	root	98	98
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	das	die	A	ART	Def|Neut|Nom|Sg	3	det	_	_
+3	Tischerl	Tischerl	N	NN	Neut|Nom|Sg	1	subj	_	_
+4	groß	groß	A	ADJD	Pos|	1	pred	_	_
+5	genug	genug	A	ADV	_	4	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+

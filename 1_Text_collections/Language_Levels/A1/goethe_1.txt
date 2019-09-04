@@ -1,0 +1,46 @@
+1	Danke	Dank	N	NN	Masc|Dat|Sg	0	root	_	-
+2	für	für	PREP	APPR	Acc	1	pp	_	-
+3	deine	deine	ART	PPOSAT	_|Acc|Sg	4	det	_	(0)
+4	Mail	Mail	N	NN	_|Acc|Sg	2	pn	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Dein	deine	ART	PPOSAT	_|Nom|Sg	2	det	_	(0)
+2	Zug	Zug	N	NN	_|Nom|Sg	3	subj	_	-
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	hier	hier	ADV	ADV	_	3	adv	_	-
+5	in	in	PREP	APPR	_	3	pp	_	-
+6	Hannover	Hannover	N	NE	Neut|_|Sg	5	pn	_	-
+7	um	um	PREP	APPR	_	3	pp	_	-
+8	12.36	12.36	CARD	CARD	_	9	attr	_	-
+9	Uhr	Uhr	N	NN	Fem|_|Sg	7	pn	_	-
+10	an	an	PTKVZ	PTKVZ	_	3	avz	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(1)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ab	ab	PREP	APPR	Dat	2	pp	_	-
+4	12.15	12.15	CARD	CARD	_	5	attr	_	-
+5	Uhr	Uhr	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	im	in	PREP	APPRART	Dat	2	pp	_	-
+7	Hauptbahnhof	Hauptbahnhof	N	NN	Masc|Dat|Sg	6	pn	_	-
+8	und	und	KON	KON	_	2	kon	_	-
+9	warte	warten	V	VVFIN	_|Sg|Pres|_	8	cj	_	-
+10	auf	auf	PREP	APPR	Acc	9	pp	_	-
+11	dich	du	PRO	PPER	2|Sg|_|Acc	10	pn	_	(0)
+12	vor	vor	PREP	APPR	Dat	9	pp	_	-
+13	der	die	ART	ART	Def|Fem|Dat|Sg	14	det	_	-
+14	Auskunft	Auskunft	N	NN	Fem|Dat|Sg	12	pn	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Du	du	PRO	PPER	2|Sg|_|Nom	2	subj	_	(0)
+2	kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	-
+3	mich	ich	PRO	PPER	1|Sg|_|Acc	10	obja	_	(1)
+4	den	die	ART	ART	Def|Masc|Acc|Sg	6	det	_	-
+5	ganzen	ganz	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	6	attr	_	-
+6	Vormittag	Vormittag	N	NN	Masc|Acc|Sg	10	zeit	_	-
+7	auf	auf	PREP	APPR	Dat	10	pp	_	-
+8	meinem	meine	ART	PPOSAT	Neut|Dat|Sg	9	det	_	(1)
+9	Handy	Handy	N	NN	Neut|Dat|Sg	7	pn	_	-
+10	erreichen	erreichen	V	VVINF	_	2	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,90 @@
+1	Am	an	PREP	APPRART	Dat	4	pp	_	-
+2	kommenden	kommend	ADJA	ADJA	Pos|_|Dat|Sg|Wk|_	3	attr	_	-
+3	Sonntag	Sonntag	N	NN	_|Dat|Sg	1	pn	_	-
+4	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	(0)
+6	Geburtstag	Geburtstag	N	NN	_|_|Sg	4	obja	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	-
+3	gerne	gerne	ADV	ADV	_	6	adv	_	-
+4	mit	mit	PREP	APPR	Dat	6	pp	_	-
+5	dir	du	PRO	PPER	2|Sg|_|Dat	4	pn	_	(1)
+6	feiern	feiern	V	VVINF	_	2	aux	_	-
+7	und	und	KON	KON	_	2	kon	_	-
+8	lade	laden	V	VVFIN	_|Sg|Pres|_	7	cj	_	-
+9	dich	du	PRO	PPER	2|Sg|_|Acc	8	obja	_	(1)
+10	herzlich	herzlich	ADV	ADV	_	8	adv	_	-
+11	zu	zu	PREP	APPR	Dat	8	pp	_	-
+12	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	13	det	_	(0)
+13	Party	Party	N	NN	Fem|Dat|Sg	11	pn	_	-
+14	am	an	PREP	APPRART	Dat	8	pp	_	-
+15	Samstagabend	Samstagabend	N	NN	Masc|Dat|Sg	14	pn	_	-
+16	ein	ein	PTKVZ	PTKVZ	_	8	avz	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	-
+2	fangen	fangen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	um	um	PREP	APPR	_	2	pp	_	-
+4	21	21	CARD	CARD	_	5	attr	_	-
+5	Uhr	Uhr	N	NN	Fem|_|Sg	3	pn	_	-
+6	an	an	PTKVZ	PTKVZ	_	2	avz	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+2	das	die	PRO	PDS	Neut|Nom|Sg	1	subj	_	-
+3	okay	okay	ADV	ADJD	Pos|	1	pred	_	-
+4	für	für	PREP	APPR	Acc	1	pp	_	-
+5	dich	du	PRO	PPER	2|Sg|_|Acc	4	pn	_	(1)
+6	?	?	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|_	6	expl	_	-
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+3	viele	viele	ART	PIDAT	_|Nom|Pl	4	det	_	(2
+4	Leute	Leute	N	NN	_|Nom|Pl	2	subj	_	-
+5	da	da	ADV	ADV	_	6	adv	_	-
+6	sein	sein	V	VAINF	_	2	aux	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	die	die	PRO	PRELS	_|_|Pl	11	obja	_	(2)
+9	du	du	PRO	PPER	2|Sg|_|Nom	11	subj	_	(1)
+10	auch	auch	ADV	ADV	_	11	adv	_	-
+11	kennst	kennen	V	VVFIN	2|Sg|Pres|Ind	4	rel	_	2)
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	-
+2	du	du	PRO	PPER	2|Sg|_|Nom	1	subj	_	(1)
+3	vielleicht	vielleicht	ADV	ADV	_	6	adv	_	-
+4	einen	eine	ART	ART	Indef|Masc|Acc|Sg	5	det	_	-
+5	Salat	Salat	N	NN	Masc|Acc|Sg	6	obja	_	-
+6	mitbringen	mitbringen	V	VVINF	_	1	aux	_	-
+7	?	?	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	vergiss	vergiss	N	NE	_|Nom|Sg	3	subj	_	-
+3	bitte	bitten	V	VVFIN	3|Sg|Pres|Subj	1	cj	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	3	adv	_	-
+5	einen	eine	ART	ART	Indef|Masc|Acc|Sg	6	det	_	-
+6	Pullover	Pullover	N	NN	Masc|Acc|Sg	3	obja	_	-
+7	oder	oder	KON	KON	_	6	kon	_	-
+8	eine	eine	ART	ART	Indef|Fem|Acc|Sg	9	det	_	-
+9	Jacke	Jacke	N	NN	Fem|Acc|Sg	7	cj	_	-
+10	!	!	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	-
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	-
+3	nämlich	nämlich	ADV	ADV	_	7	adv	_	-
+4	draußen	draußen	ADV	ADV	_	7	adv	_	-
+5	im	in	PREP	APPRART	Dat	7	pp	_	-
+6	Garten	Garten	N	NN	Masc|Dat|Sg	5	pn	_	-
+7	feiern	feiern	V	VVINF	_	2	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	-
+2	freue	freuen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	mich	ich	PRO	PRF	1|Sg|Acc	2	obja	_	-
+4	sehr	sehr	ADV	ADV	_	2	adv	_	-
+5	auf	auf	PREP	APPR	Acc	2	pp	_	-
+6	dich	du	PRO	PPER	2|Sg|_|Acc	5	pn	_	(1)
+7	!	!	$.	$.	_	0	root	_	-
+

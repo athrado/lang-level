@@ -1,0 +1,411 @@
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	118	118
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	zum	zu	P	APPRART	Dat	2	objp	_	_
+4	Fenster	Fenster	N	NN	Neut|Dat|Sg	3	pn	15	15
+5	!	!	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Her	her	A	ADV	_	2	adv	_	_
+2	zu	zu	P	APPR	Dat	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	pn	62	62
+4	!	!	$	$.	_	0	root	_	_
+
+1	Führ	Führ	N	NE	_	0	root	82	82
+2	'	'	$	$(	_	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	0	root	62	62
+4	hin	hin	P	PTKVZ	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	schon	schon	A	ADV	_	4	adv	_	_
+4	gehn	gehn	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	118	118
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	5	obja	63	63
+4	auch	auch	A	ADV	_	5	adv	_	_
+5	sehen	sehen	V	VVINF	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	die	die	P	PRELS	_|Nom|Pl	10	subj	63	63
+8	da	da	A	ADV	_	10	adv	_	_
+9	unten	unten	A	ADV	_	10	adv	_	_
+10	vorüberreiten	vorüberreiten	V	VVFIN	3|Pl|Pres|_	5	rel	_	_
+11	und	und	K	KON	_	0	root	_	_
+12	vielleicht	vielleicht	A	ADV	_	17	adv	_	_
+13	nicht	nicht	P	PTKNEG	_	17	adv	_	_
+14	einmal	einmal	A	ADV	_	17	adv	_	_
+15	neunundsiebzig	neunundsiebzig	C	CARD	_	17	objd	_	_
+16	alt	alt	A	ADJD	Pos|	17	pred	_	_
+17	werden	werden	V	VAINF	_	11	cj	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Den	die	A	ART	Def|Masc|Acc|Sg	2	det	64	64
+2	Mantel	Mantel	N	NN	Masc|Acc|Sg	0	root	64	64
+3	her	her	P	PTKVZ	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_|Nom|Sg	2	subj	8	8
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	_	_
+4	Mantel	Mantel	N	NN	Masc|Acc|Sg	2	obja	_	_
+5	vom	von	P	APPRART	Dat	4	pp	_	_
+6	Kleiderständer	Kleiderständer	N	NN	Masc|Dat|Sg	5	pn	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	breitet	breiten	V	VVFIN	_|_|Pres|_	2	kon	_	_
+9	ihn	er	P	PPER	3|Sg|Masc|Acc	8	obja	0	0
+10	um	um	P	APPR	Acc	8	pp	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	6	6
+12	Vater	Vater	N	NN	Masc|Acc|Sg	10	pn	6	6
+13	und	und	K	KON	_	8	kon	_	_
+14	führt	führen	V	VVFIN	_|_|Pres|Ind	13	cj	_	_
+15	diesen	diese	P	PDS	_|_|_	14	obja	_	_
+16	zum	zu	P	APPRART	Dat	14	objp	_	_
+17	Fenster	Fenster	N	NN	Neut|Dat|Sg	16	pn	15	15
+18	rechts	rechts	A	ADV	_	16	adv	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	höhnisch	höhnisch	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	0	root	36	36
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	5	det	65	65
+5	Plage	Plage	N	NN	Fem|Nom|Sg	3	pred	65	65
+6	!	!	$	$.	_	0	root	_	_
+
+1	Armes	arm	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	_	_
+2	Kind	Kind	N	NN	Neut|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	5	subj	65	65
+5	klagt	klagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Am	an	P	APPRART	Dat	0	root	_	_
+2	Fenster	Fenster	N	NN	Neut|Dat|Sg	1	pn	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wo	wo	P	PWAV	_	10	adv	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	10	subj	_	_
+6	gleich	gleich	A	ADJD	Pos|	10	adv	_	_
+7	auf	auf	P	APPR	Acc	10	pp	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	9	det	66	66
+9	Sessel	Sessel	N	NN	Masc|Acc|Sg	7	pn	66	66
+10	sinkt	sinken	V	VVFIN	3|Sg|Pres|Ind	2	rel	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	er	er	P	PPER	3|Sg|Masc|Nom	13	subj	66	66
+13	hält	halten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+14	sich	sie	P	PRF	3|_|_	13	obja	_	_
+15	mit	mit	P	APPR	Dat	13	pp	_	_
+16	beiden	beide	A	PIDAT	Fem|Dat|Pl	17	det	_	_
+17	Händen	Hand	N	NN	Fem|Dat|Pl	15	pn	_	_
+18	ans	an	P	APPRART	Acc	13	objp	_	_
+19	Fensterbrett	Fensterbrett	N	NN	Neut|Acc|Sg	18	pn	_	_
+20	und	und	K	KON	_	13	kon	_	_
+21	beugt	beugen	V	VVFIN	_|_|Pres|Ind	20	cj	_	_
+22	sich	sie	P	PRF	3|_|Dat	21	objd	_	_
+23	vor	vor	P	PTKVZ	_	21	avz	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Manche	manche	P	PIS	_|_|_	0	root	_	_
+2	von	von	P	APPR	Dat	1	pp	_	_
+3	denen	die	P	PDS	_|Dat|Pl	2	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	alle	alle	A	PIDAT	_|_|_	0	root	_	_
+2	vielleicht	vielleicht	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	wer	wer	P	PWS	_|Nom|Sg	2	subj	_	_
+2	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	-	-	$	$(	_	2	par	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	sind	sein	V	VAFIN	3|Pl|Pres|Ind	6	cj	_	_
+8	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+9	einmal	einmal	A	ADV	_	10	adv	_	_
+10	neunundsiebzig	neunundsiebzig	C	CARD	_	7	objd	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	etwas	etwas	A	ADV	_	3	adv	_	_
+3	mühsam	mühsam	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Vater	Vater	N	NN	Masc|_|Sg	4	vok	53	53
+2	,	,	$	$,	_	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+4	kennt	kennen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	die	die	A	ART	Def|Fem|_|Pl	6	det	_	_
+6	Farben	Farbe	N	NN	Fem|_|Pl	4	obja	_	_
+7	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+8	recht	recht	A	ADJD	Pos|	4	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	die	die	A	ART	Def|_|_|_	4	det	_	_
+4	Schwarzen	schwarz	A	ADJA	_|_|Pl	1	pred	_	_
+5	oder	oder	K	KON	_	4	kon	_	_
+6	die	die	A	ART	Def|_|_|Pl	7	det	_	_
+7	Blauen	Blaue	N	NN	_|_|Pl	5	cj	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	5	vok	36	36
+2	,	,	$	$,	_	0	root	_	_
+3	mein	meine	A	PPOSAT	Neut|Nom|Sg	4	det	67	67
+4	Töchterchen	Töchterchen	N	NN	Neut|Nom|Sg	5	subj	_	_
+5	läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	sich	sie	P	PRF	3|_|_	9	obja	_	_
+7	herab	herab	A	ADV	_	9	adv	_	_
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	fragen	fragen	V	VVINF	_	5	obji	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Sollt	sollen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	67	67
+4	bessere	gut	A	ADJA	Comp|Neut|_|Pl|St|	5	attr	394	394
+5	Augen	Auge	N	NN	Neut|_|Pl	0	root	394	394
+6	haben	haben	V	VAINF	_	0	root	_	_
+7	als	als	K	KOKOM	_	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	7	cj	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+5	die	die	A	ART	Def|Masc|Nom|Pl	7	det	147	147
+6	blauen	blau	A	ADJA	Pos|Masc|Nom|Pl|Wk|	7	attr	147	147
+7	Kürassiere	Kürassier	N	NN	Masc|Nom|Pl	4	pred	147	147
+8	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+4	dein	deine	A	PPOSAT	Neut|Nom|Sg	5	det	68	68
+5	Regiment	Regiment	N	NN	Neut|Nom|Sg	6	pred	112	112
+6	gewesen	sein	V	VAPP	_	1	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Vater	Vater	N	NN	Masc|_|Sg	1	vok	53	53
+9	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	2	subj	0	0
+5	dich	du	P	PPER	2|Sg|_|Acc	2	obja	68	68
+6	an	an	P	PTKVZ	_	2	avz	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wo	Wo	P	PWAV	_	3	adv	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	die	die	A	ART	Def|Fem|Nom|Sg	5	det	69	69
+5	Zeit	Zeit	N	NN	Fem|Nom|Sg	3	subj	69	69
+6	?	?	$	$.	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Gefallen	Gefallen	N	NN	_|_|_	0	root	70	70
+2	sie	sie	P	PPER	3|_|_|_	0	root	70	70
+3	dir	du	P	PPER	2|Sg|_|Dat	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	siehst	sehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	72	72
+4	von	von	P	APPR	Dat	2	pp	_	_
+5	ihnen	sie	P	PPER	3|Pl|_|Dat	4	pn	71	71
+6	?	?	$	$.	_	0	root	_	_
+
+1	Doch	doch	K	KON	_	0	root	_	_
+2	nichts	nichts	P	PIS	_	0	root	_	_
+3	als	als	K	KOKOM	_	2	kom	_	_
+4	ihr	ihre	A	PPOSAT	Neut|_|Sg	5	det	71	71
+5	Wiegen	Wiege	N	NN	Neut|_|Sg	3	cj	_	_
+6	auf	auf	P	APPR	Dat	5	pp	_	_
+7	den	die	A	ART	Def|Neut|Dat|Pl	9	det	_	_
+8	trabenden	trabend	A	ADJA	Pos|Neut|Dat|Pl|_|<PPRES	9	attr	_	_
+9	Pferden	Pferd	N	NN	Neut|Dat|Pl	6	pn	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	und	und	K	KON	_	0	root	_	_
+12	der	die	A	ART	Def|Masc|Nom|Sg	13	det	_	_
+13	Geruch	Geruch	N	NN	Masc|Nom|Sg	16	subj	_	_
+14	ihrer	ihre	A	PPOSAT	Fem|Gen|Sg	15	det	71	71
+15	Jugend	Jugend	N	NN	Fem|Gen|Sg	13	gmod	_	_
+16	steigt	steigen	V	VVFIN	3|Sg|Pres|Ind	11	cj	_	_
+17	dir	du	P	PPER	2|Sg|_|Dat	16	objd	72	72
+18	von	von	P	APPR	_	16	pp	_	_
+19	der	die	A	ART	Def|_|_|_	20	det	_	_
+20	Straße	Straß	N	NN	_|_|_	18	pn	_	_
+21	empor	empor	A	ADV	_	16	adv	_	_
+22	in	in	P	APPR	Acc	16	objp	_	_
+23	die	die	A	ART	Def|Fem|Acc|Sg	24	det	507	507
+24	Nase	Nase	N	NN	Fem|Acc|Sg	22	pn	507	507
+25	.	.	$	$.	_	0	root	_	_
+
+1	Sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+2	man	man	P	PIS	_|Nom|Sg	1	subj	_	_
+3	denken	denken	V	VVINF	_	1	aux	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	9	konj	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	118	118
+7	einmal	einmal	A	ADV	_	9	adv	_	_
+8	geradeso	geradeso	A	ADV	_	9	adv	_	_
+9	aussah	aussehen	V	VVFIN	1|Sg|Past|Ind	3	objc	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	geradeso	geradeso	N	NN	_	1	vok	_	_
+12	wie	wie	K	KOKOM	_	11	kom	_	_
+13	die	die	P	PDS	_|_|_	12	cj	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Neut|_|Sg	2	det	_	_
+2	Regiment	Regiment	N	NN	Neut|_|Sg	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	ja	ja	P	PTKANT	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Schöne	schön	A	ADJA	Pos|_|_|Pl|St|	2	attr	_	_
+2	Jungen	Junge	N	NN	_|_|Pl	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Stramm	stramm	A	ADJD	Pos|	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	stramm	stramm	A	ADJD	Pos|	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Ho	Ho	N	NE	_	3	vok	73	73
+2	,	,	$	$,	_	0	root	_	_
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	6	det	_	_
+5	künftige	künftig	A	ADJA	Pos|Masc|Nom|Sg|Wk|	6	attr	_	_
+6	Gatte	Gatte	N	NN	Masc|Nom|Sg	3	subj	_	_
+7	sich	sie	P	PRF	3|_|_	8	obja	_	_
+8	freuen	freuen	V	VVINF	_	3	aux	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	ob	ob	K	KOUS	_	0	root	_	_
+11	Adjunkt	Adjunkt	N	NN	Masc|_|Sg	0	root	_	_
+12	oder	oder	K	KON	_	11	kon	_	_
+13	Doktor	Doktor	N	NN	Masc|_|Sg	12	cj	_	_
+14	-	-	$	$(	_	0	root	_	_
+15	daß	daß	K	KOUS	_	21	konj	_	_
+16	du	du	P	PPER	2|Sg|_|Nom	21	subj	_	_
+17	dafür	dafür	P	PROAV	_	21	pp	_	_
+18	so	so	A	ADV	_	19	adv	_	_
+19	regen	regen	A	ADJA	_|Masc|_|Sg|_	20	attr	_	_
+20	Sinn	Sinn	N	NN	Masc|_|Sg	21	obja	_	_
+21	hast	haben	V	VAFIN	2|Sg|Pres|Ind	13	objc	_	_
+22	!	!	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	klopft	klopfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	leise	leise	A	ADJD	Pos|	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Klopft	klopfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	118	118
+2	hörte	hören	V	VVFIN	1|Sg|Past|_	0	root	_	_
+3	nichts	nichts	P	PIS	_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	klopft	klopfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nochmals	nochmals	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	6	6
+2	Vater	Vater	N	NN	Masc|Nom|Sg	0	root	6	6
+3	,	,	$	$,	_	0	root	6	6
+4	Marie	Marie	N	NE	Masc|Nom|Sg	2	app	6	6
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Forstadjunkt	Forstadjunkt	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ein	ein	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	74	74
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	10	subj	74	74
+3	im	in	P	APPRART	Dat	2	pp	74	74
+4	grünen	grün	A	ADJA	Pos|Masc|Dat|Sg|Wk|	5	attr	74	74
+5	Jagdrock	Jagdrock	N	NN	Masc|Dat|Sg	3	pn	74	74
+6	,	,	$	$,	_	0	root	74	74
+7	kaum	kaum	A	ADV	_	8	adv	74	74
+8	dreißig	dreißig	C	CARD	_	5	app	74	74
+9	,	,	$	$,	_	0	root	_	_
+10	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+11	etwas	etwas	A	ADV	_	12	adv	_	_
+12	älter	alt	A	ADJD	Comp|	10	pred	_	_
+13	aus	aus	P	PTKVZ	_	10	avz	_	_
+14	;	;	$	$.	_	0	root	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	16	subj	74	74
+16	scheint	scheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+17	ernster	ernst	A	ADJD	Comp|	16	pred	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	als	als	K	KOUS	_	23	konj	_	_
+20	es	es	P	PPER	3|Sg|Neut|Nom	23	subj	_	_
+21	seinen	seine	A	PPOSAT	Neut|Dat|Pl	22	det	74	74
+22	Jahren	Jahr	N	NN	Neut|Dat|Pl	23	objd	_	_
+23	zukommt	zukommen	V	VVFIN	3|Sg|Pres|Ind	16	neb	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	An	an	P	APPR	Dat	0	root	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	75	75
+4	Türe	Türe	N	NN	Fem|Dat|Sg	2	pn	75	75
+5	.	.	$	$.	_	0	root	_	_
+
+1	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	2	attr	_	_
+2	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	leise	leise	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+

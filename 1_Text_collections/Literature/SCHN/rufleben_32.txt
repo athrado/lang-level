@@ -1,0 +1,427 @@
+1	Auch	auch	A	ADV	_	3	adv	_	_
+2	eine	eine	A	ART	Indef|Fem|_|Sg	3	det	_	_
+3	Braut	Braut	N	NN	Fem|_|Sg	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Schon	schon	A	ADV	_	3	adv	_	_
+2	lange	lange	A	ADJD	_	3	adv	_	_
+3	versprochen	versprechen	V	VVPP	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|Acc|Sg	2	det	_	_
+2	Jahr	Jahr	N	NN	Neut|Acc|Sg	3	pn	_	_
+3	lang	lang	P	APPO	Acc	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+6	Leutnant	Leutnant	N	NN	Masc|_|Sg	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	so	so	A	ADV	_	6	adv	_	_
+4	eine	eine	A	ART	Indef|Fem|_|Sg	6	det	_	_
+5	ernste	ernst	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	_
+6	Sache	Sache	N	NN	Fem|_|Sg	1	kon	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	465	465
+2	dachte	denken	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+5	seist	sein	V	VAFIN	2|Sg|Pres|Subj	2	s	_	_
+6	ein	eine	A	ART	Indef|Masc|Nom|Sg	8	det	_	_
+7	lustiger	lustig	A	ADJA	Pos|Masc|Nom|Sg|St|	8	attr	_	_
+8	Bursche	Bursche	N	NN	Masc|Nom|Sg	5	pred	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	6	pp	_	_
+2	Befehl	Befehl	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	auch	auch	A	ADV	_	5	adv	_	_
+5	lustig	lustig	A	ADJD	Pos|	1	kon	_	_
+6	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	465	465
+8	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	dann	dann	A	ADV	_	3	adv	_	_
+3	sag	sag	V	VVFIN	1|Sg|_|_	1	cj	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	465	465
+6	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+7	»	»	$	$(	_	0	root	_	_
+8	Braut	Braut	N	NN	Fem|_|Sg	3	obja	_	_
+9	«	«	$	$(	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	gab	geben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	manche	manche	P	PIS	_|_|Pl	2	obja	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	die	die	P	PRELS	_|Nom|Pl	9	subj	_	_
+6	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+7	meine	meine	A	PPOSAT	Fem|Nom|Pl	8	det	465	465
+8	Bräute	Braut	N	NN	Fem|Nom|Pl	9	pred	_	_
+9	waren	sein	V	VAFIN	3|Pl|Past|Ind	3	rel	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	Fem|_|Sg	0	root	_	_
+2	aber	aber	A	ADV	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	der	die	P	PRELS	Fem|Dat|Sg	8	objd	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	8	subj	466	466
+6	heute	heute	A	ADV	_	8	adv	_	_
+7	Lebewohl	Lebewohl	N	NE	_	8	obja	245	245
+8	sagtest	sagen	V	VVFIN	2|Sg|Past|_	1	rel	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	die	die	P	PDS	_|_|_	13	obja	_	_
+11	wolltest	wollen	V	VMFIN	2|Sg|Past|_	0	root	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	11	subj	466	466
+13	heiraten	heiraten	V	VVINF	_	11	aux	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Befehl	Befehl	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Herr	Herr	N	NN	Masc|Dat|Sg	2	app	_	_
+5	Leutnant	Leutnant	N	NN	Masc|Dat|Sg	4	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	3	objp	_	_
+2	Neujahr	Neujahr	N	NN	Neut|Dat|Sg	1	pn	_	_
+3	wollt	wollen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	0	root	467	467
+6	meinen	meine	A	PPOSAT	Masc|_|Sg	7	det	467	467
+7	Abschied	Abschied	N	NN	Masc|_|Sg	0	root	_	_
+8	nehmen	nehmen	V	VVINF	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+11	Leutnant	Leutnant	N	NN	Masc|_|Sg	10	app	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	wohl	wohl	A	ADV	_	4	adv	_	_
+4	vergessen	veressen	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	was	was	P	PRELS	Neut|_|Sg	9	obja	_	_
+7	der	die	A	ART	Def|Masc|Nom|Sg	8	det	468	468
+8	Oberst	Oberst	N	NN	Masc|Nom|Sg	9	subj	468	468
+9	sagte	sagen	V	VVFIN	3|Sg|Past|_	4	rel	_	_
+10	:	\:	$	$.	_	0	root	_	_
+11	er	er	P	PPER	3|Sg|Masc|Nom	12	subj	468	468
+12	nehme	nehmen	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+13	es	es	P	PPER	3|Sg|Neut|_	12	obja	_	_
+14	auf	auf	P	APPR	_	12	objp	_	_
+15	sich	sie	P	PRF	3|_|_	14	pn	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	jeden	jede	A	PIDAT	Masc|_|Sg	18	det	469	469
+18	Mann	Mann	N	NN	Masc|_|Sg	22	obja	469	469
+19	nach	nach	P	APPR	Dat	22	pp	469	469
+20	Hause	Haus	N	NN	Neut|Dat|Sg	19	pn	43	43
+21	zu	zu	P	PTKZU	_	22	part	_	_
+22	entlassen	entlassen	V	VVINF	_	12	obji	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	der	die	P	PRELS	Masc|Nom|Sg	26	subj	469	469
+25	danach	danach	P	PROAV	_	26	pp	_	_
+26	verlangte	verlangen	V	VVFIN	3|Sg|Past|_	18	rel	_	_
+27	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|_|Sg	5	vok	_	_
+2	Leutnant	Leutnant	N	NN	Masc|_|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	5	expl	_	_
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	mancher	manche	P	PIS	Masc|Nom|Sg	5	subj	_	_
+7	ein	eine	A	ART	Indef|Neut|_|Sg	9	det	_	_
+8	junges	jung	A	ADJA	Pos|Neut|_|Sg|St|	9	attr	_	_
+9	Weib	Weib	N	NN	Neut|_|Sg	5	obja	_	_
+10	wie	wie	K	KOKOM	_	17	kom	_	_
+11	der	die	A	ART	Def|Masc|Nom|Sg	12	det	470	470
+12	Herr	Herr	N	NN	Masc|Nom|Sg	10	cj	470	470
+13	Oberst	Oberst	N	NN	Masc|Nom|Sg	12	app	470	470
+14	und	und	K	KON	_	13	kon	_	_
+15	mancher	manche	P	PIS	Masc|Nom|Sg	14	cj	_	_
+16	eine	eine	A	ART	Indef|Fem|_|Sg	17	det	_	_
+17	Braut	Braut	N	NN	Fem|_|Sg	27	obja	_	_
+18	wie	wie	K	KOKOM	_	17	kom	_	_
+19	ich	ich	P	PPER	1|Sg|_|Nom	18	cj	556	556
+20	-	-	$	$(	_	0	root	_	_
+21	und	und	K	KON	_	19	kon	_	_
+22	es	es	P	PPER	3|Sg|Neut|Nom	21	cj	_	_
+23	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+24	keiner	keine	P	PIS	Masc|Nom|Sg	23	subj	_	_
+25	um	um	P	APPR	_	27	pp	_	_
+26	Entlassung	Entlassung	N	NN	Fem|_|Sg	25	pn	_	_
+27	angesucht	ansuchen	V	VVPP	_	23	aux	_	_
+28	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wer	wer	P	PWS	_|Nom|Sg	4	subj	_	_
+4	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	7	subj	_	_
+7	kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+8	am	an	P	APPRART	Dat	7	pp	_	_
+9	Ende	Ende	N	NN	Neut|Dat|Sg	8	pn	85	85
+10	zurück	zurück	P	PTKVZ	_	7	avz	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Von	von	P	APPR	Dat	3	pp	_	_
+2	uns	wir	P	PPER	1|Pl|_|Dat	1	pn	471	471
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	keiner	keine	P	PIS	Masc|Nom|Sg	3	subj	_	_
+5	zurück	zurück	P	PTKVZ	_	3	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	uns	wir	P	PPER	1|Pl|_|Dat	2	objd	471	471
+4	bekannt	bekannt	A	ADJD	Pos|	2	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Herr	Herr	N	NN	Masc|_|Sg	2	vok	_	_
+7	Leutnant	Leutnant	N	NN	Masc|_|Sg	6	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	2	objd	_	_
+4	bekannt	bekannt	A	ADJD	Pos|	2	pred	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Unsinn	Unsinn	N	NN	Masc|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ihr	ihr	P	PPER	2|Pl|_|Nom	2	subj	_	_
+2	seid	sein	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+4	zum	zu	P	APPRART	Dat	6	pp	_	_
+5	Tode	Tod	N	NN	Masc|Dat|Sg	4	pn	472	472
+6	verurteilt	verurteilen	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	immer	immer	A	ADV	_	2	adv	_	_
+4	ein	eine	A	ART	Indef|_|_|Sg	5	part	_	_
+5	paar	paar	P	PIS	_|Nom|Pl	2	obja	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	die	die	P	PRELS	_|Nom|Pl	8	subj	473	473
+8	davonkommen	davonkommen	V	VVFIN	3|Pl|Pres|_	5	rel	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	die	die	P	PRELS	_|Nom|Pl	13	subj	473	473
+11	ganz	ganz	A	ADV	_	12	adv	_	_
+12	heil	heil	A	ADJD	Pos|	13	pred	_	_
+13	bleiben	bleiben	V	VVFIN	3|Pl|Pres|_	7	rel	_	_
+14	oder	oder	K	KON	_	0	root	_	_
+15	von	von	P	APPR	_	18	pp	_	_
+16	ihren	ihre	A	PPOSAT	_|_|_	17	det	473	473
+17	Wunden	Wunde	N	NN	_|_|_	15	pn	_	_
+18	genesen	genesen	V	VVPP	_	14	cj	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|Nom|Sg	6	subj	_	_
+2	Leutnant	Leutnant	N	NN	Masc|Nom|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	auch	auch	A	ADV	_	5	adv	_	_
+5	wir	wir	P	PPER	1|Pl|_|Nom	2	kon	474	474
+6	haben	haben	V	VAFIN	_|Pl|Pres|_	0	root	_	_
+7	einander	einander	P	PRF	_|_|Dat	8	objd	_	_
+8	zugeschworen	zuschwören	V	VVPP	_	6	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	daß	daß	K	KOUS	_	12	konj	_	_
+11	keiner	keine	P	PIS	Masc|Nom|Sg	12	subj	_	_
+12	zurückkommt	zurückkommen	V	VVFIN	3|Sg|Pres|Ind	8	objc	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	so	so	A	ADV	_	0	root	_	_
+15	wie	wie	P	PWAV	_	0	root	_	_
+16	die	die	A	ART	Def|Masc|_|Pl	17	det	_	_
+17	Herren	Herr	N	NN	Masc|_|Pl	0	root	_	_
+18	Offiziere	Offizier	N	NN	Masc|_|Pl	17	app	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	474	474
+2	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+3	alle	alle	A	PIDAT	Masc|Nom|Pl	5	det	_	_
+4	blaue	blau	A	ADJA	Pos|Masc|Nom|Pl|St|	5	attr	_	_
+5	Kürassiere	Kürassier	N	NN	Masc|Nom|Pl	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	gut	gut	A	ADJD	Pos|	2	pred	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	_	0	root	_	_
+2	morgen	morgen	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	455	455
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	6	objd	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	105	105
+5	Hand	Hand	N	NN	Fem|_|Sg	6	obja	105	105
+6	reichen	reichen	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	3	subj	458	458
+3	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|_|_|_	3	obja	105	105
+5	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	475	475
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	einige	einige	A	PIAT	Masc|_|Pl	6	det	_	_
+6	Tage	Tag	N	NN	Masc|_|Pl	7	grad	_	_
+7	vor	vor	P	APPR	_	2	pp	_	_
+8	uns	wir	P	PPER	1|Pl|_|_	7	pn	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Herr	Herr	N	NN	Masc|_|Sg	8	app	_	_
+11	Leutnant	Leutnant	N	NN	Masc|_|Sg	10	app	_	_
+12	-	-	$	$(	_	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	2	subj	_	_
+2	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wann	wann	P	PWAV	_	9	adv	_	_
+5	wir	wir	P	PPER	1|Pl|_|Nom	10	subj	475	475
+6	vor	vor	P	APPR	Dat	9	objp	_	_
+7	dem	die	A	ART	Def|Masc|Dat|Sg	8	det	532	532
+8	Feind	Feind	N	NN	Masc|Dat|Sg	6	pn	532	532
+9	stehen	stehen	V	VVINF	_	10	aux	_	_
+10	werden	werden	V	VAFIN	1|Pl|Pres|_	2	objc	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	es	es	P	PPER	3|Sg|Neut|Nom	13	subj	_	_
+13	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+14	auch	auch	A	ADV	_	17	adv	_	_
+15	eine	eine	A	ART	Indef|Fem|_|Sg	16	det	_	_
+16	Woche	Woche	N	NN	Fem|_|Sg	17	obja	_	_
+17	dauern	dauern	V	VVINF	_	13	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ah	Ah	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	hältst	halten	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	476	476
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	477	477
+6	Ehre	Ehre	N	NN	Fem|_|Sg	3	obja	477	477
+7	meines	meine	A	PPOSAT	Masc|Gen|Sg	8	det	477	477
+8	Händedrucks	Händedruck	N	NN	Masc|Gen|Sg	6	gmod	477	477
+9	für	für	P	APPR	Acc	8	pp	477	477
+10	so	so	A	ADV	_	11	adv	477	477
+11	groß	groß	A	ADJD	Pos|	9	pn	477	477
+12	,	,	$	$,	_	0	root	477	477
+13	daß	daß	K	KOUS	_	22	konj	477	477
+14	du	du	P	PPER	2|Sg|_|Nom	22	subj	476	476
+15	sie	sie	P	PPER	3|_|_|_	21	obja	477	477
+16	nur	nur	A	ADV	_	21	adv	_	_
+17	vor	vor	P	APPR	Dat	21	pp	_	_
+18	der	die	A	ART	Def|Fem|Dat|Sg	20	det	_	_
+19	letzten	letzte	A	ADJA	Pos|Fem|Dat|Sg|Wk|	20	attr	_	_
+20	Nacht	Nacht	N	NN	Fem|Dat|Sg	17	pn	_	_
+21	annehmen	annehmen	V	VVINF	_	22	aux	_	_
+22	möchtest	mögen	V	VMFIN	2|Sg|Past|Subj	8	objc	_	_
+23	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+2	Leutnant	Leutnant	N	NN	Masc|_|Sg	1	app	_	_
+3	-	-	$	$(	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	woher	woher	P	PWAV	_	3	pp	_	_
+3	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	bestimmt	bestimmen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	17	konj	_	_
+9	nicht	nicht	P	PTKNEG	_	17	adv	_	_
+10	einen	eine	P	PIS	_|_|_	17	obja	_	_
+11	von	von	P	APPR	Dat	10	pp	_	_
+12	uns	wir	P	PPER	1|Pl|_|Dat	11	pn	478	478
+13	schon	schon	A	ADV	_	17	adv	_	_
+14	heute	heute	A	ADV	_	17	adv	_	_
+15	der	die	A	ART	Def|Masc|Nom|Sg	16	det	556	556
+16	Teufel	Teufel	N	NN	Masc|Nom|Sg	17	subj	556	556
+17	holt	holen	V	VVFIN	3|Sg|Pres|Ind	6	objc	_	_
+18	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	478	478
+2	stehen	stehen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	alle	alle	A	PIDAT	Fem|_|Sg	6	det	479	479
+4	in	in	P	APPR	_	6	pp	479	479
+5	Gottes	Gott	N	NN	Masc|Gen|Sg	4	pn	164	164
+6	Hand	Hand	N	NN	Fem|_|Sg	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ab	ab	P	PTKVZ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+

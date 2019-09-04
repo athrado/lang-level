@@ -1,0 +1,490 @@
+1	Girlinger	Girlinger	N	NE	_|Nom|Sg	2	subj	453	453
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	niedergeschlagen	niederschlagen	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sein	seine	A	PPOSAT	Masc|Nom|Sg	2	det	453	453
+2	Vater	Vater	N	NN	Masc|Nom|Sg	3	subj	675	675
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	hinter	hinter	P	APPR	Acc	7	pp	_	_
+5	seine	seine	A	PPOSAT	Fem|Acc|Sg	6	det	675	675
+6	Lektüre	Lektüre	N	NN	Fem|Acc|Sg	4	pn	_	_
+7	gekommen	kommen	V	VVPP	_	3	aux	_	_
+8	und	und	K	KON	_	3	kon	_	_
+9	hatte	haben	V	VAFIN	_|Sg|Past|Ind	8	cj	_	_
+10	ihn	er	P	PPER	3|Sg|Masc|Acc	23	obja	675	675
+11	vor	vor	P	APPR	Dat	23	pp	_	_
+12	der	die	A	ART	Def|Fem|Dat|Sg	14	det	_	_
+13	ganzen	ganz	A	ADJA	Pos|Fem|Dat|Sg|Wk|	14	attr	_	_
+14	Familie	Familie	N	NN	Fem|Dat|Sg	11	pn	_	_
+15	als	als	K	KOKOM	_	23	kom	_	_
+16	»	»	$	$(	_	0	root	_	_
+17	unreifen	unreif	A	ADJA	Pos|Masc|_|_|_|	18	attr	_	_
+18	Zusammenleser	Zusammenleser	N	NN	Masc|_|_	15	cj	_	_
+19	unverschämter	unverschämt	A	ADJA	Pos|Fem|Gen|Pl|St|	20	attr	_	_
+20	Dummheiten	Dummheit	N	NN	Fem|Gen|Pl	18	gmod	_	_
+21	«	«	$	$(	_	0	root	_	_
+22	lächerlich	lächerlich	A	ADJD	Pos|	23	pred	_	_
+23	gemacht	machen	V	VVPP	_	9	aux	_	_
+24	und	und	K	KON	_	23	kon	_	_
+25	zugleich	zugleich	A	ADV	_	27	adv	_	_
+26	Maaßregeln	Maaßregeln	N	NE	_|Nom|Pl	27	obja	676	676
+27	getroffen	treffen	V	VVPP	_	24	cj	676	676
+28	,	,	$	$,	_	0	root	676	676
+29	die	die	P	PRELS	_|Nom|Pl	36	subj	676	676
+30	seine	seine	A	PPOSAT	Fem|_|Sg	31	det	453	453
+31	Lektüre	Lektüre	N	NN	Fem|_|Sg	36	obja	_	_
+32	unter	unter	P	APPR	Acc	36	objp	_	_
+33	eine	eine	A	ART	Indef|Fem|Acc|Sg	35	det	_	_
+34	strenge	streng	A	ADJA	Pos|Fem|Acc|Sg|_|	35	attr	_	_
+35	Aufsicht	Aufsicht	N	NN	Fem|Acc|Sg	32	pn	_	_
+36	setzten	setzen	V	VVFIN	3|Pl|Past|_	26	rel	_	_
+37	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	677	677
+3	Herr	Herr	N	NN	Masc|Nom|Sg	5	subj	677	677
+4	Staatsanwalt	Staatsanwalt	N	NN	Masc|Nom|Sg	3	app	677	677
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	ein	eine	A	ART	Indef|Neut|_|Sg	7	det	_	_
+7	Ausnahmegesetz	Ausnahmegesetz	N	NN	Neut|_|Sg	5	obja	_	_
+8	über	über	P	APPR	Acc	7	pp	_	_
+9	mich	ich	P	PPER	1|Sg|_|Acc	8	pn	678	678
+10	beliebt	beliebt	A	ADJD	Pos|	5	pred	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	677	677
+3	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	sich	sie	P	PRF	3|_|_	5	obja	_	_
+5	irren	irren	V	VVINF	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	678	678
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	6	det	679	679
+5	unreife	unreif	A	ADJA	Pos|Masc|Nom|Sg|Wk|	6	attr	679	679
+6	Knabe	Knabe	N	NN	Masc|Nom|Sg	2	pred	679	679
+7	,	,	$	$,	_	0	root	679	679
+8	für	für	P	APPR	Acc	12	objp	679	679
+9	den	die	P	PRELS	Masc|Acc|Sg	8	pn	679	679
+10	er	er	P	PPER	3|Sg|Masc|Nom	12	subj	677	677
+11	mich	ich	P	PPER	1|Sg|_|Acc	12	obja	678	678
+12	hält	halten	V	VVFIN	3|Sg|Pres|Ind	6	rel	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	678	678
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	5	expl	_	_
+4	deutlich	deutlich	A	ADJD	Pos|	5	adv	_	_
+5	bemerkt	bemerken	V	VVPP	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	0	root	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	0	root	677	677
+9	von	von	P	APPR	Dat	8	pp	_	_
+10	den	die	A	ART	Def|Fem|Dat|Pl	11	det	_	_
+11	Sachen	Sache	N	NN	Fem|Dat|Pl	9	pn	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	die	die	P	PRELS	Fem|Nom|Sg	19	subj	_	_
+14	er	er	P	PPER	3|Sg|Masc|Nom	15	subj	677	677
+15	verdammt	verdammt	V	VVPP	_	19	neb	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	so	so	A	ADV	_	18	adv	_	_
+18	viel	viel	P	PIS	_	19	obja	_	_
+19	versteht	verstehen	V	VVFIN	3|Sg|Pres|Ind	11	rel	_	_
+20	,	,	$	$,	_	0	root	_	_
+21	wie	wie	P	PWAV	_	0	root	_	_
+22	ich	ich	P	PPER	1|Sg|_|Nom	0	root	678	678
+23	von	von	P	APPR	Dat	22	pp	_	_
+24	seinem	seine	A	PPOSAT	Neut|Dat|Sg	25	det	677	677
+25	Büttelamte	Büttelamt	N	NN	Neut|Dat|Sg	23	pn	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	678	678
+2	lasse	lassen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	5	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	knechten	knechten	V	VVINF	_	2	obji	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	678	678
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	5	obja	_	_
+4	ihm	er	P	PPER	3|Sg|_|Dat	5	objd	677	677
+5	zeigen	zeigen	V	VVINF	_	2	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	0	root	680	680
+2	?	?	$	$.	_	0	root	_	_
+
+1	Weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	Du	du	P	PPER	2|Sg|_|Nom	1	subj	680	680
+3	,	,	$	$,	_	0	root	_	_
+4	Dein	deine	A	PPOSAT	Masc|Nom|Sg	5	det	680	680
+5	Vater	Vater	N	NN	Masc|Nom|Sg	6	subj	_	_
+6	kennt	kennen	V	VVFIN	3|Sg|Pres|Ind	1	kon	_	_
+7	Dich	Dich	N	NE	_	6	obja	101	101
+8	sehr	sehr	A	ADV	_	9	adv	_	_
+9	gut	gut	A	ADJD	Pos|	6	adv	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	P	PDS	Masc|Nom|Sg	2	subj	_	_
+2	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	daß	daß	K	KOUS	_	12	konj	_	_
+5	Du	du	P	PPER	2|Sg|_|Nom	12	subj	680	680
+6	wie	wie	K	KOKOM	_	12	kom	_	_
+7	ein	eine	A	ART	Indef|Masc|Nom|Sg	8	det	_	_
+8	Pudel	Pudel	N	NN	Masc|Nom|Sg	6	cj	_	_
+9	über	über	P	APPR	Acc	12	pp	_	_
+10	den	die	A	ART	Def|Masc|Acc|Sg	11	det	2052	2052
+11	Stock	Stock	N	NN	Masc|Acc|Sg	9	pn	2052	2052
+12	springst	springen	V	VVFIN	2|Sg|Pres|Ind	2	objc	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	wenn	wenn	K	KOUS	_	18	konj	_	_
+15	Du	du	P	PPER	2|Sg|_|Nom	18	subj	680	680
+16	auch	auch	A	ADV	_	18	adv	_	_
+17	vorher	vorher	A	ADV	_	18	adv	_	_
+18	bellst	bellen	V	VVFIN	2|Sg|Pres|Ind	12	neb	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+3	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	Du	du	P	PPER	2|Sg|_|Nom	3	subj	680	680
+5	sehen	sehen	V	VVINF	_	3	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	682	682
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	zwar	zwar	A	ADV	_	2	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	7	det	681	681
+6	große	groß	A	ADJA	Pos|Neut|_|Sg|Wk|	7	attr	681	681
+7	Maul	Maul	N	NN	Neut|_|Sg	2	obja	681	681
+8	wie	wie	K	KOKOM	_	2	kom	_	_
+9	Du	du	P	PPER	2|Sg|_|Nom	8	cj	680	680
+10	,	,	$	$,	_	0	root	_	_
+11	aber	aber	K	KON	_	2	kon	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	682	682
+13	handle	handeln	V	VVFIN	1|Sg|Pres|Ind	11	cj	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Da	da	A	ADV	_	3	adv	_	_
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	682	682
+5	gespannt	spannen	V	VVPP	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	Du	du	P	PPER	2|Sg|_|Nom	1	subj	680	680
+3	es	es	P	PPER	3|Sg|Neut|_	6	obja	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	6	objd	682	682
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	verraten	verraten	V	VVINF	_	1	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	333	333
+2	Tag	Tag	N	NN	Masc|Nom|Sg	3	subj	333	333
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	kommen	kommen	V	VVINF	_	3	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wo	wo	P	PWAV	_	8	adv	_	_
+7	Dus	Du	N	NN	Neut|Gen|Sg	8	objg	683	683
+8	siehst	sehen	V	VVFIN	2|Sg|Pres|Ind	4	rel	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Dann	dann	A	ADV	_	3	adv	_	_
+3	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+5	bald	bald	A	ADV	_	6	adv	_	_
+6	kommen	kommen	V	VVINF	_	3	aux	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wieso	Wieso	P	PWAV	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	11	11
+3	verrate	verraten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	auch	auch	A	ADV	_	3	adv	_	_
+5	nichts	nichts	P	PIS	_	3	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	gingen	gehen	V	VVFIN	3|Pl|Past|_	0	root	_	_
+3	schweigend	schweigen	A	ADJD	_|<PPRES	2	adv	_	_
+4	nebeneinander	nebeneinander	A	ADV	_	2	adv	_	_
+5	her	her	P	PTKVZ	_	2	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	und	und	K	KON	_	2	kon	_	_
+8	Stilpe	Stilpe	N	NE	_|Nom|Sg	9	subj	11	11
+9	hieb	hauen	V	VVFIN	3|Sg|Past|Ind	7	cj	_	_
+10	mit	mit	P	APPR	Dat	9	pp	_	_
+11	seinem	seine	A	PPOSAT	Masc|Dat|Sg	12	det	11	11
+12	Spazierstock	Spazierstock	N	NN	Masc|Dat|Sg	10	pn	_	_
+13	in	in	P	APPR	Acc	9	pp	_	_
+14	die	die	A	ART	Def|Masc|Acc|Pl	15	det	_	_
+15	Büsche	Busch	N	NN	Masc|Acc|Pl	13	pn	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Endlich	endlich	A	ADJD	Pos|	2	adv	_	_
+2	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	11	11
+4	:	\:	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	wenn	wenn	K	KOUS	_	10	konj	_	_
+6	Du	du	P	PPER	2|Sg|_|Nom	10	subj	684	684
+7	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	11	11
+8	auch	auch	A	ADV	_	10	adv	_	_
+9	nichts	nichts	P	PIS	_	10	obja	_	_
+10	sagst	sagen	V	VVFIN	2|Sg|Pres|Ind	4	cj	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	11	11
+13	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+14	offen	offen	A	ADJD	Pos|	15	pred	_	_
+15	sein	sein	V	VAINF	_	13	aux	_	_
+16	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	2	koord	_	_
+2	gieb	gieb	V	VVFIN	_|Sg|_|_	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	11	11
+4	Deine	deine	A	PPOSAT	Fem|Nom|Sg	6	det	684	684
+5	rechte	recht	A	ADJA	Pos|Fem|Nom|Sg|_|	6	attr	_	_
+6	Hand	Hand	N	NN	Fem|Nom|Sg	2	subj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	0	root	_	_
+9	Dus	Du	N	NN	Neut|Gen|Sg	0	root	683	683
+10	niemand	niemand	P	PIS	_	11	obja	_	_
+11	sagst	sagen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	doch	doch	A	ADV	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	685	685
+5	Hand	Hand	N	NN	Fem|_|Sg	0	root	685	685
+6	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	wie	wie	K	KOKOM	_	3	kom	_	_
+5	geschworen	schwören	V	VVPP	_	4	cj	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	doch	doch	A	ADV	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Hab	Hab	N	NE	_	0	root	1928	1928
+2	'	'	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	453	453
+4	schon	schon	A	ADV	_	6	adv	_	_
+5	was	was	P	PIS	_	6	obja	_	_
+6	verraten	verraten	V	VVPP	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Also	also	A	ADV	_	3	adv	_	_
+3	gut	gut	A	ADJD	Pos|	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+3	blieb	bleiben	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+4	stehen	stehen	V	VVINF	_	3	obji	_	_
+5	und	und	K	KON	_	3	kon	_	_
+6	sagte	sagen	V	VVFIN	_|Sg|Past|_	5	cj	_	_
+7	leise	leise	A	ADJD	Pos|	6	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	aber	aber	K	KON	_	7	kon	_	_
+10	mit	mit	P	APPR	Dat	9	cj	_	_
+11	feierlichem	feierlich	A	ADJA	Pos|Masc|Dat|Sg|St|	12	attr	1185	1185
+12	Tone	Ton	N	NN	Masc|Dat|Sg	10	pn	1185	1185
+13	:	\:	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	_	_
+3	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	nach	nach	P	APPR	Dat	3	pp	_	_
+5	Griechenland	Griechenland	N	NE	Neut|Dat|Sg	4	pn	671	671
+6	.	.	$	$.	_	0	root	_	_
+
+1	Girlinger	Girlinger	N	NE	_|Nom|Sg	2	subj	453	453
+2	sah	sehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	0	0
+4	groß	groß	A	ADJD	Pos|	2	adv	_	_
+5	an	an	P	PTKVZ	_	2	avz	_	_
+6	:	\:	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+5	Du	du	P	PPER	2|Sg|_|Nom	4	subj	_	_
+6	denn	denn	A	ADV	_	4	adv	_	_
+7	Neugriechisch	Neugriechisch	N	NN	Neut|_|Sg	4	obja	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	686	686
+2	Frage	Frage	N	NN	Fem|Nom|Sg	3	subj	686	686
+3	kam	kommen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	Stilpen	Stilpen	N	NE	_|Dat|_	3	objd	531	531
+5	unerwartet	unerwartet	A	ADJD	Pos|	3	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Daran	Daran	P	PROAV	_	6	objp	_	_
+2	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+4	noch	noch	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	gedacht	denken	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	biß	biß	V	VVFIN	3|Sg|_|_	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Pl	4	det	562	562
+4	Lippen	Lippe	N	NN	Fem|_|Pl	2	obja	562	562
+5	ärgerlich	ärgerlich	A	ADJD	Pos|	2	adv	_	_
+6	aufeinander	aufeinander	A	ADV	_	2	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Natürlich	natürlich	A	ADJD	Pos|	3	adv	_	_
+3	nicht	nicht	P	PTKNEG	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	was	was	P	PRELS	Neut|_|Sg	8	obja	_	_
+5	für	für	P	APPR	Acc	8	pp	_	_
+6	eine	eine	A	ART	Indef|Fem|Acc|Sg	7	det	_	_
+7	Sprache	Sprache	N	NN	Fem|Acc|Sg	5	pn	_	_
+8	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	12	subjc	_	_
+9	Du	du	P	PPER	2|Sg|_|Nom	8	subj	_	_
+10	denn	denn	A	ADV	_	8	adv	_	_
+11	dort	dort	A	ADV	_	12	adv	_	_
+12	reden	reden	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	giebt	giebt	V	VVFIN	3|Sg|_|_	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|_|Sg	6	det	687	687
+5	deutsche	deutsch	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	687	687
+6	Kolonie	Kolonie	N	NN	Fem|_|Sg	3	obja	687	687
+7	in	in	P	APPR	_	3	pp	_	_
+8	Athen	Athen	N	NE	Neut|_|Sg	7	pn	756	756
+9	.	.	$	$.	_	0	root	_	_
+
+1	Stilpe	Stilpe	N	NE	_|Dat|_	2	objd	11	11
+2	wußte	wußte	V	VVFIN	_	0	root	_	_
+3	davon	davon	P	PROAV	_	2	pp	_	_
+4	eigentlich	eigentlich	A	ADV	_	2	adv	_	_
+5	nichts	nichts	P	PIS	_	2	obja	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+8	war	sein	V	VAFIN	3|Sg|Past|Ind	2	kon	_	_
+9	eine	eine	P	PIS	_|Nom|Sg	8	pred	_	_
+10	seiner	seine	A	PPOSAT	Fem|Gen|Pl	12	det	11	11
+11	rettenden	rettend	A	ADJA	Pos|Fem|Gen|Pl|Wk|<PPRES	12	attr	_	_
+12	Improvisationen	Improvisation	N	NN	Fem|Gen|Pl	9	gmod	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	aber	aber	K	KON	_	8	kon	_	_
+15	Girlinger	Girlinger	N	NE	_|Nom|Sg	16	subj	453	453
+16	fand	finden	V	VVFIN	3|Sg|Past|Ind	14	cj	_	_
+17	sie	sie	P	PPER	3|_|_|_	16	obja	687	687
+18	plausibel	plausibel	A	ADJD	Pos|	16	pred	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	nun	nun	A	ADV	_	0	root	_	_
+5	ja	ja	P	PTKANT	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	aber	aber	K	KON	_	0	root	_	_
+8	was	was	P	PWS	Neut|_|Sg	15	obja	_	_
+9	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	7	cj	_	_
+10	Du	du	P	PPER	2|Sg|_|Nom	9	subj	_	_
+11	in	in	P	APPR	Dat	15	pp	_	_
+12	dieser	diese	A	PDAT	Fem|Dat|Sg	14	det	687	687
+13	deutschen	deutsch	A	ADJA	Pos|Fem|Dat|Sg|Wk|	14	attr	687	687
+14	Kolonie	Kolonie	N	NN	Fem|Dat|Sg	11	pn	687	687
+15	machen	machen	V	VVINF	_	9	aux	_	_
+16	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Irgend	Irgend	N	NE	_	0	root	948	948
+3	was	was	P	PIS	_	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Schreiber	Schreiber	N	NN	Masc|_|_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Kopist	Kopist	N	NN	Masc|_|Sg	5	kon	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Sekretair	Sekretair	N	NE	Masc|_|Sg	7	kon	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	irgend	irgend	A	ADV	_	12	adv	_	_
+12	so	so	A	ADV	_	7	adv	_	_
+13	was	was	P	PIS	_	0	root	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	Girlinger	Girlinger	N	NE	_|Nom|Sg	2	subj	453	453
+2	schwieg	schweigen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	eine	eine	A	ART	Indef|Fem|_|Sg	4	det	_	_
+4	Weile	Weile	N	NN	Fem|_|Sg	2	zeit	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	meinte	meinen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	453	453
+4	:	\:	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	Geld	Geld	N	NN	Neut|_|Sg	2	obja	634	634
+6	zur	zu	P	APPRART	Dat	2	pp	_	_
+7	Reise	Reis	N	NN	_|Dat|Sg	6	pn	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Stilpe	Stilpe	N	NE	_	0	root	11	11
+2	,	,	$	$,	_	0	root	_	_
+3	langsam	langsam	A	ADJD	Pos|	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wieviel	Wieviel	P	PWS	_	0	root	_	_
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+

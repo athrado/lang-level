@@ -1,0 +1,321 @@
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	234	234
+2	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	gut	gut	A	ADJD	Pos|	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	0	root	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	0	root	234	234
+8	als	als	K	KOKOM	_	14	kom	_	_
+9	Künstlerin	Künstlerin	N	NN	Fem|_|Sg	8	cj	_	_
+10	für	für	P	APPR	Acc	9	pp	_	_
+11	mich	ich	P	PPER	1|Sg|_|Acc	10	pn	78	78
+12	die	die	A	ART	Def|_|_|_	14	det	_	_
+13	einzige	einzig	A	ADJA	Pos|_|_|_|_|	14	attr	_	_
+14	bist	bist	N	NN	_|_|_	0	root	_	_
+15	und	und	K	KON	_	0	root	_	_
+16	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	15	cj	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	4	vok	5	5
+2	,	,	$	$,	_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	4	subj	234	234
+4	sollst	sollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+5	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+6	allen	alle	P	PIS	_|_|_	11	adv	_	_
+7	deinen	deine	A	PPOSAT	Fem|Nom|Pl	8	det	234	234
+8	Schülerinnen	Schülerin	N	NN	Fem|Nom|Pl	11	pred	_	_
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	_	_
+10	Hof	Hof	N	NN	Masc|Acc|Sg	11	obja	_	_
+11	machen	machen	V	VVINF	_	4	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	78	78
+2	verehre	verehren	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	dich	du	P	PRF	2|Sg|Acc	2	obja	_	_
+4	sehr	sehr	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Also	also	A	ADV	_	3	adv	_	_
+3	weiter	weiter	A	ADV	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nicht	nicht	P	PTKNEG	_	4	adv	_	_
+3	mehr	mehr	A	ADV	_	2	adv	_	_
+4	zu	zu	P	APPR	Dat	0	root	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	2	objd	_	_
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nichts	nichts	P	PIS	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	78	78
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	ja	ja	A	ADV	_	9	adv	_	_
+4	schon	schon	A	ADV	_	9	adv	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	lange	lange	A	ADJD	_	9	adv	_	_
+7	kein	keine	A	PIAT	Neut|_|Sg	8	det	_	_
+8	Lied	Lied	N	NN	Neut|_|Sg	9	obja	_	_
+9	gesungen	singen	V	VVPP	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Nur	nur	A	ADV	_	2	adv	_	_
+2	weiter	weiter	A	ADV	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	spielt	spielen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nicht	nicht	P	PTKNEG	_	7	adv	_	_
+3	mehr	mehr	A	ADV	_	2	adv	_	_
+4	zu	zu	P	APPR	Dat	7	objp	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	4	pn	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	gehen	gehen	V	VVINF	_	9	obji	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	beschloß	beschloß	V	VVFIN	1|Sg|_|_	0	root	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	235	235
+11	und	und	K	KON	_	9	kon	_	_
+12	beschwor	beschwören	V	VVFIN	_|Sg|Past|Ind	11	cj	_	_
+13	ich	ich	P	PPER	1|Sg|_|Nom	0	root	235	235
+14	,	,	$	$,	_	0	root	_	_
+15	und	und	K	KON	_	0	root	_	_
+16	geh	geh	F	FM	_	15	cj	_	_
+17	'	'	$	$(	_	0	root	_	_
+18	doch	doch	A	ADV	_	20	adv	_	_
+19	jeden	jede	A	PIDAT	Masc|_|Sg	20	det	_	_
+20	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+3	Während	während	K	KOUS	_	5	konj	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	5	subj	78	78
+5	singt	singen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	fällt	fallen	V	VVFIN	3|Sg|Pres|Ind	11	s	_	_
+8	der	die	A	ART	Def|Masc|Nom|Sg	9	det	1	1
+
+1	Vorhang	Vorhang	N	NN	Masc|_|Sg	0	root	505	505
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gleiche	gleich	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Dekoration	Dekoration	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Oktoberabend	Oktoberabend	N	NN	Masc|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Die	die	A	ART	Def|Fem|_|Sg	3	det	236	236
+3	Bühne	Bühne	N	NN	Fem|_|Sg	0	root	236	236
+4	dunkel	dunkel	A	ADJD	Pos|	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	522	522
+2	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|Sg	0	root	522	522
+3	von	von	P	APPR	_	2	pp	522	522
+4	rechts	rechts	A	ADV	_	3	adv	522	522
+5	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|Nom|Sg	2	subj	276	276
+2	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Licht	Licht	N	NN	Neut|_|Sg	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	Danke	Dank	N	NN	Masc|Dat|Sg	0	root	405	405
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	3	koord	_	_
+3	bitte	bitten	V	VVFIN	_|Sg|Pres|_	5	s	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	sagen	sagen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	9	det	237	237
+8	gnädigen	gnädig	A	ADJA	Pos|Fem|Dat|Sg|Wk|	9	attr	237	237
+9	Frau	Frau	N	NN	Fem|Dat|Sg	5	objd	237	237
+10	,	,	$	$,	_	0	root	_	_
+11	wenn	wenn	K	KOUS	_	15	konj	_	_
+12	sie	sie	P	PPER	3|Sg|Fem|Nom	15	subj	237	237
+13	sehr	sehr	A	ADV	_	14	adv	_	_
+14	müde	müde	A	ADJD	Pos|	15	pred	_	_
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	18	neb	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	so	so	A	ADV	_	18	adv	_	_
+18	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	5	kon	_	_
+19	sie	sie	P	PPER	3|Sg|Fem|Nom	18	subj	237	237
+20	sich	sie	P	PRF	3|_|_	23	obja	_	_
+21	meinetwegen	meinetwegen	P	PROAV	_	23	pp	_	_
+22	nicht	nicht	P	PTKNEG	_	23	adv	_	_
+23	stören	stören	V	VVINF	_	18	aux	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|_	0	root	239	239
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	237	237
+2	gnädige	gnädig	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	237	237
+3	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	237	237
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	ja	ja	A	ADV	_	4	adv	_	_
+6	noch	noch	A	ADV	_	8	adv	_	_
+7	gar	gar	A	ADV	_	8	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+9	da	da	P	PTKVZ	_	4	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	237	237
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	erst	erst	A	ADV	_	2	adv	_	_
+4	mit	mit	P	APPR	Dat	2	pp	_	_
+5	dem	die	A	ART	Def|Masc|Dat|Sg	6	det	_	_
+6	Abendzug	Abendzug	N	NN	Masc|Dat|Sg	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|Pl	2	det	106	106
+2	Vorigen	Vorige	N	NN	_|_|Pl	0	root	106	106
+3	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	von	von	P	APPR	_	2	pp	_	_
+4	rechts	rechts	A	ADV	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	im	in	P	APPRART	Dat	1	pp	5	5
+3	Überrock	Überrock	N	NN	Masc|Dat|Sg	2	pn	5	5
+4	und	und	K	KON	_	2	kon	785)	785)
+5	mit	mit	P	APPR	Dat	4	cj	785)	785)
+6	Hut	Hut	N	NN	_|Dat|Sg	5	pn	241	241
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	6	6
+5	denn	denn	A	ADV	_	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Ach	ach	I	ITJ	_	0	root	_	_
+2	Sie	sie	P	PPER	3|_|_|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Marie	Marie	N	NE	_|_|_	2	app	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Grüß	Grüß	N	NE	_	0	root	96	96
+2	'	'	$	$(	_	0	root	_	_
+3	Sie	sie	P	PPER	Masc|_|Sg	0	root	97	97
+4	Gott	Gott	N	NN	Masc|_|Sg	3	app	97	97
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	97	97
+3	schon	schon	A	ADV	_	1	adv	_	_
+4	lange	lange	A	ADJD	_	1	adv	_	_
+5	da	da	A	ADV	_	1	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	95	95
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	238	238
+2	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	eben	eben	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	238	238
+2	wollte	wollen	V	VMFIN	1|Sg|Past|_	0	root	_	_
+3	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	4	obja	78	78
+4	begrüßen	begrüßen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	aber	aber	K	KON	_	2	kon	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	238	238
+8	höre	hören	V	VVFIN	1|Sg|Pres|_	6	cj	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	-	-	$	$(	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	erwarten	erwarten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	240	240
+6	sie	sie	P	PPER	3|_|_|_	4	obja	78	78
+7	mit	mit	P	APPR	Dat	4	pp	_	_
+8	mir	ich	P	PPER	1|Sg|_|Dat	7	pn	238	238
+9	.	.	$	$.	_	0	root	_	_
+
+1	Zum	zu	P	APPRART	Dat	0	root	_	_
+2	Stubenmädchen	Stubenmädchen	N	NN	Neut|Dat|_	1	pn	239	239
+3	.	.	$	$.	_	0	root	_	_
+
+1	Bitte	Bitte	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	nehmen	nehmen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	240	240
+5	das	die	P	PDS	Neut|_|Sg	3	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	ihr	ihre	A	PPOSAT	Masc|Nom|Sg	3	det	240	240
+3	Rock	Rock	N	NN	Masc|Nom|Sg	1	subj	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	Hut	Hut	N	NN	_|Nom|Sg	4	cj	241	241
+6	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|_	0	root	239	239
+2	ab	ab	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	243	243
+2	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	eben	eben	A	ADV	_	2	adv	_	_
+5	nach	nach	P	APPR	Dat	2	pp	_	_
+6	Hause	Haus	N	NN	Neut|Dat|Sg	5	pn	242	242
+7	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,56 @@
+1	Wenn	wenn	KOUS	KOUS	_	6	konj	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	6	subj	_	(0)
+3	mit	mit	PREP	APPR	Dat	5	pp	_	-
+4	Tieren	Tier	N	NN	Neut|Dat|Pl	3	pn	_	-
+5	sprechen	sprechen	V	VVINF	_	6	aux	_	-
+6	könnte	können	V	VMFIN	1|Sg|Past|Subj	8	neb	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+9	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+10	mit	mit	PREP	APPR	Dat	13	pp	_	-
+11	meinem	meine	ART	PPOSAT	Masc|Dat|Sg	12	det	_	(0)|(1
+12	Hund	Hund	N	NN	Masc|Dat|Sg	10	pn	_	1)
+13	sprechen	sprechen	V	VVINF	_	8	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	ihn	er	PRO	PPER	3|Sg|Masc|Acc	5	obja	_	(1)
+4	gerne	gerne	ADV	ADV	_	5	adv	_	-
+5	fragen	fragen	V	VVINF	_	2	aux	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	wie	wie	PWAV	PWAV	_	10	adv	_	-
+8	das	die	ART	ART	Def|Neut|Nom|Sg	9	det	_	-
+9	Essen	Esse	N	NN	Neut|Nom|Sg	10	subj	_	-
+10	war	sein	V	VAFIN	3|Sg|Past|Ind	5	objc	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Wenn	wenn	KOUS	KOUS	_	6	konj	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	6	subj	_	(0)
+3	mit	mit	PREP	APPR	Dat	5	pp	_	-
+4	ihm	er	PRO	PPER	3|Sg|_|Dat	3	pn	_	(1)
+5	sprechen	sprechen	V	VVINF	_	6	aux	_	-
+6	könnte	können	V	VMFIN	1|Sg|Past|Subj	8	neb	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+9	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+10	fragen	fragen	V	VVINF	_	8	aux	_	-
+11	,	,	$,	$,	_	0	root	_	-
+12	wann	wann	PWAV	PWAV	_	15	adv	_	-
+13	er	er	PRO	PPER	3|Sg|Masc|Nom	16	subj	_	(1)
+14	Welpen	Welpe	N	NN	Masc|_|_	15	obja	_	-
+15	haben	haben	V	VAINF	_	16	aux	_	-
+16	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	10	objc	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	-
+3	mit	mit	PREP	APPR	Dat	9	pp	_	-
+4	meinem	meine	ART	PPOSAT	Masc|Dat|Sg	5	det	_	(0)
+5	Hund	Hund	N	NN	Masc|Dat|Sg	3	pn	_	-
+6	eine	eine	ART	ART	Indef|Fem|_|Sg	8	det	_	-
+7	große	groß	ADJA	ADJA	Pos|Fem|_|Sg|_|	8	attr	_	-
+8	Party	Party	N	NN	Fem|_|Sg	9	obja	_	-
+9	machen	machen	V	VVINF	_	2	aux	_	-
+10	...	...	$.	$.	_	0	root	_	-
+

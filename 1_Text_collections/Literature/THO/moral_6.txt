@@ -1,0 +1,498 @@
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	freut	freuen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	70	70
+4	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Der	die	A	ART	Def|Masc|_|_	4	det	_	_
+4	Verfasser	Verfasser	N	NN	Masc|_|_	0	root	_	_
+5	des	die	A	ART	Def|Masc|Gen|Sg	8	det	_	_
+6	»	»	$	$(	_	0	root	_	_
+7	Armen	arm	A	ADJA	Pos|Masc|Gen|Sg|_|	8	attr	_	_
+8	Hans	Hans	N	NE	Masc|Gen|Sg	4	gmod	_	_
+9	«	«	$	$(	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	70	70
+2	Lund	Lund	N	NE	Fem|_|Sg	1	app	70	70
+3	liebenswürdig	liebenswürdig	A	ADJD	Pos|	4	adv	_	_
+4	zu	zu	P	APPR	Dat	1	pp	_	_
+5	Dobler	Dobler	N	NE	_|Dat|_	4	pn	10	10
+6	:	\:	$	$.	_	0	root	_	_
+7	Wenn	wenn	K	KOUS	_	10	konj	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	75	75
+9	jünger	jung	A	ADJD	Comp|	10	pred	_	_
+10	wäre	sein	V	VAFIN	1|Sg|Past|Subj	12	neb	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	_
+13	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	75	75
+14	selbstverständlich	selbstverständlich	A	ADJD	Pos|	16	adv	_	_
+15	so	so	A	ADV	_	16	adv	_	_
+16	tun	tun	V	VVINF	_	12	aux	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	als	als	K	KOKOM	_	19	konj	_	_
+19	hätte	haben	V	VAFIN	1|Sg|Past|Subj	12	neb	_	_
+20	ich	ich	P	PPER	1|Sg|_|Nom	19	subj	75	75
+21	'	'	$	$(	_	0	root	_	_
+22	s	s	P	PPER	_	23	obja	_	_
+23	gelesen	lesen	V	VVPP	_	19	aux	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	in	in	P	APPR	Dat	5	pp	_	_
+3	meinem	meine	A	PPOSAT	_|Dat|Sg	4	det	75	75
+4	Alter	Alter	N	NN	_|Dat|Sg	2	pn	_	_
+5	strengt	strengen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+6	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+7	an	an	P	PTKVZ	_	5	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Masc|Nom|Sg	2	subj	_	_
+4	»	»	$	$(	_	0	root	_	_
+5	Der	die	A	ART	Def|Masc|Nom|Sg	7	det	_	_
+6	arme	arm	A	ADJA	Pos|Masc|Nom|Sg|Wk|	7	attr	_	_
+7	Hans	Hans	N	NE	Masc|Nom|Sg	3	app	_	_
+8	«	«	$	$(	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	Ein	ein	A	ART	Indef|Masc|Nom|Sg	4	det	_	_
+4	Roman	Roman	N	NN	Masc|Nom|Sg	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	gnädige	gnädig	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	_	_
+7	Frau	Frau	N	NN	Fem|Nom|Sg	4	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Ein	ein	A	ART	Indef|Neut|_|Sg	4	det	_	_
+4	Meisterwerk	Meisterwerk	N	NN	Neut|_|Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	70	70
+2	Lund	Lund	N	NE	Fem|_|Sg	1	app	70	70
+3	:	\:	$	$.	_	0	root	_	_
+4	Dann	dann	A	ADV	_	5	adv	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	meine	meine	A	PPOSAT	_|Nom|Sg	7	det	76	76
+7	Unkenntnis	Unkenntnis	N	NN	_|Nom|Sg	5	subj	77	77
+8	strafbar	strafbar	A	ADJD	Pos|	5	pred	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	76	76
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	5	obja	77	77
+4	bald	bald	A	ADV	_	5	adv	_	_
+5	gutmachen	gutmachen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Vom	von	P	APPRART	Dat	4	pp	_	_
+2	Musikzimmer	Musikzimmer	N	NN	Neut|Dat|Sg	1	pn	_	_
+3	herein	herein	A	ADV	_	2	adv	_	_
+4	stürmt	stürmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	7	7
+6	Bolland	Bolland	N	NE	Fem|Nom|Sg	5	app	7	7
+7	,	,	$	$,	_	0	root	_	_
+8	hinter	hinter	P	APPR	Dat	10	pp	_	_
+9	ihr	ihr	P	PPER	3|Sg|Fem|Dat	8	pn	7	7
+10	kommen	kommen	V	VVFIN	3|Pl|Pres|_	4	kon	_	_
+11	Effie	Effie	N	NE	Neut|Nom|Pl	10	subj	16	16
+12	,	,	$	$,	_	0	root	16	16
+13	Wasner	Wasner	N	NE	Neut|Nom|_	11	kon	11	11
+14	und	und	K	KON	_	13	kon	_	_
+15	Fräulein	Fräulein	N	NN	Neut|Nom|_	14	cj	78	78
+16	Koch	Koch	N	NE	_|Nom|Sg	15	app	78	78
+17	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	Es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	höchste	hoch	A	ADJA	Sup|Fem|Nom|Sg|_|	7	attr	_	_
+7	Zeit	Zeit	N	NN	Fem|Nom|Sg	5	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	70	70
+2	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	in	in	P	APPR	Acc	2	pp	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	_	_
+5	Kunstverein	Kunstverein	N	NN	Masc|Acc|Sg	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Frau	Frau	N	NN	Fem|Dat|Sg	1	pn	70	70
+3	Lund	Lund	N	NE	Fem|Dat|Sg	2	app	70	70
+4	:	\:	$	$.	_	0	root	_	_
+5	Guten	gut	A	ADJA	Pos|Masc|Acc|Sg|_|	6	attr	_	_
+6	Tag	Tag	N	NN	Masc|Acc|Sg	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	gnädige	gnädig	A	ADJA	Pos|Fem|Acc|Sg|_|	9	attr	_	_
+9	Frau	Frau	N	NN	Fem|Acc|Sg	6	app	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	_|Nom|Sg	2	subj	16	16
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	APPR	Dat	6	objp	_	_
+4	Frau	Frau	N	NN	Fem|Dat|Sg	3	pn	70	70
+5	Lund	Lund	N	NE	Fem|Dat|Sg	4	app	70	70
+6	geeilt	eilen	V	VVPP	_	2	aux	_	_
+7	und	und	K	KON	_	2	kon	_	_
+8	küßt	küßt	V	VVFIN	_	7	cj	_	_
+9	ihr	ihr	P	PPER	3|Sg|Fem|Dat	8	objd	16	16
+10	die	die	A	ART	Def|Fem|_|Sg	11	det	79	79
+11	Hand	Hand	N	NN	Fem|_|Sg	8	obja	79	79
+12	:	\:	$	$.	_	0	root	_	_
+13	Mama	Mama	N	NN	Fem|_|Sg	0	root	70	70
+14	Lund	Lund	N	NE	Fem|_|Sg	13	app	70	70
+15	!	!	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	70	70
+2	Lund	Lund	N	NE	Fem|_|Sg	1	app	70	70
+3	:	\:	$	$.	_	0	root	_	_
+4	Wie	Wie	P	PWAV	_	5	pred	_	_
+5	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_|_|_|Nom	5	subj	0	0
+8	dir	du	P	PPER	2|Sg|_|Dat	5	objd	80	80
+9	,	,	$	$,	_	0	root	_	_
+10	kleiner	klein	A	ADJA	Pos|Masc|Nom|Sg|St|	11	attr	_	_
+11	Wildfang	Wildfang	N	NN	Masc|Nom|Sg	5	vok	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	80	80
+3	bald	bald	A	ADV	_	1	adv	_	_
+4	zu	zu	P	APPR	Dat	1	objp	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	pn	70	70
+6	?	?	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	_	0	root	16	16
+2	:	\:	$	$.	_	0	root	_	_
+3	Gerne	Gerne	N	NE	Fem|_|Pl	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	aber	aber	K	KON	_	3	kon	_	_
+6	die	die	A	ART	Def|Fem|_|Pl	7	det	_	_
+7	Musikstunden	Musikstunde	N	NN	Fem|_|Pl	5	cj	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	der	die	A	ART	Def|Masc|Nom|Sg	11	det	_	_
+11	Vortrag	Vortrag	N	NN	Masc|Nom|Sg	9	cj	_	_
+12	von	von	P	APPR	Dat	11	pp	_	_
+13	Professor	Professor	N	NN	Masc|Dat|Sg	12	pn	18	18
+14	Stöhr	Stöhr	N	NE	Masc|Dat|Sg	13	app	18	18
+15	...	...	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	70	70
+2	Lund	Lund	N	NE	Fem|_|Sg	1	app	70	70
+3	:	\:	$	$.	_	0	root	_	_
+4	Und	und	K	KON	_	0	root	_	_
+5	dies	dies	P	PDS	Neut|_|Sg	4	cj	_	_
+6	und	und	K	KON	_	5	kon	_	_
+7	das	die	P	PDS	Neut|_|Sg	6	cj	_	_
+8	und	und	K	KON	_	7	kon	_	_
+9	deine	deine	A	PPOSAT	Neut|_|Pl	11	det	80	80
+10	achtzehn	achtzehn	C	CARD	_	11	attr	_	_
+11	Jahre	Jahr	N	NN	Neut|_|Pl	8	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	80	80
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	ganz	ganz	A	ADV	_	4	adv	_	_
+4	recht	recht	A	ADJD	Pos|	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	_|_|Sg	1	app	7	7
+3	zu	zu	P	APPR	Dat	2	pp	_	_
+4	Frau	Frau	N	NN	Fem|Dat|Sg	3	pn	94	94
+5	Beermann	Beermann	N	NE	_|_|Sg	2	app	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	Effie	Effie	N	NE	_|Nom|Sg	8	subj	16	16
+8	darf	dürfen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+9	doch	doch	A	ADV	_	10	adv	_	_
+10	mitkommen	mitkommen	V	VVINF	_	8	aux	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	3	pp	_	_
+2	Kunstverein	Kunstverein	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+4	wundervolle	wundervoll	A	ADJA	Pos|_|Nom|Pl|St|	5	attr	_	_
+5	Bilder	Bild	N	NN	_|Nom|Pl	3	subj	_	_
+6	sein	sein	V	VAINF	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	mit	mit	P	APPR	Dat	1	pp	_	_
+4	einem	eine	A	ART	Indef|Masc|Dat|Sg	5	det	_	_
+5	Blick	Blick	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	auf	auf	P	APPR	_	5	pp	_	_
+7	Frau	Frau	N	NN	Fem|_|Sg	6	pn	70	70
+8	Lund	Lund	N	NE	Fem|_|Sg	7	app	70	70
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	70	70
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	70	70
+2	Lund	Lund	N	NE	Fem|_|Sg	1	app	70	70
+3	:	\:	$	$.	_	0	root	_	_
+4	Aber	aber	K	KON	_	0	root	_	_
+5	natürlich	natürlich	A	ADJD	Pos|	6	adv	_	_
+6	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	4	cj	_	_
+7	sie	sie	P	PPER	3|Sg|Fem|Nom	6	subj	70	70
+8	gehen	gehen	V	VVINF	_	6	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	5	pp	_	_
+2	dem	die	A	ART	Def|_|Dat|Sg	4	det	_	_
+3	hübschen	hübsch	A	ADJA	Pos|_|Dat|Sg|Wk|	4	attr	_	_
+4	Kleid	Kleid	N	NN	_|Dat|Sg	1	pn	_	_
+5	darf	dürfen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+6	sie	sie	P	PPER	3|Sg|Fem|Nom	5	subj	70	70
+7	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+8	daheim	daheim	A	ADV	_	9	adv	_	_
+9	bleiben	bleiben	V	VVINF	_	5	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	81	81
+2	unterhalten	unterhalten	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	uns	wir	P	PRF	1|Pl|_	2	obja	_	_
+4	schon	schon	A	ADV	_	2	adv	_	_
+5	mit	mit	P	APPR	Dat	2	pp	_	_
+6	den	die	A	ART	Def|Masc|Dat|Pl	7	det	438	438
+7	Herren	Herr	N	NN	Masc|Dat|Pl	5	pn	438	438
+8	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	Dann	dann	A	ADV	_	5	adv	_	_
+5	müssen	müssen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	5	subj	81	81
+7	uns	wir	P	PRF	1|Pl|Dat	8	objd	_	_
+8	eilen	eilen	V	VVINF	_	5	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	höchste	hoch	A	ADJA	Sup|Fem|Nom|Sg|_|	4	attr	_	_
+4	Zeit	Zeit	N	NN	Fem|Nom|Sg	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	Fem|_|Sg	0	root	1	1
+2	,	,	$	$,	_	0	root	1	1
+3	gute	gut	A	ADJA	Pos|Fem|_|Sg|_|	4	attr	1	1
+4	Frau	Frau	N	NN	Fem|_|Sg	1	app	1	1
+5	Beermann	Beermann	N	NE	_|_|Sg	4	app	1	1
+6	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	prachtvoll	prachtvoll	A	ADJD	Pos|	2	pred	_	_
+4	bei	bei	P	APPR	Dat	2	pp	_	_
+5	Ihnen	sie	P	PPER	3|Pl|_|Dat	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	Fem|_|Sg	7	vok	70	70
+2	,	,	$	$,	_	0	root	70	70
+3	Frau	Frau	N	NN	Fem|_|Sg	1	app	70	70
+4	Lund	Lund	N	NE	Fem|_|Sg	3	app	70	70
+5	,	,	$	$,	_	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	7	subj	_	_
+7	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+8	zu	zu	P	PTKA	_	9	adv	_	_
+9	hübsch	hübsch	A	ADJD	Pos|	7	pred	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	16	konj	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	16	subj	70	70
+13	Sie	sie	P	PPER	3|_|_|_	15	obja	70	70
+14	noch	noch	A	ADV	_	15	adv	_	_
+15	gesehen	sehen	V	VVPP	_	16	aux	_	_
+16	habe	haben	V	VAFIN	1|Sg|Pres|_	7	objc	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	_	0	root	82	82
+2	!	!	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	_	0	root	82	82
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Adolf	Adolf	N	NE	Masc|_|Sg	0	root	83	83
+3	!	!	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Ja	ja	P	PTKANT	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	Buzi	Buzi	N	NE	_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	Wir	wir	P	PPER	1|Pl|_|Nom	5	subj	_	_
+5	fahren	fahren	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+6	um	um	P	APPR	_	5	pp	_	_
+7	acht	acht	C	CARD	_	6	pn	_	_
+8	ins	in	P	APPRART	Acc	5	pp	_	_
+9	Theater	Theater	N	NN	Neut|Acc|_	8	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	Wiener	Wiener	A	ADJA	Pos|Masc|Nom|Sg|_|	3	attr	_	_
+3	Gast	Gast	N	NN	Masc|Nom|Sg	4	subj	_	_
+4	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	großartig	großartig	A	ADJD	Pos|	6	pred	_	_
+6	sein	sein	V	VAINF	_	4	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ab	ab	P	APPR	Dat	0	root	_	_
+2	nach	nach	P	APPR	Dat	1	pp	_	_
+3	links	links	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	Neut|_|_	0	root	16	16
+2	und	und	K	KON	_	1	kon	_	_
+3	Fräulein	Fräulein	N	NN	Neut|_|_	2	cj	78	78
+4	Koch	Koch	N	NE	_|_|Sg	3	app	78	78
+5	hinter	hinter	P	APPR	Dat	3	pp	_	_
+6	ihr	ihr	P	PPER	3|Sg|Fem|Dat	5	pn	16	16
+7	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	7	7
+2	Bolland	Bolland	N	NE	Fem|Nom|Sg	1	app	7	7
+3	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	an	an	P	APPR	Dat	7	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	52	52
+6	Türe	Türe	N	NN	Fem|Dat|Sg	4	pn	52	52
+7	stehen	stehen	V	VVINF	_	3	obji	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	Herr	Herr	N	NN	Masc|_|Sg	0	root	10	10
+5	Dobler	Dobler	N	NE	Masc|_|Sg	4	app	10	10
+6	,	,	$	$,	_	0	root	_	_
+7	bitte	bitte	I	ITJ	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	begleiten	begleiten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+10	Sie	sie	P	PPER	3|Pl|_|Nom	9	subj	84	84
+11	uns	wir	P	PPER	1|Pl|_|_	9	obja	85	85
+12	;	;	$	$.	_	0	root	_	_
+13	Sie	sie	P	PPER	3|Pl|_|Nom	14	subj	84	84
+14	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+15	uns	wir	P	PPER	1|Pl|_|Dat	17	objd	85	85
+16	manches	manche	P	PIS	_|_|Sg	17	obja	_	_
+17	erklären	erklären	V	VVINF	_	14	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	Wenn	wenn	K	KOUS	_	5	konj	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	84	84
+5	gestatten	gestatten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	Frau	Frau	N	NN	Fem|Nom|Sg	1	subj	1	1
+3	Beermann	Beermann	N	NE	_|Nom|Sg	2	app	1	1
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	79	79
+5	Hand	Hand	N	NN	Fem|_|Sg	1	obja	79	79
+6	und	und	K	KON	_	1	kon	_	_
+7	verbeugt	verbeugen	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	sich	sie	P	PRF	3|_|_	7	obja	_	_
+9	gegen	gegen	P	APPR	Acc	7	pp	_	_
+10	die	die	A	ART	Def|_|_|_	11	det	_	_
+11	übrigen	übrig	A	ADJA	_|_|Pl	9	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Bald	bald	A	ADV	_	4	adv	_	_
+4	wieder	wieder	A	ADV	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+7	Poet	Poet	N	NE	Masc|_|Sg	6	app	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	überlegen	überlegen	V	VVFIN	3|Pl|Pres|_	3	cj	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	_	_
+6	sich	sie	P	PRF	3|_|Dat	4	objd	_	_
+7	mal	mal	A	ADV	_	4	adv	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	9	det	86	86
+9	Stoff	Stoff	N	NN	Masc|Acc|Sg	4	obja	86	86
+10	.	.	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	ab	ab	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Vorher	vorher	A	ADV	_	2	adv	_	_
+2	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+3	Frau	Frau	N	NN	Fem|Nom|Sg	2	subj	7	7
+4	Bolland	Bolland	N	NE	Neut|Nom|_	3	app	7	7
+5	,	,	$	$,	_	0	root	_	_
+6	Effie	Effie	N	NE	Neut|Nom|_	4	kon	16	16
+7	und	und	K	KON	_	6	kon	_	_
+8	Fräulein	Fräulein	N	NN	Neut|Nom|_	7	cj	78	78
+9	Koch	Koch	N	NE	_|Nom|Sg	8	app	78	78
+10	links	links	A	ADV	_	11	adv	_	_
+11	abgegangen	abgehen	V	VVPP	_	2	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	70	70
+2	Lund	Lund	N	NE	Fem|_|Sg	1	app	70	70
+3	:	\:	$	$.	_	0	root	_	_
+4	Und	und	K	KON	_	0	root	_	_
+5	jetzt	jetzt	A	ADV	_	6	adv	_	_
+6	bitte	bitten	V	VVFIN	1|Sg|Pres|_	4	cj	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	70	70
+8	um	um	P	APPR	Acc	6	objp	_	_
+9	eine	eine	A	ART	Indef|Fem|_|Sg	10	det	_	_
+10	Tasse	Tasse	N	NN	_|Acc|Sg	8	pn	_	_
+11	Kaffee	Kaffee	N	NN	_|Acc|Sg	10	app	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	88	88
+5	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+6	frischen	frischen	V	VVINF	_	7	obji	_	_
+7	bekommen	bekommen	V	VVINF	_	5	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	3	det	87	87
+3	Diener	Diener	N	NN	Masc|Dat|Sg	1	pn	87	87
+4	,	,	$	$,	_	0	root	87	87
+5	der	die	P	PRELS	Masc|Nom|Sg	8	subj	87	87
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	_	_
+7	Kaffeetisch	Kaffeetisch	N	NN	Masc|Acc|Sg	8	obja	_	_
+8	abräumt	abräumen	V	VVFIN	3|Sg|Pres|Ind	3	rel	_	_
+9	:	\:	$	$.	_	0	root	_	_
+10	Sagen	sagen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+11	Sie	sie	P	PPER	3|Pl|_|Nom	10	subj	88	88
+12	in	in	P	APPR	Dat	10	pp	_	_
+13	der	die	A	ART	Def|Fem|Dat|Sg	14	det	666	666
+14	Küche	Küche	N	NN	Fem|Dat|Sg	12	pn	666	666
+15	,	,	$	$,	_	0	root	_	_
+16	daß	daß	K	KOUS	_	19	konj	_	_
+17	man	man	P	PIS	_|Nom|Sg	19	subj	_	_
+18	Kaffee	Kaffee	N	NN	_|_|Sg	19	obja	89	89
+19	macht	machen	V	VVFIN	3|Sg|Pres|Ind	10	objc	_	_
+20	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,391 @@
+1	-	-	$	$(	_	0	root	_	_
+2	Dichten	Dichte	N	NN	_|_|_	0	root	463	463
+3	?	?	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+4	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	1	par	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	die	die	A	ART	Def|Masc|_|Pl	7	det	420	420
+7	Männer	Mann	N	NN	Masc|_|Pl	8	grad	420	420
+8	habens	habens	A	ADV	_	9	adv	_	_
+9	gern	gern	A	ADV	_	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	wenn	wenn	K	KOUS	_	17	konj	_	_
+12	unsereins	unsereins	P	PIS	Neut|Nom|Sg	17	subj	_	_
+13	Worte	Wort	N	NN	Neut|_|_	16	obja	934	934
+14	schön	schön	A	ADJD	Pos|	16	adv	_	_
+15	zu	zu	P	PTKZU	_	16	part	_	_
+16	setzen	setzen	V	VVINF	_	17	obji	_	_
+17	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+18	und	und	K	KON	_	17	kon	_	_
+19	Reime	Reim	N	NN	Masc|_|_	23	obja	_	_
+20	auf	auf	P	APPR	Acc	23	pp	_	_
+21	die	die	A	ART	Def|_|Acc|_	22	det	421	421
+22	Liebe	Liebe	N	NN	_|Acc|_	20	pn	421	421
+23	findet	finden	V	VVFIN	_|_|Pres|_	18	cj	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+5	gerade	gerade	A	ADV	_	6	adv	_	_
+6	sein	sein	V	VAINF	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	gedichtet	dichten	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wenn	wenn	K	KOUS	_	8	konj	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	1348	1348
+8	sage	sagen	V	VVFIN	1|Sg|Pres|_	2	neb	_	_
+9	:	\:	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	1	subj	_	_
+3	gedichtet	dichten	V	VVPP	_	1	aux	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Pao-Szö	Pao-Szö	N	NE	_|Nom|Sg	2	subj	288	288
+2	blickte	blicken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	fast	fast	A	ADV	_	4	adv	_	_
+4	streng	streng	A	ADJD	Pos|	2	adv	_	_
+5	vor	vor	P	APPR	_	2	pp	_	_
+6	sich	sie	P	PRF	3|_|_	5	pn	_	_
+7	hin	hin	A	APZR	_	5	part	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	aber	aber	K	KON	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	aber	aber	K	KON	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Freilich	freilich	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	6	det	422	422
+5	dunklen	dunkel	A	ADJA	Pos|Fem|Dat|Sg|Wk|	6	attr	422	422
+6	Art	Art	N	NN	Fem|Dat|Sg	3	pn	422	422
+7	,	,	$	$,	_	0	root	422	422
+8	die	die	P	PRELS	Fem|Nom|Sg	12	subj	422	422
+9	jetzt	jetzt	A	ADV	_	12	adv	_	_
+10	so	so	A	ADV	_	11	adv	_	_
+11	beliebt	beliebt	A	ADJD	Pos|	12	pred	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	rel	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	423	423
+4	das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+5	her	her	P	PTKVZ	_	2	avz	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	423	423
+4	das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+5	her	her	P	PTKVZ	_	2	avz	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Weiß	Weiß	N	NN	Neut|_|Sg	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	1348	1348
+3	auch	auch	A	ADV	_	1	adv	_	_
+4	gleich	gleich	A	ADJD	Pos|	1	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	sag	sag	V	VVFIN	_	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	wie	wie	K	KOKOM	_	0	root	_	_
+5	ists	ists	N	NE	_	4	cj	_	_
+6	mit	mit	P	APPR	Dat	5	pp	_	_
+7	dem	die	A	ART	Def|Neut|Dat|Sg	8	det	1232	1232
+8	Tanzen	Tanzen	N	NN	Neut|Dat|Sg	6	pn	1232	1232
+9	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	halt	halt	A	ADV	_	2	cj	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Erst	erst	A	ADV	_	3	adv	425	425
+2	gelbe	gelb	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	425	425
+3	Seide	Seide	N	NN	Fem|_|Sg	0	root	425	425
+4	und	und	K	KON	_	3	kon	_	_
+5	die	die	A	ART	Def|_|_|_	6	det	_	_
+6	Schärpe	Schärpe	N	NN	_|_|_	4	cj	_	_
+7	aus	aus	P	APPR	Dat	6	pp	_	_
+8	Brokat	Brokat	N	NE	_|Dat|_	7	pn	424	424
+9	!	!	$	$.	_	0	root	_	_
+
+1	Schnell	schnell	A	ADJD	Pos|	2	adv	_	_
+2	schnell	schnell	A	ADJD	Pos|	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	0	root	_	_
+2	zwei	zwei	C	CARD	_	1	pn	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	drei	drei	C	CARD	_	5	attr	924	924
+5	Bewegungen	Bewegung	N	NN	Fem|_|Pl	0	root	924	924
+6	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+7	sie	sie	P	PPER	3|Sg|Fem|Nom	6	subj	425	425
+8	sich	sie	P	PRF	3|_|_	9	obja	_	_
+9	entkleidet	entkleiden	V	VVPP	_	6	aux	_	_
+10	und	und	K	KON	_	6	kon	_	_
+11	sprang	springen	V	VVFIN	_|Sg|Past|Ind	10	cj	_	_
+12	nun	nun	A	ADV	_	11	adv	_	_
+13	in	in	P	APPR	Dat	11	pp	_	_
+14	der	die	A	ART	Def|Fem|Dat|Sg	15	det	_	_
+15	Lust	Lust	N	NN	Fem|Dat|Sg	13	pn	_	_
+16	ihrer	ihre	A	PPOSAT	Fem|Gen|Sg	17	det	425	425
+17	Nacktheit	Nacktheit	N	NN	Fem|Gen|Sg	15	gmod	_	_
+18	durchs	durch	P	APPRART	Acc	11	pp	_	_
+19	Zimmer	Zimmer	N	NN	Neut|Acc|_	18	pn	646	646
+20	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Mein	meine	A	PPOSAT	Masc|Nom|Sg	3	det	426	426
+3	Gott	Gott	N	NN	Masc|Nom|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	426	426
+2	Gott	Gott	N	NN	Masc|Nom|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	fängt	fangen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	427	427
+4	an	an	P	PTKVZ	_	2	avz	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	3	adv	_	_
+2	andere	andere	P	PIS	_|Nom|Pl	3	subj	_	_
+3	aufhören	aufhören	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	da	da	A	ADV	_	6	adv	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	sie	sie	P	PPER	3|Sg|Fem|Nom	6	subj	427	427
+8	schon	schon	A	ADV	_	6	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Kind	Kind	N	NN	Neut|_|Sg	6	vok	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Kind	Kind	N	NN	Neut|_|Sg	1	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	6	subj	_	_
+6	tanzest	tanzen	V	VVFIN	2|Sg|Pres|Subj	0	root	_	_
+7	ja	ja	A	ADV	_	6	adv	_	_
+8	wie	wie	K	KOKOM	_	6	kom	_	_
+9	eine	eine	A	ART	Indef|Fem|_|Sg	11	det	_	_
+10	selige	selig	A	ADJA	Pos|Fem|_|Sg|_|	11	attr	_	_
+11	Göttin	Göttin	N	NN	Fem|_|Sg	8	cj	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	Oh	oh	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Oh	oh	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	_	_
+4	pas	pas	F	FM	Masc|Nom|Sg	2	pred	_	_
+5	volüptüeux	volüptüeux	F	FM	Masc|Nom|Sg	4	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	der	die	A	ART	Def|Masc|Nom|Sg	8	det	_	_
+8	pas	pas	F	FM	Masc|Nom|Sg	5	app	_	_
+9	ravissant	ravissant	F	FM	Masc|Nom|Sg	8	app	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	das	die	P	PDS	Neut|Nom|Sg	12	subj	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+13	die	die	A	ART	Def|_|_|_	14	det	_	_
+14	schwerste	schwer	A	ADJA	_|_|_	12	pred	_	_
+15	der	die	A	ART	Def|Fem|Gen|Pl	16	det	_	_
+16	Künste	Kunst	N	NN	Fem|Gen|Pl	14	gmod	_	_
+17	!	!	$	$.	_	0	root	_	_
+
+1	Zum	zu	P	APPRART	Dat	4	pp	_	_
+2	dritten	dritt	A	ADJA	_|Neut|Dat|Sg|Wk|	3	attr	_	_
+3	Male	Mal	N	NN	Neut|Dat|Sg	1	pn	_	_
+4	sank	sinken	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+5	die	die	A	ART	Def|_|_|_	6	det	_	_
+6	große	groß	A	ADJA	_|_|_	4	subj	_	_
+7	Wo	Wo	P	PWAV	_	0	root	_	_
+8	vor	vor	P	APPR	_	0	root	_	_
+9	Pao-Szö	Pao-Szö	N	NN	_|_|_	8	pn	288	288
+10	nieder	nieder	P	PTKVZ	_	0	root	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	und	und	K	KON	_	0	root	_	_
+13	diesmal	diesmal	A	ADV	_	14	adv	_	_
+14	rief	rufen	V	VVFIN	3|Sg|Past|Ind	12	cj	_	_
+15	sie	sie	P	PPER	3|Sg|Fem|Nom	14	subj	1348	1348
+16	:	\:	$	$.	_	0	root	_	_
+17	Kaiserin	Kaiserin	N	NN	_|_|Sg	0	root	428	428
+18	!	!	$	$.	_	0	root	_	_
+
+1	Kaiserin	Kaiserin	N	NN	_|_|Sg	0	root	428	428
+2	!	!	$	$.	_	0	root	_	_
+
+1	Herrin	Herrin	N	NN	Fem|_|Sg	0	root	_	_
+2	des	die	A	ART	Def|Neut|Gen|Sg	3	det	130	130
+3	Reichs	Reich	N	NN	Neut|Gen|Sg	1	gmod	130	130
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sei	sein	V	VAFIN	_|Sg|Pres|Subj	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	429	429
+3	gnädig	gnädig	A	ADJD	Pos|	1	pred	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Bleibe	bleiben	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	429	429
+3	gnädig	gnädig	A	ADJD	Pos|	1	pred	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	1329	1329
+2	Heil	Heil	N	NE	Neut|Nom|Sg	5	subj	1329	1329
+3	meines	meine	A	PPOSAT	Neut|Gen|Sg	4	det	429	429
+4	Lebens	Leben	N	NN	Neut|Gen|Sg	2	gmod	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	eingezogen	eingezogen	A	ADJD	Pos|	5	pred	_	_
+7	in	in	P	APPR	Acc	5	pp	_	_
+8	dieses	diese	A	PDAT	Neut|Acc|Sg	9	det	430	430
+9	Haus	Haus	N	NN	Neut|Acc|Sg	7	pn	430	430
+10	!	!	$	$.	_	0	root	_	_
+
+1	Oh	oh	I	ITJ	_	0	root	_	_
+2	Majestät	Majestät	N	NN	Fem|_|Sg	0	root	288	288
+3	Pao-Szö	Pao-Szö	N	NE	Fem|_|Sg	2	app	288	288
+4	!	!	$	$.	_	0	root	_	_
+
+1	Erhabene	erhaben	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	432	432
+2	Mutter	Mutter	N	NN	Fem|_|Sg	0	root	432	432
+3	der	die	A	ART	Def|Neut|Gen|Pl	5	det	431	431
+4	sechs	sechs	C	CARD	_	5	attr	431	431
+5	Serails	Serail	N	NN	Neut|Gen|Pl	2	gmod	431	431
+6	!	!	$	$.	_	0	root	_	_
+
+1	Unablässig	unablässig	A	ADJD	Pos|	2	adv	_	_
+2	beklopfte	beklopfen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	432	432
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	100	100
+5	Boden	Boden	N	NN	Masc|Acc|Sg	2	obja	100	100
+6	mit	mit	P	APPR	Dat	2	pp	_	_
+7	ihrer	ihre	A	PPOSAT	Fem|Dat|Sg	8	det	432	432
+8	Stirn	Stirn	N	NN	Fem|Dat|Sg	6	pn	878	878
+9	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Seide	Seide	N	NN	Fem|_|Sg	0	root	132	132
+3	!	!	$	$.	_	0	root	_	_
+
+1	Seide	Seide	N	NN	Fem|_|Sg	0	root	132	132
+2	!	!	$	$.	_	0	root	_	_
+
+1	Gelbe	gelb	A	ADJA	Pos|Fem|_|Sg|_|	4	attr	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	gelbe	gelb	A	ADJA	Pos|_|_|_|_|	1	kon	_	_
+4	Seide	Seide	N	NN	Fem|_|Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|Nom|Sg	4	det	433	433
+4	Schärpe	Schärpe	N	NN	Fem|Nom|Sg	2	subj	433	433
+5	aus	aus	P	APPR	Dat	2	pp	_	_
+6	Brokat	Brokat	N	NE	_|Dat|_	5	pn	424	424
+7	?	?	$	$.	_	0	root	_	_
+
+1	Sterne	Stern	N	NN	Masc|_|_	0	root	_	_
+2	ins	in	P	APPRART	Acc	1	pp	_	_
+3	Haar	Haar	N	NN	Neut|Acc|Sg	2	pn	434	434
+4	!	!	$	$.	_	0	root	_	_
+
+1	Hei	Hei	N	NN	Fem|Acc|Sg	0	root	435	435
+2	und	und	K	KON	_	1	kon	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	_	_
+4	Goldreif	Goldreif	N	NN	Masc|Acc|Sg	2	cj	_	_
+5	mit	mit	P	APPR	Dat	4	pp	_	_
+6	den	die	A	ART	Def|Fem|Dat|Pl	8	det	_	_
+7	nickenden	nickend	A	ADJA	Pos|Fem|Dat|Pl|_|<PPRES	8	attr	_	_
+8	Perlen	Perle	N	NN	Fem|Dat|Pl	5	pn	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Kaiser	Kaiser	N	NE	_|Nom|Sg	0	root	222	222
+2	,	,	$	$,	_	0	root	222	222
+3	mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	222	222
+4	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	1	kon	436)	436)
+5	,	,	$	$,	_	0	root	436)	436)
+6	komm	komm	N	NE	Masc|Nom|Sg	4	kon	222	222
+7	,	,	$	$,	_	0	root	_	_
+8	tanz	tanzen	V	VVIMP	Sg	0	root	_	_
+9	mit	mit	P	APPR	Dat	8	pp	_	_
+10	mir	ich	P	PPER	1|Sg|_|Dat	9	pn	436	436
+11	!	!	$	$.	_	0	root	_	_
+
+1	All	all	A	PIDAT	Fem|_|Sg	3	det	_	_
+2	meine	meine	A	PPOSAT	Fem|_|Sg	3	det	436	436
+3	Nacktheit	Nacktheit	N	NN	Fem|_|Sg	4	obja	_	_
+4	verschenk	verschenk	V	VVFIN	1|Sg|_|_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	436	436
+6	dir	du	P	PPER	2|Sg|_|Dat	4	objd	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Hahahaha	Hahahaha	N	NE	_	0	root	437	437
+2	!	!	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	5	pp	_	_
+2	einem	eine	A	ART	Indef|_|Dat|Sg	4	det	_	_
+3	übermütigen	übermütig	A	ADJA	Pos|_|Dat|Sg|Wk|	4	attr	_	_
+4	Gelächter	Gelächter	N	NN	_|Dat|Sg	1	pn	_	_
+5	warf	werfen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+6	sie	sie	P	PPER	3|Sg|Fem|Nom	5	subj	437	437
+7	sich	sie	P	PRF	3|_|_	5	obja	_	_
+8	auf	auf	P	APPR	Acc	5	objp	_	_
+9	ein	eine	A	ART	Indef|Neut|Acc|Sg	10	det	_	_
+10	Polsterbett	Polsterbett	N	NN	Neut|Acc|Sg	8	pn	_	_
+11	und	und	K	KON	_	5	kon	_	_
+12	rief	rufen	V	VVFIN	_|Sg|Past|Ind	11	cj	_	_
+13	:	\:	$	$.	_	0	root	_	_
+14	Ist	Ist	N	NN	Neut|_|Sg	0	root	412	412
+15	jetzt	jetzt	A	ADV	_	17	adv	_	_
+16	die	die	A	ART	Def|Fem|_|Sg	17	det	_	_
+17	Stunde	Stunde	N	NN	Fem|_|Sg	0	root	_	_
+18	aus	aus	P	PTKVZ	_	0	root	_	_
+19	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Majestät	Majestät	N	NN	Fem|_|Sg	0	root	63	63
+3	!	!	$	$.	_	0	root	_	_
+
+1	Majestät	Majestät	N	NN	Fem|_|Sg	0	root	63	63
+2	!	!	$	$.	_	0	root	_	_
+
+1	Gnade	Gnade	N	NN	Fem|_|Sg	0	root	_	_
+2	mit	mit	P	APPR	Dat	1	pp	_	_
+3	Eurer	eure	A	PPOSAT	Fem|Dat|Sg	4	det	_	_
+4	Sklavin	Sklavin	N	NN	Fem|Dat|Sg	2	pn	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Gnade	Gnade	N	NN	Fem|_|Sg	0	root	438	438
+2	!	!	$	$.	_	0	root	_	_
+
+1	Gnade	Gnade	N	NN	Fem|_|Sg	0	root	438	438
+2	!	!	$	$.	_	0	root	_	_
+

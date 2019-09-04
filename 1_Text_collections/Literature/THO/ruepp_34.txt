@@ -1,0 +1,501 @@
+1	I	I	C	CARD	_	2	obja	_	_
+2	hab	hab	V	VAFIN	_	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	2	objd	548	548
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_	0	root	549	549
+6	amal	amal	A	ADJA	_	7	attr	_	_
+7	g	g	N	NN	_|Nom|Sg	9	subj	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	woaßt	woaßt	F	FM	_	0	root	_	_
+12	as	as	F	FM	_	11	app	_	_
+13	nimma	nimma	F	FM	_	12	app	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Z	Z	N	NN	Neut|_|Sg	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Dachau	Dachau	N	NE	Neut|_|Sg	1	app	_	_
+4	is	is	F	FM	Neut|_|Sg	3	app	_	_
+5	g	g	F	FM	Neut|_|Sg	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	wen	wer	P	PWS	_|Acc|Sg	17	obja	_	_
+8	beim	bei	P	APPRART	Dat	17	pp	_	_
+9	Hörhammer	Hörhammer	N	NN	_|Dat|_	8	pn	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Ruepp	Ruepp	N	NE	_|Dat|_	9	app	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	han	han	F	FM	_|Nom|Sg	17	subj	_	_
+14	i	i	F	FM	_|Nom|Sg	13	app	_	_
+15	g	g	F	FM	_|Nom|Sg	14	app	_	_
+16	'	'	$	$(	_	0	root	_	_
+17	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	1	objc	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	laß	laß	N	NE	_	0	root	22	22
+20	di	di	N	NE	_	19	app	22	22
+21	mit	mit	P	APPR	Dat	20	pp	_	_
+22	'	'	$	$(	_	0	root	_	_
+23	n	n	N	NN	Masc|Dat|Sg	21	pn	_	_
+24	Wasserburger	Wasserburger	N	NN	Masc|Dat|Sg	23	app	_	_
+25	net	net	A	ADV	_	24	adv	_	_
+26	ei	ei	A	ADJD	_	0	root	_	_
+27	,	,	$	$,	_	0	root	_	_
+28	da	da	K	KOUS	_	32	konj	_	_
+29	bist	bist	F	FM	_|Nom|Sg	32	subj	_	_
+30	ausg	ausg	F	FM	_|Nom|Sg	29	app	_	_
+31	'	'	$	$(	_	0	root	_	_
+32	schmiert	schmieren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+33	,	,	$	$,	_	0	root	_	_
+34	vor	vor	P	APPR	_	32	pp	_	_
+35	'	'	$	$(	_	0	root	_	_
+36	s	s	F	FM	_|_|_	34	pn	_	_
+37	d	d	F	FM	_|_|_	36	app	_	_
+38	'	'	$	$(	_	0	root	_	_
+39	o	o	F	FM	_|_|_	37	app	_	_
+40	'	'	$	$(	_	0	root	_	_
+41	fangst	fangst	N	NE	_|_|_	39	app	_	_
+42	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	glaab	glaab	F	FM	_	1	cj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	n	n	F	FM	_	2	app	_	_
+5	teat	teat	F	FM	_	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_	0	root	22	22
+8	ja	ja	A	ADV	_	7	adv	_	_
+9	ös	ös	F	FM	_	0	root	_	_
+10	nix	nix	F	FM	_	9	app	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	ös	ös	F	FM	_	10	app	_	_
+13	Luftg	Luftg	F	FM	_	12	app	_	_
+14	'	'	$	$(	_	0	root	_	_
+15	selchten	selchen	V	VVFIN	_|Pl|Past|_	0	root	_	_
+16	.	.	$	$.	_	0	root	_	_
+17	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Bei	bei	P	APPR	Dat	4	pp	_	_
+3	enk	enk	N	NE	_|Dat|_	2	pn	172	172
+4	sagt	sagen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_|_|_|Nom	4	subj	1	1
+7	oana	oana	A	ADJD	_	4	adv	_	_
+8	vom	von	P	APPRART	Dat	4	pp	_	_
+9	andern	andern	A	ADJA	_|_|Dat|_|_	8	pn	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	und	und	K	KON	_	8	kon	_	_
+12	bei	bei	P	APPR	Dat	11	cj	_	_
+13	an	an	P	APPR	_	16	pp	_	_
+14	jeden	jede	A	PIDAT	_|_|Sg	15	det	348	348
+15	is	is	N	NN	_|_|Sg	13	pn	348	348
+16	wahr	wahr	A	ADJD	Pos|	12	pn	_	_
+17	.	.	$	$.	_	0	root	_	_
+18	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Jetzt	jetzt	A	ADV	_	3	adv	_	_
+3	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	amal	amal	F	FM	_	3	obja	_	_
+5	schö	schö	F	FM	_	4	app	_	_
+6	g	g	F	FM	_	5	app	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	redt	redt	N	NE	_	6	app	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Vo	Vo	N	NE	_	0	root	_	_
+2	wem	wer	P	PWS	_|Dat|Sg	0	root	_	_
+3	host	host	F	FM	Neut|_|Sg	0	root	_	_
+4	denn	denn	F	FM	Neut|_|Sg	3	app	_	_
+5	du	du	F	FM	Neut|_|Sg	4	app	_	_
+6	dös	dös	F	FM	Neut|_|Sg	5	app	_	_
+7	mehra	mehra	F	FM	Neut|_|Sg	6	app	_	_
+8	Geld	Geld	N	NN	Neut|_|Sg	7	app	_	_
+9	vadeant	vadeant	N	NE	Neut|_|Sg	8	app	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	als	als	K	KOKOM	_	13	kom	_	_
+12	wia	wia	A	ADJD	_	11	cj	_	_
+13	von	von	P	APPR	Dat	8	pp	_	_
+14	mir	ich	P	PPER	1|Sg|_|Dat	13	pn	550	550
+15	?	?	$	$.	_	0	root	_	_
+
+1	Woaßt	Woaßt	F	FM	_|_|Pl	0	root	_	_
+2	as	as	F	FM	_|_|Pl	1	app	_	_
+3	nimma	nimma	F	FM	_|_|Pl	2	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	de	de	N	NE	_|_|Pl	3	app	_	_
+6	sechshundert	sechshundert	C	CARD	_	7	attr	_	_
+7	Mark	Mark	N	NN	_|_|Pl	5	app	_	_
+8	mit	mit	P	APPR	Dat	7	pp	_	_
+9	de	de	N	NE	Masc|Dat|Sg	8	pn	_	_
+10	Sagprügel	Sagprügel	N	NN	Masc|Dat|Sg	9	app	_	_
+11	vom	von	P	APPRART	Dat	10	pp	_	_
+12	Fottner	Fottner	N	NN	_|Dat|_	11	pn	_	_
+13	?	?	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	De	De	F	FM	_	0	root	_	_
+3	hoscht	hoscht	F	FM	_	2	app	_	_
+4	scho	scho	F	FM	_	3	app	_	_
+5	lang	lang	F	FM	_	4	app	_	_
+6	wieda	wieda	F	FM	_	5	app	_	_
+7	herin	herin	F	FM	_	6	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Is	Is	N	NE	_	0	root	344	344
+3	mir	ich	P	PPER	1|Sg|_|Dat	0	root	550	550
+4	nix	nix	P	PIS	_	0	root	_	_
+5	bekannt	bekannt	P	PTKVZ	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	I	I	C	CARD	_	2	objd	_	_
+2	will	wollen	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+3	s	s	P	PPER	_|Sg|_|Nom	2	subj	1	1
+4	'	'	$	$(	_	0	root	_	_
+5	aa	aa	N	NE	_	2	obja	458	458
+6	gar	gar	A	ADV	_	2	adv	_	_
+7	net	net	P	PTKVZ	_	2	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Mir	Mir	N	NE	_	0	root	551	551
+2	is	is	F	FM	_	1	app	551	551
+3	nix	nix	F	FM	_	2	app	551	551
+4	liaba	liaba	F	FM	_	3	app	551	551
+5	wia	wia	F	FM	_	4	app	551	551
+6	dös	dös	F	FM	_	5	app	551	551
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	0	root	_	_
+9	oana	oana	N	NE	_	0	root	386	386
+10	was	was	P	PIS	_	0	root	_	_
+11	richtig	richtig	A	ADJD	Pos|	13	adv	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	s	s	P	PPER	_	0	root	386	386
+14	owa	owa	A	ADV	_	15	adv	552	552
+15	schneidt	schneidt	N	NE	Masc|Nom|Sg	0	root	552	552
+16	,	,	$	$,	_	0	root	552	552
+17	der	die	P	PRELS	Masc|Nom|Sg	21	subj	552	552
+18	wo	wo	A	ADV	_	21	adv	_	_
+19	mit	mit	P	APPR	Dat	21	pp	_	_
+20	mir	ich	P	PPER	1|Sg|_|Dat	19	pn	550	550
+21	handelt	handeln	V	VVFIN	3|Sg|Pres|Ind	15	rel	_	_
+22	.	.	$	$.	_	0	root	_	_
+23	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Is	Is	F	FM	_	0	root	_	_
+3	scho	scho	F	FM	_	2	app	_	_
+4	recht	recht	A	ADJD	Pos|	5	adv	_	_
+5	nacha	nacha	A	ADJD	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Fahrst	Fahrst	F	FM	_	0	root	_	_
+3	du	du	F	FM	_	2	app	_	_
+4	z	z	F	FM	_	3	app	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	weg	weg	A	ADV	_	8	adv	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	n	n	N	NN	_	4	app	_	_
+9	dem	die	A	ART	Def|Masc|Dat|Sg	10	det	_	_
+10	Prozeß	Prozeß	N	NN	Masc|Dat|Sg	0	root	_	_
+11	auf	auf	P	APPR	_	10	pp	_	_
+12	Dachau	Dachau	N	NE	_|_|_	11	pn	295	295
+13	eini	eini	N	NE	_|_|_	12	app	295	295
+14	?	?	$	$.	_	0	root	_	_
+15	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	für	für	P	APPR	Acc	2	pp	_	_
+4	an	an	P	APPR	_	3	pp	_	_
+5	Prozeß	Prozeß	N	NN	Masc|_|Sg	4	pn	_	_
+6	?	?	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	No	No	F	FM	_	0	root	_	_
+3	ja	ja	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	geng	geng	N	NN	_	0	root	_	_
+6	an	an	P	APPR	_	5	pp	_	_
+7	Wasserburger	Wasserburger	N	NN	Masc|_|_	6	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Daß	daß	K	KOUS	_	0	root	_	_
+2	d	d	N	NN	_	0	root	553	553
+3	'	'	$	$(	_	0	root	553	553
+4	n	n	F	FM	_	2	app	553	553
+5	o	o	F	FM	_	4	app	553	553
+6	'	'	$	$(	_	0	root	553	553
+7	zoagst	zoagst	F	FM	_	5	app	553	553
+8	?	?	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Na	Na	N	NE	_	0	root	130	130
+3	.	.	$	$.	_	0	root	_	_
+
+1	Z	Z	N	NN	Neut|_|_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	weg	weg	A	ADV	_	1	adv	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	n	n	N	NN	Neut|_|_	1	app	_	_
+6	dem	die	A	ART	Def|_|Dat|Sg	7	det	_	_
+7	versaam	versaam	F	FM	_|Dat|Sg	0	root	_	_
+8	i	i	F	FM	_|Dat|Sg	7	app	_	_
+9	koa	koa	F	FM	_|Dat|Sg	8	app	_	_
+10	Viertelstund	Viertelstund	F	FM	_|Dat|Sg	9	app	_	_
+11	.	.	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Hoscht	Hoscht	F	FM	Neut|_|_	0	root	_	_
+3	sunst	sunst	F	FM	Neut|_|_	2	app	_	_
+4	a	a	F	FM	Neut|_|_	3	app	_	_
+5	G	G	N	NN	Neut|_|_	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	schäft	schäft	F	FM	Neut|_|_	5	app	_	_
+8	?	?	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	ruckst	rucken	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	heut	heut	A	ADJD	Pos|	3	adv	_	_
+5	scho	scho	A	ADJD	_	3	adv	_	_
+6	gar	gar	A	ADV	_	3	adv	_	_
+7	net	net	A	ADV	_	3	adv	_	_
+8	außa	außa	A	ADJD	_	3	adv	_	_
+9	mit	mit	P	APPR	Dat	3	pp	_	_
+10	da	da	A	ADV	_	9	adv	_	_
+11	Sprach	sprechen	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Derf	Derf	F	FM	_	0	root	_	_
+2	ma	ma	F	FM	_	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	6	obja	_	_
+5	net	net	A	ADV	_	6	adv	_	_
+6	wissen	wissen	V	VVINF	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Zu	zu	P	APPR	Dat	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+4	denn	denn	A	ADV	_	3	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	No	No	F	FM	_	0	root	_	_
+3	ja	ja	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	nacha	nacha	F	FM	_	0	root	_	_
+6	net	net	F	FM	_	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Mi	Mi	N	NN	Masc|_|Sg	0	root	554	554
+2	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	2	subj	1	1
+5	ja	ja	A	ADV	_	2	adv	_	_
+6	eigentli	eigentli	F	FM	_|Dat|_	2	objd	_	_
+7	aa	aa	F	FM	_|Dat|_	6	app	_	_
+8	nix	nix	F	FM	_|Dat|_	7	app	_	_
+9	o.	o.	A	ADV	_	10	adv	_	_
+10	Kaffst	Kaffst	N	NE	_|Dat|_	8	app	_	_
+11	was	was	P	PIS	_	0	root	_	_
+12	?	?	$	$.	_	0	root	_	_
+13	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Na	Na	N	NE	_	0	root	130	130
+3	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Oder	Oder	N	NE	_	0	root	26	26
+3	hoscht	hoscht	N	NE	_	2	app	26	26
+4	was	was	P	PIS	_	0	root	_	_
+5	zum	zu	P	APPRART	Dat	4	pp	_	_
+6	Verkaffa	Verkaffa	N	NN	_|Dat|_	5	pn	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Aa	Aa	N	NN	_|_|Sg	0	root	_	_
+3	net	net	P	PTKVZ	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Na	Na	N	NE	_	0	root	130	130
+3	-	-	$	$(	_	0	root	_	_
+4	ja	ja	P	PTKANT	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	na	na	A	ADJD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	395	395
+2	Herrgottsaggerament	Herrgottsaggerament	N	NE	Neut|Nom|Sg	0	root	395	395
+3	,	,	$	$,	_	0	root	395	395
+4	was	was	P	PRELS	Neut|Nom|Sg	11	subj	395	395
+5	hoscht	hoscht	A	ADJD	_	11	adv	_	_
+6	denn	denn	K	KOKOM	_	11	kom	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	6	cj	555	555
+8	für	für	P	APPR	Acc	11	pp	_	_
+9	an	an	P	APPR	_	8	pp	_	_
+10	Hamur	Hamur	N	NE	_|_|_	9	pn	714	714
+11	heut	heuen	V	VVFIN	3|Sg|Pres|Ind	2	rel	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	reut	reuen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	2	subj	395	395
+5	mi	mi	N	NE	_	2	obja	201	201
+6	scho	scho	N	NE	_	5	app	201	201
+7	bald	bald	A	ADV	_	2	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	13	konj	_	_
+10	i	i	F	FM	_|Nom|Sg	13	subj	_	_
+11	aufg	aufg	F	FM	_|Nom|Sg	10	app	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	stieg	steigen	V	VVFIN	3|Sg|Past|Ind	2	neb	_	_
+14	'	'	$	$(	_	0	root	_	_
+15	n	n	N	NN	_	0	root	21	21
+16	bi	bi	A	ADJD	Pos|	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+18	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	I	I	C	CARD	_	3	obja	_	_
+3	hab	hab	V	VAFIN	_	0	root	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	3	objd	555	555
+5	net	net	A	ADV	_	3	adv	_	_
+6	pfiffa	pfiffa	A	ADJD	_	3	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Hoscht	Hoscht	N	NE	_	0	root	317	317
+3	du	du	P	PPER	2|Sg|_|Nom	0	root	555	555
+4	was	was	P	PIS	_|Dat|_	5	objd	_	_
+5	geg	geg	V	VVFIN	_	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	n	n	N	NN	_	5	obja	167	167
+8	mi	mi	N	NE	_	7	app	167	167
+9	?	?	$	$.	_	0	root	_	_
+
+1	Na	Na	I	ITJ	_	0	root	_	_
+2	sag	sagen	V	VVIMP	Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	F	FM	_	2	obja	_	_
+5	no	no	F	FM	_	4	app	_	_
+6	pfeigrad	pfeigrad	F	FM	_	5	app	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nix	Nix	F	FM	_	0	root	_	_
+3	hab	hab	F	FM	_	2	app	_	_
+4	i.	i.	F	FM	_	3	app	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	bal	bal	F	FM	_	1	cj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	st	st	F	FM	_	2	app	_	_
+5	as	as	F	FM	_	4	app	_	_
+6	scho	scho	F	FM	_	5	app	_	_
+7	wissen	wissen	F	FM	_	6	app	_	_
+8	muaßt	muaßt	F	FM	_	7	app	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	i	i	F	FM	_	0	root	_	_
+11	fahr	fahr	F	FM	_	10	app	_	_
+12	grad	grad	A	ADV	_	13	adv	_	_
+13	zum	zu	P	APPRART	Dat	11	pp	_	_
+14	Notari	Notari	N	NN	_|Dat|_	13	pn	295	295
+15	eini	eini	N	NE	_|Dat|_	14	app	295	295
+16	und	und	K	KON	_	15	kon	_	_
+17	kehr	kehr	F	FM	_|Dat|_	16	cj	_	_
+18	glei	glei	F	FM	_|Dat|_	17	app	_	_
+19	wieda	wieda	F	FM	_|Dat|_	18	app	_	_
+20	um	um	P	PTKVZ	_	0	root	_	_
+21	.	.	$	$.	_	0	root	_	_
+22	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ah	Ah	N	NN	Fem|_|Sg	0	root	_	_
+3	so	so	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	zum	zu	P	APPRART	Dat	0	root	_	_
+2	Notari	Notari	N	NN	_|Dat|_	1	pn	355	355
+3	?	?	$	$.	_	0	root	_	_
+
+1	Hoscht	Hoscht	N	NE	_	0	root	317	317
+2	was	was	P	PIS	_	0	root	_	_
+3	zum	zu	P	APPRART	Dat	2	pp	_	_
+4	Verbriaf	Verbriaf	N	NN	_|Dat|_	3	pn	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	n	n	N	NN	_|Dat|_	4	app	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Na	Na	N	NE	_	0	root	130	130
+3	.	.	$	$.	_	0	root	_	_
+
+1	Außa	Außa	N	NE	_	3	obja	556	556
+2	kemma	kemma	N	NE	_	1	app	556	556
+3	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	1	1
+5	.	.	$	$.	_	0	root	_	_
+
+1	Zu	Zu	P	PTKA	_	0	root	_	_
+2	an	an	P	APPR	_	0	root	_	_
+3	Testament	Testament	N	NN	Neut|_|Sg	2	pn	878	878
+4	macha	macha	N	NE	Neut|_|Sg	3	app	878	878
+5	.	.	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Hö	Hö	N	NE	_	0	root	557	557
+3	.	.	$	$.	_	0	root	_	_
+
+1	hö	hö	A	ADJD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	F	FM	_|Nom|Sg	1	subj	_	_
+4	dei	dei	F	FM	_|Nom|Sg	3	app	_	_
+5	Bäurin	Bäurin	N	NE	_|Nom|Sg	4	app	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	kloa	kloa	A	ADJA	_	8	attr	_	_
+8	beinand	beinand	N	NN	_	1	obja	_	_
+9	?	?	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ah	Ah	N	NN	Masc|_|_	0	root	_	_
+3	Schmarrn	Schmarrn	N	NN	Masc|_|_	2	app	_	_
+4	!	!	$	$.	_	0	root	_	_
+

@@ -1,0 +1,354 @@
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	das	die	A	ART	Def|Neut|Nom|Sg	5	det	_	_
+5	Bild	Bild	N	NN	Neut|Nom|Sg	2	pred	_	_
+6	von	von	P	APPR	_	5	pp	_	_
+7	Julian	Julian	N	NE	_|_|_	6	pn	123	123
+8	Fichtner	Fichtner	N	NE	_|_|_	7	app	123	123
+9	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Freilich	freilich	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	108	108
+2	wußte	wußte	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	gar	gar	A	ADV	_	4	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	12	konj	_	_
+7	die	die	A	ART	Def|Fem|Nom|Sg	8	det	108	108
+8	Frauengestalt	Frauengestalt	N	NN	Fem|Nom|Sg	12	subj	108	108
+9	Irene	Irene	N	NE	Fem|Nom|Sg	8	app	108	108
+10	Herms	Herms	N	NE	Fem|Nom|Sg	9	app	108	108
+11	darstellen	darstellen	V	VVINF	_	12	aux	_	_
+12	sollte	sollen	V	VMFIN	3|Sg|Past|_	2	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Wegrat	Wegrat	N	NN	Masc|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+3	nun	nun	A	ADV	_	2	adv	_	_
+4	mehr	mehr	A	ADV	_	5	adv	_	_
+5	als	als	K	KOKOM	_	2	kom	_	_
+6	fünfundzwanzig	fünfundzwanzig	C	CARD	_	5	cj	_	_
+7	Jahre	Jahr	N	NN	Neut|Nom|Pl	2	pred	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	14	konj	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	14	subj	1	1
+11	das	die	A	ART	Def|Neut|_|Sg	12	det	117	117
+12	Bild	Bild	N	NN	Neut|_|Sg	13	obja	117	117
+13	gemalt	malen	V	VVPP	_	14	aux	_	_
+14	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	machte	machen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	gewaltiges	gewaltig	A	ADJA	Pos|Neut|_|Sg|St|	4	attr	_	_
+4	Aufsehen	Aufsehen	N	NN	Neut|_|Sg	2	obja	_	_
+5	damals	damals	A	ADV	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	sein	seine	A	PPOSAT	Masc|Nom|Sg	6	det	1	1
+4	erster	erst	A	ADJA	_|Masc|Nom|Sg|St|	6	attr	_	_
+5	großer	groß	A	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	_	_
+6	Erfolg	Erfolg	N	NN	Masc|Nom|Sg	2	pred	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	heute	heute	A	ADV	_	3	adv	_	_
+3	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	vielleicht	vielleicht	A	ADV	_	3	adv	_	_
+6	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	_	_
+7	ganze	ganz	A	ADJA	Pos|Fem|_|Sg|_|	8	attr	_	_
+8	Menge	Menge	N	NN	Fem|_|Sg	3	obja	_	_
+9	von	von	P	APPR	Dat	8	pp	_	_
+10	Leuten	Leute	N	NN	_|Dat|Pl	9	pn	122	122
+11	,	,	$	$,	_	0	root	122	122
+12	die	die	P	PRELS	_|Nom|Pl	17	subj	122	122
+13	seinen	seine	A	PPOSAT	Masc|_|_	14	det	1	1
+14	Namen	Name	N	NN	Masc|_|_	17	obja	_	_
+15	nicht	nicht	P	PTKNEG	_	17	adv	_	_
+16	mehr	mehr	A	ADV	_	15	adv	_	_
+17	kennen	kennen	V	VVFIN	3|Pl|Pres|_	10	rel	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Übrigens	übrigens	A	ADV	_	3	adv	_	_
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	1	1
+6	Irene	Iren	N	NN	Neut|_|Pl	10	obja	108	108
+7	Herms	Herms	N	NE	Neut|_|Pl	6	app	108	108
+8	nach	nach	P	APPR	Dat	10	pp	_	_
+9	ihm	er	P	PPER	3|Sg|_|Dat	8	pn	1	1
+10	gefragt	fragen	V	VVPP	_	3	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	seltsam	seltsam	A	ADJD	Pos|	1	cj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	auch	auch	A	ADV	_	8	adv	_	_
+5	die	die	A	ART	Def|Fem|Nom|Sg	8	det	_	_
+6	»	»	$	$(	_	0	root	_	_
+7	ewige	ewig	A	ADJA	Pos|Fem|Nom|Sg|_|	8	attr	_	_
+8	Freundin	Freundin	N	NN	Fem|Nom|Sg	10	subj	_	_
+9	«	«	$	$(	_	0	root	_	_
+10	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+11	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	wo	wo	P	PWAV	_	19	adv	_	_
+14	in	in	P	APPR	Dat	19	pp	_	_
+15	der	die	A	ART	Def|Fem|Dat|Sg	16	det	34	34
+16	Welt	Welt	N	NN	Fem|Dat|Sg	14	pn	34	34
+17	er	er	P	PPER	3|Sg|Masc|Nom	19	subj	1	1
+18	sich	sie	P	PRF	3|_|_	19	obja	_	_
+19	herumtreibt	herumtreiben	V	VVFIN	3|Sg|Pres|Ind	10	objc	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	1	1
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ihn	er	P	PPER	3|Sg|Masc|Acc	9	obja	1	1
+5	erst	erst	A	ADV	_	9	adv	_	_
+6	vor	vor	P	APPR	Dat	9	pp	_	_
+7	wenigen	wenige	A	PIDAT	_|Dat|_	8	det	_	_
+8	Tagen	Tag	N	NN	_|Dat|_	6	pn	_	_
+9	gesprochen	sprechen	V	VVPP	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Wegrat	Wegrat	N	NN	Masc|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	Julian	Julian	N	NE	_	5	obja	123	123
+4	Fichtner	Fichtner	N	NE	_	3	app	123	123
+5	gesehen	sehen	V	VVPP	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	123	123
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	in	in	P	APPR	_	2	pp	_	_
+4	Salzburg	Salzburg	N	NN	Fem|_|Sg	3	pn	144	144
+5	?	?	$	$.	_	0	root	_	_
+
+1	Wann	Wann	P	PWAV	_	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+3	erst	erst	A	ADV	_	7	adv	_	_
+4	drei	drei	C	CARD	_	7	attr	_	_
+5	oder	oder	K	KON	_	4	kon	_	_
+6	vier	vier	C	CARD	_	5	cj	_	_
+7	Tage	Tag	N	NN	Masc|_|Pl	2	obja	_	_
+8	her	her	P	PTKVZ	_	2	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	1	1
+4	aufgesucht	aufsuchen	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	wir	wir	P	PPER	1|Pl|_|Nom	8	subj	_	_
+8	haben	haben	V	VAFIN	1|Pl|Pres|_	6	cj	_	_
+9	einen	eine	A	ART	Indef|Masc|Acc|Sg	10	det	_	_
+10	Abend	Abend	N	NN	Masc|Acc|Sg	12	obja	_	_
+11	miteinander	miteinander	A	ADV	_	12	adv	_	_
+12	verbracht	verbringen	V	VVPP	_	8	aux	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Masc|Nom|Sg	3	subj	78	78
+2	Wegrat	Wegrat	N	NN	Masc|Nom|Sg	1	app	78	78
+3	wirft	werfen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	einen	eine	A	ART	Indef|Masc|Acc|Sg	5	det	_	_
+5	Blick	Blick	N	NN	Masc|Acc|Sg	3	obja	_	_
+6	auf	auf	P	APPR	_	5	pp	_	_
+7	Doktor	Doktor	N	NN	Masc|_|Sg	6	pn	73	73
+8	Reumann	Reumann	N	NE	_|_|Sg	7	app	73	73
+9	.	.	$	$.	_	0	root	_	_
+
+1	Wegrat	Wegrat	N	NN	Masc|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	pred	_	_
+2	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	2	subj	1	1
+5	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	73	73
+6	denn	denn	A	ADV	_	2	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	6	obja	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+4	dir	du	P	PPER	2|Sg|_|Dat	6	objd	_	_
+5	denn	denn	A	ADV	_	6	adv	_	_
+6	erzählt	erzählen	V	VVPP	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|_|_|Sg	0	root	_	_
+2	wenig	wenig	A	ADV	_	3	adv	_	_
+3	grau	grau	A	ADJD	Pos|	6	pred	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	4	subj	1	1
+6	geworden	werden	V	VAPP	_	4	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	aber	aber	K	KON	_	4	kon	_	_
+9	sonst	sonst	A	ADV	_	10	adv	_	_
+10	schien	scheinen	V	VVFIN	3|Sg|Past|Ind	8	cj	_	_
+11	er	er	P	PPER	3|Sg|Masc|Nom	10	subj	1	1
+12	mir	ich	P	PPER	1|Sg|_|Dat	14	objd	1	1
+13	kaum	kaum	A	ADV	_	14	adv	_	_
+14	verändert	verändern	V	VVPP	_	10	obji	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Wegrat	Wegrat	N	NN	Masc|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	lang	lang	A	ADJD	Pos|	3	adv	_	_
+3	mag	mögen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	1	1
+5	jetzt	jetzt	A	ADV	_	3	adv	_	_
+6	von	von	P	APPR	_	3	pp	_	_
+7	Wien	Wien	N	NE	_|_|Sg	6	pn	109	109
+8	fort	fort	P	PTKVZ	_	3	avz	_	_
+9	sein	sein	V	VAINF	_	3	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Zwei	zwei	C	CARD	_	2	attr	_	_
+2	Jahre	Jahr	N	NN	Neut|_|Pl	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Masc|_|Sg	0	root	78	78
+2	Wegrat	Wegrat	N	NN	Masc|_|Sg	1	app	78	78
+3	.	.	$	$.	_	0	root	_	_
+
+1	Etwas	Etwas	A	ADV	_	2	adv	_	_
+2	drüber	drüber	A	ADJD	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	große	groß	A	ADJA	Pos|_|_|_|_|	4	attr	_	_
+4	Reisen	Reise	N	NN	_|_|_	5	obja	_	_
+5	gemacht	machen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	gelegentlich	gelegentlich	A	ADJD	Pos|	4	adv	_	_
+4	erhielt	erhalten	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	1	1
+6	eine	eine	A	ART	Indef|Fem|_|Sg	7	det	_	_
+7	Karte	Karte	N	NN	Fem|_|Sg	4	obja	_	_
+8	von	von	P	APPR	Dat	4	pp	_	_
+9	ihm	er	P	PPER	3|Sg|_|Dat	8	pn	1	1
+10	.	.	$	$.	_	0	root	_	_
+
+1	Wegrat	Wegrat	N	NN	Masc|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	0	root	_	_
+2	auch	auch	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	1	1
+3	dachte	denken	V	VVFIN	1|Sg|Past|Ind	1	cj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	12	konj	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	12	subj	_	_
+7	mit	mit	P	APPR	Dat	12	pp	_	_
+8	ihm	er	P	PPER	3|Sg|_|Dat	7	pn	1	1
+9	in	in	P	APPR	Dat	12	pp	_	_
+10	regelmäßiger	regelmäßig	A	ADJA	Pos|Fem|Dat|Sg|St|	11	attr	_	_
+11	Korrespondenz	Korrespondenz	N	NN	Fem|Dat|Sg	9	pn	_	_
+12	stünden	stehen	V	VVFIN	3|Pl|Past|Subj	3	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Regelmäßig	regelmäßig	A	ADJD	Pos|	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	1	subj	1	1
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	Ihr	ihre	A	PPOSAT	Masc|Nom|Sg	5	det	2	2
+5	Freund	Freund	N	NN	Masc|Nom|Sg	1	pred	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Freunde	Freund	N	NN	Masc|_|_	2	obja	_	_
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	124	124
+5	im	in	P	APPRART	Dat	2	pp	_	_
+6	allgemeinen	allgemein	A	ADJA	Pos|_|Dat|_|_|	5	pn	_	_
+7	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wenn	wenn	K	KOUS	_	5	konj	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	124	124
+4	sie	sie	P	PPER	3|_|_|_	5	obja	125	125
+5	habe	haben	V	VAFIN	1|Sg|Pres|_	7	neb	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	verleugne	verleugnen	V	VVFIN	1|Sg|Pres|_	1	cj	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	124	124
+9	sie	sie	P	PPER	3|_|_|_	7	obja	125	125
+10	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+

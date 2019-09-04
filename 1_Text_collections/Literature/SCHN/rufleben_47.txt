@@ -1,0 +1,434 @@
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	669	669
+2	Anzeige	Anzeige	N	NN	Fem|_|Sg	0	root	669	669
+3	?	?	$	$.	_	0	root	_	_
+
+1	Will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+2	man	man	P	PIS	_|Nom|Sg	1	subj	_	_
+3	sie	sie	P	PPER	3|_|_|_	7	obja	669	669
+4	durch	durch	P	APPR	Acc	7	pp	_	_
+5	die	die	A	ART	Def|Fem|Acc|Sg	6	det	_	_
+6	Polizei	Polizei	N	NN	Fem|Acc|Sg	4	pn	_	_
+7	zurückholen	zurückholen	V	VVINF	_	1	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	7	obja	_	_
+2	könnten	können	V	VMFIN	3|Pl|Past|Subj	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	357	357
+5	Mutter	Mutter	N	NN	Fem|Dat|Sg	7	objd	357	357
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	verdenken	verdenken	V	VVINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	3	koord	_	_
+2	natürlich	natürlich	A	ADJD	Pos|	3	adv	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	die	die	A	ART	Def|Fem|Nom|Sg	5	det	_	_
+5	Behörde	Behörde	N	NN	Fem|Nom|Sg	3	subj	_	_
+6	in	in	P	APPR	Dat	11	pp	_	_
+7	diesen	diese	A	PDAT	_|Dat|Pl	8	det	_	_
+8	Zeitläuften	Zeitläufte	N	NN	_|Dat|Pl	6	pn	_	_
+9	wichtigeres	wichtig	A	ADJA	Comp|Neut|_|Sg|St|	11	obja	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	tun	tun	V	VVINF	_	3	aux	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	als	als	K	KOUS	_	0	root	_	_
+14	sich	sie	P	PRF	3|_|_	20	obja	_	_
+15	um	um	P	APPR	Acc	20	objp	_	_
+16	ein	eine	A	ART	Indef|Neut|Acc|Sg	18	det	_	_
+17	verschwundenes	verschwunden	A	ADJA	Pos|Neut|Acc|Sg|St|	18	attr	_	_
+18	Mädchen	Mädchen	N	NN	Neut|Acc|Sg	15	pn	_	_
+19	zu	zu	P	PTKZU	_	20	part	_	_
+20	kümmern	kümmern	V	VVINF	_	0	root	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	glaub	glaub	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	899	899
+5	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+2	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	schlimme	schlimm	A	ADJA	Pos|Fem|Nom|Pl|St|	4	attr	_	_
+4	Nachrichten	Nachricht	N	NN	Fem|Nom|Pl	2	subj	_	_
+5	von	von	P	APPR	_	4	pp	_	_
+6	der	die	A	ART	Def|Fem|_|Sg	7	det	12	12
+7	Grenze	Grenze	N	NN	Fem|_|Sg	5	pn	12	12
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	_	_
+2	Erregung	Erregung	N	NN	Fem|Nom|Sg	8	subj	_	_
+3	bei	bei	P	APPR	Dat	2	pp	_	_
+4	uns	wir	P	PPER	1|Pl|_|Dat	3	pn	_	_
+5	in	in	P	APPR	Dat	4	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	11	11
+7	Stadt	Stadt	N	NN	Fem|Dat|Sg	5	pn	11	11
+8	wächst	wachsen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	ins	in	P	APPRART	Acc	8	pp	_	_
+10	Ungeheure	Ungeheuere	N	NN	_|Acc|_	9	pn	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	zugleich	zugleich	A	ADV	_	13	adv	_	_
+13	Teilnahme	Teilnahme	N	NN	Fem|Acc|Sg	10	kon	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	Opfermut	Opfermut	N	NN	Masc|Acc|Sg	14	cj	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Erst	erst	A	ADV	_	2	adv	_	_
+2	auf	auf	P	APPR	Dat	6	pp	_	_
+3	dem	die	A	ART	Def|Masc|Dat|Sg	4	det	_	_
+4	Weg	Weg	N	NN	Masc|Dat|Sg	2	pn	_	_
+5	hierher	hierher	A	ADV	_	4	adv	_	_
+6	sah	sehen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	899	899
+8	einen	eine	A	ART	Indef|Masc|Acc|Sg	9	det	_	_
+9	Zug	Zug	N	NN	Masc|Acc|Sg	6	obja	_	_
+10	von	von	P	APPR	_	9	pp	_	_
+11	freiwilligen	freiwillig	A	ADJA	Pos|_|_|_|_|	13	attr	670	670
+12	barmherzigen	barmherzig	A	ADJA	Pos|_|_|_|_|	13	attr	670	670
+13	Pflegerinnen	Pflegerin	N	NN	_|_|_	10	pn	670	670
+14	,	,	$	$,	_	0	root	_	_
+15	der	die	P	PRELS	Masc|Nom|Sg	19	subj	670	670
+16	sich	sie	P	PRF	3|_|_	19	obja	_	_
+17	zum	zu	P	APPRART	Dat	19	objp	_	_
+18	Heere	Heer	N	NN	Neut|Dat|Sg	17	pn	_	_
+19	begibt	begeben	V	VVFIN	3|Sg|Pres|Ind	9	rel	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	532	532
+2	Feind	Feind	N	NN	Masc|Nom|Sg	3	subj	532	532
+3	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	tiefer	tief	A	ADJD	Comp|	5	adv	_	_
+5	ins	in	P	APPRART	Acc	7	objp	_	_
+6	Land	Land	N	NN	Neut|Acc|Sg	5	pn	22	22
+7	gerückt	rücken	V	VVPP	_	8	aux	_	_
+8	sein	sein	V	VAINF	_	3	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	Gefechte	Gefecht	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_	3	obja	_	_
+6	Tag	Tag	N	NN	_|_|Sg	3	zeit	_	_
+7	für	für	P	APPR	Acc	3	pp	_	_
+8	Tag	Tag	N	NN	_|Acc|Sg	7	pn	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	die	die	P	PRELS	_|Nom|Pl	13	subj	_	_
+11	keine	keine	A	PIAT	Fem|_|Sg	12	det	_	_
+12	Entscheidung	Entscheidung	N	NN	Fem|_|Sg	13	obja	_	_
+13	bringen	bringen	V	VVFIN	3|Pl|Pres|_	8	rel	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	viel	viel	A	ADV	_	5	adv	_	_
+5	ereignet	ereignet	A	ADJD	Pos|	2	adv	_	_
+6	in	in	P	APPR	Dat	2	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	199	199
+8	Welt	Welt	N	NN	Fem|Dat|Sg	6	pn	199	199
+9	,	,	$	$,	_	0	root	_	_
+10	seit	seit	K	KOUS	_	20	konj	_	_
+11	wir	wir	P	PPER	1|Pl|_|Nom	20	subj	_	_
+12	die	die	A	ART	Def|Masc|_|Pl	14	det	_	_
+13	blauen	blau	A	ADJA	Pos|Masc|_|Pl|Wk|	14	attr	_	_
+14	Kürassiere	Kürassier	N	NN	Masc|_|Pl	20	obja	_	_
+15	von	von	P	APPR	Dat	14	pp	_	_
+16	jenem	jene	A	PDAT	Neut|Dat|Sg	17	det	_	_
+17	Fenster	Fenster	N	NN	Neut|Dat|Sg	15	pn	_	_
+18	aus	aus	A	APZR	_	15	part	_	_
+19	vorbeireiten	vorbeireiten	V	VVINF	_	20	obji	_	_
+20	sahen	sehen	V	VVFIN	1|Pl|Past|Ind	2	neb	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ob	ob	K	KOUS	_	6	konj	_	_
+2	ihnen	sie	P	PPER	3|Pl|_|Dat	5	objd	_	_
+3	schon	schon	A	ADV	_	5	adv	_	_
+4	Gelegenheit	Gelegenheit	N	NN	Fem|Nom|Sg	6	subj	671	671
+5	geboten	bieten	V	VVPP	_	6	aux	_	_
+6	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	ihren	ihre	A	PPOSAT	Masc|_|Sg	9	det	671	671
+9	Todesschwur	Todesschwur	N	NN	Masc|_|Sg	11	obja	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	halten	halten	V	VVINF	_	5	obji	_	_
+12	-	-	$	$(	_	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	4	konj	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+3	geschehen	geschehen	V	VVPP	_	4	aux	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	7	neb	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	man	man	P	PIS	_|Nom|Sg	7	subj	_	_
+9	bald	bald	A	ADV	_	11	adv	_	_
+10	davon	davon	P	PROAV	_	11	pp	_	_
+11	hören	hören	V	VVINF	_	7	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Glockenschläge	Glockenschlag	N	NN	Masc|_|Pl	0	root	_	_
+2	vom	von	P	APPRART	Dat	1	pp	_	_
+3	Kirchturm	Kirchturm	N	NN	Masc|Dat|Sg	2	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wann	Wann	P	PWAV	_	2	adv	_	_
+2	müssen	müssen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	aufbrechen	aufbrechen	V	VVINF	_	2	aux	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	eilt	eilen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	eben	eben	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Unser	unsre	A	PPOSAT	Neut|_|Sg	2	det	674	674
+2	Gepäck	Gepäck	N	NN	Neut|_|Sg	9	obja	_	_
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	899	899
+6	nach	nach	P	APPR	Dat	8	pp	_	_
+7	Hasbach	Hasbach	N	NE	Neut|Dat|Sg	6	pn	672	672
+8	voraussenden	voraussenden	V	VVINF	_	9	obji	672	672
+9	lassen	lassen	V	VVINF	_	3	aux	672	672
+10	,	,	$	$,	_	0	root	672	672
+11	das	die	P	PRELS	Neut|Nom|Sg	18	subj	672	672
+12	kaum	kaum	A	ADV	_	17	adv	_	_
+13	drei	drei	C	CARD	_	14	attr	_	_
+14	Stunden	Stunde	N	NN	Fem|_|Pl	17	zeit	_	_
+15	von	von	P	APPR	_	17	pp	_	_
+16	hier	hier	A	ADV	_	15	adv	_	_
+17	entfernt	entfernen	V	VVPP	_	18	aux	_	_
+18	ist	sein	V	VAFIN	3|Sg|Pres|Ind	7	rel	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Dies	dies	P	PDS	Neut|Nom|Sg	3	subj	_	_
+2	hier	hier	A	ADV	_	1	adv	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	das	die	A	ART	Def|Neut|Nom|Sg	6	det	_	_
+5	letzte	letzte	A	ADJA	Pos|Neut|Nom|Sg|Wk|	6	attr	_	_
+6	Haus	Haus	N	NN	Neut|Nom|Sg	3	pred	_	_
+7	im	in	P	APPRART	Dat	6	pp	_	_
+8	Dorfe	Dorf	N	NN	Neut|Dat|Sg	7	pn	673	673
+9	.	.	$	$.	_	0	root	_	_
+
+1	Gleich	gleich	A	ADJD	Pos|	2	adv	_	_
+2	von	von	P	APPR	_	5	pp	_	_
+3	hier	hier	A	ADV	_	2	adv	_	_
+4	aus	aus	A	APZR	_	2	part	_	_
+5	können	können	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	5	subj	674	674
+7	unsere	unsre	A	PPOSAT	Fem|_|Sg	8	det	674	674
+8	Wanderung	Wanderung	N	NN	Fem|_|Sg	9	obja	_	_
+9	antreten	antreten	V	VVINF	_	5	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	_	_
+3	nach	nach	P	APPR	Dat	2	pp	_	_
+4	einer	eine	A	ART	Indef|Fem|Dat|Sg	6	det	_	_
+5	kleinen	klein	A	ADJA	Pos|Fem|Dat|Sg|Wk|	6	attr	_	_
+6	Pause	Pause	N	NN	Fem|Dat|Sg	3	pn	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	herzlich	herzlich	A	ADJD	Pos|	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	676	676
+4	Ihnen	sie	P	PPER	3|Pl|_|Dat	6	objd	675	675
+5	doch	doch	A	ADV	_	6	adv	_	_
+6	sagen	sagen	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	lieber	lieb	A	ADJA	Pos|Masc|Nom|Sg|St|	9	attr	_	_
+9	Freund	Freund	N	NN	Masc|Nom|Sg	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	0	root	_	_
+12	Sie	sie	P	PPER	3|_|_|_	0	root	675	675
+13	mein	meine	A	PPOSAT	Neut|_|Sg	14	det	676	676
+14	Herkommen	Herkommen	N	NN	Neut|_|Sg	0	root	_	_
+15	nicht	nicht	P	PTKNEG	_	14	adv	_	_
+16	etwa	etwa	A	ADV	_	15	adv	_	_
+17	als	als	K	KOKOM	_	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Zwang	Zwang	N	NN	Masc|_|Sg	2	obja	_	_
+2	auffassen	auffassen	V	VVINF	_	3	aux	_	_
+3	dürfen	dürfen	V	VMFIN	_|Pl|Pres|_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	sollt	sollen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	899	899
+5	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	5	expl	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	5	obja	_	_
+4	manches	manche	P	PIS	Neut|Nom|Sg	2	subj	_	_
+5	verändert	verändern	V	VVPP	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	auch	auch	A	ADV	_	8	adv	_	_
+8	in	in	P	APPR	Dat	5	pp	_	_
+9	unserer	unsre	A	PPOSAT	Fem|Dat|Sg	11	det	677	677
+10	kleinen	klein	A	ADJA	Pos|Fem|Dat|Sg|Wk|	11	attr	_	_
+11	Welt	Welt	N	NN	Fem|Dat|Sg	8	pn	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	seit	seit	P	APPR	Dat	5	pp	_	_
+14	dem	die	A	ART	Def|_|Dat|Sg	15	det	506	506
+15	Tag	Tag	N	NN	_|Dat|Sg	13	pn	506	506
+16	,	,	$	$,	_	0	root	_	_
+17	da	da	K	KOUS	_	23	konj	_	_
+18	wir	wir	P	PPER	1|Pl|_|Nom	23	subj	677	677
+19	unsere	unsre	A	PPOSAT	Fem|_|Sg	21	det	677	677
+20	gemeinschaftliche	gemeinschaftlich	A	ADJA	Pos|Fem|_|Sg|_|	21	attr	_	_
+21	Wanderung	Wanderung	N	NN	Fem|_|Sg	22	obja	_	_
+22	verabredet	verabreden	V	VVPP	_	23	aux	_	_
+23	haben	haben	V	VAFIN	1|Pl|Pres|_	2	neb	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wenn	wenn	K	KOUS	_	0	root	_	_
+3	auch	auch	A	ADV	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	vielleicht	vielleicht	A	ADV	_	2	adv	_	_
+4	doch	doch	A	ADV	_	2	adv	_	_
+5	vorziehn	vorziehn	A	ADJD	_	2	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	hierzubleiben	hierbleiben	V	VVIZU	_	5	obji	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Hierzubleiben	hierbleiben	V	VVIZU	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Solange	Solange	K	KOUS	_	6	konj	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+3	Ihnen	sie	P	PPER	3|Pl|_|Dat	6	objd	678	678
+4	eben	eben	A	ADV	_	6	adv	_	_
+5	möglich	möglich	A	ADJD	Pos|	6	pred	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	und	und	K	KON	_	0	root	_	_
+9	dann	dann	A	ADV	_	18	adv	_	_
+10	auf	auf	P	APPR	Dat	18	pp	_	_
+11	dem	die	A	ART	Def|Masc|Dat|Sg	13	det	_	_
+12	kürzesten	kurz	A	ADJA	Sup|Masc|Dat|Sg|Wk|	13	attr	_	_
+13	Weg	Weg	N	NN	Masc|Dat|Sg	10	pn	_	_
+14	in	in	P	APPR	Acc	18	pp	_	_
+15	Ihr	ihre	A	PPOSAT	Neut|Acc|Sg	17	det	678	678
+16	neues	neu	A	ADJA	Pos|Neut|Acc|Sg|St|	17	attr	_	_
+17	Revier	Revier	N	NN	Neut|Acc|Sg	14	pn	_	_
+18	abzureisen	abreisen	V	VVIZU	_	8	cj	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Hierbleiben	Hierbleiben	N	NN	Neut|_|Sg	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	sollt	sollen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	899	899
+5	hier	hier	A	ADV	_	4	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	daß	daß	K	KOUS	_	10	konj	_	_
+4	doch	doch	A	ADV	_	10	adv	_	_
+5	von	von	P	APPR	_	10	pp	_	_
+6	Katharina	Katharina	N	NN	Fem|_|Sg	5	pn	24	24
+7	irgend	irgend	A	ADV	_	10	adv	_	_
+8	eine	eine	A	ART	Indef|Fem|Nom|Sg	9	det	679	679
+9	Nachricht	Nachricht	N	NN	Fem|Nom|Sg	10	subj	679	679
+10	eintrifft	eintreffen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	oder	oder	K	KON	_	0	root	_	_
+13	daß	daß	K	KOUS	_	0	root	_	_
+14	sie	sie	P	PPER	3|_|_|_	0	root	679	679
+15	selbst	selbst	A	ADV	_	14	adv	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+

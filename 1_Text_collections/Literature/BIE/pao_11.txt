@@ -1,0 +1,452 @@
+1	Und	und	K	KON	_	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+4	kündeten	künden	V	VVFIN	3|Pl|Past|_	0	root	_	_
+5	meine	meine	A	PPOSAT	_|Nom|Pl	7	det	176	176
+6	mystischen	mystisch	A	ADJA	Pos|_|Nom|Pl|Wk|	7	attr	_	_
+7	Lose	Los	N	NN	_|Nom|Pl	4	subj	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Hieß	heißen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	:	\:	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	doch	doch	A	ADV	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	ja	ja	P	PTKANT	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	mein	meine	A	PPOSAT	_|_|Sg	9	det	59	59
+8	lieber	lieb	A	ADJD	Comp|	9	adv	59	59
+9	Po-yang-ju	Po-yang-ju	N	NN	_|_|Sg	0	root	59	59
+10	!	!	$	$.	_	0	root	_	_
+
+1	Gewiß	gewiß	A	ADJD	Pos|	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Ew	Ew	N	NE	_	0	root	52	52
+4	.	.	$	$.	_	0	root	_	_
+
+1	Liebden	Liebden	N	NE	_|Nom|Pl	2	subj	65	65
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	immer	immer	A	ADV	_	4	adv	_	_
+4	recht	recht	A	ADJD	Pos|	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wozu	Wozu	P	PWAV	_	2	adv	_	_
+2	wären	sein	V	VAFIN	3|Pl|Past|Subj	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	65	65
+4	sonst	sonst	A	ADV	_	2	adv	_	_
+5	Hofastrologe	Hofastrologe	N	NN	Masc|Nom|Sg	2	pred	126	126
+6	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	6	obja	_	_
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	1347	1347
+4	am	an	P	APPRART	Dat	6	pp	_	_
+5	Ende	Ende	N	NN	Neut|Dat|Sg	4	pn	116	116
+6	verlangen	verlangen	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	das	die	A	ART	Def|Neut|Nom|Sg	3	det	_	_
+3	Weib	Weib	N	NN	Neut|Nom|Sg	14	subj	_	_
+4	mit	mit	P	APPR	Dat	3	pp	_	_
+5	den	die	A	ART	Def|Masc|Dat|Pl	6	det	209	209
+6	Bogen	Bogen	N	NN	Masc|Dat|Pl	4	pn	209	209
+7	von	von	P	APPR	Dat	6	pp	209	209
+8	Yen	Yen	N	NN	Masc|Dat|_	7	pn	60	60
+9	und	und	K	KON	_	8	kon	_	_
+10	den	die	A	ART	Def|Masc|Dat|Pl	11	det	970	970
+11	Köchern	Köcher	N	NN	Masc|Dat|Pl	9	cj	970	970
+12	von	von	P	APPR	_	11	pp	970	970
+13	Tschi	Tschi	N	NE	_|_|_	12	pn	43	43
+14	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+15	damals	damals	A	ADV	_	17	adv	_	_
+16	doch	doch	A	ADV	_	17	adv	_	_
+17	hingerichtet	hinrichten	V	VVPP	_	18	aux	_	_
+18	worden	werden	V	VAPP	_	14	aux	_	_
+19	!	!	$	$.	_	0	root	_	_
+
+1	Geringschätzig	geringschätzig	A	ADJD	Pos|	2	adv	_	_
+2	bemerkte	bemerken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	darauf	darauf	P	PROAV	_	2	pp	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	1347	1347
+5	Astrologe	Astrologe	N	NN	Masc|Nom|Sg	2	subj	1347	1347
+6	:	\:	$	$.	_	0	root	_	_
+7	Was	was	P	PWS	Neut|_|Sg	18	obja	_	_
+8	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	ein	eine	A	ART	Indef|Neut|Nom|Sg	11	det	_	_
+10	altes	alt	A	ADJA	Pos|Neut|Nom|Sg|St|	11	attr	_	_
+11	Bauernweib	Bauernweib	N	NN	Neut|Nom|Sg	8	subj	_	_
+12	mit	mit	P	APPR	Dat	18	objp	_	_
+13	den	die	A	ART	Def|Fem|Dat|Pl	14	det	_	_
+14	Fügungen	Fügung	N	NN	Fem|Dat|Pl	12	pn	_	_
+15	des	die	A	ART	Def|Neut|Gen|Sg	16	det	_	_
+16	Schicksals	Schicksal	N	NN	Neut|Gen|Sg	14	gmod	_	_
+17	zu	zu	P	PTKZU	_	18	part	_	_
+18	tun	tun	V	VVINF	_	8	aux	_	_
+19	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|_|_	2	det	177	177
+2	Kaiser	Kaiser	N	NN	Masc|_|_	0	root	177	177
+3	,	,	$	$,	_	0	root	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	bemerkend	bemerken	A	ADJD	_|<PPRES	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	15	konj	_	_
+8	in	in	P	APPR	Dat	15	pp	_	_
+9	dieser	diese	A	PDAT	Fem|Dat|Sg	10	det	_	_
+10	Antwort	Antwort	N	NN	Fem|Dat|Sg	8	pn	_	_
+11	eine	eine	A	ART	Indef|Fem|Nom|Sg	12	det	959	959
+12	Spitze	Spitz	N	NN	Fem|Nom|Sg	15	subj	959	959
+13	gegen	gegen	P	APPR	Acc	15	pp	_	_
+14	ihn	er	P	PPER	3|Sg|Masc|Acc	13	pn	177	177
+15	war	sein	V	VAFIN	3|Sg|Past|Ind	17	objc	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	erinnerte	erinnern	V	VVFIN	_|Sg|Past|_	0	root	_	_
+18	sich	sie	P	PRF	3|_|_	17	obja	_	_
+19	plötzlich	plötzlich	A	ADJD	Pos|	17	adv	_	_
+20	an	an	P	APPR	_	17	objp	_	_
+21	Herrn	Herrn	N	NN	_|_|_	20	pn	123	123
+22	Tu-po	Tu-po	N	NE	_|_|_	21	app	123	123
+23	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	123	123
+3	Ober-Staatsrat	Ober-Staatsrat	N	NN	Masc|Nom|Sg	5	subj	123	123
+4	Tu-po	Tu-po	N	NE	Masc|Nom|Sg	3	app	123	123
+5	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+6	augenblicklich	augenblicklich	A	ADJD	Pos|	7	adv	_	_
+7	kommen	kommen	V	VVINF	_	5	aux	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Diesmal	diesmal	A	ADV	_	2	adv	_	_
+2	lächelte	lächeln	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|Nom|Sg	2	subj	59	59
+4	Po-yang-ju	Po-yang-ju	N	NE	Masc|Nom|Sg	3	app	59	59
+5	,	,	$	$,	_	0	root	_	_
+6	aber	aber	K	KON	_	2	kon	_	_
+7	Herr	Herr	N	NN	Masc|Nom|Sg	9	subj	123	123
+8	Tu-po	Tu-po	N	NE	Masc|Nom|Sg	7	app	123	123
+9	lächelte	lächeln	V	VVFIN	3|Sg|Past|_	6	cj	_	_
+10	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Herr	Herr	N	NN	Masc|_|Sg	0	root	287	287
+3	!	!	$	$.	_	0	root	_	_
+
+1	schrie	schreien	V	VVFIN	3|Sg|Past|_	0	root	_	_
+2	ihn	er	P	PPER	3|Sg|Masc|Acc	1	obja	2	2
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	28	28
+4	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	1	subj	28	28
+5	an	an	P	PTKVZ	_	1	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wo	wo	P	PWAV	_	8	adv	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	rel	_	_
+9	der	die	A	ART	Def|Masc|Nom|Sg	10	det	_	_
+10	Bericht	Bericht	N	NN	Masc|Nom|Sg	8	subj	_	_
+11	über	über	P	APPR	Acc	10	pp	_	_
+12	Ihre	ihre	A	PPOSAT	Fem|Acc|Pl	13	det	_	_
+13	Bemühungen	Bemühung	N	NN	Fem|Acc|Pl	11	pn	_	_
+14	damals	damals	A	ADV	_	11	adv	_	_
+15	in	in	P	APPR	_	8	pp	_	_
+16	Sachen	Sache	N	NN	Fem|_|Pl	15	pn	_	_
+17	des	die	A	ART	Def|_|Gen|Sg	18	det	_	_
+18	Wechselbalges	Wechselbalg	N	NN	_|Gen|Sg	16	gmod	_	_
+19	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ma	Ma	N	NE	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	ma	ma	A	ADJD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	majestät	majestät	A	ADJD	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	28	28
+4	.	.	$	$.	_	0	root	_	_
+
+1	dachte	denken	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	3	obja	_	_
+3	unterstanden	unterstehen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	178	178
+5	sich	sie	P	PRF	3|_|Dat	3	objd	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	denken	denken	V	VVINF	_	3	obji	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Sollten	sollen	V	VMFIN	3|Pl|Past|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	178	178
+3	denken	denken	V	VVINF	_	1	aux	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	178	178
+2	sollten	sollen	V	VMFIN	3|Pl|Past|_	0	root	_	_
+3	schneidig	schneidig	A	ADJD	Pos|	4	pred	_	_
+4	sein	sein	V	VAINF	_	2	aux	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	_	_
+3	dachte	denken	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	da	da	K	KOUS	_	12	konj	_	_
+6	doch	doch	A	ADV	_	10	adv	_	_
+7	das	die	A	ART	Def|Neut|Nom|Sg	9	det	179	179
+8	alte	alt	A	ADJA	Pos|Neut|Nom|Sg|Wk|	9	attr	179	179
+9	Weib	Weib	N	NN	Neut|Nom|Sg	12	subj	179	179
+10	hingerichtet	hinrichten	V	VVPP	_	11	aux	_	_
+11	worden	werden	V	VAPP	_	12	aux	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	3	neb	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	13	obja	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ein	eine	A	ART	Indef|Neut|Nom|Sg	6	det	_	_
+5	altes	alt	A	ADJA	Pos|Neut|Nom|Sg|St|	6	attr	_	_
+6	Weib	Weib	N	NN	Neut|Nom|Sg	3	subj	_	_
+7	mit	mit	P	APPR	Dat	13	pp	_	_
+8	den	die	A	ART	Def|Fem|Dat|Pl	9	det	180	180
+9	Fügungen	Fügung	N	NN	Fem|Dat|Pl	7	pn	180	180
+10	des	die	A	ART	Def|Masc|Gen|Sg	11	det	22	22
+11	Himmels	Himmel	N	NN	Masc|Gen|Sg	9	gmod	22	22
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	schaffen	schaffen	V	VVINF	_	3	aux	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	180	180
+4	die	die	A	ART	Def|Neut|_|Pl	6	det	_	_
+5	alten	alt	A	ADJA	Pos|Neut|_|Pl|Wk|	6	attr	_	_
+6	Weiber	Weib	N	NN	Neut|_|Pl	2	obja	_	_
+7	außerhalb	außerhalb	P	APPR	Gen	6	pp	_	_
+8	ihres	ihre	A	PPOSAT	Neut|Gen|Sg	9	det	180	180
+9	Ressorts	Ressort	N	NN	Neut|Gen|Sg	7	pn	_	_
+10	an	an	P	PTKVZ	_	2	avz	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Ah	Ah	N	NN	Fem|_|Sg	0	root	181	181
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	28	28
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	Ihnen	sie	P	PPER	3|Pl|_|Dat	4	objd	180	180
+4	zeigen	zeigen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	was	was	P	PRELS	Neut|Nom|Sg	8	subj	_	_
+7	Schneidigkeit	Schneidigkeit	N	NN	Fem|Nom|Sg	8	pred	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	objc	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Rührt	rühren	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	die	die	A	ART	Def|_|_|Pl	3	det	182	182
+3	Gongs	Gong	N	NN	_|_|Pl	1	obja	182	182
+4	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	183	183
+2	Hofstaat	Hofstaat	N	NN	Masc|Nom|Sg	0	root	183	183
+3	herein	herein	P	PTKVZ	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|Nom|Pl	2	det	182	182
+2	Gongs	Gong	N	NN	_|Nom|Pl	3	subj	182	182
+3	heulten	heulen	V	VVFIN	3|Pl|Past|_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	183	183
+6	Hofstaat	Hofstaat	N	NN	Masc|Nom|Sg	7	subj	183	183
+7	kam	kommen	V	VVFIN	3|Sg|Past|Ind	3	kon	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	28	28
+2	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	3	subj	28	28
+3	erhob	erheben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	majestätisch	majestätisch	A	ADJD	Pos|	3	adv	_	_
+6	und	und	K	KON	_	3	kon	_	_
+7	reckte	recken	V	VVFIN	_|Sg|Past|_	6	cj	_	_
+8	seine	seine	A	PPOSAT	Fem|_|Sg	9	det	28	28
+9	Faust	Faust	N	NN	Fem|_|Sg	7	obja	_	_
+10	nach	nach	P	APPR	Dat	7	pp	_	_
+11	dem	die	A	ART	Def|_|Dat|Sg	13	det	123	123
+12	schlotternden	schlotternd	A	ADJA	Pos|_|Dat|Sg|Wk|<PPRES	13	attr	123	123
+13	Tu-po	Tu-po	N	NN	_|Dat|Sg	10	pn	123	123
+14	:	\:	$	$.	_	0	root	_	_
+15	Meine	meine	A	PPOSAT	Masc|_|Pl	16	det	738	738
+16	Herren	Herr	N	NN	Masc|_|Pl	0	root	738	738
+17	!	!	$	$.	_	0	root	_	_
+
+1	Sehen	sehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	182	182
+3	sich	sie	P	PRF	3|_|_	1	obja	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	bitte	bitte	I	ITJ	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	einmal	einmal	A	ADV	_	10	adv	_	_
+8	diesen	diese	A	PDAT	Masc|Acc|Sg	10	det	_	_
+9	schneidigen	schneidig	A	ADJA	Pos|Masc|Acc|Sg|_|	10	attr	_	_
+10	Ober-Staatsrat	Ober-Staatsrat	N	NN	Masc|Acc|Sg	0	root	_	_
+11	an	an	P	PTKVZ	_	0	root	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	182	182
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	5	adv	1076	1076
+4	mehr	mehr	A	ADV	_	3	adv	1076	1076
+5	lange	lang	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	1076	1076
+6	Gelegenheit	Gelegenheit	N	NN	Fem|_|Sg	2	obja	1076	1076
+7	dazu	dazu	P	PROAV	_	2	pp	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Denn	denn	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	28	28
+3	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	augenblicklich	augenblicklich	A	ADJD	Pos|	7	adv	_	_
+5	wegen	wegen	P	APPR	_	7	pp	_	_
+6	Pflichtvergessenheit	Pflichtvergessenheit	N	NN	Fem|_|Sg	5	pn	_	_
+7	geköpft	köpfen	V	VVPP	_	8	aux	_	_
+8	werden	werden	V	VAINF	_	3	aux	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Neut|Nom|Pl	2	det	_	_
+2	Gesichter	Gesicht	N	NN	Neut|Nom|Pl	5	subj	_	_
+3	des	die	A	ART	Def|Masc|Gen|Sg	4	det	183	183
+4	Hofstaates	Hofstaat	N	NN	Masc|Gen|Sg	2	gmod	183	183
+5	nahmen	nehmen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+6	die	die	A	ART	Def|Fem|_|Sg	7	det	_	_
+7	Farbe	Farbe	N	NN	Fem|_|Sg	5	obja	_	_
+8	des	die	A	ART	Def|Masc|Gen|Sg	9	det	_	_
+9	Lehmes	Lehm	N	NN	Masc|Gen|Sg	7	gmod	_	_
+10	an	an	P	PTKVZ	_	5	avz	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	und	und	K	KON	_	5	kon	_	_
+13	alles	alle	P	PIS	Neut|Nom|Sg	14	subj	_	_
+14	duckte	ducken	V	VVFIN	3|Sg|Past|_	12	cj	_	_
+15	sich	sie	P	PRF	3|_|_	14	obja	_	_
+16	unwillkürlich	unwillkürlich	A	ADJD	Pos|	14	adv	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	unglaublich	unglaublich	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	da	da	A	ADV	_	2	adv	_	_
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	138	138
+4	Ober-Staatsrat	Ober-Staatsrat	N	NN	Masc|Nom|Sg	2	subj	138	138
+5	Tso-yu	Tso-yu	N	NE	Masc|Nom|Sg	4	app	138	138
+6	vor	vor	P	PTKVZ	_	2	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	hält	halten	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+9	seinen	seine	A	PPOSAT	Masc|_|_	10	det	123	123
+10	Kollegen	Kollege	N	NN	Masc|_|_	8	obja	138)	138)
+11	Tu-po	Tu-po	N	NE	Masc|_|_	10	app	123	123
+12	fest	fest	P	PTKVZ	_	8	avz	_	_
+13	und	und	K	KON	_	8	kon	_	_
+14	ruft	rufen	V	VVFIN	_|_|Pres|Ind	13	cj	_	_
+15	einmal	einmal	A	ADV	_	14	adv	_	_
+16	über	über	P	APPR	Acc	14	pp	_	_
+17	das	die	A	ART	Def|Neut|Acc|Sg	19	det	_	_
+18	andere	andere	A	ADJA	_|Neut|Acc|Sg|_	19	attr	_	_
+19	Mal	Mal	N	NN	Neut|Acc|Sg	16	pn	_	_
+20	:	\:	$	$.	_	0	root	_	_
+21	Unmöglich	unmöglich	A	ADJD	Pos|	0	root	_	_
+22	!	!	$	$.	_	0	root	_	_
+
+1	Unmöglich	unmöglich	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Unmöglich	unmöglich	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	verrückt	verrückt	A	ADJD	Pos|	5	pred	_	_
+5	geworden	werden	V	VAPP	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	ruft	rufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	28	28
+3	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	1	subj	28	28
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	schreit	schreien	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	4	det	138	138
+3	unglaubliche	unglaublich	A	ADJA	Pos|Masc|Nom|Sg|Wk|	4	attr	138	138
+4	Herr	Herr	N	NN	Masc|Nom|Sg	1	subj	138	138
+5	Tso-yu	Tso-yu	N	NE	Masc|Nom|Sg	4	app	138	138
+6	,	,	$	$,	_	0	root	_	_
+7	aber	aber	K	KON	_	0	root	_	_
+8	das	die	P	PDS	Neut|_|Sg	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	das	die	P	PDS	Neut|Nom|Sg	11	subj	_	_
+11	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+12	scheußlich	scheußlich	A	ADJD	Pos|	11	pred	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	unerhört	unerhört	A	ADJD	Pos|	2	pred	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	Herr	Herr	N	NN	Masc|Nom|Sg	2	subj	123	123
+5	Tu-po	Tu-po	N	NE	Masc|Nom|Sg	4	app	123	123
+6	dafür	dafür	P	PROAV	_	2	pp	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	12	konj	_	_
+9	Seine	seine	A	PPOSAT	Fem|Nom|Sg	10	det	123	123
+10	Majestät	Majestät	N	NN	Fem|Nom|Sg	12	subj	_	_
+11	übel	übel	A	ADJD	Pos|	12	adv	_	_
+12	träumt	träumen	V	VVFIN	3|Sg|Pres|Ind	2	objc	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Gerechtigkeit	Gerechtigkeit	N	NN	Fem|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Sohn	Sohn	N	NN	Masc|_|Sg	1	app	_	_
+4	des	die	A	ART	Def|Masc|Gen|Sg	5	det	_	_
+5	Himmels	Himmel	N	NN	Masc|Gen|Sg	3	gmod	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Gerechtigkeit	Gerechtigkeit	N	NN	Fem|Gen|Sg	5	kon	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Er	er	P	PPER	3|Sg|Masc|Nom	3	subj	2	2
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	völlig	völlig	A	ADJD	Pos|	5	adv	_	_
+5	übergeschnappt	überschnappen	V	VVPP	_	3	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	bemerkt	bemerken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	28	28
+3	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	1	subj	28	28
+4	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	6	det	_	_
+5	sonderbare	sonderbar	A	ADJA	Pos|Masc|Nom|Sg|Wk|	6	attr	_	_
+6	Mensch	Mensch	N	NN	Masc|Nom|Sg	2	subj	_	_
+7	?	?	$	$.	_	0	root	_	_
+

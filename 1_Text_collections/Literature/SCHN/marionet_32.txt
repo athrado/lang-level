@@ -1,0 +1,239 @@
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	442	442
+2	siehst	sehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	442	442
+3	etwa	etwa	A	ADV	_	1	adv	_	_
+4	Angst	Angst	N	NN	Fem|_|Sg	1	obja	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Vier	Vier	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Fünf	fünf	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Elf	elf	C	CARD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	5	obja	_	_
+5	wenden	wenden	V	VVINF	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zwölf	zwölf	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vorwärts	vorwärts	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+4	mehr	mehr	A	ADV	_	3	adv	_	_
+5	reichen	reichen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Kümmre	kümmern	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+2	dich	du	P	PPER	2|Sg|_|Acc	1	obja	_	_
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	_	_
+4	Reisesack	Reisesack	N	NN	Masc|Nom|Sg	2	subj	_	_
+5	wohl	wohl	A	ADV	_	6	adv	_	_
+6	gepackt	packen	V	VVPP	_	2	aux	_	_
+7	;	;	$	$.	_	0	root	_	_
+8	es	es	P	PPER	3|Sg|Neut|Nom	9	subj	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	mehr	mehr	A	ADV	_	9	adv	_	_
+11	darin	darin	P	PROAV	_	9	pp	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	als	als	K	KOUS	_	15	konj	_	_
+14	du	du	P	PPER	2|Sg|_|Nom	15	subj	_	_
+15	ahnst	ahnen	V	VVFIN	2|Sg|Pres|Ind	9	neb	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	würfeln	würfeln	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Elf	elf	C	CARD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zwölf	zwölf	C	CARD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	2	2
+3	gehört	gehören	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	3	objd	443	443
+5	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	443	443
+4	Schrank	Schrank	N	NN	Masc|Nom|Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	hier	hier	A	ADV	_	3	adv	_	_
+2	mein	meine	A	PPOSAT	Neut|_|Sg	3	det	444	444
+3	Bett	Bett	N	NN	Neut|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	mein	meine	A	PPOSAT	Neut|_|Sg	2	det	444	444
+2	Bettzeug	Bettzeug	N	NN	Neut|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	5	obja	_	_
+4	bezahlt	bezahlt	A	ADJD	Pos|	5	pred	_	_
+5	machen	machen	V	VVINF	_	2	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Elf	elf	C	CARD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	werd	werd	A	ADJA	Neut|_|Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	326	326
+5	.	.	$	$.	_	0	root	_	_
+
+1	Zwölf	zwölf	C	CARD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Gewonnen	gewinnen	V	VVPP	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nun	nun	A	ADV	_	3	adv	_	_
+3	genug	genug	A	ADV	_	1	cj	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Genug	genug	A	ADJD	Pos|	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Noch	noch	A	ADV	_	2	adv	_	_
+2	einmal	einmal	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	445	445
+2	Diener	Diener	N	NN	Masc|Nom|Sg	3	subj	445	445
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	gleich	gleich	A	ADV	_	6	adv	_	_
+5	hier	hier	A	ADV	_	6	adv	_	_
+6	sein	sein	V	VAINF	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	einmal	einmal	A	ADV	_	2	adv	_	_
+2	noch	noch	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+5	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+7	so	so	A	ADV	_	8	adv	_	_
+8	fortgehen	fortgehen	V	VVINF	_	5	aux	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	noch	noch	A	ADV	_	5	adv	_	_
+5	einzusetzen	einsetzen	V	VVIZU	_	2	obji	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Alles	alle	P	PIS	Neut|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	was	was	P	PRELS	Neut|_|Sg	7	obja	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	326	326
+5	am	an	P	APPRART	Dat	7	pp	_	_
+6	Leibe	Leib	N	NN	Masc|Dat|Sg	5	pn	446	446
+7	trage	tragen	V	VVFIN	1|Sg|Pres|_	1	rel	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	zum	zu	P	APPRART	Dat	7	pp	_	_
+10	Teufel	Teufel	N	NN	Masc|Dat|Sg	9	pn	386	386
+11	!	!	$	$.	_	0	root	_	_
+
+1	und	und	K	KON	_	0	root	_	_
+2	den	die	A	ART	Def|Masc|Acc|Sg	3	det	445	445
+3	Diener	Diener	N	NN	Masc|Acc|Sg	1	cj	445	445
+4	.	.	$	$.	_	0	root	_	_
+
+1	und	und	K	KON	_	0	root	_	_
+2	den	die	A	ART	Def|Masc|Acc|Sg	3	det	_	_
+3	Platz	Platz	N	NN	Masc|Acc|Sg	1	cj	_	_
+4	auf	auf	P	APPR	Dat	3	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	289	289
+6	Post	Post	N	NN	Fem|Dat|Sg	4	pn	289	289
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	reicht	reichen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	auf	auf	P	APPR	_	4	pp	_	_
+3	Sophie	Sophie	N	NE	Fem|_|Sg	2	pn	236	236
+4	weisend	weisen	A	ADJD	_|<PPRES	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	die	die	A	ART	Def|_|_|_	1	cj	_	_
+3	dazu	dazu	P	PROAV	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+

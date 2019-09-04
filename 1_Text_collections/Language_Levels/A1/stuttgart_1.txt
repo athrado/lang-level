@@ -1,0 +1,100 @@
+1	Hallo	hallo	ITJ	ITJ	_	0	root	_	-
+2	!	!	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Denice	Denice	N	NE	Fem|Nom|Sg	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	jetzt	jetzt	ADV	ADV	_	2	adv	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Sonntag	Sonntag	N	NN	_|Dat|Sg	1	pn	_	-
+3	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	frei	frei	ADV	ADJD	Pos|	3	adv	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	am	an	PREP	APPRART	Dat	9	pp	_	-
+8	Sonntag	Sonntag	N	NN	_|Dat|Sg	7	pn	_	-
+9	kann	können	V	VMFIN	1|Sg|Pres|Ind	3	kon	_	-
+10	ich	ich	PRO	PPER	1|Sg|_|Nom	9	subj	_	(0)
+11	morgens	morgens	ADV	ADV	_	13	adv	_	-
+12	lange	lange	ADV	ADJD	_	13	adv	_	-
+13	schlafen	schlafen	V	VVINF	_	9	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	4	pp	_	-
+2	Sonntag	Sonntag	N	NN	_|Dat|_	1	pn	_	-
+3	Morgen	Morgen	N	NN	_|Dat|_	2	app	_	-
+4	stehe	stehen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	(0)
+6	um	um	PREP	APPR	_	4	pp	_	-
+7	zwölf	zwölf	CARD	CARD	_	6	pn	_	-
+8	auf	auf	PTKVZ	PTKVZ	_	4	avz	_	-
+9	,	,	$,	$,	_	0	root	_	-
+10	dann	dann	ADV	ADV	_	11	adv	_	-
+11	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	4	kon	_	-
+12	ich	ich	PRO	PPER	1|Sg|_|Nom	11	subj	_	(0)
+13	meine	meine	ART	PPOSAT	Fem|_|Sg	14	det	_	(0)
+14	Küche	Küche	N	NN	Fem|_|Sg	15	obja	_	-
+15	kontrollieren	kontrollieren	V	VVINF	_	11	aux	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	frühstücke	frühstücken	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	um	um	PREP	APPR	_	2	pp	_	-
+4	elf	elf	CARD	CARD	_	5	attr	_	-
+5	Uhr	Uhr	N	NN	Fem|_|Sg	3	pn	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	leider	leider	ADV	ADV	_	8	adv	_	-
+8	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	2	kon	_	-
+9	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+10	meine	meine	ART	PPOSAT	Fem|_|Pl	11	det	_	(0)
+11	Hausaufgaben	Hausaufgabe	N	NN	Fem|_|Pl	12	obja	_	-
+12	machen	machen	V	VVINF	_	8	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	meine	meine	ART	PPOSAT	Fem|_|Sg	5	det	_	(0)
+5	Familie	Familie	N	NN	Fem|_|Sg	8	obja	_	-
+6	in	in	PREP	APPR	_	8	pp	_	-
+7	Mexiko	Mexiko	N	NE	Neut|_|Sg	6	pn	_	-
+8	anrufen	anrufen	V	VVINF	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Manchmal	manchmal	ADV	ADV	_	2	adv	_	-
+2	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	mit	mit	PREP	APPR	Dat	2	pp	_	-
+5	meinem	meine	ART	PPOSAT	Masc|Dat|Sg	6	det	_	(0)
+6	Mann	Mann	N	NN	Masc|Dat|Sg	4	pn	_	-
+7	ins	in	PREP	APPRART	Acc	2	objp	_	-
+8	Fitnessstudio	Fitnessstudio	N	NN	Neut|Acc|Sg	7	pn	_	-
+9	von	von	PREP	APPR	_	8	pp	_	-
+10	acht	acht	CARD	CARD	_	11	attr	_	-
+11	Uhr	Uhr	N	NN	Fem|_|Sg	9	pn	_	-
+12	bis	bis	PREP	APPR	Acc	9	kon	_	-
+13	zehn	zehn	CARD	CARD	_	14	attr	_	-
+14	Uhr	Uhr	N	NN	Fem|Acc|Sg	12	pn	_	-
+15	abends	abends	ADV	ADV	_	14	adv	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	können	können	V	VMFIN	1|Pl|Pres|_	0	root	_	-
+3	wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+4	fernsehen	fernsehen	V	VVINF	_	2	aux	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Um	um	PREP	APPR	_	4	pp	_	-
+2	null	null	CARD	CARD	_	3	attr	_	-
+3	Uhr	Uhr	N	NN	Fem|_|Sg	1	pn	_	-
+4	müssen	müssen	V	VMFIN	1|Pl|Pres|_	0	root	_	-
+5	wir	wir	PRO	PPER	1|Pl|_|Nom	4	subj	_	(1)
+6	schlafen.s	schlafen.s	ADV	ADJD	_	4	adv	_	-
+

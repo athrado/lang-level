@@ -1,0 +1,102 @@
+1	Musik	Musik	N	NN	Fem|Nom|Sg	2	subj	_	(0)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	mein	meine	ART	PPOSAT	Neut|Nom|Sg	4	det	_	(1)
+4	Leben	Leben	N	NN	Neut|Nom|Sg	2	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	klingt	klingen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	vielleicht	vielleicht	ADV	ADV	_	2	adv	_	-
+4	ein	eine	ART	ART	Indef|_|_|Sg	0	root	_	-
+5	bisschen	bisschen	ADV	ADV	_	6	adv	_	-
+6	pathetisch	pathetisch	ADV	ADJD	Pos|	0	root	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	aber	aber	KON	KON	_	0	root	_	-
+9	es	es	PRO	PPER	3|Sg|Neut|Nom	10	subj	_	-
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	8	cj	_	-
+11	einfach	einfach	ADV	ADJD	Pos|	10	adv	_	-
+12	so	so	ADV	ADV	_	10	adv	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Ohne	ohne	PREP	APPR	Acc	3	pp	_	-
+2	Musik	Musik	N	NN	Fem|Acc|Sg	1	pn	_	(0)
+3	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(1)
+5	nicht	nicht	PTKNEG	PTKNEG	_	6	adv	_	-
+6	leben	leben	V	VVINF	_	3	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(1)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	an	an	PREP	APPR	Dat	14	pp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	6	det	_	-
+5	Staatlichen	staatlich	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	6	attr	_	-
+6	Hochschule	Hochschule	N	NN	Fem|Dat|Sg	3	pn	_	-
+7	für	für	PREP	APPR	Acc	6	pp	_	-
+8	Musik	Musik	N	NN	Fem|Acc|Sg	7	pn	_	(0)
+9	und	und	KON	KON	_	8	kon	_	-
+10	Darstellende	Darstellende	N	NN	Fem|Acc|Sg	9	cj	_	-
+11	Kunst	Kunst	N	NN	Fem|_|Sg	14	obja	_	-
+12	in	in	PREP	APPR	_	14	pp	_	-
+13	Stuttgart	Stuttgart	N	NE	Neut|_|Sg	12	pn	_	-
+14	studiert	studieren	V	VVPP	_	2	aux	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Nun	nun	ADV	ADV	_	2	adv	_	-
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(1)
+4	seit	seit	PREP	APPR	Dat	2	pp	_	-
+5	zehn	zehn	CARD	CARD	_	6	attr	_	-
+6	Jahren	Jahr	N	NN	Neut|Dat|Pl	4	pn	_	-
+7	als	als	KOKOM	KOKOM	_	2	kom	_	-
+8	Musiklehrer	Musiklehrer	N	NN	Masc|_|_	7	cj	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(1)
+2	unterrichte	unterrichten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	an	an	PREP	APPR	Dat	2	pp	_	-
+4	einer	eine	ART	ART	Indef|Fem|Dat|Sg	5	det	_	-
+5	Musikschule	Musikschule	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	und	und	KON	KON	_	2	kon	_	-
+7	gebe	geben	V	VVFIN	_|Sg|Pres|_	6	cj	_	-
+8	auch	auch	ADV	ADV	_	7	adv	_	-
+9	privat	privat	ADV	ADJD	Pos|	7	adv	_	-
+10	Klavierunterricht	Klavierunterricht	N	NN	Masc|_|Sg	7	obja	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	Dat	4	pp	_	-
+2	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	3	det	_	(1)
+3	Freizeit	Freizeit	N	NN	Fem|Dat|Sg	1	pn	_	-
+4	spiele	spielen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	(1)
+6	in	in	PREP	APPR	Dat	4	pp	_	-
+7	einer	eine	ART	ART	Indef|Fem|Dat|Sg	8	det	_	-
+8	Band	Band	N	NN	Fem|Dat|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(1)
+2	spiele	spielen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Keyboard	Keyboard	N	NN	Neut|_|Sg	2	obja	_	-
+4	und	und	KON	KON	_	2	kon	_	-
+5	singe	singen	V	VVFIN	_|Sg|Pres|_	4	cj	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(1)
+2	komponiere	komponieren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	meine	meine	ART	PPOSAT	Neut|_|Pl	5	det	_	(1)
+4	eigenen	eigen	ADJA	ADJA	Pos|Neut|_|Pl|Wk|	5	attr	_	-
+5	Lieder	Lied	N	NN	Neut|_|Pl	2	obja	_	-
+6	und	und	KON	KON	_	2	kon	_	-
+7	schreibe	schreiben	V	VVFIN	_|Sg|Pres|_	6	cj	_	-
+8	auch	auch	ADV	ADV	_	7	adv	_	-
+9	die	die	ART	ART	Def|Masc|_|Pl	10	det	_	-
+10	Texte	Text	N	NN	Masc|_|Pl	7	obja	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	extrem	extrem	ADV	ADJD	Pos|	2	pred	_	-
+4	viel	viel	ART	PIDAT	Masc|_|Sg	5	det	_	-
+5	Spaß	Spaß	N	NN	Masc|_|Sg	2	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,368 @@
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vetter	Vetter	N	NE	_	0	root	250	250
+2	Cassian	Cassian	N	NE	_	1	app	250	250
+3	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	_	_
+4	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|Nom	4	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Woher	Woher	P	PWAV	_	2	adv	_	_
+2	dringt	dringen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	diese	diese	A	PDAT	Fem|Nom|Sg	4	det	586	586
+4	Stimme	Stimme	N	NN	Fem|Nom|Sg	2	subj	586	586
+5	?	?	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	meines	meine	A	PPOSAT	Masc|Gen|Sg	4	det	294	294
+4	Vetters	Vetter	N	NN	Masc|Gen|Sg	2	objg	_	_
+5	Martin	Martin	N	NE	_|Nom|_	2	pred	_	_
+6	Stimme	Stimme	N	NE	Fem|Nom|Sg	5	app	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	die	die	P	PRELS	Fem|Nom|Sg	14	subj	_	_
+9	aus	aus	P	APPR	Dat	14	pp	_	_
+10	dem	die	A	ART	Def|Neut|Dat|Sg	11	det	_	_
+11	Dunkel	Dunkel	N	NN	Neut|Dat|Sg	9	pn	_	_
+12	zu	zu	P	APPR	Dat	9	kon	_	_
+13	mir	ich	P	PPER	1|Sg|_|Dat	12	pn	294	294
+14	schallt	schallen	V	VVFIN	3|Sg|Pres|Ind	6	rel	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Sei	sein	V	VAFIN	_|Sg|Pres|Subj	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	3	objd	294	294
+3	gegrüßt	grüßen	V	VVPP	_	1	aux	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Vetter	Vetter	N	NN	Masc|_|Sg	1	vok	235	235
+6	Martin	Martin	N	NE	_|_|Sg	5	app	235	235
+7	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	einen	eine	A	ART	Indef|Masc|Acc|Sg	4	det	_	_
+3	guten	gut	A	ADJA	Pos|Masc|Acc|Sg|_|	4	attr	_	_
+4	Abend	Abend	N	NN	Masc|Acc|Sg	1	cj	_	_
+5	dem	die	A	ART	Def|Neut|Dat|Sg	7	det	434	434
+6	schönen	schön	A	ADJA	Pos|Neut|Dat|Sg|Wk|	7	attr	434	434
+7	Fräulein	Fräulein	N	NN	Neut|Dat|Sg	0	root	434	434
+8	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	dunkel	dunkel	A	ADJD	Pos|	3	adv	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+4	sein	sein	V	VAINF	_	5	aux	_	_
+5	mag	mögen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ob	ob	K	KOUS	_	12	konj	_	_
+8	irgend	irgend	A	ADV	_	12	adv	_	_
+9	ein	eine	A	ART	Indef|Neut|Nom|Sg	10	det	_	_
+10	Fräulein	Fräulein	N	NN	Neut|Nom|Sg	12	subj	_	_
+11	schön	schön	A	ADJD	Pos|	12	pred	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	14	objc	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	5	kon	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	14	subj	2	2
+16	gleich	gleich	P	PTKVZ	_	14	avz	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mehr	mehr	A	PIAT	Fem|_|Sg	2	det	_	_
+2	Klugheit	Klugheit	N	NN	Fem|_|Sg	0	root	_	_
+3	als	als	K	KOKOM	_	2	kom	_	_
+4	scharfes	scharf	A	ADJA	Pos|Neut|_|Sg|St|	5	attr	_	_
+5	Aug	Aug	N	NN	Neut|_|Sg	3	cj	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wär	Wär	N	NE	_	0	root	287	287
+2	'	'	$	$(	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	0	root	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+5	alte	alt	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	_
+6	Tante	Tante	N	NN	Fem|_|Sg	0	root	_	_
+7	Cordula	Cordula	N	NE	Fem|_|Sg	6	app	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	du	du	P	PPER	2|Sg|_|Nom	10	subj	_	_
+10	hättest	haben	V	VAFIN	2|Sg|Past|Subj	0	root	_	_
+11	längst	längst	A	ADV	_	13	adv	_	_
+12	Licht	Licht	N	NN	Neut|_|Sg	13	obja	295	295
+13	gemacht	machen	V	VVPP	_	10	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mach	machen	V	VVIMP	Sg	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Licht	Licht	N	NN	Neut|_|Sg	1	obja	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Sophie	Sophie	N	NE	Fem|_|Sg	3	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	mach	machen	V	VVIMP	Sg	0	root	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	Licht	Licht	N	NN	Neut|_|Sg	7	obja	295	295
+10	!	!	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	_	0	root	_	_
+2	daß	daß	K	KOUS	_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	0	root	_	_
+4	den	die	A	ART	Def|_|_|_	5	det	297	297
+5	Gespielen	Gespielen	N	NN	_|_|_	0	root	297	297
+6	meiner	meine	A	PPOSAT	Fem|Gen|Sg	7	det	296	296
+7	Jugend	Jugend	N	NN	Fem|Gen|Sg	5	gmod	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	meines	meine	A	PPOSAT	Masc|Gen|Sg	10	det	296	296
+10	Vaterbruders	Vaterbruder	N	NN	Masc|Gen|Sg	0	root	_	_
+11	Sohn	Sohn	N	NN	Masc|_|Sg	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	den	die	A	ART	Def|_|_|_	15	det	250	250
+14	tapfern	tapfern	A	ADJA	_	15	attr	250	250
+15	Cassian	Cassian	N	NN	_|_|_	20	obja	250	250
+16	von	von	P	APPR	Dat	15	pp	250	250
+17	Angesicht	Angesicht	N	NN	Neut|Dat|Sg	16	pn	250	250
+18	zu	zu	P	APPR	Dat	16	kon	250	250
+19	Angesicht	Angesicht	N	NN	Neut|Dat|Sg	18	pn	250	250
+20	erblickest	erblicken	V	VVFIN	2|Sg|Pres|Subj	0	root	_	_
+21	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|Nom|Sg	2	subj	236	236
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	APPR	Dat	5	objp	_	_
+4	Cassian	Cassian	N	NN	_|Dat|_	3	pn	250	250
+5	getreten	treten	V	VVPP	_	2	aux	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	betrachtet	betrachten	V	VVFIN	_|_|Pres|_	6	cj	_	_
+8	ihn	er	P	PPER	3|Sg|Masc|Acc	7	obja	2	2
+9	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	297	297
+2	starren	starren	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|Dat	2	objd	_	_
+4	gegenseitig	gegenseitig	A	ADJD	Pos|	2	adv	_	_
+5	ins	in	P	APPRART	Acc	2	pp	_	_
+6	Auge	Auge	N	NN	Neut|Acc|Sg	5	pn	567	567
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	erst	erst	A	ADV	_	3	adv	_	_
+3	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	3	subj	236	236
+5	Licht	Licht	N	NN	Neut|_|Sg	3	obja	295	295
+6	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Woher	Woher	P	PWAV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Cassian	Cassian	N	NE	_	0	root	250	250
+4	?	?	$	$.	_	0	root	_	_
+
+1	wohin	wohin	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	wie	wie	K	KOKOM	_	3	kom	_	_
+2	lange	lange	A	ADJD	_	1	cj	_	_
+3	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	führt	führen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	2	obja	_	_
+4	her	her	A	ADV	_	2	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zu	Zu	P	PTKA	_	2	adv	298	298
+2	viel	viel	A	PIDAT	_|_|_	3	det	298	298
+3	Fragen	Frage	N	NN	_|_|_	0	root	298	298
+4	für	für	P	APPR	Acc	3	pp	298	298
+5	einen	eine	P	PIS	Masc|Acc|Sg	4	pn	298	298
+6	,	,	$	$,	_	0	root	298	298
+7	der	die	P	PRELS	Masc|Nom|Sg	13	subj	298	298
+8	hungrig	hungrig	A	ADJD	Pos|	13	pred	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	durstig	durstig	A	ADJD	Pos|	8	kon	_	_
+11	und	und	K	KON	_	10	kon	_	_
+12	müde	müde	A	ADJD	Pos|	11	cj	_	_
+13	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	rel	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	299	299
+4	nun	nun	A	ADV	_	7	adv	_	_
+5	für	für	P	APPR	Acc	7	objp	_	_
+6	drei	drei	C	CARD	_	5	pn	_	_
+7	sorgen	sorgen	V	VVINF	_	2	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Sophie	Sophie	N	NE	Fem|_|Sg	2	vok	236	236
+10	.	.	$	$.	_	0	root	_	_
+
+1	Beeil	Beeil	N	NE	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	0	root	299	299
+4	ein	eine	A	ART	Indef|_|_|Sg	0	root	_	_
+5	wenig	wenig	A	ADV	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	8	subj	299	299
+8	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	wir	wir	P	PPER	1|Pl|_|Nom	11	subj	_	_
+11	haben	haben	V	VAFIN	1|Pl|Pres|_	8	kon	_	_
+12	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+13	viel	viel	A	PIDAT	Fem|_|Sg	14	det	_	_
+14	Zeit	Zeit	N	NN	Fem|_|Sg	11	obja	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Kaltes	kalt	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	_	_
+2	Fleisch	Fleisch	N	NN	Neut|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Backwerk	Backwerk	N	NN	Neut|_|Sg	2	kon	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Orangen	Orange	N	NN	_|_|_	4	kon	300	300
+7	und	und	K	KON	_	6	kon	_	_
+8	Datteln	Dattel	N	NN	Fem|_|Pl	7	cj	301	301
+9	-	-	$	$(	_	0	root	_	_
+10	wie	wie	P	PWAV	_	12	adv	_	_
+11	du	du	P	PPER	2|Sg|_|Nom	12	subj	_	_
+12	sagtest	sagen	V	VVFIN	2|Sg|Past|_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	vom	von	P	APPRART	Dat	4	pp	_	_
+3	Sekt	Sekt	N	NN	Masc|Dat|Sg	2	pn	_	_
+4	sprachen	sprechen	V	VVFIN	3|Pl|Past|Ind	1	cj	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	301	301
+6	nichts	nichts	P	PIS	Neut|_|_	4	obja	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Fräulein	Fräulein	N	NN	Neut|_|_	6	app	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	täte	tun	V	VVFIN	3|Sg|Past|Subj	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	302	302
+4	leid	leid	A	ADJD	Pos|	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	302	302
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	alles	alle	P	PIS	Neut|_|Sg	4	obja	_	_
+4	bringen	bringen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	was	was	P	PRELS	Neut|_|Sg	8	obja	_	_
+7	Sie	sie	P	PPER	3|Pl|_|Nom	8	subj	_	_
+8	wünschen	wünschen	V	VVFIN	3|Pl|Pres|_	3	rel	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sei	sein	V	VAFIN	_|Sg|Pres|Subj	0	root	_	_
+2	rasch	rasch	A	ADJD	Pos|	1	adv	_	_
+3	zurück	zurück	P	PTKVZ	_	1	avz	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	_	0	root	_	_
+2	Wiedersehen	Wiedersehen	N	NN	Neut|_|_	1	pn	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_|Nom|Sg	2	subj	250	250
+2	streckt	strecken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	aufs	auf	P	APPRART	Acc	2	pp	_	_
+5	Bett	Bett	N	NN	Neut|Acc|Sg	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Vortrefflich	vortrefflich	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ah	Ah	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	da	da	A	ADV	_	4	adv	_	_
+4	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	0	root	_	_
+5	man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+6	wohl	wohl	A	ADV	_	9	adv	_	_
+7	vierundzwanzig	vierundzwanzig	C	CARD	_	8	attr	_	_
+8	Stunden	Stunde	N	NN	Fem|_|Pl	9	zeit	_	_
+9	ruhen	ruhen	V	VVINF	_	4	aux	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|_	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	0	root	303	303
+4	beliebt	beliebt	A	ADJD	Pos|	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	brauchst	brauchen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	6	subj	303	303
+8	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+9	wieder	wieder	A	ADV	_	10	adv	_	_
+10	aufzustehen	aufstehen	V	VVIZU	_	6	obji	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	314	314
+2	verreise	verreisen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	trifft	treffen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	gut	gut	A	ADJD	Pos|	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	trittst	treten	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	304	304
+4	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	_	_
+5	wohl	wohl	A	ADV	_	2	adv	_	_
+6	auch	auch	A	ADV	_	2	adv	_	_
+7	dein	deine	A	PPOSAT	Neut|_|Sg	8	det	304	304
+8	Zimmer	Zimmer	N	NN	Neut|_|Sg	2	obja	_	_
+9	für	für	P	APPR	Acc	8	pp	_	_
+10	eine	eine	A	ART	Indef|Fem|Acc|Sg	11	det	_	_
+11	Nacht	Nacht	N	NN	Fem|Acc|Sg	9	pn	_	_
+12	an	an	P	PTKVZ	_	2	avz	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	lang	lang	A	ADJD	Pos|	3	adv	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	4	subj	304	304
+4	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,490 @@
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	sensationell	sensationell	A	ADJD	_	3	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Masc|Nom|Pl	2	det	639	639
+2	Menschen	Mensch	N	NN	Masc|Nom|Pl	3	subj	639	639
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	blaß	blaß	A	ADJD	Pos|	5	pred	_	_
+5	geworden	werden	V	VAPP	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJD	Comp|	2	adv	_	_
+2	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	640	640
+4	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+5	deutlich	deutlich	A	ADJD	Pos|	0	root	_	_
+6	bemerkt	bemerken	V	VVPP	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|Nom|Sg	3	subj	809	809
+2	Benno	Benno	N	NE	Fem|Nom|Sg	1	app	809	809
+3	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Kind	Kind	N	NN	Neut|_|Sg	8	vok	572	572
+6	,	,	$	$,	_	0	root	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	8	subj	640	640
+8	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+9	gespielt	spielen	V	VVPP	_	8	aux	_	_
+10	wie	wie	K	KOKOM	_	9	kom	_	_
+11	eine	eine	A	ART	Indef|Fem|_|Sg	12	det	_	_
+12	Göttin	Göttin	N	NN	Fem|_|Sg	10	cj	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	_	_
+2	Hm	Hm	N	NN	_|_|_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	vorgestern	vorgestern	A	ADV	_	3	adv	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	krank	krank	A	ADJD	Pos|	1	cj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Neut|_|Sg	0	root	641	641
+2	Jawohl	Jawohl	N	NN	Neut|_|Sg	1	app	641	641
+3	;	;	$	$.	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	810	810
+5	war	sein	V	VAFIN	1|Sg|Past|Ind	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|_	5	expl	_	_
+7	auch	auch	A	ADV	_	5	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	642	642
+4	warum	warum	P	PWAV	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	_	0	root	_	_
+2	Sehnsucht	Sehnsucht	N	NN	Fem|_|Sg	1	pn	_	_
+3	nach	nach	P	APPR	Dat	2	pp	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	3	pn	642	642
+5	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	573	573
+2	Früher	früh	A	ADJD	_|	3	adv	_	_
+3	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	642	642
+5	mir	ich	P	PPER	1|Sg|_|Dat	6	objd	643	643
+6	erzählt	erzählen	V	VVPP	_	3	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	9	subj	642	642
+9	wolltest	wollen	V	VMFIN	2|Sg|Past|_	6	s	_	_
+10	mich	ich	P	PPER	1|Sg|_|Acc	11	obja	643	643
+11	ärgern	ärgern	V	VVINF	_	9	aux	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	und	und	K	KON	_	9	kon	_	_
+14	hast	haben	V	VAFIN	2|Sg|Pres|Ind	13	cj	_	_
+15	darum	darum	P	PROAV	_	16	pp	_	_
+16	abgesagt	absagen	V	VVPP	_	14	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Aber	aber	K	KON	_	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	4	obja	_	_
+4	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	2	cj	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	642	642
+6	von	von	P	APPR	_	4	pp	_	_
+7	meiner	meine	A	PPOSAT	Fem|_|Sg	8	det	643	643
+8	Liebe	Liebe	N	NN	Fem|_|Sg	6	pn	_	_
+9	zu	zu	P	APPR	Dat	6	kon	_	_
+10	dir	du	P	PPER	2|Sg|_|Dat	9	pn	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Dich	Dich	N	NE	_|Nom|Sg	2	subj	704	704
+2	läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	alles	alle	P	PIS	_|_|Sg	2	adv	_	_
+6	kalt	kalt	A	ADJD	Pos|	2	pred	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	643	643
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	1	cj	_	_
+4	schon	schon	A	ADV	_	8	adv	_	_
+5	nächtelang	nächtelang	A	ADJD	Pos|	8	adv	_	_
+6	im	in	P	APPRART	Dat	8	objp	_	_
+7	Fieber	Fieber	N	NN	Neut|Dat|Sg	6	pn	_	_
+8	gelegen	liegen	V	VVPP	_	3	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Vierzig	vierzig	C	CARD	_	2	attr	_	_
+2	Grad	Grad	N	NN	_|_|Pl	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|Dat|Sg	5	objd	_	_
+2	Für	für	P	APPR	Acc	1	pp	_	_
+3	eine	eine	A	ART	Indef|Fem|Acc|Sg	4	det	_	_
+4	Laune	Laune	N	NN	Fem|Acc|Sg	2	pn	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+7	ziemlich	ziemlich	A	ADJD	_	8	adv	_	_
+8	hoch	hoch	A	ADJD	Pos|	5	pred	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	3	obja	645	645
+2	Laune	Laune	N	NE	Fem|_|Sg	1	app	645	645
+3	nennst	nennen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	644	644
+5	das	die	P	PDS	Neut|_|Sg	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	652	652
+2	sterbe	sterben	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	vor	vor	P	APPR	_	2	pp	_	_
+4	Liebe	Liebe	N	NN	_|_|_	3	pn	_	_
+5	zu	zu	P	APPR	Dat	4	pp	_	_
+6	dir	du	P	PPER	2|Sg|_|Dat	5	pn	644	644
+7	,	,	$	$,	_	0	root	_	_
+8	und	und	K	KON	_	2	kon	_	_
+9	du	du	P	PPER	2|Sg|_|Nom	10	subj	644	644
+10	nennst	nennen	V	VVFIN	2|Sg|Pres|Ind	8	cj	_	_
+11	es	es	P	PPER	3|Sg|Neut|Nom	10	pred	_	_
+12	Laune	Laune	N	NN	Fem|_|Sg	10	obja	645	645
+13	-	-	$	$(	_	0	root	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	0	root	_	_
+2	Und	und	K	KON	_	0	root	_	_
+3	Fritz	Fritz	N	NN	Masc|_|Sg	2	cj	578	578
+4	...	...	$	$.	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	578	578
+2	Fritz	Fritz	N	NE	Masc|_|Sg	1	app	578	578
+3	?	?	$	$.	_	0	root	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Rede	reden	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	652	652
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	von	von	P	APPR	Dat	1	pp	_	_
+5	diesem	diese	A	PDAT	Masc|Dat|Sg	6	det	_	_
+6	Galeerensträfling	Galeerensträfling	N	NN	Masc|Dat|Sg	4	pn	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Schlafzimmer	Schlafzimmer	N	NN	Neut|_|Sg	0	root	_	_
+3	der	die	A	ART	Def|Fem|Gen|Sg	4	det	646	646
+4	Schauspielerin	Schauspielerin	N	NN	Fem|Gen|Sg	2	gmod	646	646
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sehr	sehr	A	ADV	_	2	adv	_	_
+2	üppig	üppig	A	ADJD	Pos|	3	adv	_	_
+3	eingerichtet	einrichten	V	VVPP	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zwölf	zwölf	C	CARD	_	4	attr	_	_
+4	Uhr	Uhr	N	NN	Fem|Nom|Sg	2	pred	_	_
+5	mittags	mittags	A	ADV	_	4	adv	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	die	die	A	ART	Def|_|Nom|Pl	8	det	_	_
+8	Rouleaux	Rouleaux	N	NN	_|Nom|Pl	9	subj	_	_
+9	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+10	noch	noch	A	ADV	_	11	adv	_	_
+11	heruntergelassen	herunterlassen	V	VVPP	_	9	aux	_	_
+12	;	;	$	$.	_	0	root	_	_
+13	auf	auf	P	APPR	Dat	16	pp	_	_
+14	dem	die	A	ART	Def|Neut|Dat|Sg	15	det	584	584
+15	Nachtkästchen	Nachtkästchen	N	NN	Neut|Dat|Sg	13	pn	584	584
+16	brennt	brennen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+17	eine	eine	A	ART	Indef|Fem|Nom|Sg	18	det	_	_
+18	Kerze	Kerze	N	NN	Fem|Nom|Sg	16	subj	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	die	die	A	ART	Def|Fem|Nom|Sg	21	det	646	646
+21	Schauspielerin	Schauspielerin	N	NN	Fem|Nom|Sg	22	subj	646	646
+22	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	16	kon	_	_
+23	noch	noch	A	ADV	_	22	adv	_	_
+24	in	in	P	APPR	Dat	22	objp	_	_
+25	ihrem	ihre	A	PPOSAT	Neut|Dat|Sg	26	det	646	646
+26	Himmelbett	Himmelbett	N	NN	Neut|Dat|Sg	24	pn	_	_
+27	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Dat	4	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	529	529
+3	Decke	Decke	N	NN	Fem|Dat|Sg	1	pn	529	529
+4	liegen	liegen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	zahlreiche	zahlreich	A	ADJA	Pos|Fem|Nom|Pl|St|	6	attr	_	_
+6	Zeitungen	Zeitung	N	NN	Fem|Nom|Pl	4	subj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	647	647
+2	Graf	Graf	N	NN	Masc|Nom|Sg	3	subj	647	647
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ein	eine	A	ART	Indef|_|_|Sg	0	root	_	_
+5	in	in	P	APPR	Dat	0	root	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	_	_
+7	Uniform	Uniform	N	NN	Fem|Dat|Sg	5	pn	_	_
+8	eines	eine	A	ART	Indef|Masc|Gen|Sg	9	det	_	_
+9	Dragonerrittmeisters	Dragonerrittmeister	N	NN	Masc|Gen|Sg	7	gmod	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	647	647
+2	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	an	an	P	APPR	Dat	6	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	102	102
+5	Tür	Tür	N	NN	Fem|Dat|Sg	3	pn	102	102
+6	stehen	stehen	V	VVINF	_	2	obji	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	648	648
+2	Ah	Ah	N	NE	Masc|_|Sg	1	app	648	648
+3	,	,	$	$,	_	0	root	648	648
+4	Herr	Herr	N	NN	Masc|_|Sg	2	app	648	648
+5	Graf	Graf	N	NE	_|_|Sg	4	app	648	648
+6	.	.	$	$.	_	0	root	_	_
+
+1	Graf	Graf	N	NE	_|_|Sg	0	root	648	648
+2	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	_	_
+3	Frau	Frau	N	NN	Fem|Nom|Sg	5	subj	_	_
+4	Mama	Mama	N	NN	Fem|Nom|Sg	3	app	_	_
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	649	649
+7	erlaubt	erlauben	V	VVPP	_	5	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	sonst	sonst	A	ADV	_	10	adv	_	_
+10	wär	wär	A	ADJD	_	12	adv	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	0	root	649	649
+13	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+14	-	-	$	$(	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	4	vok	_	_
+2	Bitte	Bitte	N	NN	Fem|_|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	treten	treten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	_	_
+6	nur	nur	A	ADV	_	4	adv	_	_
+7	näher	nah	A	ADJD	Comp|	4	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Graf	Graf	N	NE	_	0	root	651	651
+2	Küss	Küss	N	NE	_	1	app	651	651
+3	'	'	$	$(	_	0	root	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	98	98
+5	Hand	Hand	N	NN	Fem|_|Sg	0	root	98	98
+6	.	.	$	$.	_	0	root	_	_
+
+1	Pardon	Pardon	N	NN	_|_|Sg	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	wenn	wenn	K	KOUS	_	8	konj	_	_
+4	man	man	P	PIS	_|Nom|Sg	8	subj	_	_
+5	von	von	P	APPR	Gen	8	pp	_	_
+6	der	die	A	ART	Def|Fem|Gen|Pl	7	det	650	650
+7	Straßen	Straß	N	NN	Fem|Gen|Pl	5	pn	650	650
+8	hereinkommt	hereinkommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	...	...	$	$.	_	0	root	_	_
+10	ich	ich	P	PPER	_|Nom|Sg	0	root	650	650
+11	seh	seh	F	FM	_	10	app	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	nämlich	nämlich	A	ADV	_	10	adv	_	_
+14	noch	noch	A	ADV	_	15	adv	_	_
+15	rein	rein	A	ADV	_	16	adv	_	_
+16	gar	gar	A	ADV	_	10	adv	_	_
+17	nichts	nichts	P	PIS	_	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	...	...	$	$.	_	0	root	_	_
+3	da	da	A	ADV	_	4	adv	_	_
+4	wären	sein	V	VAFIN	1|Pl|Past|Subj	0	root	_	_
+5	wir	wir	P	PPER	1|Pl|_|Nom	4	subj	_	_
+6	ja	ja	A	ADV	_	4	adv	_	_
+7	Am	an	P	APPRART	Dat	4	pp	_	_
+8	Bett	Bett	N	NN	Neut|Dat|Sg	7	pn	253	253
+9	.	.	$	$.	_	0	root	_	_
+
+1	Küss	Küss	N	NE	_	0	root	651	651
+2	'	'	$	$(	_	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	98	98
+4	Hand	Hand	N	NN	Fem|_|Sg	0	root	98	98
+5	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	schauspielerin	A	ADJD	Pos|	2	adv	_	_
+2	Nehmen	nehmen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	651	651
+4	Platz	Platz	N	NN	Masc|_|Sg	2	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Herr	Herr	N	NN	Masc|Dat|Sg	10	objd	12	12
+7	Graf	Graf	N	NE	Masc|Dat|Sg	6	app		
+
+1	Graf	Graf	N	NE	Fem|Nom|Sg	4	subj	652	652
+2	Frau	Frau	N	NN	Fem|Nom|Sg	1	app	810	810
+3	Mama	Mama	N	NN	Fem|Nom|Sg	2	app	652	652
+4	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	4	objd	652	652
+6	,	,	$	$,	_	0	root	_	_
+7	Fräulein	Fräulein	N	NN	Neut|Nom|Pl	8	subj	_	_
+8	sind	sein	V	VAFIN	3|Pl|Pres|Ind	4	s	_	_
+9	unpäßlich	unpäßlich	A	ADJD	Pos|	8	pred	_	_
+10	...	...	$	$.	_	0	root	_	_
+11	Wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+12	doch	doch	A	ADV	_	16	adv	_	_
+13	hoffentlich	hoffentlich	A	ADV	_	16	adv	_	_
+14	nichts	nichts	A	PIAT	Neut|Nom|Sg	15	det	429	429
+15	Ernstes	Ernst	N	NN	Neut|Nom|Sg	11	subj	429	429
+16	sein	sein	V	VAINF	_	11	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Nichts	Nichts	A	PIAT	_|_|Sg	3	det	429	429
+3	Ernstes	Ernst	N	NN	_|_|Sg	0	root	429	429
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	652	652
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	dem	die	A	ART	Def|Masc|Dat|Sg	4	det	653	653
+4	Tode	Tod	N	NN	Masc|Dat|Sg	6	objd	653	653
+5	nahe	nahe	A	ADJD	_	6	pred	_	_
+6	gewesen	sein	V	VAPP	_	2	aux	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Graf-	Graf-	T	TRUNC	_	0	root	_	_
+2	Um	um	P	APPR	Gen	4	pp	_	_
+3	Gottes	Gott	N	NN	Masc|Gen|Sg	2	pn	39	39
+4	willen	willen	V	VVINF	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wie	wie	P	PWAV	_	7	adv	_	_
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	denn	denn	A	ADV	_	7	adv	_	_
+9	das	die	P	PDS	Neut|Nom|Sg	7	subj	_	_
+10	möglich	möglich	A	ADJD	Pos|	7	pred	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	jedenfalls	jedenfalls	A	ADV	_	3	adv	_	_
+5	sehr	sehr	A	ADV	_	6	adv	_	_
+6	freundlich	freundlich	A	ADJD	Pos|	3	pred	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	13	konj	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	13	subj	654	654
+10	sich	sie	P	PRF	3|_|_	13	obja	_	_
+11	zu	zu	P	APPR	Dat	13	pp	_	_
+12	mir	ich	P	PPER	1|Sg|_|Dat	11	pn	666	666
+13	bemühen	bemühen	V	VVFIN	3|Pl|Pres|_	3	objc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Graf	Graf	N	NE	_|_|Sg	0	root	648	648
+2	Dem	die	A	ART	Def|Masc|Dat|Sg	3	det	653	653
+3	Tode	Tod	N	NN	Masc|Dat|Sg	0	root	653	653
+4	nahe	nahe	P	PTKVZ	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	gestern	gestern	A	ADV	_	3	adv	_	_
+3	abend	abend	A	ADV	_	4	adv	_	_
+4	haben	haben	V	VAFIN	3|Pl|Pres|_	1	cj	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	654	654
+6	noch	noch	A	ADV	_	4	adv	_	_
+7	gespielt	gespielt	A	ADJD	Pos|	4	adv	_	_
+8	wie	wie	K	KOKOM	_	4	kom	_	_
+9	eine	eine	A	ART	Indef|Fem|_|Sg	10	det	_	_
+10	Göttin	Göttin	N	NN	Fem|_|Sg	8	cj	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	wohl	wohl	A	ADV	_	3	adv	_	_
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+6	großer	groß	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	_	_
+7	Triumph	Triumph	N	NN	Masc|Nom|Sg	3	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Graf	Graf	N	NE	_	0	root	_	_
+2	Kolossal	Kolossal	N	NE	_	1	app	_	_
+3	!	!	$	$.	_	0	root	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|Nom|Pl	2	det	186	186
+2	Leute	Leute	N	NN	_|Nom|Pl	3	subj	186	186
+3	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+4	auch	auch	A	ADV	_	6	adv	_	_
+5	alle	alle	P	PIS	_|_|_	6	adv	_	_
+6	hingerissen	hinreißen	V	VVPP	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	von	von	P	APPR	Dat	4	pp	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	pn	666	666
+4	will	wollen	V	VMFIN	1|Sg|Pres|Ind	1	cj	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	655	655
+6	gar	gar	A	ADV	_	7	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	reden	reden	V	VVINF	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	655	655
+3	danke	danken	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	für	für	P	APPR	Acc	3	pp	_	_
+5	die	die	A	ART	Def|Fem|Acc|Pl	7	det	_	_
+6	schönen	schön	A	ADJA	Pos|Fem|Acc|Pl|Wk|	7	attr	_	_
+7	Blumen	Blume	N	NN	Fem|Acc|Pl	4	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Graf	Graf	N	NE	_|_|Sg	0	root	648	648
+2	Aber	aber	K	KON	_	1	kon	648	648
+3	bitt	bitt	F	FM	_|_|Sg	2	cj	648	648
+4	'	'	$	$(	_	0	root	_	_
+5	Sie	sie	P	PPER	3|_|_|_	0	root	648	648
+6	,	,	$	$,	_	0	root	_	_
+7	Fräulein	Fräulein	N	NN	Neut|_|_	5	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	_	_
+2	mit	mit	P	APPR	Dat	1	pp	_	_
+3	den	die	A	ART	Def|Neut|Dat|Pl	4	det	657	657
+4	Augen	Auge	N	NN	Neut|Dat|Pl	2	pn	657	657
+5	auf	auf	P	APPR	Acc	4	pp	657	657
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	8	det	656	656
+7	großen	groß	A	ADJA	Pos|Masc|Acc|Sg|_|	8	attr	656	656
+8	Blumenkorb	Blumenkorb	N	NN	Masc|Acc|Sg	5	pn	656	656
+9	weisend	weisen	A	ADJD	_|<PPRES	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	der	die	P	PRELS	Masc|Nom|Sg	18	subj	656	656
+12	auf	auf	P	APPR	Dat	18	objp	_	_
+13	einem	eine	A	ART	Indef|Neut|Dat|Sg	15	det	_	_
+14	kleinen	klein	A	ADJA	Pos|Neut|Dat|Sg|Wk|	15	attr	_	_
+15	Tischchen	Tischchen	N	NN	Neut|Dat|Sg	12	pn	_	_
+16	am	an	P	APPRART	Dat	15	pp	_	_
+17	Fenster	Fenster	N	NN	Neut|Dat|Sg	16	pn	564	564
+18	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+19	Hier	hier	A	ADV	_	18	adv	_	_
+20	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+21	sie	sie	P	PPER	3|Pl|_|Nom	20	subj	657	657
+22	.	.	$	$.	_	0	root	_	_
+
+1	Graf	Graf	N	NE	_|_|Sg	0	root	648	648
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	657	657
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	gestern	gestern	A	ADV	_	6	adv	_	_
+5	förmlich	förmlich	A	ADJD	Pos|	6	adv	_	_
+6	überschüttet	überschütten	V	VVPP	_	7	aux	_	_
+7	worden	werden	V	VAPP	_	3	aux	_	_
+8	mit	mit	P	APPR	Dat	6	pp	_	_
+9	Blumen	Blume	N	NN	Fem|Dat|Pl	8	pn	_	_
+10	und	und	K	KON	_	9	kon	_	_
+11	Kränzen	Kranz	N	NN	_|Dat|_	10	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	noch	noch	A	ADV	_	3	adv	_	_
+5	alles	alle	P	PIS	_|_|Sg	3	adv	_	_
+6	in	in	P	APPR	Dat	3	objp	_	_
+7	meiner	meine	A	PPOSAT	Fem|Dat|Sg	8	det	658	658
+8	Garderobe	Garderobe	N	NN	Fem|Dat|Sg	6	pn	_	_
+9	.	.	$	$.	_	0	root	_	_
+

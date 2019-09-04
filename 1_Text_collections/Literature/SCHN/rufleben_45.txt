@@ -1,0 +1,428 @@
+1	Links	Link	N	NN	Masc|_|_	0	root	452	452
+2	ein	eine	A	ART	Indef|Neut|Nom|Sg	8	det	_	_
+3	einfaches	einfach	A	ADJA	Pos|Neut|Nom|Sg|St|	8	attr	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	weißes	weiß	A	ADJA	Pos|Neut|Nom|Sg|St|	3	kon	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	längliches	länglich	A	ADJA	Pos|Neut|Nom|Sg|St|	5	kon	_	_
+8	Parterrehäuschen	Parterrehäuschen	N	NN	Neut|Nom|Sg	14	subj	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	die	die	A	ART	Def|Neut|_|Pl	11	det	_	_
+11	Fenster	Fenster	N	NN	Neut|_|Pl	14	obja	_	_
+12	von	von	P	APPR	_	11	pp	_	_
+13	Blumen	Blume	N	NN	Fem|_|Pl	12	pn	782	782
+14	umrankt	umranken	V	VVPP	_	0	root	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Neben	neben	P	APPR	Dat	7	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	322	322
+3	Tür	Tür	N	NN	Fem|Dat|Sg	1	pn	322	322
+4	,	,	$	$,	_	0	root	_	_
+5	ans	an	P	APPRART	Acc	7	pp	_	_
+6	Haus	Haus	N	NN	Neut|Acc|Sg	5	pn	43	43
+7	gerückt	rücken	V	VVPP	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	eine	eine	A	ART	Indef|Fem|_|Sg	10	det	_	_
+10	Bank	Bank	N	NN	Fem|_|Sg	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Vorne	vorne	A	ADV	_	2	adv	_	_
+2	rechts	rechts	A	ADV	_	3	adv	_	_
+3	im	in	P	APPRART	Dat	0	root	_	_
+4	Garten	Garten	N	NN	Masc|Dat|Sg	3	pn	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	unter	unter	P	APPR	Dat	4	pp	_	_
+7	einem	eine	A	ART	Indef|_|Dat|Sg	8	det	_	_
+8	Nußbaum	Nußbaum	N	NN	_|Dat|Sg	6	pn	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	ein	eine	A	ART	Indef|Masc|Nom|Sg	12	det	_	_
+11	weißer	weiß	A	ADJA	Pos|Masc|Nom|Sg|St|	12	attr	_	_
+12	Tisch	Tisch	N	NN	Masc|Nom|Sg	8	kon	_	_
+13	und	und	K	KON	_	12	kon	_	_
+14	weiße	weiß	A	ADJA	Pos|Masc|Nom|_|_|	15	attr	_	_
+15	Sessel	Sessel	N	NN	Masc|Nom|_	13	cj	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	6	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	_	_
+3	Mitte	Mitte	N	NN	Fem|Dat|Sg	1	pn	_	_
+4	des	die	A	ART	Def|Masc|Gen|Sg	5	det	645	645
+5	Gartens	Garten	N	NN	Masc|Gen|Sg	3	gmod	645	645
+6	Blumenbeete	Blumenbeet	N	NN	Neut|_|Pl	0	root	_	_
+7	und	und	K	KON	_	6	kon	_	_
+8	blühende	blühend	A	ADJA	Pos|_|_|_|_|<PPRES	9	attr	_	_
+9	Rosensträuche	Rosensträuche	N	NN	_|_|_	7	cj	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	645	645
+2	Garten	Garten	N	NN	Masc|Nom|Sg	3	subj	645	645
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	hinten	hinten	A	ADV	_	3	adv	_	_
+5	durch	durch	P	APPR	Acc	0	root	_	_
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	0	root	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	zu	zu	P	APPR	Dat	0	root	_	_
+9	niedern	niedern	A	ADJA	_|Masc|Dat|Sg|_	10	attr	646	646
+10	Zaun	Zaun	N	NN	Masc|Dat|Sg	8	pn	646	646
+11	abgeschlossen	abgeschlossen	V	VVPP	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	7	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	_	_
+3	Mitte	Mitte	N	NN	Fem|Dat|Sg	1	pn	_	_
+4	des	die	A	ART	Def|Masc|Gen|Sg	5	det	646	646
+5	Zauns	Zaun	N	NN	Masc|Gen|Sg	3	gmod	646	646
+6	eine	eine	A	ART	Indef|Fem|_|Sg	7	det	_	_
+7	Türe	Türe	N	NN	Fem|_|Sg	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Längs	längs	P	APPR	Gen	4	pp	_	_
+2	dieses	diese	A	PDAT	Masc|Gen|Sg	3	det	646	646
+3	Zauns	Zaun	N	NN	Masc|Gen|Sg	1	pn	646	646
+4	läuft	laufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+6	schmaler	schmal	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	_	_
+7	Weg	Weg	N	NN	Masc|Nom|Sg	4	subj	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	Acc	4	objp	_	_
+2	den	die	A	ART	Def|Masc|Acc|Sg	3	det	389	389
+3	Weg	Weg	N	NN	Masc|Acc|Sg	1	pn	389	389
+4	grenzt	grenzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	eine	eine	A	ART	Indef|Fem|Nom|Sg	7	det	647	647
+6	weite	weit	A	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	647	647
+7	Wiese	Wiese	N	NN	Fem|Nom|Sg	4	subj	647	647
+8	,	,	$	$,	_	0	root	647	647
+9	die	die	P	PRELS	Fem|Nom|Sg	11	subj	647	647
+10	allmählich	allmählich	A	ADJD	Pos|	11	adv	_	_
+11	ansteigt	ansteigen	V	VVFIN	3|Sg|Pres|Ind	7	rel	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Hinten	hinten	A	ADV	_	2	adv	_	_
+2	Wald	Wald	N	NN	Masc|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Hügellandschaft	Hügellandschaft	N	NN	_|_|Sg	2	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Dat	8	pp	648	648
+2	dem	die	A	ART	Def|Masc|Dat|Sg	4	det	648	648
+3	bewaldeten	bewaldet	A	ADJA	Pos|Masc|Dat|Sg|Wk|	4	attr	648	648
+4	Hügel	Hügel	N	NN	Masc|Dat|Sg	1	pn	648	648
+5	im	in	P	APPRART	Dat	4	pp	648	648
+6	Hintergrund	Hintergrund	N	NN	Masc|Dat|Sg	5	pn	648	648
+7	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	648	648
+8	Lichtung	Lichtung	N	NN	Fem|_|Sg	0	root	648	648
+9	,	,	$	$,	_	0	root	648	648
+10	die	die	P	PRELS	Fem|Nom|Sg	17	subj	648	648
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	_	_
+12	Blick	Blick	N	NN	Masc|Acc|Sg	17	obja	_	_
+13	auf	auf	P	APPR	Acc	12	pp	_	_
+14	hohe	hoch	A	ADJA	Pos|Masc|Acc|Pl|St|	15	attr	686	686
+15	Berge	Berg	N	NN	Masc|Acc|Pl	13	pn	686	686
+16	frei	frei	A	ADJD	Pos|	17	pred	_	_
+17	läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	8	rel	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Rechts	rechts	A	ADV	_	2	adv	_	_
+2	hinten	hinten	A	ADV	_	3	adv	_	_
+3	rückt	rücken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	649	649
+5	Wald	Wald	N	NN	Masc|Nom|Sg	3	subj	649	649
+6	nahe	nahe	A	ADJD	_	3	adv	_	_
+7	an	an	P	APPR	Acc	3	pp	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	9	det	645	645
+9	Garten	Garten	N	NN	Masc|Acc|Sg	7	pn	645	645
+10	.	.	$	$.	_	0	root	_	_
+
+1	Maimorgen	Maimorgen	N	NN	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Stiller	still	A	ADJA	Pos|Masc|_|_|St|	3	attr	_	_
+2	blauer	blau	A	ADJA	Pos|Masc|_|_|St|	3	attr	_	_
+3	Himmel	Himmel	N	NN	Masc|_|_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Sonne	Sonne	N	NN	Fem|_|Sg	3	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Zuweilen	zuweilen	A	ADV	_	2	adv	_	_
+2	laufen	laufen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Kinder	Kind	N	NN	Neut|Nom|Pl	2	subj	135	135
+4	über	über	P	APPR	Acc	2	pp	_	_
+5	die	die	A	ART	Def|Fem|Acc|Sg	6	det	650	650
+6	Wiese	Wiese	N	NN	Fem|Acc|Sg	4	pn	650	650
+7	,	,	$	$,	_	0	root	_	_
+8	spielen	spielen	V	VVFIN	_|Pl|Pres|_	2	kon	_	_
+9	wohl	wohl	A	ADV	_	8	adv	_	_
+10	auch	auch	A	ADV	_	8	adv	_	_
+11	eine	eine	A	ART	Indef|Fem|_|Sg	12	det	_	_
+12	Weile	Weile	N	NN	Fem|_|Sg	8	obja	_	_
+13	am	an	P	APPRART	Dat	8	pp	_	_
+14	Waldesrand	Waldesrand	N	NN	Masc|Dat|Sg	13	pn	783	783
+15	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	6	subj	103	103
+3	und	und	K	KON	_	2	kon	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	76	76
+5	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	3	cj	76	76
+6	treten	treten	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+7	aus	aus	P	APPR	Dat	6	objp	_	_
+8	dem	die	A	ART	Def|Neut|Dat|Sg	9	det	_	_
+9	Hause	Haus	N	NN	Neut|Dat|Sg	7	pn	_	_
+10	in	in	P	APPR	Acc	9	pp	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	645	645
+12	Garten	Garten	N	NN	Masc|Acc|Sg	10	pn	645	645
+13	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Weder	weder	K	KON	_	2	kon	_	_
+2	Frau	Frau	N	NN	Masc|Nom|Pl	6	subj	_	_
+3	Richter	Richter	N	NN	Masc|Nom|_	2	app	_	_
+4	noch	noch	K	KON	_	2	kon	_	_
+5	Marie	Marie	N	NE	Masc|Nom|Pl	4	cj	8	8
+6	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+7	daheim	daheim	A	ADV	_	6	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wie	wie	P	PWAV	_	11	adv	_	_
+10	Sie	sie	P	PPER	3|Pl|_|Nom	11	subj	_	_
+11	sehn	sehn	V	VVFIN	3|Pl|_|_	6	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	651	651
+2	dachte	denken	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	s.	s.	N	NE	_	0	root	286	286
+
+1	Frau	Frau	N	NN	Masc|Nom|Sg	3	subj	_	_
+2	Richter	Richter	N	NN	Masc|Nom|_	1	app	_	_
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	wohl	wohl	A	ADV	_	8	adv	_	_
+5	in	in	P	APPR	Dat	8	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	654	654
+7	Kirche	Kirche	N	NN	Fem|Dat|Sg	5	pn	654	654
+8	sein	sein	V	VAINF	_	3	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	glauben	glauben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Seit	seit	P	APPR	Dat	3	pp	_	_
+2	Katharina	Katharina	N	NN	Fem|Dat|Sg	1	pn	24	24
+3	verschwunden	verschwinden	V	VVPP	_	4	aux	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	soll	sollen	V	VMFIN	_|Sg|Pres|Ind	3	s	_	_
+7	sie	sie	P	PPER	3|_|_|_	11	obja	24	24
+8	halbe	halb	A	ADJA	Pos|Masc|_|Pl|St|	9	attr	_	_
+9	Tage	Tag	N	NN	Masc|_|Pl	10	grad	_	_
+10	dort	dort	A	ADV	_	11	adv	_	_
+11	verbringen	verbringen	V	VVINF	_	6	aux	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	wie	wie	P	PWAV	_	15	adv	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	15	subj	651	651
+15	höre	hören	V	VVFIN	1|Sg|Pres|_	6	subjc	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	betet	beten	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	zum	zu	P	APPRART	Dat	2	pp	_	_
+5	Himmel	Himmel	N	NN	Masc|Dat|Sg	4	pn	837	837
+6	um	um	P	APPR	Gen	2	pp	_	_
+7	ihrer	ihre	A	PPOSAT	Fem|Gen|Sg	8	det	24	24
+8	Tochter	Tochter	N	NN	Fem|Gen|Sg	6	pn	_	_
+9	Wiederkehr	Wiederkehr	N	NE	_|Nom|Sg	2	subj	651	651
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ob	ob	K	KOUS	_	5	konj	_	_
+2	sie	sie	P	PPER	3|Sg|Fem|Nom	5	subj	651	651
+3	das	die	P	PDS	Neut|_|Sg	4	obja	_	_
+4	wünschen	wünschen	V	VVINF	_	5	aux	_	_
+5	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|_|_|_	0	root	651	651
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	beide	beide	P	PIS	_|Nom|Pl	2	subj	_	_
+4	tiefer	tief	A	ADJD	Comp|	5	adv	_	_
+5	in	in	P	APPR	Acc	8	objp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	645	645
+7	Garten	Garten	N	NN	Masc|Acc|Sg	5	pn	645	645
+8	getreten	treten	V	VVPP	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Diese	diese	A	PDAT	Fem|Nom|Sg	2	det	_	_
+2	Gegend	Gegend	N	NN	Fem|Nom|Sg	4	subj	_	_
+3	hier	hier	A	ADV	_	2	adv	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	schön	schön	A	ADJD	Pos|	4	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Welch	welch	A	PWAT	_	0	root	_	_
+2	ein	eine	A	ART	Indef|Masc|Nom|Sg	3	det	_	_
+3	Frieden	Frieda	N	NN	Masc|Nom|Sg	0	root	_	_
+4	über	über	P	APPR	Dat	3	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	489	489
+6	Landschaft	Landschaft	N	NN	Fem|Dat|Sg	4	pn	489	489
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	reich	reich	A	ADJD	Pos|	4	adv	652	652
+3	die	die	A	ART	Def|Neut|_|Pl	4	det	652	652
+4	Felder	Feld	N	NN	Neut|_|Pl	0	root	652	652
+5	stehn	stehn	N	NE	Neut|_|Pl	4	app	652	652
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	_	_
+4	gesegneter	gesegnet	A	ADJA	Pos|Masc|Nom|Sg|St|	5	attr	_	_
+5	Strich	Strich	N	NN	Masc|Nom|Sg	2	pred	_	_
+6	Landes	Land	N	NN	Neut|Gen|Sg	2	objg	22	22
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Dort	dort	A	ADV	_	8	adv	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wo	wo	P	PWAV	_	6	adv	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	6	subj	_	_
+5	jetzt	jetzt	A	ADV	_	6	adv	_	_
+6	hinkommen	hinkommen	V	VVFIN	3|Pl|Pres|_	1	rel	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+10	wohl	wohl	A	ADV	_	8	adv	_	_
+11	wilder	wild	A	ADJD	Comp|	8	pred	_	_
+12	aus	aus	P	PTKVZ	_	8	avz	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Düsterer	Düstere	N	NN	_|_|_	0	root	_	_
+2	gewiß	gewiß	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Höhere	hoch	A	ADJA	Comp|Masc|_|Pl|St|	2	attr	_	_
+2	Berge	Berg	N	NN	Masc|_|Pl	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ragende	ragend	A	ADJA	Pos|Masc|_|_|_|<PPRES	5	attr	_	_
+5	Felsen	Fels	N	NN	Masc|_|_	2	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	die	die	A	ART	Def|Masc|_|Pl	8	det	653	653
+8	Wälder	Wald	N	NN	Masc|_|Pl	0	root	653	653
+9	schwärzer	schwarz	A	ADJD	Comp|	0	root	_	_
+10	als	als	K	KOKOM	_	9	kom	_	_
+11	hier	hier	A	ADV	_	10	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	3	subj	103	103
+3	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	nieder	nieder	P	PTKVZ	_	3	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Glauben	glauben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	daß	daß	K	KOUS	_	12	konj	_	_
+5	Marie	Marie	N	NE	_|Nom|Sg	12	subj	8	8
+6	mit	mit	P	APPR	Dat	12	pp	_	_
+7	ihrer	ihre	A	PPOSAT	Fem|Dat|Sg	8	det	8	8
+8	Tante	Tante	N	NN	Fem|Dat|Sg	6	pn	_	_
+9	in	in	P	APPR	Dat	12	pp	_	_
+10	der	die	A	ART	Def|Fem|Dat|Sg	11	det	654	654
+11	Kirche	Kirche	N	NN	Fem|Dat|Sg	9	pn	654	654
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	objc	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+
+1	Möglich	möglich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	655	655
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	übrigens	übrigens	A	ADV	_	2	adv	_	_
+4	gar	gar	A	ADV	_	5	adv	_	_
+5	nichts	nichts	P	PIS	_	2	obja	_	_
+6	von	von	P	APPR	Dat	2	pp	_	_
+7	ihr	ihr	P	PPER	3|Sg|Fem|Dat	6	pn	656	656
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	655	655
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	656	656
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	gesehn	gesehn	A	ADJD	_	2	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	seit	seit	K	KOUS	_	13	konj	_	_
+8	sie	sie	P	PPER	3|Sg|Fem|Nom	13	subj	656	656
+9	mit	mit	P	APPR	Dat	12	pp	_	_
+10	Frau	Frau	N	NN	Masc|Dat|Sg	9	pn	_	_
+11	Richter	Richter	N	NN	Masc|Dat|Sg	10	app	_	_
+12	zurückgekommen	zurückkommen	V	VVPP	_	13	aux	_	_
+13	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	neb	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	3	adv	_	_
+2	einmal	einmal	A	ADV	_	1	adv	_	_
+3	gesehn	gesehn	A	ADJD	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Nur	nur	A	ADV	_	3	adv	_	_
+2	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+3	gesprochen	sprechen	V	VVPP	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	dacht	dacht	F	FM	_	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	0	root	661	661
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	76	76
+2	Adjunkt	Adjunkt	N	NN	Masc|Nom|Sg	0	root	76	76
+3	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,456 @@
+1	Und	und	K	KON	_	0	root	_	_
+2	in	in	P	APPR	_	4	pp	_	_
+3	allen	alle	P	PIS	_|_|_	2	pn	_	_
+4	brannte	brennen	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+5	elektrisches	elektrisch	A	ADJA	Pos|Neut|Nom|Sg|St|	6	attr	_	_
+6	Licht	Licht	N	NN	Neut|Nom|Sg	4	subj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Masc|Nom|Pl	2	det	_	_
+2	Ausstellungspaläste	Ausstellungspalast	N	NN	Masc|Nom|Pl	3	subj	_	_
+3	liegen	liegen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	alle	alle	A	PIDAT	_|_|_	9	det	_	_
+5	an	an	P	APPR	_	9	pp	_	_
+6	den	die	A	ART	Def|_|_|_	7	det	_	_
+7	Spiegelmauern	Spiegelmauer	N	NN	_|_|_	5	pn	_	_
+8	der	die	A	ART	Def|Fem|Dat|Sg	9	det	_	_
+9	Einfassung	Einfassung	N	NN	Fem|Dat|Sg	3	objd	_	_
+10	des	die	A	ART	Def|_|Gen|Sg	11	det	_	_
+11	Ganzen	Ganze	N	NN	_|Gen|Sg	9	gmod	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	5	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	252	252
+3	Mitte	Mitte	N	NN	Fem|Dat|Sg	1	pn	252	252
+4	drinnen	drinnen	A	ADV	_	1	adv	_	_
+5	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_|_|_|Nom	5	subj	11	11
+8	terrassenförmig	terrassenförmig	A	ADJD	Pos|	5	adv	_	_
+9	hinunter	hinunter	P	PTKVZ	_	5	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Glasterrassen	Glasterrasse	N	NN	_|_|_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Farbige	farbig	A	ADJA	Pos|_|_|_|_|	2	attr	_	_
+2	Glasterrassen	Glasterrasse	N	NN	_|_|_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	die	die	A	ART	Def|_|_|_	7	det	_	_
+3	von	von	P	APPR	_	7	pp	_	_
+4	unzähligen	unzählig	A	ADJA	Pos|Fem|_|Pl|_|	5	attr	_	_
+5	Glasampeln	Glasampel	N	NN	Fem|_|Pl	3	pn	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	farbigen	farbig	A	ADJA	_|_|Pl	9	subj	_	_
+8	-	-	$	$(	_	0	root	_	_
+9	erleuchtet	erleuchten	V	VVPP	_	1	cj	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Unten	unten	A	ADV	_	2	adv	_	_
+2	in	in	P	APPR	Dat	5	pp	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	252	252
+4	Mitte	Mitte	N	NN	Fem|Dat|Sg	2	pn	252	252
+5	Teich	Teich	N	NN	Masc|_|Sg	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	aber	aber	K	KON	_	5	kon	_	_
+8	keine	keine	A	PIAT	Masc|_|Pl	9	det	_	_
+9	Schwäne	Schwan	N	NN	Masc|_|Pl	7	cj	_	_
+10	drin	drin	A	ADV	_	9	adv	_	_
+11	-	-	$	$(	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Wasserteich	Wasserteich	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	wirkt	wirken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ebenso	ebenso	A	ADV	_	3	adv	_	_
+5	wie	wie	K	KOKOM	_	3	kom	_	_
+6	das	die	A	ART	Def|Neut|_|Sg	7	det	377	377
+7	Glas	Glas	N	NN	Neut|_|Sg	5	cj	377	377
+8	und	und	K	KON	_	3	kon	_	_
+9	spiegelt	spiegeln	V	VVFIN	_|_|Pres|_	8	cj	_	_
+10	den	die	A	ART	Def|Masc|Acc|Sg	12	det	717	717
+11	ganzen	ganz	A	ADJA	Pos|Masc|Acc|Sg|_|	12	attr	717	717
+12	Himmel	Himmel	N	NN	Masc|Acc|Sg	9	obja	717	717
+13	und	und	K	KON	_	12	kon	_	_
+14	die	die	A	ART	Def|Fem|Acc|Pl	15	det	_	_
+15	Lampen	Lampe	N	NN	Fem|Acc|Pl	13	cj	_	_
+16	ringsum	ringsum	A	ADV	_	9	adv	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Beschreibe	beschreiben	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	1	subj	_	_
+3	ein	eine	A	ART	Indef|_|_|Sg	4	det	627	627
+4	Andrer	Andrer	N	NN	_|_|Sg	1	obja	627	627
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	660	660
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	627	627
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	14.	14.	A	ADJA	_|Masc|_|_|_|	2	attr	_	_
+2	September	September	N	NN	Masc|_|_	0	root	_	_
+3	1910	1910	C	CARD	_	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	denkt	denken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	immer	immer	A	ADV	_	8	adv	_	_
+5	am	an	P	APPRART	Dat	8	pp	_	_
+6	Ende	Ende	N	NN	Neut|Dat|Sg	5	pn	360	360
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	sein	sein	V	VAINF	_	2	obji	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	immer	immer	A	ADV	_	5	adv	_	_
+5	noch	noch	A	ADV	_	3	adv	_	_
+6	besser	gut	A	ADJD	Comp|	3	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	2	adv	_	_
+2	gab	geben	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	11	11
+5	Glasmalereien	Glasmalerei	N	NN	Fem|_|Pl	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	nur	nur	A	ADV	_	4	adv	_	_
+4	ornamentale	ornamentale	A	ADJD	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Hab	Hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	1	subj	660	660
+3	mich	ich	P	PRF	1|Sg|Acc	4	obja	_	_
+4	gefreut	freuen	V	VVPP	_	1	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	10	konj	_	_
+7	es	es	P	PPER	3|Sg|Neut|Nom	10	subj	_	_
+8	nur	nur	A	ADV	_	10	adv	_	_
+9	ornamentale	ornamentale	A	ADJD	_	10	adv	_	_
+10	gab	geben	V	VVFIN	3|Sg|Past|Ind	4	objc	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+4	an	an	P	APPR	_	6	objp	_	_
+5	Europa	Europa	N	NE	_|_|Sg	4	pn	102	102
+6	erinnert	erinnern	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	_	_
+2	Ornamentik	Ornamentik	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	_	_
+5	andere	andere	A	ADJA	Fem|_|Sg	3	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	da	da	K	KOUS	_	11	konj	_	_
+8	viel	viel	A	PIDAT	_|Nom|Sg	9	det	628	628
+9	Tiffanyglas	Tiffanyglas	N	NN	_|Nom|Sg	11	subj	628	628
+10	verwandt	verwandt	V	VVPP	_	11	aux	_	_
+11	ist	sein	V	VAFIN	3|Sg|Pres|Ind	3	neb	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Alles	alle	P	PIS	Neut|Nom|Sg	2	subj	_	_
+2	erinnert	erinnern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sehr	sehr	A	ADV	_	2	adv	_	_
+4	an	an	P	APPR	Acc	2	objp	_	_
+5	die	die	A	ART	Def|Neut|Acc|Pl	6	det	_	_
+6	Kaleidoskope	Kaleidoskop	N	NN	Neut|Acc|Pl	4	pn	_	_
+7	im	in	P	APPRART	Dat	6	pp	_	_
+8	Empfangssaal	Empfangssaal	N	NN	Masc|Dat|Sg	7	pn	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	das	die	A	ART	Def|Neut|Nom|Sg	3	det	629	629
+3	Starre	Starre	N	NN	Neut|Nom|Sg	4	subj	629	629
+4	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	hier	hier	A	ADV	_	4	adv	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	fein	fein	A	ADJD	Pos|	4	adv	_	_
+8	heraus	heraus	P	PTKVZ	_	4	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Außerdem	Außerdem	P	PROAV	_	2	pp	_	_
+2	wurden	werden	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	630	630
+4	Drahtglashäuser	Drahtglashaus	N	NN	_|Nom|Pl	2	subj	_	_
+5	gezeigt	zeigen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Draht	Draht	N	NN	Masc|Nom|Sg	5	subj	_	_
+3	im	in	P	APPRART	Dat	2	pp	_	_
+4	Glase	Glas	N	NN	Neut|Dat|Sg	3	pn	281	281
+5	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	das	die	A	ART	Def|Neut|_|Sg	7	det	377	377
+7	Glas	Glas	N	NN	Neut|_|Sg	5	obja	377	377
+8	selbst	selbst	A	ADV	_	5	adv	_	_
+9	gegen	gegen	P	APPR	Acc	5	objp	_	_
+10	Feuer	Feuer	N	NN	Neut|Acc|_	9	pn	_	_
+11	ganz	ganz	A	ADV	_	12	adv	_	_
+12	unempfindlich	unempfindlich	A	ADJD	Pos|	5	pred	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Auch	auch	A	ADV	_	2	adv	_	_
+2	Emailhäuser	Emailhaus	N	NN	_|_|_	3	obja	_	_
+3	sah	sehen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	630	630
+5	,	,	$	$,	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	undurchsichtiges	undurchsichtig	A	ADJA	Pos|Neut|_|Sg|St|	10	attr	_	_
+8	und	und	K	KON	_	7	kon	_	_
+9	durchsichtiges	durchsichtig	A	ADJA	Pos|Neut|_|Sg|St|	8	cj	_	_
+10	Email	Email	N	NN	Neut|_|Sg	0	root	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|Pl	3	det	_	_
+2	reinen	rein	A	ADJA	Pos|_|_|Pl|Wk|	3	attr	_	_
+3	Juwelierstücke	Juwelierstück	N	NN	_|_|Pl	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	beschreibe	beschreiben	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	ein	eine	A	ART	Indef|_|_|Sg	5	det	_	_
+5	Andrer	Andrer	N	NN	_|_|Sg	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	15.	15.	A	ADJA	_|Masc|_|_|_|	2	attr	_	_
+2	September	September	N	NN	Masc|_|_	0	root	_	_
+3	1910	1910	C	CARD	_	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	dachte	denken	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	660	660
+4	schon	schon	A	ADV	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|_	11	expl	_	_
+7	könnte	können	V	VMFIN	3|Sg|Past|Subj	2	s	_	_
+8	Neues	Neues	N	NN	Neut|Nom|Sg	7	subj	631	631
+9	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+10	mehr	mehr	A	ADV	_	9	adv	_	_
+11	kommen	kommen	V	VVINF	_	7	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	siehe	siehe	V	VVIMP	_	1	cj	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	da	da	A	ADV	_	5	adv	_	_
+5	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+7	plötzlich	plötzlich	A	ADJD	Pos|	8	adv	_	_
+8	kopf-	kopf-	T	TRUNC	Pos|_|_|_|_|	11	attr	_	_
+9	und	und	K	KON	_	8	kon	_	_
+10	faustgroße	faustgroß	A	ADJA	Pos|_|_|_|_|	9	cj	_	_
+11	Glasbrillanten	Glasbrillant	N	NN	_|_|Pl	5	obja	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Alle	alle	A	PIDAT	Fem|_|Pl	3	det	_	_
+2	möglichen	möglich	A	ADJA	Pos|Fem|_|Pl|Wk|	3	attr	_	_
+3	Kristallformen	Kristallform	N	NN	Fem|_|Pl	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	Farben	Farbe	N	NN	Fem|_|Pl	1	cj	402	402
+3	!	!	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	sahen	sehen	V	VVFIN	1|Pl|Past|Ind	0	root	_	_
+3	daneben	daneben	P	PROAV	_	2	pp	_	_
+4	echte	echt	A	ADJA	Pos|_|Nom|Pl|St|	5	attr	_	_
+5	Brillanten	Brillant	N	NN	_|Nom|Pl	6	subj	_	_
+6	ausgestellt	ausstellen	V	VVPP	_	2	neb	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	deren	die	A	PDAT	Fem|Nom|Pl	3	det	278	278
+3	Farben	Farbe	N	NN	Fem|Nom|Pl	4	subj	278	278
+4	brannten	brennen	V	VVFIN	3|Pl|Past|Ind	1	cj	_	_
+5	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+6	heftiger	heftig	A	ADJD	Comp|	4	adv	_	_
+7	und	und	K	KON	_	6	kon	_	_
+8	glühender	glühend	A	ADJD	Comp|<PPRES	7	cj	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	als	als	K	KOKOM	_	0	root	_	_
+11	die	die	A	ART	Def|Fem|_|Pl	12	det	_	_
+12	Farben	Farbe	N	NN	Fem|_|Pl	10	cj	_	_
+13	der	die	A	ART	Def|_|Gen|_	14	det	_	_
+14	Glasbrillanten	Glasbrillant	N	NN	_|Gen|_	12	gmod	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Allerdings	allerdings	A	ADV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	in	in	P	APPR	_	5	pp	_	_
+4	diesen	diese	P	PDS	_|_|_	3	pn	_	_
+5	brannte	brennen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+6	zumeist	zumeist	A	ADV	_	7	adv	632	632
+7	elektrisches	elektrisch	A	ADJA	Pos|Neut|Nom|Sg|St|	8	attr	632	632
+8	Licht	Licht	N	NN	Neut|Nom|Sg	5	subj	632	632
+9	.	.	$	$.	_	0	root	_	_
+
+1	Doch	doch	K	KON	_	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+3	Effekt	Effekt	N	NN	Masc|Nom|Sg	4	pred	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	derselbe	dieselbe	P	PDS	Masc|Nom|Sg	4	subj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	16.	16.	A	ADJA	_|Masc|_|_|_|	2	attr	_	_
+2	September	September	N	NN	Masc|_|_	0	root	_	_
+3	1910	1910	C	CARD	_	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	2	adv	633	633
+2	venezianische	venezianisch	A	ADJA	Pos|Neut|Nom|Pl|St|	3	attr	633	633
+3	Gläser	Glas	N	NN	Neut|Nom|Pl	4	subj	633	633
+4	gesehen	sehen	V	VVPP	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Indessen	Indessen	A	ADV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	634	634
+4	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+5	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wo	wo	P	PWAV	_	9	adv	_	_
+8	sie	sie	P	PPER	3|Pl|_|Nom	10	subj	633	633
+9	hergestellt	herstellen	V	VVPP	_	10	aux	_	_
+10	sind	sein	V	VAFIN	3|Pl|Pres|Ind	4	objc	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	633	633
+2	erinnern	erinnern	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	nur	nur	A	ADV	_	2	adv	_	_
+4	an	an	P	APPR	Acc	2	objp	_	_
+5	die	die	A	ART	Def|Fem|Acc|Pl	7	det	_	_
+6	venezianischen	venezianisch	A	ADJA	Pos|Fem|Acc|Pl|Wk|	7	attr	_	_
+7	Arbeiten	Arbeit	N	NN	Fem|Acc|Pl	4	pn	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	bieten	bieten	V	VVFIN	3|Pl|Pres|_	2	kon	_	_
+10	sonst	sonst	A	ADV	_	9	adv	_	_
+11	aber	aber	A	ADV	_	9	adv	_	_
+12	durch	durch	P	APPR	Acc	9	pp	_	_
+13	ihre	ihre	A	PPOSAT	Fem|Acc|Sg	14	det	633	633
+14	Größe	Größe	N	NN	Fem|Acc|Sg	12	pn	_	_
+15	ganz	ganz	A	ADV	_	17	adv	_	_
+16	neue	neu	A	ADJA	Pos|Masc|_|Pl|St|	17	attr	_	_
+17	Effekte	Effekt	N	NN	Masc|_|Pl	9	obja	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	634	634
+2	verzichte	verzichten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	bald	bald	A	ADV	_	2	adv	_	_
+4	darauf	darauf	P	PROAV	_	2	objp	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	9	objd	660	660
+7	Notizen	Notiz	N	NN	Fem|_|Pl	9	obja	815	815
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	machen	machen	V	VVINF	_	2	obji	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Derartiges	Derartiges	N	NE	_|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	7	adv	_	_
+4	gar	gar	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	fixieren	fixieren	V	VVINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	17.	17.	A	ADJA	_|Masc|_|_|_|	2	attr	_	_
+2	September	September	N	NN	Masc|_|_	0	root	_	_
+3	1910	1910	C	CARD	_	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	3	adv	_	_
+2	Glaskuppeln	Glaskuppel	N	NN	_|_|_	3	obja	_	_
+3	gesehen	sehen	V	VVPP	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Über	über	A	ADV	_	2	adv	_	_
+2	hundert	hundert	C	CARD	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	18.	18.	A	ADJA	_|Masc|_|_|_|	2	attr	_	_
+2	September	September	N	NN	Masc|_|_	0	root	_	_
+3	1910	1910	C	CARD	_	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	_	5	pp	_	_
+2	Stelle	Stelle	N	NN	Fem|_|Sg	1	pn	_	_
+3	der	die	A	ART	Def|Fem|Gen|Pl	4	det	_	_
+4	Fahnen	Fahne	N	NN	Fem|Gen|Pl	2	gmod	_	_
+5	wurden	werden	V	VAFIN	_|Pl|Past|Ind	0	root	_	_
+6	heute	heute	A	ADV	_	5	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	da	da	K	KOUS	_	13	konj	_	_
+9	ein	eine	A	ART	Indef|Masc|Nom|Sg	12	det	_	_
+10	großer	groß	A	ADJA	Pos|Masc|Nom|Sg|St|	12	attr	_	_
+11	chinesischer	chinesisch	A	ADJA	Pos|Masc|Nom|Sg|St|	12	attr	_	_
+12	Feiertag	Feiertag	N	NN	Masc|Nom|Sg	13	subj	_	_
+13	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	neb	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	Stöcke	Stock	N	NN	Masc|_|Pl	0	root	635	635
+16	überall	überall	A	ADV	_	15	adv	635	635
+17	herausgesteckt	herausstecken	V	VVPP	_	0	root	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	die	die	P	PRELS	_|Nom|Pl	22	subj	635	635
+20	aus	aus	P	APPR	Dat	22	objp	_	_
+21	Glasbrillanten	Glasbrillant	N	NN	_|Dat|_	20	pn	637	637
+22	bestehen	bestehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	funkelte	funkeln	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Masc|Nom|Pl	2	det	635	635
+2	Stöcke	Stock	N	NN	Masc|Nom|Pl	3	subj	635	635
+3	drehten	drehen	V	VVFIN	3|Pl|Past|_	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	und	und	K	KON	_	3	kon	_	_
+6	verbeugten	verbeugen	V	VVFIN	_|Pl|Past|_	5	cj	_	_
+7	sich	sie	P	PRF	3|_|_	6	obja	_	_
+8	nach	nach	P	APPR	Dat	6	pp	_	_
+9	allen	alle	A	PIDAT	Fem|Dat|Pl	10	det	636	636
+10	Seiten	Seite	N	NN	Fem|Dat|Pl	8	pn	636	636
+11	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	636	636
+2	tun	tun	V	VVFIN	3|Pl|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	637	637
+5	jetzt	jetzt	A	ADV	_	2	adv	_	_
+6	noch	noch	A	ADV	_	2	adv	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	im	in	P	APPRART	Dat	2	pp	_	_
+9	Mondenschein	Mondenschein	N	NN	Masc|Dat|Sg	8	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Armes	arm	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	102	102
+2	Europa	Europa	N	NE	Neut|_|Sg	0	root	102	102
+3	!	!	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	3	adv	_	_
+2	arm	arm	A	ADJD	Pos|	3	pred	_	_
+3	kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	mir	ich	P	PRF	1|Sg|Dat	3	objd	_	_
+6	vor	vor	P	PTKVZ	_	3	avz	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	wie	wie	K	KOKOM	_	0	root	_	_
+9	arm	arm	A	ADJD	Pos|	8	cj	_	_
+10	!	!	$	$.	_	0	root	_	_
+

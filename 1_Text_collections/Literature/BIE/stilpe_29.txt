@@ -1,0 +1,494 @@
+1	Quatsch	Quatsch	N	NN	Masc|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	so	so	A	ADV	_	0	root	_	_
+5	verliern	verliern	F	FM	_|_|_	0	root	_	_
+6	Se	Se	F	FM	_|_|_	5	app	_	_
+7	de	de	F	FM	_|_|_	6	app	_	_
+8	Bücher	Buch	N	NN	_|_|_	7	app	_	_
+9	doch	doch	A	ADV	_	8	adv	_	_
+10	dadurch	dadurch	P	PROAV	_	8	pp	_	_
+11	an	an	P	APPR	_	5	pp	_	_
+12	Wert	Wert	N	NN	Masc|_|Sg	11	pn	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Warten	warten	V	VVFIN	3|Pl|Pres|_	8	neb	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	590	590
+3	nur	nur	A	ADV	_	2	adv	590	590
+4	,	,	$	$,	_	0	root	590	590
+5	Herr	Herr	N	NN	Masc|Nom|Sg	2	app	590	590
+6	Wopf	Wopf	N	NE	Masc|Nom|Sg	5	app	590	590
+7	,	,	$	$,	_	0	root	_	_
+8	warten	warten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	8	subj	614	614
+10	nur	nur	A	ADV	_	8	adv	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	5	konj	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	615	615
+3	mal	mal	A	ADV	_	5	adv	_	_
+4	berühmt	berühmt	A	ADJD	Pos|	5	pred	_	_
+5	bin	sein	V	VAFIN	1|Sg|Pres|Ind	8	neb	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	dann	dann	A	ADV	_	8	adv	_	_
+8	verdienen	verdienen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	8	subj	614	614
+10	ein	eine	A	ART	Indef|Neut|_|Sg	11	det	_	_
+11	Vermögen	Vermögen	N	NN	Neut|_|Sg	8	obja	_	_
+12	mit	mit	P	APPR	Dat	8	pp	_	_
+13	meinen	meine	A	PPOSAT	Neut|Dat|Pl	14	det	615	615
+14	Autogrammen	Autogramm	N	NN	Neut|Dat|Pl	12	pn	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	615	615
+2	sage	sagen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	Ihnen	sie	P	PPER	3|Pl|_|Dat	2	objd	614	614
+4	:	\:	$	$.	_	0	root	_	_
+5	Heben	heben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	614	614
+7	sich	sie	P	PRF	3|_|_	5	obja	_	_
+8	die	die	A	ART	Def|_|_|Pl	9	det	616	616
+9	Bücher	Buch	N	NN	_|_|Pl	0	root	616	616
+10	auf	auf	P	PTKVZ	_	0	root	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|_|_|_	0	root	614	614
+3	närrscher	närrscher	A	ADJA	_|_|_|Sg|_	4	attr	_	_
+4	Kunde	Kunde	N	NN	_|_|Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	0	root	_	_
+2	Se	Se	N	NE	_	0	root	613	613
+3	nu	nu	A	ADV	_	2	adv	613	613
+4	aber	aber	A	ADV	_	2	adv	613	613
+5	nich	nich	F	FM	_	2	app	613	613
+6	berihmt	berihmt	F	FM	_	5	app	613	613
+7	wer	wer	F	FM	_	6	app	613	613
+8	'	'	$	$(	_	0	root	613	613
+9	n	n	N	NN	_	7	app	613	613
+10	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+
+1	Schiem	Schiem	N	NE	Masc|_|Sg	0	root	11	11
+2	Se	Se	N	NE	Masc|_|Sg	1	app	11	11
+3	Kegel	Kegel	N	NE	Masc|_|Sg	2	app	11	11
+4	,	,	$	$,	_	0	root	11	11
+5	Herr	Herr	N	NN	Masc|_|Sg	3	app	11	11
+6	Stilpe	Stilpe	N	NE	Masc|_|Sg	5	app	11	11
+7	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	is	is	F	FM	Fem|_|Sg	0	root	_	_
+3	enne	enne	F	FM	Fem|_|Sg	2	app	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	gesunde	gesund	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	_
+6	Übung	Übung	N	NN	Fem|_|Sg	3	app	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nee	Nee	N	NE	_|Nom|Pl	7	subj	319	319
+3	,	,	$	$,	_	0	root	319	319
+4	aber	aber	K	KON	_	2	kon	319	319
+5	fünf	fünf	C	CARD	_	6	attr	319	319
+6	Mark	Mark	N	NN	_|Nom|Pl	4	cj	319	319
+7	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+8	Sie	sie	P	PPER	3|_|_|_	10	obja	_	_
+9	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	620	620
+10	pumpen	pumpen	V	VVINF	_	7	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	603	603
+2	Deklamator	Deklamator	N	NN	Masc|Nom|Sg	3	subj	603	603
+3	zog	ziehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	sein	seine	A	PPOSAT	Neut|_|Sg	5	det	603	603
+5	Notizbuch	Notizbuch	N	NN	Neut|_|Sg	3	obja	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	Sehn	Sehn	N	NE	_	0	root	613	613
+8	Se	Se	N	NE	_	7	app	613	613
+9	mal	mal	A	ADV	_	8	adv	_	_
+10	her	her	P	PTKVZ	_	0	root	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	Herr	Herr	N	NN	Masc|_|Sg	0	root	11	11
+13	Stilpe	Stilpe	N	NE	Masc|_|Sg	12	app	11	11
+14	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	613	613
+2	ha	ha	A	ADJD	_	4	adv	613	613
+3	'	'	$	$(	_	0	root	613	613
+4	m	m	N	NN	_	0	root	613	613
+5	Se	Se	N	NE	_|_|Pl	4	app	613	613
+6	schon	schon	A	ADV	_	5	adv	_	_
+7	acht	acht	C	CARD	_	8	attr	_	_
+8	Mark	Mark	N	NN	_|_|Pl	5	app	_	_
+9	und	und	K	KON	_	8	kon	_	_
+10	fuffz	fuffz	F	FM	_|_|Pl	9	cj	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	g	g	F	FM	_|_|Pl	10	app	_	_
+13	Fenge	Fenge	F	FM	_|_|Pl	12	app	_	_
+14	prae	prae	F	FM	_|_|Pl	13	app	_	_
+15	!	!	$	$.	_	0	root	_	_
+
+1	Jede	jede	A	PIDAT	Fem|_|Sg	2	det	_	_
+2	Nacht	Nacht	N	NN	Fem|_|Sg	3	obja	_	_
+3	treim	treim	V	VVFIN	1|Sg|_|_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	617	617
+5	,	,	$	$,	_	0	root	617	617
+6	Se	Se	F	FM	_|Nom|Sg	4	app	617	617
+7	blei	blei	F	FM	_|Nom|Sg	6	app	617	617
+8	'	'	$	$(	_	0	root	617	617
+9	m	m	N	NN	_|Nom|Sg	7	app	617	617
+10	m	m	N	NN	_|Nom|Sg	9	app	617	617
+11	'	'	$	$(	_	0	root	_	_
+12	r	r	F	FM	_|Nom|Sg	10	app	_	_
+13	sitz	sitz	F	FM	_|Nom|Sg	12	app	_	_
+14	'	'	$	$(	_	0	root	_	_
+15	n.	n.	F	FM	_|Nom|Sg	13	app	_	_
+
+1	Nee	Nee	N	NE	_	4	vok	319	319
+2	,	,	$	$,	_	0	root	_	_
+3	pumpen	pumpen	V	VVINF	_	4	aux	_	_
+4	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	617	617
+6	Se	Se	N	NE	_	3	obja	_	_
+7	nischt	nischt	N	NE	_	6	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	2	adv	_	_
+2	mußte	müssen	V	VMFIN	3|Sg|Past|Ind	0	root	_	_
+3	Stilpe	Stilpe	N	NE	_|Nom|Sg	2	subj	11	11
+4	auf	auf	P	APPR	_	6	pp	_	_
+5	Anderes	Anderes	N	NN	_|_|_	4	pn	_	_
+6	denken	denken	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|_|Sg	2	det	_	_
+2	Glück	Glück	N	NN	Neut|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	daß	daß	K	KOUS	_	9	konj	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	11	11
+6	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+7	ohne	ohne	P	APPR	Acc	9	pp	_	_
+8	Erfindungsgabe	Erfindungsgabe	N	NN	Fem|Acc|Sg	7	pn	_	_
+9	war	sein	V	VAFIN	3|Sg|Past|Ind	2	objc	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Bald	bald	A	ADV	_	2	adv	_	_
+2	wurde	werden	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+3	für	für	P	APPR	Acc	10	pp	_	_
+4	ein	eine	A	ART	Indef|Neut|Acc|Sg	5	det	_	_
+5	Ehrengeschenk	Ehrengeschenk	N	NN	Neut|Acc|Sg	3	pn	_	_
+6	zum	zu	P	APPRART	Dat	10	pp	_	_
+7	Doktorjubiläum	Doktorjubiläum	N	NN	Neut|Dat|Sg	6	pn	_	_
+8	des	die	A	ART	Def|Masc|Gen|Sg	9	det	_	_
+9	Ordinarius	Ordinarius	N	NN	Masc|Gen|Sg	7	gmod	_	_
+10	gesammelt	sammeln	V	VVPP	_	2	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	_	_
+5	Fensterscheibe	Fensterscheibe	N	NN	Fem|_|Sg	9	obja	_	_
+6	in	in	P	APPR	Dat	9	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	72	72
+8	Klasse	Klasse	N	NN	Fem|Dat|Sg	6	pn	72	72
+9	zerschlagen	zerschlagen	V	VVPP	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sehr	sehr	A	ADV	_	2	adv	_	_
+2	oft	oft	A	ADV	_	3	adv	_	_
+3	drängte	drängen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	ihn	er	P	PPER	3|Sg|Masc|Acc	3	obja	0	0
+6	,	,	$	$,	_	0	root	_	_
+7	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	_	_
+8	Klassikervorstellung	Klassikervorstellung	N	NN	Fem|_|Sg	12	obja	_	_
+9	im	in	P	APPRART	Dat	12	pp	_	_
+10	Theater	Theater	N	NN	Neut|Dat|Sg	9	pn	1399	1399
+11	zu	zu	P	PTKZU	_	12	part	_	_
+12	besuchen	besuchen	V	VVINF	_	3	obji	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	618	618
+2	Kamerad	Kamerad	N	NN	Masc|Nom|Sg	3	subj	618	618
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	gestorben	sterben	V	VVPP	_	3	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	ein	eine	A	ART	Indef|Masc|Nom|Sg	9	det	_	_
+7	sehr	sehr	A	ADV	_	8	adv	_	_
+8	guter	gut	A	ADJA	Pos|Masc|Nom|Sg|St|	9	attr	_	_
+9	Freund	Freund	N	NN	Masc|Nom|Sg	0	root	_	_
+10	von	von	P	APPR	Dat	9	pp	_	_
+11	ihm	er	P	PPER	3|Sg|_|Dat	10	pn	618	618
+12	:	\:	$	$.	_	0	root	_	_
+13	Da	da	A	ADV	_	14	adv	_	_
+14	mußte	müssen	V	VMFIN	3|Sg|Past|Ind	0	root	_	_
+15	ein	eine	A	ART	Indef|Masc|Nom|Sg	16	det	_	_
+16	Kranz	Kranz	N	NN	Masc|Nom|Sg	14	subj	_	_
+17	her	her	P	PTKVZ	_	14	avz	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Unendlich	unendlich	A	ADJD	Pos|	2	adv	_	_
+2	häufig	häufig	A	ADJD	Pos|	3	adv	_	_
+3	mußten	müssen	V	VMFIN	3|Pl|Past|Ind	0	root	_	_
+4	Bücher	Buch	N	NN	_|Nom|Pl	3	subj	619	619
+5	gebunden	binden	V	VVPP	_	8	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Hefte	Heft	N	NN	Neut|_|_	8	obja	_	_
+8	gekauft	kaufen	V	VVPP	_	12	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	neue	neu	A	ADJA	Pos|Fem|_|Pl|St|	11	attr	_	_
+11	Schulausgaben	Schulausgabe	N	NN	Fem|_|Pl	12	obja	_	_
+12	angeschafft	anschaffen	V	VVPP	_	3	neb	_	_
+13	werden	werden	V	VAINF	_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Aus	aus	P	APPR	Dat	3	pp	_	_
+2	Versehen	Versehen	N	NN	_|Dat|_	1	pn	_	_
+3	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+5	Tinte	Tinte	N	NN	Fem|_|Sg	11	obja	_	_
+6	über	über	P	APPR	Acc	5	pp	_	_
+7	den	die	A	ART	Def|Masc|Acc|Sg	8	det	_	_
+8	Atlas	Atlas	N	NN	Masc|Acc|Sg	6	pn	_	_
+9	seines	seine	A	PPOSAT	Masc|Gen|Sg	10	det	0	0
+10	Nachbars	Nachbar	N	NN	Masc|Gen|Sg	8	gmod	_	_
+11	gegossen	gießen	V	VVPP	_	3	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	3	det	620	620
+2	ekliger	eklig	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	620	620
+3	Kerl	Kerl	N	NN	Masc|Nom|Sg	9	subj	620	620
+4	,	,	$	$,	_	0	root	620	620
+5	wie	wie	P	PWAV	_	7	adv	620	620
+6	der	die	P	PDS	Masc|Nom|Sg	7	subj	620	620
+7	war	sein	V	VAFIN	3|Sg|Past|Ind	3	objc	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wollte	wollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+10	er	er	P	PPER	3|Sg|Masc|Nom	0	root	620	620
+11	ihn	er	P	PPER	3|Sg|Masc|Acc	0	root	620	620
+12	ersetzt	ersetzen	V	VVPP	_	0	root	_	_
+13	haben	haben	V	VAINF	_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	erstaunlich	erstaunlich	A	ADJD	_	2	pred	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	wie	wie	P	PWAV	_	6	adv	_	_
+6	leicht	leicht	A	ADJD	Pos|	10	adv	_	_
+7	ihm	er	P	PPER	3|Sg|_|Dat	10	objd	0	0
+8	die	die	A	ART	Def|Fem|Nom|Pl	9	det	621	621
+9	Lügen	Lüge	N	NN	Fem|Nom|Pl	10	subj	621	621
+10	fielen	fallen	V	VVFIN	3|Pl|Past|_	2	objc	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	schmückte	schmücken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	621	621
+4	sogar	sogar	A	ADV	_	2	adv	_	_
+5	mit	mit	P	APPR	Dat	2	pp	_	_
+6	ersichtlichem	ersichtlich	A	ADJA	Pos|Neut|Dat|Sg|St|	7	attr	1193	1193
+7	Vergnügen	Vergnügen	N	NN	Neut|Dat|Sg	5	pn	1193	1193
+8	novellistisch	novellistisch	A	ADJD	Pos|	2	adv	_	_
+9	ans	an	P	APPRART	Neut|Acc	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Erzählte	Erzählte	N	NN	_|_|_	0	root	_	_
+2	z.	z.	P	APPRART	_	0	root	_	_
+
+1	B.	B.	N	NN	Masc|_|Sg	0	root	622	622
+2	die	die	A	ART	Def|Fem|_|Sg	4	det	_	_
+3	ganze	ganz	A	ADJA	Pos|Fem|_|Sg|_|	4	attr	_	_
+4	Lebensgeschichte	Lebensgeschichte	N	NN	Fem|_|Sg	0	root	_	_
+5	des	die	A	ART	Def|Masc|Gen|Sg	7	det	_	_
+6	jubilanten	jubilanten	A	ADJA	_|Masc|Gen|Sg|_	7	attr	_	_
+7	Ordinarius	Ordinarius	N	NN	Masc|Gen|Sg	4	gmod	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	ahmte	ahmen	V	VVFIN	_|Sg|Past|_	0	root	_	_
+10	ihn	er	P	PPER	3|Sg|Masc|Acc	9	obja	0	0
+11	nach	nach	P	PTKVZ	_	9	avz	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	führte	führen	V	VVFIN	_|Sg|Past|_	9	kon	_	_
+14	eine	eine	A	ART	Indef|Fem|_|Sg	16	det	_	_
+15	ganze	ganz	A	ADJA	Pos|Fem|_|Sg|_|	16	attr	_	_
+16	Komödie	Komödie	N	NN	Fem|_|Sg	13	obja	_	_
+17	von	von	P	APPR	Dat	16	pp	_	_
+18	ihm	er	P	PPER	3|Sg|_|Dat	17	pn	0	0
+19	auf	auf	P	PTKVZ	_	13	avz	_	_
+20	-	-	$	$(	_	0	root	_	_
+21	Alles	Alles	N	NE	_|Gen|_	23	gmod	406	406
+22	freieste	frei	A	ADJA	Sup|Fem|_|Sg|_|	23	attr	_	_
+23	Erfindung	Erfindung	N	NN	Fem|_|Sg	0	root	_	_
+24	;	;	$	$.	_	0	root	_	_
+25	und	und	K	KON	_	0	root	_	_
+26	das	die	A	ART	Def|Neut|Nom|Sg	27	det	635	635
+27	Ehepaar	Ehepaar	N	NN	Neut|Nom|Sg	29	subj	635	635
+28	Wiehr	Wiehr	N	NE	Neut|Nom|Sg	27	app	635	635
+29	wollte	wollen	V	VMFIN	3|Sg|Past|_	25	cj	_	_
+30	sich	sie	P	PRF	3|_|_	31	obja	_	_
+31	ausschütten	ausschütten	V	VVINF	_	29	aux	_	_
+32	vor	vor	P	APPR	_	31	pp	_	_
+33	Lachen	Lache	N	NN	_|_|_	32	pn	623	623
+34	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	auch	auch	A	ADV	_	5	adv	_	_
+3	diese	diese	A	PDAT	Neut|Nom|Pl	5	det	_	_
+4	kleinen	klein	A	ADJA	Pos|Neut|Nom|Pl|Wk|	5	attr	_	_
+5	Mittel	Mittel	N	NN	Neut|Nom|Pl	6	subj	_	_
+6	halfen	helfen	V	VVFIN	3|Pl|Past|Ind	1	cj	_	_
+7	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+8	auf	auf	P	APPR	Acc	6	objp	_	_
+9	die	die	A	ART	Def|Fem|Acc|Sg	10	det	1163	1163
+10	Dauer	Dauer	N	NN	Fem|Acc|Sg	8	pn	1163	1163
+11	.	.	$	$.	_	0	root	_	_
+
+1	Stilpe	Stilpe	N	NE	_|Nom|Sg	2	subj	11	11
+2	starrte	starren	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	ins	in	P	APPRART	Acc	2	pp	_	_
+4	Leere	Leere	N	NN	_|Acc|_	3	pn	_	_
+5	und	und	K	KON	_	2	kon	_	_
+6	fand	finden	V	VVFIN	_|Sg|Past|Ind	5	cj	_	_
+7	nichts	nichts	P	PIS	_	6	obja	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	überfiel	überfallen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	0	0
+4	ein	eine	A	ART	Indef|_|Nom|Sg	5	det	624	624
+5	Gedanke	Gedanke	N	NN	_|Nom|Sg	2	subj	624	624
+6	,	,	$	$,	_	0	root	624	624
+7	vor	vor	P	APPR	Dat	11	pp	624	624
+8	dem	die	P	PRELS	_|Dat|Sg	7	pn	624	624
+9	er	er	P	PPER	3|Sg|Masc|Nom	11	subj	0	0
+10	selber	selber	A	ADV	_	9	adv	_	_
+11	erschrak	erschrecken	V	VVFIN	3|Sg|Past|Ind	5	rel	_	_
+12	:	\:	$	$.	_	0	root	_	_
+13	Die	die	A	ART	Def|Fem|_|Sg	14	det	720	720
+14	Ladenkasse	Ladenkasse	N	NN	Fem|_|Sg	0	root	720	720
+15	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	nein	nein	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	pfui	pfui	F	FM	_	0	root	_	_
+6	Teufel	Teufel	N	NE	_	5	app	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	das	die	P	PDS	Neut|Nom|Sg	9	subj	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	ja	ja	A	ADV	_	9	adv	_	_
+11	eine	eine	A	ART	Indef|Fem|Nom|Sg	12	det	_	_
+12	Gemeinheit	Gemeinheit	N	NN	Fem|Nom|Sg	9	pred	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Weg	weg	A	ADV	_	2	adv	_	_
+2	damit	damit	P	PROAV	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Lieber	lieb	A	ADJD	Comp|	6	pred	_	_
+2	diese	diese	A	PDAT	_|Nom|_	3	det	_	_
+3	Sumpfereien	Sumpfereien	N	NN	_|Nom|_	5	pred	_	_
+4	da	da	A	ADV	_	3	adv	_	_
+5	sein	sein	V	VAINF	_	6	obji	_	_
+6	lassen	lassen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	überhaupt	überhaupt	A	ADV	_	2	adv	_	_
+4	widerlich	widerlich	A	ADJD	Pos|	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Lieber	lieb	A	ADJD	Comp|	2	adv	_	_
+2	arbeiten	arbeiten	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Wieder	wieder	A	ADV	_	5	adv	_	_
+2	mehr	mehr	A	ADV	_	5	adv	_	_
+3	mit	mit	P	APPR	Dat	5	pp	_	_
+4	Girlinger	Girlinger	N	NN	_|Dat|_	3	pn	453	453
+5	disputieren	disputieren	V	VVINF	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	und	und	K	KON	_	0	root	_	_
+4	endlich	endlich	A	ADJD	Pos|	7	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	625	625
+6	Drama	Drama	N	NN	Neut|_|Sg	7	obja	625	625
+7	schreiben	schreiben	V	VVINF	_	3	cj	_	_
+8	!	!	$	$.	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	gleich	gleich	A	ADJD	Pos|	3	adv	_	_
+3	holte	holen	V	VVFIN	3|Sg|Past|_	1	cj	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+5	ein	eine	A	ART	Indef|Neut|_|Sg	6	det	1567	1567
+6	Heft	Heft	N	NN	Neut|_|Sg	3	obja	1567	1567
+7	aus	aus	P	APPR	Dat	3	pp	_	_
+8	dem	die	A	ART	Def|Masc|Dat|Sg	9	det	_	_
+9	Schubkasten	Schubkasten	N	NN	Masc|Dat|Sg	7	pn	_	_
+10	und	und	K	KON	_	3	kon	_	_
+11	schrieb	schreiben	V	VVFIN	_|Sg|Past|Ind	10	cj	_	_
+12	darüber	darüber	P	PROAV	_	11	pp	_	_
+13	:	\:	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	71	71
+2	Hahnrei	Hahnrei	N	NN	Masc|Nom|Sg	5	subj		
+
+1	in	in	P	PTKVZ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wieviel	wieviel	A	PWAT	_|_|_	4	det	_	_
+4	Akte	Akt	N	NN	_|_|_	5	obja	_	_
+5	mache	machen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	0	0
+7	!	!	$	$.	_	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Natürlich	natürlich	A	ADJD	Pos|	3	adv	_	_
+2	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+3	fünf	fünf	C	CARD	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Denn	denn	K	KON	_	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	banal	banal	A	ADJD	Pos|	3	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	2	adv	_	_
+2	vier	vier	C	CARD	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Vier	vier	C	CARD	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Bei	bei	P	APPR	Dat	0	root	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	3	det	_	_
+3	Stoff	Stoff	N	NN	Masc|Dat|Sg	1	pn	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	sechs	sechs	C	CARD	_	2	attr	_	_
+2	Akte	Akt	N	NN	Masc|_|Pl	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+

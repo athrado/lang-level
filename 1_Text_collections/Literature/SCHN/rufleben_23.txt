@@ -1,0 +1,299 @@
+1	Hilf	helfen	V	VVIMP	Sg	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	383	383
+3	doch	doch	A	ADV	_	1	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	die	die	A	ART	Def|Neut|_|Pl	6	det	_	_
+6	Haare	Haar	N	NN	Neut|_|Pl	7	obja	_	_
+7	aufstecken	aufstecken	V	VVINF	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Marie	Marie	N	NE	_	0	root	8	8
+10	,	,	$	$,	_	0	root	_	_
+11	-	-	$	$(	_	0	root	_	_
+12	rasch	rasch	A	ADJD	Pos|	0	root	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	ehe	ehe	K	KOUS	_	17	konj	_	_
+15	die	die	A	ART	Def|Fem|Nom|Sg	16	det	357	357
+16	Mutter	Mutter	N	NN	Fem|Nom|Sg	17	subj	357	357
+17	hereinkommt	hereinkommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	so	so	A	ADV	_	1	adv	_	_
+4	durch	durch	P	APPR	Acc	1	pp	_	_
+5	die	die	A	ART	Def|Fem|Acc|Pl	6	det	341	341
+6	Straßen	Straß	N	NN	Fem|Acc|Pl	4	pn	341	341
+7	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	2	subj	_	_
+2	kümmert	kümmern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	heute	heute	A	ADV	_	2	adv	_	_
+5	drum	drum	P	PROAV	_	2	pp	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	schon	schon	A	ADV	_	2	adv	_	_
+5	dunkel	dunkel	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_|Nom|Sg	2	subj	8	8
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihr	ihr	P	PPER	3|Sg|Fem|Dat	2	objd	_	_
+4	behilflich	behilflich	A	ADJD	_	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ah	Ah	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	383	383
+6	noch	noch	A	ADV	_	3	adv	_	_
+7	Blüten	Blüte	N	NN	Fem|_|Pl	3	obja	358	358
+8	im	in	P	APPRART	Dat	3	pp	_	_
+9	Haar	Haar	N	NN	Neut|Dat|Sg	8	pn	359	359
+10	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	358	358
+2	gleiten	gleiten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	herunter	herunter	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Warum	Warum	P	PWAV	_	0	root	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	still	still	A	ADJD	Pos|	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Marie	Marie	N	NE	_	0	root	8	8
+7	?	?	$	$.	_	0	root	_	_
+
+1	Wann	Wann	P	PWAV	_	2	adv	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Hochzeit	Hochzeit	N	NN	Fem|Nom|Sg	2	subj	181	181
+4	sein	sein	V	VAINF	_	2	aux	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+2	denkt	denken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	niemand	niemand	P	PIS	_|Nom|Sg	2	subj	_	_
+4	an	an	P	APPR	_	2	objp	_	_
+5	Hochzeit	Hochzeit	N	NN	Fem|_|Sg	4	pn	181	181
+6	.	.	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	3	vok	36	36
+2	,	,	$	$,	_	0	root	_	_
+3	sagst	sagen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+6	um	um	P	APPR	_	0	root	_	_
+7	meinetwillen	meinetwillen	A	ADV	_	6	adv	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Keine	keine	A	PIAT	Fem|_|Sg	2	det	_	_
+2	Ursache	Ursache	N	NN	Fem|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	frei	frei	A	ADJD	Pos|	2	pred	_	_
+4	wie	wie	K	KOKOM	_	2	kom	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	cj	383	383
+6	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wonach	wonach	A	ADV	_	2	adv	_	_
+2	duftest	duften	V	VVFIN	2|Sg|Pres|_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	seltsam	seltsam	A	ADJD	Pos|	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hatt	Hatt	N	NE	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	383	383
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	Blüten	Blüte	N	NN	Fem|_|Pl	0	root	_	_
+6	im	in	P	APPRART	Dat	5	pp	_	_
+7	Haar	Haar	N	NN	Neut|Dat|Sg	6	pn	359	359
+8	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	_|Nom|Pl	2	subj	_	_
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	6	pred	359	359
+5	wohl	wohl	A	ADV	_	4	adv	_	_
+6	gewesen	sein	V	VAPP	_	7	aux	_	_
+7	sein	sein	V	VAINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Woher	Woher	P	PWAV	_	2	adv	_	_
+2	kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Katharina	Katharina	N	NN	Fem|Nom|Sg	3	app	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Woher	Woher	P	PWAV	_	3	adv	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	383	383
+3	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Von	von	P	APPR	_	0	root	_	_
+2	weit	weit	A	ADJD	Pos|	1	pn	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Von	von	P	APPR	_	0	root	_	_
+2	weit	weit	A	ADJD	Pos|	1	pn	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	weit	weit	A	ADJD	Pos|	2	adv	_	_
+5	wie	wie	K	KOKOM	_	2	kom	_	_
+6	ein	eine	A	ART	Indef|Neut|_|Sg	7	det	360	360
+7	Ufer	Ufer	N	NN	Neut|_|Sg	5	cj	360	360
+8	,	,	$	$,	_	0	root	360	360
+9	das	die	P	PRELS	Neut|_|Sg	13	obja	360	360
+10	man	man	P	PIS	_|Nom|Sg	13	subj	_	_
+11	nie	nie	A	ADV	_	13	adv	_	_
+12	mehr	mehr	A	ADV	_	13	adv	_	_
+13	betritt	betreten	V	VVFIN	3|Sg|Pres|Ind	7	rel	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Woher	Woher	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Frag	Frag	N	NE	_	0	root	361	361
+2	'	'	$	$(	_	0	root	361	361
+3	nicht	nicht	P	PTKNEG	_	1	adv	361	361
+4	woher	woher	A	ADV	_	3	adv	361	361
+5	,	,	$	$,	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	_	_
+8	wende	wenden	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+9	mich	ich	P	PRF	1|Sg|Acc	8	obja	_	_
+10	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+11	um	um	P	PTKVZ	_	8	avz	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Hinab	Hinab	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ihr	ihre	A	PPOSAT	_|_|Sg	4	det	361	361
+4	Blüten	Blüte	N	NN	_|_|Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	2	adv	_	_
+2	traurig	traurig	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Vorbei	vorbei	A	ADV	_	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	vorbei	vorbei	A	ADV	_	2	adv	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	ein	eine	A	ART	Indef|Neut|_|Sg	3	det	362	362
+3	Ufer	Ufer	N	NN	Neut|_|Sg	0	root	362	362
+4	,	,	$	$,	_	0	root	362	362
+5	das	die	P	PRELS	Neut|_|Sg	9	obja	362	362
+6	du	du	P	PPER	2|Sg|_|Nom	9	subj	_	_
+7	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+8	mehr	mehr	A	ADV	_	7	adv	_	_
+9	betrittst	betreten	V	VVFIN	2|Sg|Pres|Ind	3	rel	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Abschied	Abschied	N	NN	Masc|_|Sg	5	obja	363	363
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	383	383
+5	genommen	nehmen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Abschied	Abschied	N	NN	Masc|_|Sg	0	root	363	363
+2	?	?	$	$.	_	0	root	_	_
+
+1	Deine	deine	A	PPOSAT	Neut|_|Pl	2	det	_	_
+2	Augen	Auge	N	NN	Neut|_|Pl	3	obja	_	_
+3	glühen	glühen	V	VVINF	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	aber	aber	K	KON	_	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	von	von	P	APPR	_	5	cj	_	_
+8	Tränen	Träne	N	NN	Fem|_|Pl	7	pn	537	537
+9	.	.	$	$.	_	0	root	_	_
+
+1	Blühen	blühen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	die	die	A	ART	Def|Fem|Nom|Pl	3	det	364	364
+3	Wangen	Wange	N	NN	Fem|Nom|Pl	1	subj	364	364
+4	so	so	A	ADV	_	5	adv	_	_
+5	frisch	frisch	A	ADJD	Pos|	1	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wenn	wenn	K	KOUS	_	10	konj	_	_
+8	man	man	P	PIS	_|Nom|Sg	10	subj	_	_
+9	Abschied	Abschied	N	NN	Masc|_|Sg	10	obja	363	363
+10	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	1	neb	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Katharina	Katharina	N	NN	Fem|_|Sg	0	root	24	24
+2	.	.	$	$.	_	0	root	_	_
+
+1	Abschiednehmen	Abschiednehmen	N	NN	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	süß	süß	A	ADJD	Pos|	2	pred	_	_
+4	.	.	$	$.	_	0	root	_	_
+

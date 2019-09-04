@@ -1,0 +1,415 @@
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	510	510
+2	Naive	Naive	N	NN	Masc|Nom|Sg	3	subj	510	510
+3	lacht	lachen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Weidling	Weidling	N	NE	_	0	root	_	_
+2	am	an	P	APPRART	Dat	1	pp	_	_
+3	Bach	Bach	N	NN	Masc|Dat|Sg	2	pn	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	seinen	seine	A	PPOSAT	_|Dat|_	3	det	_	_
+3	Freunden	Freund	N	NN	_|Dat|_	1	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Könnts	Könnts	N	NE	_	0	root	518	518
+2	ihr	ihre	A	PPOSAT	_|_|Sg	0	root	518	518
+3	euch	ihr	P	PRF	2|Pl|_	4	obja	_	_
+4	erinnern	erinnern	V	VVINF	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	ja	ja	A	ADV	_	7	adv	_	_
+5	einmal	einmal	A	ADV	_	7	adv	_	_
+6	draußen	draußen	A	ADV	_	7	pred	_	_
+7	gewesen	sein	V	VAPP	_	2	aux	_	_
+8	und	und	K	KON	_	2	kon	_	_
+9	haben	haben	V	VAFIN	3|Pl|Pres|_	8	cj	_	_
+10	Backhendl	Backhendl	N	NN	Neut|_|Sg	9	obja	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	n	n	N	NN	Neut|_|Sg	10	app	_	_
+13	'	'	$	$(	_	0	root	_	_
+14	gessen	gessen	N	NE	Neut|_|Sg	12	app	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	519	519
+2	Räsoneur	Räsoneur	N	NN	Masc|Nom|Sg	3	subj	519	519
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	auf	auf	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	519	519
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	schwarz	schwarz	A	ADJD	Pos|	4	adv	_	_
+4	gekleidet	kleiden	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+7	einen	eine	A	ART	Indef|Masc|Acc|Sg	11	det	_	_
+8	schwarzen	schwarz	A	ADJA	Pos|Masc|Acc|Sg|_|	11	attr	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	langen	lang	A	ADJA	Pos|_|Acc|_|_|	8	kon	_	_
+11	Vollbart	Vollbart	N	NN	Masc|Acc|Sg	6	obja	_	_
+12	;	;	$	$.	_	0	root	_	_
+13	gemessen	messen	V	VVPP	_	0	root	_	_
+14	und	und	K	KON	_	0	root	_	_
+15	ernst	ernst	A	ADJD	Pos|	14	cj	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	519	519
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nach	nach	P	APPR	Dat	2	pp	_	_
+4	vorn	vorn	A	ADV	_	3	adv	_	_
+5	und	und	K	KON	_	2	kon	_	_
+6	verbeugt	verbeugen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	sich	sie	P	PRF	3|_|_	6	obja	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	der	die	A	ART	Def|_|_|_	0	root	_	_
+5	für	für	P	APPR	Acc	0	root	_	_
+6	eine	eine	A	ART	Indef|Fem|Acc|Sg	7	det	_	_
+7	Maske	Maske	N	NN	Fem|Acc|Sg	5	pn	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Den	die	P	PDS	Masc|Acc|Sg	2	obja	_	_
+2	müßt	müssen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	525	525
+5	kennen	kennen	V	VVINF	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	aber	aber	A	ADV	_	2	adv	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	6	det	_	_
+5	arge	arg	A	ADJA	Pos|Fem|Nom|Sg|_|	6	attr	_	_
+6	Geschmacklosigkeit	Geschmacklosigkeit	N	NN	Fem|Nom|Sg	2	pred	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	484	484
+2	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	0	root	484	484
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	6	pred	_	_
+2	soll	sollen	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	2	2
+5	denn	denn	A	ADV	_	6	adv	_	_
+6	sein	sein	V	VAINF	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	520	520
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	520	520
+3	komm	komm	V	VVFIN	1|Sg|_|_	1	cj	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	schon	schon	A	ADV	_	3	adv	_	_
+6	drauf	drauf	P	PTKVZ	_	3	avz	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	519	519
+2	Räsoneur	Räsoneur	N	NN	Masc|Nom|Sg	3	subj	519	519
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	nach	nach	P	APPR	Dat	3	pp	_	_
+5	hinten	hinten	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	lehnt	lehnen	V	VVFIN	_|_|Pres|Ind	3	kon	_	_
+8	sich	sie	P	PRF	3|_|_	7	obja	_	_
+9	in	in	P	APPR	Acc	7	pp	_	_
+10	die	die	A	ART	Def|Fem|Acc|Sg	11	det	_	_
+11	Fensternische	Fensternische	N	NN	Fem|Acc|Sg	9	pn	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	bleibt	bleiben	V	VVFIN	_|_|Pres|Ind	7	kon	_	_
+14	dort	dort	A	ADV	_	13	adv	_	_
+15	stehen	stehen	V	VVINF	_	13	obji	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Au	Au	N	NN	Fem|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	2	2
+5	satirisch	satirisch	A	ADJD	Pos|	2	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	519	519
+2	Räsoneur	Räsoneur	N	NN	Masc|Nom|Sg	3	subj	519	519
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	im	in	P	APPRART	Dat	3	pp	_	_
+5	Verlaufe	Verlauf	N	NN	Masc|Dat|Sg	4	pn	_	_
+6	der	die	A	ART	Def|Fem|Gen|Sg	8	det	_	_
+7	weiteren	weit	A	ADJA	Comp|Fem|Gen|Sg|Wk|	8	attr	_	_
+8	Handlung	Handlung	N	NN	Fem|Gen|Sg	5	gmod	_	_
+9	nur	nur	A	ADV	_	3	adv	_	_
+10	gelegentlich	gelegentlich	A	ADJD	Pos|	3	adv	_	_
+11	nach	nach	P	APPR	Dat	3	pp	_	_
+12	vorwärts	vorwärts	A	ADV	_	11	adv	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	wenn	wenn	K	KOUS	_	19	konj	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	19	subj	519	519
+16	etwas	etwas	P	PIS	_	18	obja	_	_
+17	zu	zu	P	PTKZU	_	18	part	_	_
+18	reden	reden	V	VVINF	_	19	aux	_	_
+19	hat	haben	V	VAFIN	3|Sg|Pres|Ind	3	neb	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	3	pp	_	_
+2	übrigen	übrig	A	ADJA	Pos|_|Dat|_|_|	1	pn	_	_
+3	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	519	519
+5	von	von	P	APPR	Dat	9	pp	_	_
+6	den	die	A	ART	Def|Masc|Dat|Pl	7	det	_	_
+7	Vorgängen	Vorgang	N	NN	Masc|Dat|Pl	5	pn	_	_
+8	vollkommen	vollkommen	A	ADJD	Pos|	9	adv	_	_
+9	unberührt	unberührt	A	ADJD	Pos|	3	pred	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	519	519
+2	kümmert	kümmern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	um	um	P	APPR	Acc	2	objp	_	_
+5	niemanden	niemand	P	PIS	_|Acc|Sg	4	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	und	und	K	KON	_	2	kon	_	_
+8	die	die	A	ART	Def|_|_|_	9	det	_	_
+9	andern	andern	A	ADJA	_|_|_	10	subj	_	_
+10	kümmern	kümmern	V	VVFIN	3|Pl|Pres|_	7	cj	_	_
+11	sich	sie	P	PRF	3|_|_	10	obja	_	_
+12	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+13	am	an	P	APPRART	Dat	10	pp	_	_
+14	ihn	er	P	PPER	3|Sg|Masc|Acc	13	pn	519	519
+15	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	525	525
+4	auf	auf	P	APPR	Acc	2	objp	_	_
+5	die	die	A	ART	Def|Masc|Acc|Pl	6	det	_	_
+6	Nerven	Nerv	N	NN	Masc|Acc|Pl	4	pn	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	484	484
+2	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	0	root	484	484
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	is	is	F	FM	Neut|_|Sg	0	root	_	_
+3	ja	ja	A	ADV	_	6	adv	_	_
+4	eben	eben	A	ADV	_	6	adv	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	_	_
+6	Witz	Witz	N	NN	Masc|Nom|Sg	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	485	485
+2	Bissige	Bissige	N	NN	Masc|Nom|Sg	0	root	485	485
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	3	det	_	_
+2	schlechter	schlecht	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	_
+3	Witz	Witz	N	NN	Masc|Nom|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	521	521
+2	Dichter	Dichter	N	NN	_|_|_	0	root	521	521
+3	zum	zu	P	APPRART	Dat	2	pp	521	521
+4	Direktor	Direktor	N	NN	Masc|Dat|Sg	3	pn	503	503
+5	.	.	$	$.	_	0	root	_	_
+
+1	Mir	ich	P	PPER	1|Sg|_|Dat	2	objd	523	523
+2	kommt	kommen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	vor	vor	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	die	die	A	ART	Def|_|Nom|Pl	6	det	522	522
+6	Leut	Leut	N	NN	_|Nom|Pl	8	subj	522	522
+7	'	'	$	$(	_	0	root	_	_
+8	langweilen	langweilen	V	VVFIN	3|Pl|Pres|_	2	kon	_	_
+9	sich	sie	P	PRF	3|_|_	8	obja	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	523	523
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	Ihnen	sie	P	PPER	3|Pl|_|Dat	2	objd	522	522
+5	g	g	N	NN	_|Nom|Sg	7	subj	525	525
+6	'	'	$	$(	_	0	root	_	_
+7	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	10	subj	522	522
+10	sollen	sollen	V	VMFIN	3|Pl|Pres|_	7	s	_	_
+11	die	die	A	ART	Def|Fem|_|Sg	12	det	524	524
+12	Figur	Figur	N	NN	Fem|_|Sg	13	obja	524	524
+13	hinausschmeißen	hinausschmeißen	V	VVINF	_	10	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Noch	noch	A	ADV	_	2	adv	_	_
+2	heut	heuen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	vormittags	vormittags	A	ADV	_	4	adv	_	_
+4	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	523	523
+7	'	'	$	$(	_	0	root	_	_
+8	s	s	P	PPER	_	4	obja	525	525
+9	Ihnen	sie	P	PPER	3|Pl|_|Dat	4	objd	522	522
+10	g	g	N	NN	_|Nom|Sg	12	subj	525	525
+11	'	'	$	$(	_	0	root	_	_
+12	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	505	505
+2	Dichter	Dichter	N	NN	_|_|_	0	root	505	505
+3	.	.	$	$.	_	0	root	_	_
+
+1	Könnt	können	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	0	root	_	_
+4	vielleicht	vielleicht	A	ADV	_	3	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+6	noch	noch	A	ADV	_	7	adv	_	_
+7	jetzt	jetzt	A	ADV	_	5	adv	_	_
+8	-	-	$	$(	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	525	525
+2	werd	werd	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	g	g	N	NN	_|Dat|_	2	objd	526	526
+5	'	'	$	$(	_	0	root	_	_
+6	schwind	schwind	A	ADJD	_	2	adv	_	_
+7	ein	eine	A	ART	Indef|_|_|Sg	9	det	_	_
+8	paar	paar	A	PIDAT	Masc|_|_	9	attr	_	_
+9	Verse	Vers	N	NN	Masc|_|_	2	obja	_	_
+10	streichen	streichen	V	VVINF	_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Direktor	Direktor	N	NN	Masc|_|Sg	0	root	503	503
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	schnell	schnell	A	ADJD	Pos|	8	adv	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	schnell	schnell	A	ADJD	Pos|	8	adv	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	eh	eh	A	ADJD	_	8	adv	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	s	s	P	PPER	_	0	root	526	526
+9	zu	zu	P	PTKA	_	10	adv	_	_
+10	spät	spät	A	ADJD	Pos|	11	pred	_	_
+11	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	527	527
+2	Dichter	Dichter	N	NN	Masc|Nom|Sg	3	subj	527	527
+3	eilt	eilen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	nach	nach	P	APPR	Dat	3	pp	_	_
+5	hinten	hinten	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	erscheint	erscheinen	V	VVFIN	_|_|Pres|Ind	3	kon	_	_
+8	hinten	hinten	A	ADV	_	7	adv	_	_
+9	am	an	P	APPRART	Dat	7	pp	_	_
+10	Fenster	Fenster	N	NN	Neut|Dat|Sg	9	pn	33	33
+11	und	und	K	KON	_	7	kon	_	_
+12	sagt	sagen	V	VVFIN	_|_|Pres|Ind	11	cj	_	_
+13	dem	die	A	ART	Def|_|Dat|Sg	14	det	519	519
+14	Räsoneur	Räsoneur	N	NE	_|Dat|Sg	12	objd	519	519
+15	etwas	etwas	A	ADV	_	12	adv	_	_
+16	ins	in	P	APPRART	Acc	12	pp	_	_
+17	Ohr	Ohr	N	NN	Neut|Acc|Sg	16	pn	575	575
+18	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|_|_|_	2	det	521	521
+2	Dichter	Dichter	N	NN	_|_|_	0	root	521	521
+3	zum	zu	P	APPRART	Dat	2	pp	521	521
+4	Direktor	Direktor	N	NN	Masc|Dat|Sg	3	pn	503	503
+5	.	.	$	$.	_	0	root	_	_
+
+1	Is	Is	N	NE	_|Gen|_	3	gmod	_	_
+2	schon	schon	A	ADV	_	1	adv	_	_
+3	g	g	N	NN	_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	schehn	schehn	F	FM	_	3	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	527	527
+2	Dichter	Dichter	N	NN	Masc|Nom|Sg	3	subj	527	527
+3	greift	greifen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|Dat	3	objd	_	_
+5	an	an	P	APPR	Acc	3	pp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	40	40
+7	Kopf	Kopf	N	NN	Masc|Acc|Sg	5	pn	40	40
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	525	525
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ihm	er	P	PPER	3|Sg|_|Dat	6	objd	527	527
+5	doch	doch	A	ADV	_	6	adv	_	_
+6	gesagt	sagen	V	VVPP	_	2	aux	_	_
+7	:	\:	$	$.	_	0	root	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	527	527
+9	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+10	das	die	A	ART	Def|Neut|_|Sg	11	det	_	_
+11	Maul	Maul	N	NN	Neut|_|Sg	12	obja	_	_
+12	halten	halten	V	VVINF	_	9	aux	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	510	510
+2	Naive	Naive	N	NN	Masc|Nom|Sg	0	root	510	510
+3	.	.	$	$.	_	0	root	_	_
+
+1	Habts	Habts	N	NE	_	0	root	528	528
+2	ihr	ihre	A	PPOSAT	_|_|Sg	0	root	528	528
+3	das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+4	verstanden	verstehen	V	VVPP	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	5	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	4	det	_	_
+3	nächsten	nah	A	ADJA	_|Fem|Dat|Sg|Wk|	4	attr	_	_
+4	Komödie	Komödie	N	NN	Fem|Dat|Sg	1	pn	_	_
+5	spielen	spielen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	die	die	P	PDS	_|Nom|Pl	5	subj	_	_
+7	die	die	A	ART	Def|Fem|_|Pl	8	det	_	_
+8	Hauptrollen	Hauptrolle	N	NN	Fem|_|Pl	5	obja	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	484	484
+2	Wohlwollende	Wohlwollende	N	NN	Masc|Nom|Sg	0	root	484	484
+3	.	.	$	$.	_	0	root	_	_
+

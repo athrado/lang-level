@@ -1,0 +1,388 @@
+1	Sala	Sala	N	NE	_|Nom|_	3	subj	26	26
+2	etwas	etwas	A	ADV	_	3	adv	_	_
+3	befremdet	befremden	V	VVPP	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Natürlich	natürlich	A	ADJD	Pos|	2	adv	_	_
+2	versteh	versteh	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	2	2
+5	das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	lang	lang	A	ADJD	Pos|	3	adv	_	_
+3	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+5	denn	denn	A	ADV	_	10	adv	_	_
+6	keine	keine	A	PIAT	Fem|_|Sg	7	det	_	_
+7	Nachricht	Nachricht	N	NN	Fem|_|Sg	10	obja	_	_
+8	aus	aus	P	APPR	Dat	7	pp	_	_
+9	Wien	Wien	N	NE	_|Dat|Sg	8	pn	109	109
+10	gehabt	haben	V	VAPP	_	3	aux	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	198	198
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	meinen	meine	A	PPOSAT	Masc|Dat|Pl	4	det	198	198
+4	Briefen	Brief	N	NN	Masc|Dat|Pl	6	objd	_	_
+5	immer	immer	A	ADV	_	6	adv	_	_
+6	vorausgereist	vorausreisen	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Seit	seit	P	APPR	Dat	4	pp	_	_
+2	vierzehn	vierzehn	C	CARD	_	3	attr	_	_
+3	Tagen	Tag	N	NN	Masc|Dat|Pl	1	pn	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mich	ich	P	PPER	1|Sg|_|Acc	7	obja	198	198
+6	keiner	keine	P	PIS	Masc|Nom|Sg	4	subj	_	_
+7	eingeholt	einholen	V	VVPP	_	4	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Betreten	betreten	V	VVPP	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	_	_
+5	denn	denn	A	ADV	_	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	139	139
+2	Gabriele	Gabriele	N	NE	Fem|Nom|Sg	1	app	139	139
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	vor	vor	P	APPR	Dat	8	pp	_	_
+5	etwa	etwa	A	ADV	_	7	adv	_	_
+6	acht	acht	C	CARD	_	7	attr	_	_
+7	Tagen	Tag	N	NN	Masc|Dat|Pl	4	pn	_	_
+8	gestorben	sterben	V	VVPP	_	3	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Oh	oh	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	bewegt	bewegen	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	gebt	geben	V	VVFIN	2|Pl|Pres|Ind	2	kon	_	_
+7	im	in	P	APPRART	Dat	6	pp	_	_
+8	Zimmer	Zimmer	N	NN	Neut|Dat|Sg	7	pn	362	362
+9	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+10	und	und	K	KON	_	0	root	_	_
+11	her	her	P	PTKVZ	_	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	dann	dann	A	ADV	_	14	adv	_	_
+14	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	14	subj	1	1
+16	sich	sie	P	PRF	3|_|_	14	obja	_	_
+17	nieder	nieder	P	PTKVZ	_	14	avz	_	_
+18	und	und	K	KON	_	14	kon	_	_
+19	sagt	sagen	V	VVFIN	_|_|Pres|Ind	18	cj	_	_
+20	nach	nach	P	APPR	Dat	19	pp	_	_
+21	einer	eine	A	ART	Indef|Fem|Dat|Sg	22	det	_	_
+22	Pause	Pause	N	NN	Fem|Dat|Sg	20	pn	_	_
+23	:	\:	$	$.	_	0	root	_	_
+24	Man	man	P	PIS	_|Nom|Sg	25	subj	_	_
+25	mußte	müssen	V	VMFIN	3|Sg|Past|Ind	0	root	_	_
+26	wohl	wohl	A	ADV	_	28	adv	_	_
+27	darauf	darauf	P	PROAV	_	28	pp	_	_
+28	gefaßt	gefaßt	V	VVPP	_	29	aux	_	_
+29	sein	sein	V	VAINF	_	25	aux	_	_
+30	,	,	$	$,	_	0	root	_	_
+31	und	und	K	KON	_	0	root	_	_
+32	doch	doch	A	ADV	_	31	cj	_	_
+33	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	199	199
+2	starb	sterben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	einen	eine	A	ART	Indef|Masc|Acc|Sg	5	det	571	571
+4	sanften	sanft	A	ADJA	Pos|Masc|Acc|Sg|_|	5	attr	571	571
+5	Tod	Tod	N	NN	Masc|Acc|Sg	2	obja	571	571
+6	,	,	$	$,	_	0	root	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	wie	wie	P	PWAV	_	16	adv	_	_
+9	die	die	A	ART	Def|_|Nom|Pl	11	det	_	_
+10	andern	andern	A	ADJA	_|_|Nom|Pl|_	11	attr	_	_
+11	Leute	Leute	N	NN	_|Nom|Pl	16	subj	_	_
+12	ja	ja	A	ADV	_	16	adv	_	_
+13	immer	immer	A	ADV	_	14	adv	_	_
+14	so	so	A	ADV	_	15	adv	_	_
+15	bestimmt	bestimmt	A	ADJD	Pos|	16	adv	_	_
+16	wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Immerhin	immerhin	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	4	subj	199	199
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	eines	eine	A	ART	Indef|Masc|Gen|Sg	6	det	_	_
+6	Abends	Abend	N	NN	Masc|Gen|Sg	8	zeit	_	_
+7	ruhig	ruhig	A	ADJD	Pos|	8	adv	_	_
+8	entschlummert	entschlummern	V	VVPP	_	4	aux	_	_
+9	und	und	K	KON	_	8	kon	_	_
+10	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+11	wieder	wieder	A	ADV	_	12	adv	_	_
+12	erwacht	erwachen	V	VVPP	_	9	cj	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	sehr	sehr	A	ADV	_	3	adv	_	_
+3	leise	leise	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Arme	Arm	N	NN	_|_|_	0	root	139	139
+2	Gabriele	Gabriele	N	NE	Fem|_|Sg	1	app	139	139
+3	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	sie	sie	P	PPER	3|_|_|_	9	obja	_	_
+5	in	in	P	APPR	Dat	9	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	8	det	200	200
+7	letzten	letzte	A	ADJA	Pos|Fem|Dat|Sg|Wk|	8	attr	200	200
+8	Zeit	Zeit	N	NN	Fem|Dat|Sg	5	pn	200	200
+9	gesehen	sehen	V	VVPP	_	2	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	2	2
+2	kam	kommen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+3	beinahe	beinahe	A	ADV	_	4	adv	_	_
+4	täglich	täglich	A	ADJD	Pos|	2	adv	_	_
+5	hin	hin	P	PTKVZ	_	2	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|Nom|Sg	2	subj	2	2
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	5	obja	_	_
+4	darum	darum	P	PROAV	_	5	objp	_	_
+5	gebeten	bitten	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	2	2
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	6	obja	_	_
+4	nämlich	nämlich	A	ADV	_	6	adv	_	_
+5	geradezu	geradezu	A	ADV	_	6	adv	_	_
+6	gefürchtet	fürchten	V	VVPP	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	mit	mit	P	APPR	Dat	13	pp	_	_
+9	ihrer	ihre	A	PPOSAT	Fem|Dat|Sg	10	det	2	2
+10	Mutter	Mutter	N	NN	Fem|Dat|Sg	8	pn	_	_
+11	allein	allein	A	ADV	_	8	adv	_	_
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	sein	sein	V	VAINF	_	6	obji	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gefürchtet	fürchten	V	VVPP	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	201	201
+2	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	eine	eine	A	ART	Indef|Fem|_|Sg	4	det	_	_
+4	Art	Art	N	NN	_|_|_	2	obja	_	_
+5	Grauen	Grauen	N	NN	_|_|_	4	app	_	_
+6	vor	vor	P	APPR	Dat	2	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	9	det	_	_
+8	kranken	krank	A	ADJA	Pos|Fem|Dat|Sg|Wk|	9	attr	_	_
+9	Frau	Frau	N	NN	Fem|Dat|Sg	6	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	201	201
+4	eher	eher	A	ADV	_	2	adv	_	_
+5	ruhiger	ruhig	A	ADJD	Comp|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Seltsames	seltsam	A	ADJA	Pos|Neut|_|Sg|St|	2	attr	_	_
+2	Geschöpf	Geschöpf	N	NN	Neut|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Und	und	K	KON	_	0	root	_	_
+3	unser	unsre	A	PPOSAT	Masc|Nom|Sg	4	det	202	202
+4	Freund	Freund	N	NN	Masc|Nom|Sg	2	cj	202	202
+5	,	,	$	$,	_	0	root	202	202
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	202	202
+7	Professor	Professor	N	NN	Masc|Nom|Sg	4	app	202	202
+8	,	,	$	$,	_	0	root	202	202
+9	wie	wie	P	PWAV	_	10	adv	202	202
+10	trägt	tragen	V	VVFIN	3|Sg|Pres|Ind	7	objc	202	202
+11	er	er	P	PPER	3|Sg|Masc|Nom	10	subj	202	202
+12	den	die	A	ART	Def|Masc|Acc|Sg	13	det	_	_
+13	Verlust	Verlust	N	NN	Masc|Acc|Sg	10	obja	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Gottergeben	Gottergeben	N	NN	Neut|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+4	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Lieber	lieb	A	ADJD	Comp|	2	adv	129	129
+2	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+3	,	,	$	$,	_	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	203	203
+5	Mann	Mann	N	NN	Masc|Nom|Sg	6	subj	203	203
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	einen	eine	A	ART	Indef|Masc|Acc|Sg	8	det	_	_
+8	Beruf	Beruf	N	NN	Masc|Acc|Sg	6	obja	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	982	982
+2	glaube	glauben	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wir	wir	P	PPER	1|Pl|_|Nom	5	subj	204	204
+5	können	können	V	VMFIN	1|Pl|Pres|_	2	s	_	_
+6	das	die	P	PDS	Neut|_|Sg	9	obja	_	_
+7	gar	gar	A	ADV	_	8	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	fassen	fassen	V	VVINF	_	5	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	dir	du	P	PPER	2|Sg|_|Dat	0	root	_	_
+12	wir	wir	P	PPER	1|Pl|_|Nom	25	subj	204	204
+13	von	von	P	APPR	_	12	pp	_	_
+14	Gnaden	Gnade	N	NN	Fem|_|Pl	13	pn	_	_
+15	des	die	A	ART	Def|_|Gen|Sg	16	det	_	_
+16	Augenblicks	Augenblick	N	NN	Masc|Gen|Pl	14	gmod	_	_
+17	Götter	Gott	N	NN	Masc|Gen|Pl	16	app	_	_
+18	-	-	$	$(	_	0	root	_	_
+19	und	und	K	KON	_	13	kon	_	_
+20	zuweilen	zuweilen	A	ADV	_	21	adv	_	_
+21	etwas	etwas	A	ADV	_	22	adv	_	_
+22	weniger	weniger	A	ADV	_	19	cj	_	_
+23	als	als	K	KOKOM	_	22	kom	_	_
+24	Menschen	Mensch	N	NN	Masc|_|_	23	cj	197	197
+25	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|Nom|Sg	2	subj	3	3
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	natürlich	natürlich	A	ADJD	Pos|	2	adv	_	_
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	hier	hier	A	ADV	_	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	982	982
+2	sprach	sprechen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	2	obja	1	1
+4	erst	erst	A	ADV	_	2	adv	_	_
+5	vor	vor	P	APPR	Dat	2	pp	_	_
+6	einer	eine	A	ART	Indef|Fem|Dat|Sg	7	det	_	_
+7	Stunde	Stunde	N	NN	Fem|Dat|Sg	5	pn	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	und	und	K	KON	_	2	kon	_	_
+10	teilte	teilen	V	VVFIN	_|Sg|Past|_	9	cj	_	_
+11	ihm	er	P	PPER	3|Sg|_|Dat	10	objd	1	1
+12	mit	mit	P	PTKVZ	_	10	avz	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	daß	daß	K	KOUS	_	17	konj	_	_
+15	Sie	sie	P	PPER	3|Pl|_|Nom	17	subj	205	205
+16	da	da	A	ADV	_	17	adv	_	_
+17	wären	sein	V	VAFIN	3|Pl|Past|Subj	10	objc	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	5	obja	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	gefreut	freuen	V	VVPP	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	13	konj	_	_
+8	Sie	sie	P	PPER	3|Pl|_|Nom	13	subj	205	205
+9	ihn	er	P	PPER	3|Sg|Masc|Acc	12	obja	1	1
+10	in	in	P	APPR	_	12	pp	_	_
+11	Salzburg	Salzburg	N	NN	Fem|_|Sg	10	pn	144	144
+12	besucht	besuchen	V	VVPP	_	13	aux	_	_
+13	haben	haben	V	VAFIN	3|Pl|Pres|_	5	objc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	schien	scheinen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	206	206
+4	so	so	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	206	206
+5	sehr	sehr	A	ADV	_	6	adv	_	_
+6	wohl	wohl	A	ADV	_	7	adv	_	_
+7	getan	tun	V	VVPP	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	206	206
+2	trage	tragen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	2	obja	_	_
+4	übrigens	übrigens	A	ADV	_	2	adv	_	_
+5	mit	mit	P	APPR	Dat	2	objp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	53	53
+7	Idee	Idee	N	NN	Fem|Dat|Sg	5	pn	53	53
+8	,	,	$	$,	_	0	root	_	_
+9	in	in	P	APPR	_	13	objp	_	_
+10	Salzburg	Salzburg	N	NN	Fem|_|Sg	9	pn	144	144
+11	Aufenthalt	Aufenthalt	N	NN	Masc|_|Sg	13	obja	791	791
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	nehmen	nehmen	V	VVINF	_	2	obji	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Für	für	P	APPR	Acc	0	root	_	_
+2	immer	immer	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+

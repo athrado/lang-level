@@ -1,0 +1,461 @@
+1	Soldat	Soldat	N	NN	Fem|_|Sg	5	vok	_	_
+2	Ah	Ah	N	NN	Fem|_|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+7	das	die	A	ART	Def|Neut|Nom|Sg	8	det	450	450
+8	Rechte	Recht	N	NN	Neut|Nom|Sg	5	pred	450	450
+9	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Bei	bei	P	APPR	Dat	7	pp	_	_
+3	mir	ich	P	PPER	_|Dat|Sg	2	pn	1	1
+4	is	is	F	FM	_	3	app	_	_
+5	immer	immer	A	ADV	_	2	adv	_	_
+6	das	die	A	ART	Def|Neut|_|Sg	7	det	_	_
+7	Rechte	Recht	N	NN	Neut|_|Sg	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Geh	Geh	N	NE	_	0	root	5	5
+2	,	,	$	$,	_	0	root	_	_
+3	bleib	bleiben	V	VVIMP	Sg	0	root	_	_
+4	jetzt	jetzt	A	ADV	_	3	adv	_	_
+5	bei	bei	P	APPR	Dat	3	objp	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	pn	807	807
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	2	subj	_	_
+2	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ob	ob	K	KOUS	_	0	root	_	_
+5	wir	wir	P	PPER	1|Pl|_|Nom	0	root	_	_
+6	morgen	morgen	A	ADV	_	11	adv	_	_
+7	noch	noch	A	ADV	_	11	adv	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	s	s	P	PPER	_|Pl|_|Nom	11	subj	_	_
+10	Leben	Leben	N	NN	Neut|_|_	11	obja	_	_
+11	haben	haben	V	VAFIN	_|Pl|Pres|_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	3	3
+2	So	so	A	ADV	_	3	adv	_	_
+3	komm	komm	A	ADJD	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	aber	aber	K	KON	_	0	root	_	_
+6	g	g	N	NN	_	5	cj	796	796
+7	'	'	$	$(	_	0	root	796	796
+8	schwind	schwind	F	FM	_	6	app	796	796
+9	!	!	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	6	vok	_	_
+2	Gib	Gib	N	NE	Fem|_|Sg	1	app	_	_
+3	Obacht	Obacht	N	NN	Fem|_|Sg	2	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	da	da	A	ADV	_	6	adv	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	so	so	A	ADV	_	8	adv	_	_
+8	dunkel	dunkel	A	ADJD	Pos|	6	pred	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Wennst	Wennst	N	NE	_	2	obja	_	_
+2	ausrutschst	ausrutschen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	liegst	liegen	V	VVFIN	2|Sg|Pres|Ind	2	kon	_	_
+5	in	in	P	APPR	Dat	4	objp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	19	19
+7	Donau	Donau	N	NE	Fem|Dat|Sg	5	pn	19	19
+8	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	_	_
+2	Wär	Wär	N	NE	Masc|_|Sg	1	app	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	eh	eh	A	ADJD	_	6	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	_	_
+6	beste	gut	A	ADJA	Neut|_|Sg	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	5	vok	20	20
+2	Pst	Pst	N	NE	Fem|_|Sg	1	app	20	20
+3	,	,	$	$,	_	0	root	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	wart	sein	V	VAFIN	2|Pl|Past|Ind	0	root	_	_
+6	nur	nur	A	ADV	_	5	adv	_	_
+7	ein	eine	A	ART	Indef|_|Nom|Sg	8	det	_	_
+8	bissel	bissel	N	NN	_|Nom|Sg	5	pred	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Gleich	gleich	A	ADJD	Pos|	2	adv	_	_
+2	kommen	kommen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	zu	zu	P	APPR	Dat	2	objp	_	_
+5	einer	eine	A	ART	Indef|Fem|Dat|Sg	6	det	_	_
+6	Bank	Bank	N	NN	Fem|Dat|Sg	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	3	3
+2	Kennst	kennen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	2	obja	21	21
+4	da	da	A	ADV	_	2	adv	_	_
+5	gut	gut	A	ADJD	Pos|	2	adv	_	_
+6	aus	aus	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	So	so	A	ADV	_	3	adv	_	_
+3	einen	eine	P	PIS	_|_|_	0	root	_	_
+4	wie	wie	K	KOKOM	_	3	kom	_	_
+5	dich	du	P	PPER	2|Sg|_|Acc	4	cj	21	21
+6	möcht	möcht	A	ADV	_	5	adv	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	0	root	807	807
+9	zum	zu	P	APPRART	Dat	8	pp	_	_
+10	Geliebten	Geliebte	N	NN	_|Dat|_	9	pn	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	3	3
+2	Ich	ich	P	PPER	_|Nom|Sg	0	root	_	_
+3	tät	tät	N	NN	_	2	app	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	8	objd	21	21
+6	zu	zu	P	PTKA	_	7	adv	_	_
+7	viel	viel	P	PIS	_	8	obja	_	_
+8	eifern	eifern	V	VVINF	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+3	möcht	möcht	A	ADJA	Neut|_|Sg	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	0	root	807	807
+6	dir	du	P	PPER	2|Sg|_|Dat	8	objd	21	21
+7	schon	schon	A	ADV	_	8	adv	_	_
+8	abgewöhnen	abgewöhnen	V	VVINF	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	28	28
+2	Ha	Ha	N	NE	Masc|_|Sg	1	app	28	28
+3	-	-	$	$(	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Nicht	nicht	P	PTKNEG	_	4	adv	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	laut	laut	A	ADJD	Pos|	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Manchmal	manchmal	A	ADV	_	2	adv	_	_
+2	is	is	V	VVFIN	_	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	0	root	_	_
+6	sich	sie	P	PRF	3|_|_	0	root	_	_
+7	ein	eine	A	ART	Indef|_|_|Sg	8	det	_	_
+8	Wachter	Wachter	N	NN	_|_|Sg	0	root	_	_
+9	her	her	A	APZR	_	0	root	_	_
+10	verirrt	verirren	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Sollt	sollen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+2	man	man	P	PIS	_|Nom|Sg	0	root	_	_
+3	glauben	glauben	V	VVINF	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	12	konj	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	12	subj	_	_
+7	da	da	A	ADV	_	12	adv	_	_
+8	mitten	mitten	A	ADV	_	9	adv	_	_
+9	in	in	P	APPR	Dat	12	pp	_	_
+10	der	die	A	ART	Def|Fem|Dat|Sg	11	det	_	_
+11	Wienerstadt	Wienerstadt	N	NN	Fem|Dat|Sg	9	pn	_	_
+12	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|Nom|Sg	3	subj	_	_
+2	Daher	Daher	P	PROAV	_	1	pp	_	_
+3	komm	komm	V	VVFIN	_|Sg|_|_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daher	daher	P	PTKVZ	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Aber	aber	K	KON	_	0	root	_	_
+3	was	was	P	PWS	Neut|Nom|Sg	4	subj	_	_
+4	fällt	fallen	V	VVFIN	3|Sg|Pres|Ind	14	objc	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	4	objd	24	24
+6	denn	denn	A	ADV	_	4	adv	_	_
+7	ein	ein	P	PTKVZ	_	4	avz	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wenn	wenn	K	KOUS	_	12	konj	_	_
+10	wir	wir	P	PPER	1|Pl|_|Nom	12	subj	22	22
+11	da	da	A	ADV	_	12	adv	_	_
+12	ausrutschen	ausrutschen	V	VVFIN	1|Pl|Pres|_	4	neb	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	liegen	liegen	V	VVFIN	1|Pl|Pres|_	2	cj	_	_
+15	wir	wir	P	PPER	1|Pl|_|Nom	14	subj	22	22
+16	im	in	P	APPRART	Dat	14	objp	_	_
+17	Wasser	Wasser	N	NN	Neut|Dat|Sg	16	pn	23	23
+18	unten	unten	A	ADV	_	17	adv	23	23
+19	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|Nom|Sg	2	subj	3	3
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	4	obja	23	23
+4	gepackt	packen	V	VVPP	_	2	aux	_	_
+5	Ah	Ah	I	ITJ	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	0	root	24	24
+8	-	-	$	$(	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Halt	Halt	V	VVIMP	_	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	2	obja	24	24
+4	nur	nur	A	ADV	_	5	adv	_	_
+5	fest	fest	A	ADJD	Pos|	2	adv	_	_
+6	an	an	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	271	271
+2	Hab	Hab	N	NE	Masc|_|Sg	1	app	271	271
+3	kein	keine	A	PIAT	_|_|Sg	5	det	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	Angst	Angst	N	NN	Fem|_|Sg	0	root	_	_
+6	...	...	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Auf	auf	P	APPR	Dat	10	pp	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	_	_
+4	Bank	Bank	N	NN	Fem|Dat|Sg	2	pn	_	_
+5	wär	wär	F	FM	Fem|Dat|Sg	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_|_|_|Dat	10	objd	1	1
+8	schon	schon	A	ADV	_	10	adv	_	_
+9	besser	gut	A	ADJD	Comp|	10	pred	_	_
+10	gewesen	sein	V	VAPP	_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	_	_
+2	Da	da	A	ADV	_	1	adv	_	_
+3	oder	oder	K	KON	_	2	kon	_	_
+4	da	da	A	ADV	_	3	cj	_	_
+5	...	...	$	$.	_	0	root	_	_
+6	Na	Na	I	ITJ	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	krall	krall	F	FM	_	0	root	_	_
+9	aufi	aufi	F	FM	_	8	app	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	3	obja	_	_
+3	laufst	laufen	V	VVFIN	2|Sg|Pres|Ind	1	objc	_	_
+4	denn	denn	A	ADV	_	3	adv	_	_
+5	so	so	A	ADV	_	3	adv	_	_
+6	-	-	$	$(	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	3	3
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	25	25
+3	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	in	in	P	APPR	Acc	3	pp	_	_
+5	die	die	A	ART	Def|_|Acc|_	6	det	2	2
+6	Kasern	Kasern	N	NN	_|Acc|_	4	pn	2	2
+7	'	'	$	$(	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	25	25
+10	komm	komm	V	VVFIN	1|Sg|_|_	3	kon	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	eh	eh	A	ADJD	_	10	adv	_	_
+13	schon	schon	A	ADV	_	10	adv	_	_
+14	zu	zu	P	PTKA	_	15	adv	_	_
+15	spät	spät	A	ADJD	Pos|	10	adv	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	5	5
+2	Geh	Geh	N	NE	Fem|_|Sg	1	app	5	5
+3	,	,	$	$,	_	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	0	root	26	26
+5	,	,	$	$,	_	0	root	_	_
+6	wie	wie	P	PWAV	_	7	pred	_	_
+7	heißt	heißen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+8	denn	denn	A	ADV	_	7	adv	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	3	3
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	interessiert	interessieren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	3	obja	26	26
+5	denn	denn	A	ADV	_	3	adv	_	_
+6	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wie	wie	P	PWAV	_	0	root	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	0	root	27	27
+10	heiß	heiß	A	ADJD	Pos|	0	root	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Ich	ich	P	PPER	1|Sg|_|Nom	0	root	27	27
+3	heiß	heiß	A	ADJD	Pos|	5	adv	31	31
+4	'	'	$	$(	_	0	root	31	31
+5	Leocadia	Leocadia	N	NE	_	0	root	31	31
+6	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	28	28
+2	Ha	Ha	N	NE	Masc|_|Sg	1	app	28	28
+3	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	3	adv	_	_
+3	an	an	P	APPR	_	6	pp	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	Namen	Name	N	NN	Masc|_|_	3	pn	_	_
+6	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	27	27
+9	auch	auch	A	ADV	_	12	adv	_	_
+10	noch	noch	A	ADV	_	12	adv	_	_
+11	nie	nie	A	ADV	_	12	adv	_	_
+12	gehört	gehören	V	VVPP	_	6	aux	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	7	7
+2	Du	du	P	PPER	2|Sg|_|Nom	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	29	29
+2	Na	Na	N	NE	Masc|_|Sg	1	app	29	29
+3	,	,	$	$,	_	0	root	_	_
+4	was	was	P	PWS	Neut|_|Sg	5	obja	_	_
+5	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	2	rel	_	_
+6	denn	denn	A	ADV	_	5	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Fem|_|Sg	0	root	5	5
+2	Geh	Geh	N	NE	Fem|_|Sg	1	app	5	5
+3	,	,	$	$,	_	0	root	_	_
+4	ein	eine	A	ART	Indef|_|_|Sg	5	det	_	_
+5	Sechserl	Sechserl	N	NN	_|_|Sg	0	root	_	_
+6	für	für	P	APPR	Acc	5	pp	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	n	n	N	NN	_|Acc|_	6	pn	_	_
+9	Hausmeister	hausmeist	A	ADJA	_|_|_|_|St|	0	root	_	_
+10	gib	geben	V	VVIMP	Sg	0	root	_	_
+11	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	30	30
+12	wenigstens	wenigstens	A	ADV	_	11	adv	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|_|Sg	0	root	28	28
+2	Ha	Ha	N	NE	Masc|_|Sg	1	app	28	28
+3	!	!	$	$.	_	0	root	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Glaubst	glauben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	30	30
+4	bin	sein	V	VAFIN	1|Sg|Pres|Ind	1	s	_	_
+5	deine	deine	A	PPOSAT	_|Nom|_	6	det	_	_
+6	Wurzen	Wurz	N	NN	_|Nom|_	4	pred	_	_
+7	...	...	$	$.	_	0	root	_	_
+8	Servus	Servus	F	FM	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Leocadia	Leocadia	N	NE	_	0	root	31	31
+2	...	...	$	$.	_	0	root	_	_
+
+1	Dirne	Dirne	N	NN	Masc|_|Sg	0	root	_	_
+2	Strizzi	Strizzi	N	NN	Masc|_|Sg	1	app	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Fallott	Fallott	N	NN	Masc|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	verschwunden	verschwinden	V	VVPP	_	2	aux	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Prater	Prater	N	NE	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sonntagabend	Sonntagabend	N	NN	Masc|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	32	32
+2	Weg	Weg	N	NN	Masc|Nom|Sg	0	root	32	32
+3	,	,	$	$,	_	0	root	32	32
+4	der	die	P	PRELS	Masc|Nom|Sg	12	subj	32	32
+5	vom	von	P	APPRART	Dat	12	pp	_	_
+6	Wurstelprater	Wurstelprater	N	NN	_|Dat|_	5	pn	_	_
+7	aus	aus	A	APZR	_	5	part	_	_
+8	in	in	P	APPR	Acc	12	objp	_	_
+9	die	die	A	ART	Def|Fem|Acc|Pl	11	det	_	_
+10	dunkeln	dunkeln	A	ADJA	_|Fem|Acc|Pl|_	11	attr	_	_
+11	Alleen	Allee	N	NN	Fem|Acc|Pl	8	pn	_	_
+12	führt	führen	V	VVFIN	3|Sg|Pres|Ind	2	rel	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	hört	hören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	die	die	A	ART	Def|Fem|_|Sg	7	det	68	68
+6	wirre	wirr	A	ADJA	Pos|Fem|_|Sg|_|	7	attr	68	68
+7	Musik	Musik	N	NN	Fem|_|Sg	2	obja	68	68
+8	aus	aus	P	APPR	Dat	2	pp	_	_
+9	dem	die	A	ART	Def|_|Dat|Sg	10	det	_	_
+10	Wurstelprater	Wurstelprater	N	NN	_|Dat|Sg	8	pn	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	auch	auch	A	ADV	_	24	adv	_	_
+13	die	die	A	ART	Def|Masc|_|Pl	14	det	_	_
+14	Klänge	Klang	N	NN	Masc|_|Pl	24	obja	_	_
+15	vom	von	P	APPRART	Dat	14	pp	_	_
+16	Fünfkreuzertanz	Fünfkreuzertanz	N	NN	Masc|Dat|Sg	15	pn	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	eine	eine	A	ART	Indef|Fem|_|Sg	20	det	_	_
+19	ordinäre	ordinär	A	ADJA	Pos|Fem|_|Sg|_|	20	attr	_	_
+20	Polka	Polka	N	NN	Fem|_|Sg	14	app	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	von	von	P	APPR	Dat	24	pp	_	_
+23	Bläsern	Bläser	N	NN	Masc|Dat|Pl	22	pn	_	_
+24	gespielt	spielen	V	VVPP	_	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	33	33
+2	Soldat	Soldat	N	NN	Masc|Nom|Sg	0	root	33	33
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	83	83
+2	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|Sg	0	root	83	83
+3	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|_	0	root	34	34
+2	Jetzt	jetzt	A	ADV	_	3	adv	_	_
+3	sagen	sagen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	S	S	N	NN	Neut|Nom|Pl	3	subj	35	35
+5	'	'	$	$(	_	0	root	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	3	objd	807	807
+7	aber	aber	A	ADV	_	3	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	warum	warum	P	PWAV	_	14	adv	_	_
+10	S	S	N	NN	Neut|Nom|Pl	14	subj	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	durchaus	durchaus	A	ADV	_	14	adv	_	_
+13	schon	schon	A	ADV	_	14	adv	_	_
+14	haben	haben	V	VAFIN	3|Pl|Pres|_	3	objc	_	_
+15	fortgehen	fortgehen	V	VVINF	_	16	aux	_	_
+16	müssen	müssen	V	VMINF	_	14	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Soldat	Soldat	N	NN	Masc|Nom|Sg	2	subj	3	3
+2	lacht	lachen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	verlegen	verlegen	A	ADJD	Pos|	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	dumm	dumm	A	ADJD	Pos|	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|_	0	root	34	34
+2	Es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	doch	doch	A	ADV	_	7	adv	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	schön	schön	A	ADJD	Pos|	7	pred	_	_
+7	gewesen	sein	V	VAPP	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+

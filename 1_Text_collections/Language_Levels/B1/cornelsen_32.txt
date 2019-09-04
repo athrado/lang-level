@@ -1,0 +1,70 @@
+1	Gegen	gegen	PREP	APPR	Acc	0	root	_	-
+2	die	die	ART	ART	Def|Fem|Acc|Sg	3	det	_	-
+3	Einsamkeit	Einsamkeit	N	NN	Fem|Acc|Sg	1	pn	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Margot	Margot	N	NE	_|Nom|Sg	3	subj	_	(0
+2	Stein	Stein	N	NE	_|Nom|Sg	1	app	_	0)
+3	arbeitet	arbeiten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	seit	seit	PREP	APPR	Dat	3	pp	_	-
+5	10	10	CARD	CARD	_	6	attr	_	(2
+6	Jahren	Jahr	N	NN	Neut|Dat|Pl	4	pn	_	2)
+7	für	für	PREP	APPR	Acc	3	pp	_	-
+8	den	die	ART	ART	Def|_|_|_	10	det	_	-
+9	Kreuzberger	Kreuzberger	ADJA	ADJA	Pos|Masc|Acc|Pl|_|	10	attr	_	-
+10	Verein	Verein	N	NN	Masc|Acc|Pl	7	pn	_	-
+11	Freunde	Freund	N	NN	Masc|Acc|Pl	10	app	_	-
+12	alter	alt	ADJA	ADJA	Pos|Masc|Gen|Pl|St|	13	attr	_	-
+13	Menschen	Mensch	N	NN	Masc|Gen|Pl	11	gmod	_	-
+14	e.V.	e.V.	N	NE	Masc|Gen|Pl	13	app	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(0)
+2	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	:	\:	$.	$.	_	0	root	_	-
+4	Menschen	Mensch	N	NN	Masc|Nom|Pl	12	subj	_	(1
+5	,	,	$,	$,	_	0	root	_	-
+6	die	die	PRO	PRELS	Masc|Nom|Pl	10	subj	_	(1)
+7	im	in	PREP	APPRART	Dat	10	pp	_	-
+8	Alter	Alter	N	NN	_|Dat|Sg	7	pn	_	-
+9	alleine	alleine	ADV	ADV	_	8	adv	_	-
+10	sind	sein	V	VAFIN	3|Pl|Pres|Ind	4	rel	_	1)
+11	,	,	$,	$,	_	0	root	_	-
+12	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+13	sich	sie	PRO	PRF	3|_|Dat	19	objd	_	-
+14	nicht	nicht	PTKNEG	PTKNEG	_	19	adv	_	-
+15	mehr	mehr	ADV	ADV	_	14	adv	_	-
+16	so	so	ADV	ADV	_	17	adv	_	-
+17	gut	gut	ADV	ADJD	Pos|	19	adv	_	-
+18	selbst	selbst	ADV	ADV	_	19	adv	_	-
+19	helfen	helfen	V	VVINF	_	12	aux	_	-
+20	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(2)
+2	brauchen	brauchen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	jemanden	jemand	PRO	PIS	Masc|Acc|Sg	2	obja	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	der	die	PRO	PRELS	Masc|Nom|Sg	7	subj	_	-
+6	regelmäßig	regelmäßig	ADV	ADJD	Pos|	7	adv	_	-
+7	vorbeikommt	vorbeikommen	V	VVFIN	3|Sg|Pres|Ind	3	rel	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Einfach	einfach	ADV	ADJD	Pos|	0	root	_	-
+2	nur	nur	ADV	ADV	_	1	adv	_	-
+3	so	so	ADV	ADV	_	1	adv	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Zum	zu	PREP	APPRART	Dat	0	root	_	-
+2	Erzählen	Erzählen	N	NN	Neut|Dat|Sg	1	pn	_	-
+3	etwa	etwa	ADV	ADV	_	2	adv	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Darum	Darum	PROAV	PROAV	_	2	pp	_	-
+2	organisiert	organisieren	V	VVFIN	_|_|Pres|Ind	0	root	_	-
+3	die	die	ART	ART	Def|Masc|_|Pl	5	det	_	-
+4	57-Jährige	57-jährig	ADJA	ADJA	Pos|Masc|_|Pl|St|	5	attr	_	-
+5	Besucherdienste	Besucherdienst	N	NN	Masc|_|Pl	2	obja	_	-
+6	für	für	PREP	APPR	Acc	5	pp	_	-
+7	Berliner	Berliner	ADJA	ADJA	Pos|_|Acc|_|_|	8	attr	_	-
+8	Senioren	Senior	N	NN	_|Acc|_	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+

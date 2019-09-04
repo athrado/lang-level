@@ -1,0 +1,149 @@
+1	Um	Um	KOUI	KOUI	_	4	konj	_	-
+2	gesund	gesund	ADV	ADJD	Pos|	4	pred	_	-
+3	zu	zu	PTKZU	PTKZU	_	4	part	_	-
+4	bleiben	bleiben	V	VVINF	_	6	neb	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	-
+7	man	man	PRO	PIS	_|Nom|Sg	6	subj	_	-
+8	verschiedene	verschieden	ADJA	ADJA	Pos|Neut|_|Pl|St|	9	attr	_	-
+9	Dinge	Ding	N	NN	Neut|_|Pl	10	obja	_	-
+10	beachten	beachten	V	VVINF	_	6	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Dazu	Dazu	PROAV	PROAV	_	2	objp	_	-
+2	gehört	gehören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|Nom|Sg	5	det	_	-
+4	gesunde	gesund	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	5	attr	_	-
+5	Ernährung	Ernährung	N	NN	Fem|Nom|Sg	2	subj	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|_	10	expl	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	wichtig	wichtig	ADV	ADJD	Pos|	2	pred	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	täglich	täglich	ADV	ADJD	Pos|	10	adv	_	-
+6	Obst	Obst	N	NN	Neut|_|Sg	10	obja	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	Gemüse	Gemüse	N	NN	Neut|_|_	7	cj	_	-
+9	zu	zu	PTKZU	PTKZU	_	10	part	_	-
+10	essen	essen	V	VVINF	_	2	subjc	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Zucker	Zucker	N	NN	Masc|Nom|Pl	4	subj	_	-
+2	und	und	KON	KON	_	1	kon	_	-
+3	Fleisch	Fleisch	N	NN	Neut|Nom|Sg	2	cj	_	-
+4	sollten	sollen	V	VMFIN	3|Pl|Past|_	0	root	_	-
+5	nur	nur	ADV	ADV	_	7	adv	_	-
+6	selten	selten	ADV	ADJD	Pos|	7	adv	_	-
+7	verspeist	verspeisen	V	VVPP	_	8	aux	_	-
+8	werden	werden	V	VAINF	_	4	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Außerdem	Außerdem	PROAV	PROAV	_	2	pp	_	-
+2	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	man	man	PRO	PIS	_|Nom|Sg	2	subj	_	-
+4	viel	viel	ART	PIDAT	Neut|_|_	5	det	_	-
+5	Wasser	Wasser	N	NN	Neut|_|_	6	obja	_	-
+6	trinken	trinken	V	VVINF	_	2	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Zwei	zwei	CARD	CARD	_	2	attr	_	(0
+2	Liter	Liter	N	NN	_|Nom|Pl	5	subj	_	-
+3	pro	pro	PREP	APPR	Dat	2	pp	_	-
+4	Tag	Tag	N	NN	_|Dat|Sg	3	pn	_	0)|(3)
+5	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+6	ideal	ideal	ADV	ADJD	Pos|	5	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ein	ein	ART	ART	Indef|Masc|Nom|Sg	3	det	_	-
+2	gesunder	gesund	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	-
+3	Körper	Körper	N	NN	Masc|Nom|Sg	4	subj	_	-
+4	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	ausreichend	ausreichend	ADV	ADJD	_|_	4	adv	_	-
+6	Bewegung	Bewegung	N	NN	Fem|_|Sg	4	obja	_	(2)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Man	man	PRO	PIS	_|Nom|Sg	2	subj	_	-
+2	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	-
+3	mindestens	mindestens	ADV	ADV	_	9	adv	_	-
+4	zwei	zwei	CARD	CARD	_	5	attr	_	-
+5	mal	mal	ADV	ADV	_	9	adv	_	-
+6	pro	pro	PREP	APPR	Dat	9	pp	_	-
+7	Woche	Woche	N	NN	Fem|Dat|Sg	6	pn	_	-
+8	Sport	Sport	N	NN	Masc|_|Sg	9	obja	_	(1)
+9	treiben	treiben	V	VVINF	_	2	aux	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	um	um	KOUI	KOUI	_	14	konj	_	-
+12	fit	fit	ADV	ADJD	_	14	pred	_	-
+13	zu	zu	PTKZU	PTKZU	_	14	part	_	-
+14	bleiben	bleiben	V	VVINF	_	2	neb	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Menschen	Mensch	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	sagen	sagen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	dass	dass	KOUS	KOUS	_	11	konj	_	-
+6	sie	sie	PRO	PPER	3|Pl|_|Nom	11	subj	_	(0)
+7	keine	keine	ART	PIAT	Fem|_|Sg	8	det	_	-
+8	Zeit	Zeit	N	NN	Fem|_|Sg	11	obja	_	-
+9	für	für	PREP	APPR	Acc	8	pp	_	-
+10	Sport	Sport	N	NN	Masc|Acc|Sg	9	pn	_	(1)
+11	haben	haben	V	VAFIN	3|Pl|Pres|_	3	objc	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Oft	oft	ADV	ADV	_	2	adv	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+4	eine	eine	ART	ART	Indef|Fem|Nom|Sg	5	det	_	-
+5	Ausrede	Ausrede	N	NN	Fem|Nom|Sg	2	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Dabei	Dabei	PROAV	PROAV	_	2	pp	_	-
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Sport	Sport	N	NN	Masc|Nom|Sg	2	subj	_	(1)
+4	Spaß	Spaß	N	NN	Masc|_|Sg	5	obja	_	-
+5	machen	machen	V	VVINF	_	2	aux	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	denn	denn	KON	KON	_	2	kon	_	-
+8	Bewegung	Bewegung	N	NN	Fem|Nom|Sg	9	subj	_	(2)
+9	tut	tun	V	VVFIN	3|Sg|Pres|Ind	7	cj	_	-
+10	gut	gut	ADV	ADJD	Pos|	9	pred	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Genauso	genauso	ADV	ADV	_	2	adv	_	-
+2	wichtig	wichtig	ADV	ADJD	Pos|	3	pred	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	ein	eine	ART	ART	Indef|Masc|Nom|Sg	6	det	_	-
+5	erholsamer	erholsam	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	_	-
+6	Schlaf	Schlaf	N	NN	Masc|Nom|Sg	3	subj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Als	Als	KOKOM	KOKOM	_	10	kom	_	-
+2	Erwachsener	Erwachsene	N	NN	_|_|_	1	cj	_	-
+3	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	-
+4	man	man	PRO	PIS	_|Nom|Sg	3	subj	_	-
+5	mindestens	mindestens	ADV	ADV	_	7	adv	_	-
+6	sieben	sieben	CARD	CARD	_	7	attr	_	-
+7	Stunden	Stunde	N	NN	Fem|_|Pl	10	zeit	_	-
+8	pro	pro	PREP	APPR	Dat	10	pp	_	-
+9	Tag	Tag	N	NN	_|Dat|Sg	8	pn	_	(3)
+10	schlafen	schlafen	V	VVINF	_	3	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Vor	vor	PREP	APPR	Dat	3	pp	_	-
+2	allem	alle	PRO	PIS	_|Dat|Sg	1	pn	_	-
+3	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	-
+4	man	man	PRO	PIS	_|Nom|Sg	3	subj	_	-
+5	auf	auf	PREP	APPR	_	9	objp	_	-
+6	Alkohol	Alkohol	N	NN	Masc|_|Sg	5	pn	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	Zigaretten	Zigarette	N	NN	Fem|_|Pl	7	cj	_	-
+9	verzichten	verzichten	V	VVINF	_	3	aux	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	um	um	KOUI	KOUI	_	14	konj	_	-
+12	gesund	gesund	ADV	ADJD	Pos|	14	pred	_	-
+13	zu	zu	PTKZU	PTKZU	_	14	part	_	-
+14	bleiben	bleiben	V	VVINF	_	3	neb	_	-
+15	.	.	$.	$.	_	0	root	_	-
+

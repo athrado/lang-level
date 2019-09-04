@@ -1,0 +1,396 @@
+1	Und	und	K	KON	_	0	root	_	_
+2	nun	nun	A	ADV	_	3	adv	_	_
+3	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	alles	alle	P	PIS	Neut|Nom|Sg	3	subj	_	_
+5	geradeso	geradeso	A	ADJD	_	3	pred	_	_
+6	aus	aus	P	PTKVZ	_	3	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wie	wie	P	PWAV	_	12	adv	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	13	subj	176	176
+10	es	es	P	PPER	3|Sg|Neut|_	12	obja	_	_
+11	damals	damals	A	ADV	_	12	adv	_	_
+12	geschildert	schildern	V	VVPP	_	13	aux	_	_
+13	haben	haben	V	VAFIN	3|Pl|Pres|_	3	objc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	176	176
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	in	in	P	APPR	Acc	2	objp	_	_
+6	diese	diese	A	PDAT	Fem|Acc|Sg	7	det	_	_
+7	Gegend	Gegend	N	NN	Fem|Acc|Sg	5	pn	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	382	382
+2	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	jetzt	jetzt	A	ADV	_	2	adv	_	_
+4	oft	oft	A	ADV	_	2	adv	_	_
+5	allein	allein	A	ADV	_	6	adv	_	_
+6	spazieren	spazieren	V	VVINF	_	2	obji	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	seit	seit	P	APPR	Dat	10	pp	_	_
+9	Mama	Mama	N	NN	Fem|Dat|Sg	8	pn	177	177
+10	krank	krank	A	ADJD	Pos|	11	pred	_	_
+11	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wann	wann	P	PWAV	_	3	adv	_	_
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	1	cj	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+5	denn	denn	A	ADV	_	9	adv	_	_
+6	an	an	P	APPR	Dat	9	pp	_	_
+7	meinem	meine	A	PPOSAT	Neut|Dat|Sg	8	det	_	_
+8	Haus	Haus	N	NN	Neut|Dat|Sg	6	pn	_	_
+9	vorübergekommen	vorüberkommen	V	VVPP	_	3	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	lange	lange	A	ADJD	_	2	adv	_	_
+5	her	her	P	PTKVZ	_	2	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	382	382
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ringsherum	ringsherum	A	ADV	_	4	adv	_	_
+4	gegangen	gehen	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Ringsherum	ringsherum	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	auch	auch	A	ADV	_	7	adv	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	6	det	178	178
+5	kleine	klein	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	178	178
+6	Tür	Tür	N	NN	Fem|_|Sg	7	obja	178	178
+7	gesehen	sehen	V	VVPP	_	1	aux	178	178
+8	,	,	$	$,	_	0	root	178	178
+9	die	die	P	PRELS	Fem|Nom|Sg	14	subj	178	178
+10	direkt	direkt	A	ADJD	Pos|	11	adv	_	_
+11	in	in	P	APPR	Acc	14	pp	_	_
+12	den	die	A	ART	Def|Masc|Acc|Sg	13	det	179	179
+13	Wald	Wald	N	NN	Masc|Acc|Sg	11	pn	179	179
+14	hinausführt	hinausführen	V	VVFIN	3|Sg|Pres|Ind	6	rel	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	von	von	P	APPR	_	6	pp	_	_
+4	dort	dort	A	ADV	_	3	adv	_	_
+5	aus	aus	A	APZR	_	3	part	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	cj	_	_
+7	das	die	A	ART	Def|Neut|Nom|Sg	8	det	21	21
+8	Haus	Haus	N	NN	Neut|Nom|Sg	6	subj	21	21
+9	beinahe	beinahe	A	ADV	_	10	adv	_	_
+10	unsichtbar	unsichtbar	A	ADJD	Pos|	6	pred	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	_	_
+2	Laub	Laub	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	dicht	dicht	A	ADJD	Pos|	3	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wo	Wo	P	PWAV	_	3	adv	_	_
+3	mögen	mögen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+4	denn	denn	A	ADV	_	8	adv	_	_
+5	die	die	A	ART	Def|Fem|Nom|Pl	7	det	818	818
+6	römischen	römisch	A	ADJA	Pos|Fem|Nom|Pl|Wk|	7	attr	818	818
+7	Kaiserbüsten	Kaiserbüste	N	NN	Fem|Nom|Pl	3	subj	818	818
+8	sein	sein	V	VAINF	_	3	aux	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	_|Nom|Pl	2	subj	_	_
+2	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	auf	auf	P	APPR	_	2	objp	_	_
+4	Säulen	Säule	N	NN	Fem|_|Pl	3	pn	692	692
+5	am	an	P	APPRART	Dat	4	pp	692	692
+6	Eingang	Eingang	N	NN	_|Dat|Sg	5	pn	692	692
+7	einer	eine	A	ART	Indef|Fem|Gen|Sg	8	det	885	885
+8	Allee	Allee	N	NN	Fem|Gen|Sg	6	gmod	692	692
+9	.	.	$	$.	_	0	root	_	_
+
+1	Gleich	gleich	A	ADJD	Pos|	3	pred	_	_
+2	daneben	daneben	P	PROAV	_	1	pp	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	6	det	_	_
+5	kleine	klein	A	ADJA	Pos|Fem|Nom|Sg|_|	6	attr	_	_
+6	Marmorbank	Marmorbank	N	NN	Fem|Nom|Sg	3	subj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	und	und	K	KON	_	3	kon	_	_
+9	vor	vor	P	APPR	Dat	12	pp	_	_
+10	der	die	A	ART	Def|Fem|Dat|Sg	11	det	_	_
+11	Marmorbank	Marmorbank	N	NN	Fem|Dat|Sg	9	pn	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	8	cj	_	_
+13	ein	eine	A	ART	Indef|Masc|Nom|Sg	15	det	691	691
+14	kleiner	klein	A	ADJA	Pos|Masc|Nom|Sg|St|	15	attr	691	691
+15	Teich	Teich	N	NN	Masc|Nom|Sg	12	subj	691	691
+16	angelegt	anlegen	V	VVPP	_	12	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|Nom|Sg	2	subj	2	2
+2	nickt	nicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	5	adv	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	_	_
+3	uns	wir	P	PPER	1|Pl|_|Dat	5	objd	_	_
+4	damals	damals	A	ADV	_	5	adv	_	_
+5	erzählten	erzählen	V	VVFIN	3|Pl|Past|_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	das	die	A	ART	Def|Neut|Nom|Sg	3	det	707	707
+3	Wasser	Wasser	N	NN	Neut|Nom|Sg	4	subj	707	707
+4	schimmert	schimmern	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	grünlichgrau	grünlichgrau	A	ADJD	Pos|	4	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	und	und	K	KON	_	0	root	_	_
+2	des	die	A	ART	Def|Masc|Gen|Sg	3	det	180	180
+3	Morgens	Morgen	N	NN	Masc|Gen|Sg	1	cj	180	180
+4	fallen	fallen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	die	die	A	ART	Def|Masc|Nom|Pl	6	det	961	961
+6	Schatten	Schatten	N	NN	Masc|Nom|Pl	4	subj	961	961
+7	der	die	A	ART	Def|Fem|Gen|Pl	8	det	962	962
+8	Buchen	Buche	N	NN	Fem|Gen|Pl	6	gmod	961	961
+9	drüber	drüber	A	ADV	_	4	adv	_	_
+10	hin	hin	P	PTKVZ	_	4	avz	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	382	382
+3	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	_	_
+2	blickt	blicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	APPR	Dat	2	pp	_	_
+4	ihm	er	P	PPER	3|Sg|_|Dat	3	pn	180	180
+5	auf	auf	P	PTKVZ	_	2	avz	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	lächelt	lächeln	V	VVFIN	_|_|Pres|_	6	cj	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Beide	beide	P	PIS	_|Nom|Pl	2	subj	_	_
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	weiter	weiter	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Vorhang	Vorhang	N	NN	Masc|_|Sg	0	root	491	491
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bei	bei	P	APPR	Dat	0	root	_	_
+2	Julian	Julian	N	NE	_|Dat|_	1	pn	123	123
+3	Fichtner	Fichtner	N	NE	_|Dat|_	2	app	123	123
+4	.	.	$	$.	_	0	root	_	_
+
+1	Behagliches	Behagliches	N	NN	Neut|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	recht	recht	A	ADJD	Pos|	4	adv	_	_
+4	vornehmes	vornehm	A	ADJA	Pos|Neut|_|Sg|St|	5	attr	_	_
+5	Zimmer	Zimmer	N	NN	Neut|_|Sg	1	app	_	_
+6	in	in	P	APPR	Dat	5	pp	_	_
+7	einiger	einige	A	PIAT	Fem|Dat|Sg	8	det	_	_
+8	Unordnung	Unordnung	N	NN	Fem|Dat|Sg	6	pn	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Große	groß	A	ADJA	Pos|Masc|_|Pl|St|	2	attr	_	_
+2	Bücherschränke	Bücherschrank	N	NN	Masc|_|Pl	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Dat	4	pp	_	_
+2	zwei	zwei	C	CARD	_	3	attr	_	_
+3	Stühlen	Stuhl	N	NN	Masc|Dat|Pl	1	pn	_	_
+4	liegen	liegen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Bücher	Buch	N	NN	_|Nom|Pl	4	subj	182	182
+6	geschichtet	schichten	V	VVPP	_	4	neb	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	auf	auf	P	APPR	Dat	6	pp	_	_
+9	einem	eine	A	ART	Indef|_|Dat|Sg	10	det	_	_
+10	andern	andern	A	ADJA	_|Dat|Sg	8	pn	_	_
+11	eine	eine	A	ART	Indef|Fem|_|Sg	13	det	327	327
+12	geöffnete	geöffnet	A	ADJA	Pos|Fem|_|Sg|_|	13	attr	327	327
+13	Reisetasche	Reisetasche	N	NN	Fem|_|Sg	0	root	327	327
+14	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+3	vor	vor	P	APPR	Dat	2	pp	129	129
+4	dem	die	A	ART	Def|Masc|Dat|Sg	5	det	181	181
+5	Schreibtisch	Schreibtisch	N	NN	Masc|Dat|Sg	3	pn	129	129
+6	,	,	$	$,	_	0	root	_	_
+7	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	Papiere	Papier	N	NN	Neut|_|_	7	obja	413	413
+9	aus	aus	P	APPR	Dat	7	pp	_	_
+10	den	die	A	ART	Def|_|Dat|Pl	11	det	_	_
+11	Laden	Lade	N	NN	_|Dat|Pl	9	pn	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	einige	einige	P	PIS	_|_|_	14	obja	_	_
+14	zerreißt	zerreißen	V	VVFIN	3|Sg|Pres|Ind	7	kon	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	14	subj	181	181
+16	und	und	K	KON	_	14	kon	_	_
+17	wirft	werfen	V	VVFIN	3|Sg|Pres|Ind	16	cj	_	_
+18	sie	sie	P	PPER	3|_|_|_	17	obja	182	182
+19	in	in	P	APPR	Acc	17	objp	_	_
+20	den	die	A	ART	Def|Masc|Acc|Sg	21	det	_	_
+21	Papierkorb	Papierkorb	N	NN	Masc|Acc|Sg	19	pn	_	_
+22	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	und	und	K	KON	_	1	kon	_	_
+3	Diener	Diener	N	NN	Masc|_|_	2	cj	269	269
+4	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	26	26
+2	Sala	Sala	N	NE	_	0	root	26	26
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	382	382
+2	Diener	Diener	N	NN	Masc|Nom|Sg	3	subj	382	382
+3	meldet	melden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+2	von	von	P	APPR	_	1	pp	_	_
+3	Sala	Sala	N	NE	_|_|_	2	pn	26	26
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ab	ab	P	PTKVZ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_|Nom|Sg	2	subj	26	26
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	ein	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Salas	Salas	N	NE	_|Gen|_	3	gmod	272	272
+3	Gewohnheit	Gewohnheit	N	NN	Fem|_|Sg	0	root	272	272
+4	,	,	$	$,	_	0	root	_	_
+5	im	in	P	APPRART	Dat	0	root	_	_
+6	Gespräch	Gespräch	N	NN	Neut|Dat|Sg	5	pn	_	_
+7	auf	auf	P	PTKVZ	_	0	root	_	_
+8	und	und	K	KON	_	0	root	_	_
+9	ab	ab	P	PTKVZ	_	0	root	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	gehen	gehen	V	VVINF	_	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+14	während	während	P	APPR	_	13	pp	_	_
+15	dieser	diese	A	PDAT	Fem|_|Sg	16	det	183	183
+16	Szene	Szene	N	NN	Fem|_|Sg	14	pn	183	183
+17	sehr	sehr	A	ADV	_	13	adv	_	_
+18	hervor	hervor	P	PTKVZ	_	13	avz	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Gelegentlich	gelegentlich	A	ADJD	Pos|	2	adv	_	_
+2	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	26	26
+4	sich	sie	P	PRF	3|_|_	2	obja	_	_
+5	für	für	P	APPR	Acc	2	pp	_	_
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	7	det	_	_
+7	Augenblick	Augenblick	N	NN	Masc|Acc|Sg	5	pn	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	manchmal	manchmal	A	ADV	_	10	adv	_	_
+10	nur	nur	A	ADV	_	5	kon	_	_
+11	auf	auf	P	APPR	Acc	2	objp	_	_
+12	eine	eine	A	ART	Indef|Fem|Acc|Sg	13	det	_	_
+13	Lehne	Lehne	N	NN	Fem|Acc|Sg	11	pn	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Zuweilen	zuweilen	A	ADV	_	2	adv	_	_
+2	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	26	26
+4	bei	bei	P	APPR	Dat	6	pp	_	_
+5	Julian	Julian	N	NE	Masc|Dat|Sg	4	pn	129	129
+6	stehen	stehen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	legt	legen	V	VVFIN	_|_|Pres|Ind	6	kon	_	_
+9	ihm	er	P	PPER	3|Sg|_|Dat	8	objd	26	26
+10	die	die	A	ART	Def|Fem|_|Sg	11	det	184	184
+11	Hand	Hand	N	NN	Fem|_|Sg	8	obja	184	184
+12	auf	auf	P	APPR	Acc	8	objp	_	_
+13	die	die	A	ART	Def|_|Acc|_	14	det	695	695
+14	Schulter	Schulter	N	NN	_|Acc|_	12	pn	695	695
+15	,	,	$	$,	_	0	root	_	_
+16	während	während	K	KOUS	_	18	konj	_	_
+17	er	er	P	PPER	3|Sg|Masc|Nom	18	subj	26	26
+18	spricht	sprechen	V	VVFIN	3|Sg|Pres|Ind	8	neb	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Zwei-	Zwei-	T	TRUNC	_	0	root	_	_
+2	bis	bis	P	APPR	Acc	0	root	_	_
+3	dreimal	dreimal	A	ADV	_	4	adv	_	_
+4	während	während	P	APPR	_	7	pp	_	_
+5	der	die	A	ART	Def|Fem|_|Sg	6	det	183	183
+6	Szene	Szene	N	NN	Fem|_|Sg	4	pn	183	183
+7	berührt	berühren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	7	subj	26	26
+9	mit	mit	P	APPR	Dat	7	pp	_	_
+10	der	die	A	ART	Def|Fem|Dat|Sg	11	det	184	184
+11	Hand	Hand	N	NN	Fem|Dat|Sg	9	pn	184	184
+12	seine	seine	A	PPOSAT	Fem|_|Sg	14	det	26	26
+13	linke	link	A	ADJA	Pos|Fem|_|Sg|_|	14	attr	_	_
+14	Brustseite	Brustseite	N	NN	Fem|_|Sg	7	obja	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	als	als	K	KOKOM	_	17	konj	_	_
+17	empfände	empfinden	V	VVFIN	3|Sg|Past|Subj	7	neb	_	_
+18	er	er	P	PPER	3|Sg|Masc|Nom	17	subj	26	26
+19	dort	dort	A	ADV	_	17	adv	_	_
+20	ein	eine	A	ART	Indef|Neut|_|Sg	21	det	_	_
+21	Unbehagen	Unbehagen	N	NN	Neut|_|Sg	17	obja	_	_
+22	;	;	$	$.	_	0	root	_	_
+23	nicht	nicht	P	PTKNEG	_	24	adv	_	_
+24	auffällig	auffällig	A	ADJD	Pos|	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+

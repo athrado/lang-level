@@ -1,0 +1,431 @@
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	236	236
+2	Bühne	Bühne	N	NN	Fem|_|Sg	0	root	236	236
+3	leer	leer	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	aus	aus	P	APPR	Dat	2	objp	_	_
+4	seinem	seine	A	PPOSAT	Neut|Dat|Sg	5	det	5	5
+5	Zimmer	Zimmer	N	NN	Neut|Dat|Sg	3	pn	_	_
+6	links	links	A	ADV	_	3	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	angekleidet	ankleiden	V	VVPP	_	2	neb	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	aber	aber	K	KON	_	0	root	_	_
+11	im	in	P	APPRART	Dat	10	cj	_	_
+12	Morgenrock	Morgenrock	N	NN	Masc|Dat|Sg	11	pn	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	langsam	langsam	A	ADJD	Pos|	1	adv	_	_
+3	nachdenklich	nachdenklich	A	ADJD	Pos|	1	pred	_	_
+4	durchs	durch	P	APPRART	Acc	1	objp	_	_
+5	Zimmer	Zimmer	N	NN	Neut|Acc|_	4	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	zum	zu	P	APPRART	Dat	5	pp	_	_
+8	Schreibtisch	Schreibtisch	N	NN	Masc|Dat|Sg	7	pn	259	259
+9	.	.	$	$.	_	0	root	_	_
+
+1	Nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	die	die	A	ART	Def|Masc|_|Pl	3	det	506	506
+3	Briefe	Brief	N	NN	Masc|_|Pl	1	obja	506	506
+4	auf	auf	P	PTKVZ	_	1	avz	506	506
+5	,	,	$	$,	_	0	root	506	506
+6	die	die	P	PRELS	Masc|Nom|Pl	8	subj	506	506
+7	dort	dort	A	ADV	_	8	adv	_	_
+8	liegen	liegen	V	VVFIN	3|Pl|Pres|_	3	rel	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	und	und	K	KON	_	8	kon	_	_
+11	legt	legen	V	VVFIN	3|Sg|Pres|Ind	10	cj	_	_
+12	sie	sie	P	PPER	3|Sg|Fem|Nom	11	subj	_	_
+13	wieder	wieder	A	ADV	_	11	adv	_	_
+14	hin	hin	P	PTKVZ	_	11	avz	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	259	259
+2	fröstelt	frösteln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+5	sich	sie	P	PRF	3|_|_	4	obja	_	_
+6	um	um	P	PTKVZ	_	4	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	merkt	merken	V	VVFIN	_|_|Pres|Ind	4	kon	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	daß	daß	K	KOUS	_	0	root	_	_
+11	das	die	A	ART	Def|Neut|_|Sg	12	det	507	507
+12	Fenster	Fenster	N	NN	Neut|_|Sg	0	root	507	507
+13	offen	offen	A	ADJD	Pos|	0	root	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	und	und	K	KON	_	0	root	_	_
+16	schließt	schließen	V	VVFIN	3|Sg|Pres|Ind	15	cj	_	_
+17	es	es	P	PPER	3|Sg|Neut|Nom	16	subj	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	zu	zu	P	APPR	Dat	0	root	_	_
+3	Cäciliens	Cäciliens	N	NN	Fem|Dat|Sg	2	pn	_	_
+4	Türe	Türe	N	NN	Fem|Dat|Sg	3	app	_	_
+5	und	und	K	KON	_	0	root	_	_
+6	lauscht	lauschen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	zum	zu	P	APPRART	Dat	0	root	_	_
+3	Schreibtisch	Schreibtisch	N	NN	Masc|Dat|Sg	2	pn	259	259
+4	,	,	$	$,	_	0	root	_	_
+5	beginnt	beginnen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+6	aus	aus	P	APPR	Dat	5	pp	_	_
+7	den	die	A	ART	Def|Neut|Dat|Pl	8	det	_	_
+8	Pulten	Pult	N	NN	Neut|Dat|Pl	6	pn	_	_
+9	die	die	A	ART	Def|Neut|_|Pl	10	det	_	_
+10	Manuskripte	Manuskript	N	NN	Neut|_|Pl	12	obja	_	_
+11	zu	zu	P	PTKZU	_	12	part	_	_
+12	nehmen	nehmen	V	VVINF	_	5	obji	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Machen	machen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+2	wir	wir	P	PPER	1|Pl|_|Nom	1	subj	_	_
+3	Ordnung	Ordnung	N	NN	Fem|_|Sg	1	obja	382	382
+4	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	nur	nur	A	ADV	_	5	adv	_	_
+5	werden	werden	V	VAINF	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	Von	von	P	APPR	_	9	pp	_	_
+4	der	die	A	ART	Def|Fem|_|Sg	5	det	508	508
+5	Reise	Reis	N	NN	Fem|_|Sg	3	pn	508	508
+6	aus	aus	P	APPR	Dat	5	pp	508	508
+7	werd	werd	A	ADJA	_|_|Dat|_|_	6	pn	508	508
+8	'	'	$	$(	_	0	root	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	0	root	509	509
+10	ihr	ihr	P	PPER	3|Sg|Fem|Dat	11	objd	508	508
+11	schreiben	schreiben	V	VVINF	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Hierher	hierher	A	ADV	_	2	adv	_	_
+2	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	509	509
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	zurück	zurück	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	509	509
+2	könnte	können	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	5	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	ertragen	ertragen	V	VVINF	_	2	aux	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	ertragen	ertragen	V	VVINF	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ein	ein	A	ART	Indef|Neut|_|Sg	3	det	787	787
+3	Manuskript	Manuskript	N	NN	Neut|_|Sg	0	root	787	787
+4	in	in	P	APPR	Dat	3	pp	787	787
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	56	56
+6	Hand	Hand	N	NN	Fem|Dat|Sg	4	pn	56	56
+7	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	393	393
+2	Solo	Solo	N	NN	Neut|_|Sg	0	root	393	393
+3	-	-	$	$(	_	0	root	_	_
+4	ihr	ihre	A	PPOSAT	Neut|_|Sg	5	det	56	56
+5	Solo	Solo	N	NN	Neut|_|Sg	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	509	509
+3	werde	werden	V	VAFIN	1|Sg|Pres|_	1	cj	_	_
+4	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+5	dabei	dabei	P	PROAV	_	6	pp	_	_
+6	sein	sein	V	VAINF	_	3	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wenn	wenn	K	KOUS	_	11	konj	_	_
+9	sie	sie	P	PPER	3|Sg|Fem|Nom	11	subj	56	56
+10	es	es	P	PPER	3|Sg|Neut|_	11	obja	_	_
+11	singt	singen	V	VVFIN	3|Sg|Pres|Ind	3	neb	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|Nom|Sg	2	subj	276	276
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	ein	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|Nom|Pl	2	det	510	510
+2	Leute	Leute	N	NN	_|Nom|Pl	3	subj	510	510
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	510	510
+4	da	da	A	ADV	_	3	adv	510	510
+5	,	,	$	$,	_	0	root	510	510
+6	die	die	P	PRELS	_|Nom|Pl	10	subj	510	510
+7	die	die	A	ART	Def|Masc|_|Pl	8	det	_	_
+8	Koffer	Koffer	N	NN	Masc|_|Pl	9	obja	_	_
+9	fortbringen	fortbringen	V	VVINF	_	10	aux	_	_
+10	sollen	sollen	V	VMFIN	3|Pl|Pres|_	2	rel	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	_	_
+4	Schein	Schein	N	NN	Masc|Nom|Sg	2	subj	_	_
+5	vom	von	P	APPRART	Dat	4	pp	_	_
+6	Spediteur	Spediteur	N	NN	_|Dat|_	5	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	gut	gut	A	ADJD	Pos|	2	pred	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Pl	4	det	357	357
+4	Sachen	Sache	N	NN	Fem|_|Pl	8	obja	357	357
+5	über	über	P	APPR	Acc	8	pp	_	_
+6	die	die	A	ART	Def|Fem|Acc|Sg	7	det	_	_
+7	Hintertreppe	Hintertreppe	N	NN	Fem|Acc|Sg	5	pn	_	_
+8	wegschaffen	wegschaffen	V	VVINF	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Stubenmädchen	Stubenmädchen	N	NN	Neut|_|_	0	root	239	239
+2	ab	ab	P	PTKVZ	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wenn	wenn	K	KOUS	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	512	512
+4	ihr	ihre	A	PPOSAT	_|_|Sg	0	root	511	511
+5	morgen	morgen	A	ADV	_	7	adv	_	_
+6	adieu	adieu	A	ADJD	_	7	adv	_	_
+7	sage	sagen	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	sie	sie	P	PPER	3|Sg|Fem|Nom	9	subj	511	511
+11	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+12	ahnen	ahnen	V	VVINF	_	9	aux	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	daß	daß	K	KOUS	_	18	konj	_	_
+15	es	es	P	PPER	3|Sg|Neut|Nom	18	subj	_	_
+16	für	für	P	APPR	Acc	18	pp	_	_
+17	immer	immer	A	ADV	_	16	adv	_	_
+18	ist	sein	V	VAFIN	3|Sg|Pres|Ind	12	objc	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	mein	meine	A	PPOSAT	Masc|Nom|Sg	3	det	512	512
+3	Bub	Bub	N	NN	Masc|Nom|Sg	1	cj	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	512	512
+2	Bub	Bub	N	NN	Masc|Nom|Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Hin	hin	A	ADV	_	0	root	_	_
+2	und	und	K	KON	_	0	root	_	_
+3	her	her	P	PTKVZ	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	sein	sein	V	VAINF	_	3	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Plötzlich	plötzlich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	2	adv	_	_
+2	abend	abend	A	ADV	_	3	adv	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	reise	reisen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	513	513
+6	-	-	$	$(	_	0	root	_	_
+7	nicht	nicht	P	PTKNEG	_	0	root	_	_
+8	morgen	morgen	A	ADV	_	7	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	heute	heute	A	ADV	_	5	adv	_	_
+4	abend	abend	A	ADV	_	5	adv	_	_
+5	noch	noch	A	ADV	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Trägt	tragen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	hastig	hastig	A	ADJD	Pos|	1	adv	_	_
+3	Noten	Note	N	NN	_|_|_	1	obja	3	3
+4	zusammen	zusammen	P	PTKVZ	_	1	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	513	513
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	mit	mit	P	APPR	Dat	6	pp	_	_
+4	dem	die	A	ART	Def|Masc|Dat|Sg	5	det	398	398
+5	Direktor	Direktor	N	NN	Masc|Dat|Sg	3	pn	398	398
+6	sprechen	sprechen	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	1	subj	3	3
+3	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+4	drauf	drauf	P	PROAV	_	1	pp	_	_
+5	ein	ein	P	PTKVZ	_	1	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	so	so	A	ADV	_	8	adv	_	_
+8	geh	geh	A	ADJD	_	10	adv	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	0	root	513	513
+11	einfach	einfach	A	ADJD	Pos|	0	root	_	_
+12	durch	durch	P	PTKVZ	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Hierher	hierher	A	ADV	_	2	adv	_	_
+2	komm	komm	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	513	513
+4	nie	nie	A	ADV	_	2	adv	_	_
+5	wieder	wieder	A	ADV	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Wieder	wieder	A	ADV	_	2	adv	_	_
+2	zu	zu	P	APPR	Dat	0	root	_	_
+3	Cäciliens	Cäciliens	N	NE	_|Gen|_	4	gmod	280	280
+4	Tür	Tür	N	NN	Fem|Dat|Sg	2	pn	514	514
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	514	514
+2	schläft	schlafen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Nach	nach	P	APPR	Dat	0	root	_	_
+2	vorn	vorn	A	ADV	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	setzt	setzen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	4	obja	_	_
+6	auf	auf	P	APPR	Acc	4	objp	_	_
+7	den	die	A	ART	Def|Masc|Acc|Sg	8	det	260	260
+8	Divan	Divan	N	NN	Masc|Acc|Sg	6	pn	260	260
+9	,	,	$	$,	_	0	root	_	_
+10	stützt	stützen	V	VVFIN	_|_|Pres|Ind	4	kon	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	60	60
+12	Kopf	Kopf	N	NN	Masc|Acc|Sg	10	obja	60	60
+13	in	in	P	APPR	Acc	10	pp	_	_
+14	die	die	A	ART	Def|Fem|Acc|Pl	15	det	441	441
+15	Hände	Hand	N	NN	Fem|Acc|Pl	13	pn	441	441
+16	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	werden	werden	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	zusammen	zusammen	A	ADV	_	4	adv	_	_
+4	bei	bei	P	APPR	Dat	6	pp	_	_
+5	Tische	Tisch	N	NN	Masc|Dat|Sg	4	pn	147	147
+6	sitzen	sitzen	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	und	und	K	KON	_	2	kon	_	_
+9	sie	sie	P	PPER	3|Sg|Fem|Nom	10	subj	514	514
+10	wird	werden	V	VAFIN	3|Sg|Pres|Ind	8	cj	_	_
+11	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+12	ahnen	ahnen	V	VVINF	_	10	aux	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	daß	daß	K	KOUS	_	19	konj	_	_
+15	es	es	P	PPER	3|Sg|Neut|Nom	19	subj	_	_
+16	zum	zu	P	APPRART	Dat	19	pp	_	_
+17	letzten	letzte	A	ADJA	Pos|Neut|Dat|Sg|Wk|	18	attr	_	_
+18	Male	Mal	N	NN	Neut|Dat|Sg	16	pn	_	_
+19	ist	sein	V	VAFIN	3|Sg|Pres|Ind	12	objc	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	2	adv	_	_
+2	ahnen	ahnen	V	VVINF	_	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	_	_
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	4	expl	_	_
+4	wissen	wissen	V	VVINF	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Gleich	gleich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	524	524
+2	spreche	sprechen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	2	obja	_	_
+4	mit	mit	P	APPR	Dat	2	pp	_	_
+5	ihr	ihr	P	PPER	3|Sg|Fem|Dat	4	pn	_	_
+6	aus	aus	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Steht	stehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	auf	auf	P	PTKVZ	_	1	avz	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Schreiben	schreiben	V	VVINF	_	2	obji	_	_
+2	läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	sich	sie	P	PRF	3|_|Dat	2	objd	_	_
+5	ja	ja	A	ADV	_	2	adv	_	_
+6	doch	doch	A	ADV	_	2	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	515	515
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	ihr	ihr	P	PPER	3|Sg|Fem|Dat	5	objd	516	516
+4	alles	alle	P	PIS	_|_|Sg	3	app	_	_
+5	sagen	sagen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	515	515
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	ihr	ihr	P	PPER	3|Sg|Fem|Dat	4	objd	516	516
+4	sagen	sagen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	12	konj	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	515	515
+8	'	'	$	$(	_	0	root	_	_
+9	s	s	P	PPER	_	11	obja	_	_
+10	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+11	ertragen	ertragen	V	VVINF	_	12	aux	_	_
+12	kann	können	V	VMFIN	1|Sg|Pres|Ind	4	objc	_	_
+13	-	-	$	$(	_	0	root	_	_
+14	daß	daß	K	KOUS	_	22	konj	_	_
+15	der	die	A	ART	Def|Masc|Nom|Sg	16	det	_	_
+16	Gedanke	Gedanke	N	NN	Masc|Nom|Sg	22	subj	_	_
+17	an	an	P	APPR	_	16	pp	_	_
+18	den	die	A	ART	Def|_|_|_	19	det	_	_
+19	andern	andern	A	ADJA	_|_|_	17	pn	_	_
+20	mich	ich	P	PRF	1|Sg|Acc	22	obja	_	_
+21	toll	toll	A	ADJD	Pos|	22	pred	_	_
+22	macht	machen	V	VVFIN	3|Sg|Pres|Ind	12	neb	_	_
+23	.	.	$	$.	_	0	root	_	_
+

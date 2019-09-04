@@ -1,0 +1,471 @@
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	begreift	begreifen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mit	mit	P	APPR	Dat	2	pp	_	_
+4	einem	eine	A	ART	Indef|Neut|Dat|Sg	5	det	_	_
+5	Male	Mal	N	NN	Neut|Dat|Sg	3	pn	_	_
+6	das	die	A	ART	Def|Neut|_|Sg	8	det	_	_
+7	ganze	ganz	A	ADJA	Pos|Neut|_|Sg|Wk|	8	attr	_	_
+8	Indien	Indien	N	NE	Neut|_|Sg	2	obja	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	_	0	root	16	16
+2	:	\:	$	$.	_	0	root	_	_
+3	Warum	Warum	P	PWAV	_	4	adv	_	_
+4	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+5	wir	wir	P	PPER	1|Pl|_|Nom	4	subj	_	_
+6	noch	noch	A	ADV	_	7	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	hingegangen	hingehen	V	VVPP	_	4	aux	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	Aber	aber	K	KON	_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	6	subj	_	_
+6	müssen	müssen	V	VMFIN	3|Pl|Pres|_	4	cj	_	_
+7	hingehen	hingehen	V	VVINF	_	6	aux	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Mir	ich	P	PPER	1|Sg|_|Dat	5	objd	18	18
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Professor	Professor	N	NN	Masc|Nom|Sg	2	subj	18	18
+4	Stöhr	Stöhr	N	NE	Masc|Nom|Sg	3	app	18	18
+5	gesagt	sagen	V	VVPP	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	8	subj	18	18
+8	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	s	_	_
+9	noch	noch	A	ADV	_	14	adv	_	_
+10	nie	nie	A	ADV	_	14	adv	_	_
+11	so	so	A	ADV	_	12	adv	19	19
+12	was	was	A	PIAT	_	13	det	19	19
+13	Grrroßartiges	Grrroßartiges	N	NN	_	14	obja	19	19
+14	gesehen	sehen	V	VVPP	_	8	aux	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Fräulein	Fräulein	N	NN	Neut|_|_	0	root	34	34
+2	Koch-Pinneberg	Koch-Pinneberg	N	NE	_|_|Sg	1	app	34	34
+3	:	\:	$	$.	_	0	root	_	_
+4	Sie	sie	P	PPER	3|Sg|Fem|Nom	5	subj	19	19
+5	wirkt	wirken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	so	so	A	ADV	_	5	adv	_	_
+7	als	als	K	KOKOM	_	5	kom	_	_
+8	Fleck	Fleck	N	NN	Masc|_|Sg	7	cj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	Ich	ich	P	PPER	1|Sg|_|Nom	5	subj	63	63
+5	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	geahnt	ahnen	V	VVPP	_	5	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	14	konj	_	_
+10	indisch	indisch	A	ADJD	Pos|	13	adv	_	_
+11	so	so	A	ADV	_	13	adv	_	_
+12	hübsch	hübsch	A	ADJD	Pos|	13	pred	_	_
+13	sein	sein	V	VAINF	_	14	aux	_	_
+14	kann	können	V	VMFIN	_|Sg|Pres|Ind	7	objc	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Wir	wir	P	PPER	1|Pl|_|Nom	4	subj	_	_
+4	können	können	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+5	sie	sie	P	PPER	3|_|_|_	8	obja	7	7
+6	ja	ja	A	ADV	_	8	adv	_	_
+7	mal	mal	A	ADV	_	8	adv	_	_
+8	ansehen	ansehen	V	VVINF	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	_	0	root	16	16
+2	:	\:	$	$.	_	0	root	_	_
+3	Aber	aber	K	KON	_	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	5	subj	7	7
+5	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	3	cj	_	_
+6	nur	nur	A	ADV	_	5	adv	_	_
+7	noch	noch	A	ADV	_	5	adv	_	_
+8	morgen	morgen	A	ADV	_	5	adv	_	_
+9	auf	auf	P	PTKVZ	_	5	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	zum	zu	P	APPRART	Dat	1	pp	1	1
+3	Zigarrentisch	Zigarrentisch	N	NN	Masc|Dat|Sg	2	pn	1	1
+4	gehend	gehen	A	ADJD	_|<PPRES	0	root	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Schön	schön	A	ADJD	Pos|	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	erinnere	erinnern	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	63	63
+4	morgen	morgen	A	ADV	_	2	adv	_	_
+5	daran	daran	P	PROAV	_	2	objp	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	eine	eine	A	ART	Indef|Fem|Nom|Sg	3	det	_	_
+3	Kiste	Kiste	N	NN	Fem|Nom|Sg	1	subj	_	_
+4	und	und	K	KON	_	1	kon	_	_
+5	bietet	bieten	V	VVFIN	_|_|Pres|_	4	cj	_	_
+6	dem	die	A	ART	Def|_|Dat|Sg	8	det	10	10
+7	zunächststehenden	zunächststehend	A	ADJA	Pos|_|Dat|Sg|Wk|<PPRES	8	attr	10	10
+8	Dobler	Dobler	N	NN	_|Dat|Sg	5	objd	10	10
+9	an	an	P	PTKVZ	_	5	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Rauchen	rauchen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_|Nom|Sg	2	subj	10	10
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Ja	ja	P	PTKANT	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	aber	aber	K	KON	_	0	root	_	_
+7	Importen	Import	N	NN	Masc|Dat|Pl	8	objd	_	_
+8	bin	sein	V	VAFIN	1|Sg|Pres|Ind	6	cj	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	63	63
+10	eigentlich	eigentlich	A	ADV	_	8	adv	_	_
+11	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+12	gewohnt	gewohnt	A	ADJD	Pos|	8	pred	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	2	obja	1	1
+2	wohlwollend	wohlwollen	A	ADJD	_|<PPRES	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Das	die	A	ART	Def|Neut|Nom|Sg	6	det	23	23
+5	gute	gut	A	ADJA	Pos|Neut|Nom|Sg|Wk|	6	attr	23	23
+6	Leben	Leben	N	NN	Neut|Nom|Sg	7	subj	23	23
+7	lernt	lernen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	sich	sie	P	PRF	3|_|_	7	obja	_	_
+9	schnell	schnell	A	ADJD	Pos|	7	adv	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	zu	zu	P	APPR	Dat	1	pp	7	7
+3	Dobler	Dobler	N	NE	_|Dat|_	2	pn	7	7
+4	.	.	$	$.	_	0	root	10)	10)
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	lange	lange	A	ADJD	_	2	adv	_	_
+6	hier	hier	A	ADV	_	2	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	Seit	seit	P	APPR	Dat	0	root	_	_
+4	zwei	zwei	C	CARD	_	5	attr	20	20
+5	Jahren	Jahr	N	NN	Neut|Dat|Pl	3	pn	20	20
+6	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	vorher	vorher	A	ADV	_	5	adv	_	_
+5	waren	sein	V	VAFIN	3|Pl|Past|Ind	3	cj	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	20	20
+7	in	in	P	APPR	_	0	root	_	_
+8	...	...	$	$.	_	0	root	_	_
+9	äh	äh	I	ITJ	_	0	root	_	_
+10	...	...	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	In	in	P	APPR	_	0	root	_	_
+5	Unterschlettenbach	Unterschlettenbach	N	NE	_|_|Sg	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+4	doch	doch	A	ADV	_	2	adv	_	_
+5	...	...	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	sich	sie	P	PRF	3|_|_	3	obja	_	_
+3	verbessernd	verbessern	A	ADJD	_|<PPRES	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Natürlich	natürlich	A	ADJD	Pos|	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Aus	aus	P	APPR	Dat	0	root	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	_	_
+3	Literaturgeschichte	Literaturgeschichte	N	NN	Fem|Dat|Sg	1	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	übrigens	übrigens	A	ADV	_	9	adv	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	n	n	N	NN	Masc|Nom|Sg	9	pred	_	_
+6	sehr	sehr	A	ADV	_	7	adv	_	_
+7	interessanter	interessant	A	ADJA	Pos|Masc|Nom|Sg|St|	8	attr	_	_
+8	Ort	Ort	N	NN	Masc|Nom|Sg	5	app	_	_
+9	sein	sein	V	VAINF	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	Klein	Klein	N	NE	_|_|Sg	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	sehr	sehr	A	ADV	_	6	adv	_	_
+6	arm	arm	A	ADJD	Pos|	4	cj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Herr	Herr	N	NN	Masc|_|Sg	0	root	_	_
+9	Kommerzienrat	Kommerzienrat	N	NN	Masc|_|Sg	8	app	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|Nom|Pl	3	det	21	21
+2	meisten	meiste	A	PIDAT	_|Nom|Pl	3	attr	21	21
+3	Leute	Leute	N	NN	_|Nom|Pl	4	subj	21	21
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+5	Pfannenflicker	Pfannenflicker	N	NN	Masc|Nom|_	4	pred	22	22
+6	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Sehen	sehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	21	21
+5	mal	mal	A	ADV	_	3	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	wußte	wußte	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	63	63
+4	gar	gar	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	...	...	$	$.	_	0	root	_	_
+3	Pfannenflicker	Pfannenflicker	N	NN	Masc|_|_	0	root	22	22
+4	?	?	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	sagen	sagen	V	VVFIN	3|Pl|Pres|_	1	cj	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	21	21
+4	,	,	$	$,	_	0	root	_	_
+5	wie	wie	P	PWAV	_	6	adv	_	_
+6	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	2	objc	_	_
+7	Ihnen	sie	P	PPER	3|Pl|_|Dat	6	objd	21	21
+8	dann	dann	A	ADV	_	6	adv	_	_
+9	das	die	A	ART	Def|Neut|Nom|Sg	10	det	23	23
+10	Leben	Leben	N	NN	Neut|Nom|Sg	6	subj	23	23
+11	hier	hier	A	ADV	_	6	adv	_	_
+12	vor	vor	P	PTKVZ	_	6	avz	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	...	...	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	großstädtische	großstädtisch	A	ADJA	Neut|_|Sg	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+4	elegante	elegant	A	ADJA	Pos|_|_|_|_|	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	die	die	A	ART	Def|Fem|_|Sg	3	det	56	56
+3	Zigarre	Zigarre	N	NN	Fem|_|Sg	4	obja	56	56
+4	anzündend	anzünden	A	ADJD	_|<PPRES	0	root	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Es	es	P	PPER	3|Sg|Neut|Nom	7	subj	_	_
+7	gefällt	gefallen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	_	_
+9	gut	gut	A	ADJD	Pos|	7	adv	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	einem	eine	A	ART	Indef|_|Dat|Sg	0	root	_	_
+5	innerlich	innerlich	A	ADJD	Pos|	6	adv	_	_
+6	fremd	fremd	A	ADJD	Pos|	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Ungewohnt	Ungewohnt	N	NE	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	Es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	alles	alle	P	PIS	_|_|Sg	4	adv	_	_
+6	anders	anders	A	ADV	_	4	pred	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Oft	oft	A	ADV	_	2	adv	_	_
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	24	24
+5	vor	vor	P	PTKVZ	_	2	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	als	als	K	KOKOM	_	8	konj	_	_
+8	wäre	sein	V	VAFIN	1|Sg|Past|Subj	2	neb	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	24	24
+10	nur	nur	A	ADV	_	16	adv	_	_
+11	rasch	rasch	A	ADJD	Pos|	16	adv	_	_
+12	in	in	P	APPR	Acc	16	objp	_	_
+13	ein	eine	A	ART	Indef|Neut|Acc|Sg	15	det	_	_
+14	prächtiges	prächtig	A	ADJA	Pos|Neut|Acc|Sg|St|	15	attr	_	_
+15	Haus	Haus	N	NN	Neut|Acc|Sg	12	pn	_	_
+16	gegangen	gehen	V	VVPP	_	8	aux	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	aber	aber	K	KON	_	8	kon	_	_
+19	draußen	draußen	A	ADV	_	20	adv	_	_
+20	wartet	warten	V	VVFIN	3|Sg|Pres|Ind	18	cj	_	_
+21	mein	meine	A	PPOSAT	Masc|Nom|Sg	22	det	24	24
+22	Kamerad	Kamerad	N	NN	Masc|Nom|Sg	20	subj	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	das	die	A	ART	Def|Neut|Nom|Sg	26	det	_	_
+25	alte	alt	A	ADJA	Pos|Neut|Nom|Sg|Wk|	26	attr	_	_
+26	Leben	Leben	N	NN	Neut|Nom|Sg	22	app	_	_
+27	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	7	7
+2	Bolland	Bolland	N	NE	Fem|_|Sg	1	app	7	7
+3	:	\:	$	$.	_	0	root	_	_
+4	Wun-der-voll	Wun-der-voll	F	FM	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ganz	ganz	A	ADV	_	4	adv	_	_
+4	wundervoll	wundervoll	A	ADJD	Pos|	5	adv	_	_
+5	gesagt	sagen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+4	förmlich	förmlich	A	ADJD	Pos|	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Überhaupt	überhaupt	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	0	root	10	10
+4	Dobler	Dobler	N	NE	Masc|Nom|Sg	3	app	10	10
+5	,	,	$	$,	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	26	26
+7	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	4	par	_	_
+8	Ihnen	sie	P	PPER	3|Pl|_|Dat	9	objd	25	25
+9	sagen	sagen	V	VVINF	_	7	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Ihr	ihre	A	PPOSAT	Masc|Nom|Sg	12	det	25	25
+12	Roman	Roman	N	NN	Masc|Nom|Sg	4	app	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	Masc|Nom|Sg	2	det	26	26
+2	Mann	Mann	N	NN	Masc|Nom|Sg	0	root	261	261
+3	und	und	K	KON	_	2	kon	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	cj	26	26
+5	,	,	$	$,	_	0	root	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	7	subj	_	_
+7	reden	reden	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	10	det	_	_
+9	ganzen	ganz	A	ADJA	Pos|Masc|Acc|Sg|_|	10	attr	_	_
+10	Tag	Tag	N	NN	Masc|Acc|Sg	7	obja	_	_
+11	davon	davon	P	PTKVZ	_	7	avz	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Sagen	sagen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	25	25
+5	mal	mal	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	der	die	A	ART	Def|Masc|Nom|Sg	9	det	_	_
+8	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	9	attr	_	_
+9	Mensch	Mensch	N	NN	Masc|Nom|Sg	4	app	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	der	die	P	PRELS	Masc|Nom|Sg	13	subj	_	_
+12	darin	darin	P	PROAV	_	13	pp	_	_
+13	vorkommt	vorkommen	V	VVFIN	3|Sg|Pres|Ind	9	rel	_	_
+14	;	;	$	$.	_	0	root	_	_
+15	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+16	Sie	sie	P	PPER	3|Pl|_|Nom	15	subj	25	25
+17	sich	sie	P	PRF	3|_|_	21	obja	_	_
+18	da	da	A	ADV	_	21	adv	_	_
+19	eigentlich	eigentlich	A	ADV	_	21	adv	_	_
+20	selbst	selbst	A	ADV	_	21	adv	_	_
+21	gezeichnet	zeichnen	V	VVPP	_	15	aux	_	_
+22	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	Es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	meine	meine	A	PPOSAT	Fem|Nom|Sg	6	det	171	171
+6	Jugend	Jugend	N	NN	Fem|Nom|Sg	4	pred	171	171
+7	,	,	$	$,	_	0	root	_	_
+8	ja	ja	A	ADV	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Aber	aber	K	KON	_	0	root	_	_
+4	doch	doch	A	ADV	_	8	adv	_	_
+5	mit	mit	P	APPR	Dat	8	pp	_	_
+6	dichterischer	dichterisch	A	ADJA	Pos|Fem|Dat|Sg|St|	7	attr	693	693
+7	Phantasie	Phantasie	N	NN	Fem|Dat|Sg	5	pn	693	693
+8	ausgeschmückt	ausschmücken	V	VVPP	_	3	cj	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	M-ja	M-ja	N	NE	_	0	root	27	27
+4	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	Zum	zu	P	APPRART	Dat	0	root	_	_
+4	Beispiel	Beispiel	N	NN	Neut|Dat|Sg	3	pn	139	139
+5	:	\:	$	$.	_	0	root	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	7	subj	27	27
+7	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+8	doch	doch	A	ADV	_	11	adv	_	_
+9	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+10	wirklich	wirklich	A	ADJD	Pos|	11	adv	_	_
+11	gehungert	hungern	V	VVPP	_	7	aux	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Dobler	Dobler	N	NE	_	0	root	10	10
+2	:	\:	$	$.	_	0	root	_	_
+3	Gewiß	gewiß	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nichts	nichts	P	PIS	_|Nom|Sg	2	subj	_	_
+4	erdichtet	erdichten	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Bolland	Bolland	N	NE	_	0	root	7	7
+2	:	\:	$	$.	_	0	root	_	_
+3	So	so	A	ADV	_	0	root	_	_
+4	wie	wie	P	PWAV	_	8	adv	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	9	subj	28	28
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_	8	obja	_	_
+8	geschildert	schildern	V	VVPP	_	9	aux	_	_
+9	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Daß	daß	K	KOUS	_	6	konj	_	_
+2	Ihnen	sie	P	PPER	3|Pl|_|Dat	5	objd	28	28
+3	alles	alle	P	PIS	Neut|Nom|Sg	6	subj	_	_
+4	rot	rot	A	ADJD	Pos|	5	adv	_	_
+5	vorgekommen	vorkommen	V	VVPP	_	6	aux	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+

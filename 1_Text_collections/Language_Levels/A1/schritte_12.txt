@@ -1,0 +1,100 @@
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Arzthelferin	Arzthelferin	N	NN	Fem|Nom|Sg	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)|(1
+2	Beruf	Beruf	N	NN	Masc|Nom|Sg	3	subj	_	1)
+3	gefällt	gefallen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	mir	ich	PRO	PPER	1|Sg|_|Dat	3	objd	_	(0)
+5	gut	gut	ADV	ADJD	Pos|	3	adv	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	aber	aber	KON	KON	_	3	kon	_	-
+8	am	an	PREP	APPRART	Dat	10	pp	_	-
+9	Abend	Abend	N	NN	Masc|Dat|Sg	8	pn	_	(2)
+10	bin	sein	V	VAFIN	1|Sg|Pres|Ind	7	cj	_	-
+11	ich	ich	PRO	PPER	1|Sg|_|Nom	10	subj	_	(0)
+12	oft	oft	ADV	ADV	_	10	adv	_	-
+13	sehr	sehr	ADV	ADV	_	14	adv	_	-
+14	müde	müde	ADV	ADJD	Pos|	10	pred	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	zu	zu	PREP	APPR	Dat	7	pp	_	-
+5	Hause	Haus	N	NN	Neut|Dat|Sg	4	pn	_	-
+6	noch	noch	ADV	ADV	_	7	adv	_	-
+7	putzen	putzen	V	VVINF	_	2	aux	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	waschen	waschen	V	VVINF	_	7	kon	_	-
+10	und	und	KON	KON	_	2	kon	_	-
+11	kochen	kochen	V	VVFIN	_|Pl|Pres|_	10	cj	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	nämlich	nämlich	ADV	ADV	_	2	adv	_	-
+4	einen	eine	ART	ART	Indef|Masc|Acc|Sg	5	det	_	-
+5	Sohn	Sohn	N	NN	Masc|Acc|Sg	2	obja	_	-
+6	:	\:	$.	$.	_	0	root	_	-
+7	Mike	Mike	N	NE	_	0	root	_	(4)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	schon	schon	ADV	ADV	_	2	adv	_	-
+4	in	in	PREP	APPR	Acc	2	objp	_	-
+5	die	die	ART	ART	Def|Fem|Acc|Sg	6	det	_	-
+6	Schule	Schule	N	NN	Fem|Acc|Sg	4	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Nachmittag	Nachmittag	N	NN	_|Dat|Sg	1	pn	_	-
+3	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	er	er	PRO	PPER	3|Sg|Masc|Nom	3	subj	_	(1)
+5	viel	viel	ART	PIDAT	Masc|_|Sg	6	det	_	-
+6	Sport	Sport	N	NN	Masc|_|Sg	3	obja	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	spielt	spielen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	gern	gern	ADV	ADV	_	2	adv	_	-
+4	Fußball	Fußball	N	NN	Masc|_|Sg	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Abend	Abend	N	NN	Masc|Dat|Sg	1	pn	_	(2)
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	er	er	PRO	PPER	3|Sg|Masc|Nom	3	subj	_	(1)
+5	dann	dann	ADV	ADV	_	3	adv	_	-
+6	natürlich	natürlich	ADV	ADJD	Pos|	3	adv	_	-
+7	Hunger	Hunger	N	NN	Masc|_|Sg	3	obja	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	kein	keine	ART	PIAT	_|_|Sg	4	det	_	-
+4	Fast	Fast	FM	FM	_|_|Sg	6	obja	_	-
+5	Food	Food	FM	FM	_|_|Sg	4	app	_	-
+6	essen	essen	V	VVINF	_	2	aux	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	also	also	ADV	ADV	_	9	adv	_	-
+9	koche	kochen	V	VVFIN	1|Sg|Pres|_	2	kon	_	-
+10	ich	ich	PRO	PPER	1|Sg|_|Nom	9	subj	_	(3)
+11	alles	alle	PRO	PIS	Neut|Nom|Sg	10	app	_	-
+12	frisch	frisch	ADV	ADJD	Pos|	9	adv	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Zeit	Zeit	N	NN	Fem|_|Sg	2	obja	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	aber	aber	KON	KON	_	2	kon	_	-
+6	manchmal	manchmal	ADV	ADV	_	7	adv	_	-
+7	hilft	helfen	V	VVFIN	3|Sg|Pres|Ind	5	cj	_	-
+8	mir	ich	PRO	PPER	1|Sg|_|Dat	7	objd	_	(3)
+9	Mike	Mike	N	NE	_|Nom|Sg	7	subj	_	(4)
+10	auch	auch	ADV	ADV	_	7	adv	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

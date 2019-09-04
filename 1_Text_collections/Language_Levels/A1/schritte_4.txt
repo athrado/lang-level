@@ -1,0 +1,144 @@
+1	Meine	meine	ART	PPOSAT	Fem|Nom|Sg	2	det	_	(0)
+2	Wohnung	Wohnung	N	NN	Fem|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	75	75	CARD	CARD	_	5	attr	_	-
+5	m	m	N	NN	_|_|Pl	3	obja	_	-
+6	groß	groß	ADV	ADJD	Pos|	3	pred	_	-
+7	und	und	KON	KON	_	3	kon	_	-
+8	kostet	kosen	V	VVFIN	3|Sg|Pres|Ind	7	cj	_	-
+9	350	350	CARD	CARD	_	10	attr	_	-
+10	€	€	FM	FM	_|Dat|Pl	8	objd	_	-
+11	Miete	Miete	N	NN	Fem|_|Sg	8	obja	_	-
+12	im	in	PREP	APPRART	Dat	8	pp	_	-
+13	Monat	Monat	N	NN	Masc|Dat|Sg	12	pn	_	-
+14	,	,	$,	$,	_	0	root	_	-
+15	dazu	dazu	PROAV	PROAV	_	16	objp	_	-
+16	kommen	kommen	V	VVFIN	3|Pl|Pres|_	8	kon	_	-
+17	ungefähr	ungefähr	ADV	ADJD	Pos|	16	adv	_	-
+18	100	100	CARD	CARD	_	20	attr	_	-
+19	€	€	ADJA	ADJA	_|_|Nom|Pl|_	20	attr	_	-
+20	Nebenkosten	Nebenkosten	N	NN	_|Nom|Pl	16	subj	_	-
+21	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	keinen	keine	ART	PIAT	Masc|Acc|Sg	4	det	_	-
+4	Garten	Garten	N	NN	Masc|Acc|Sg	2	obja	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	nur	nur	ADV	ADV	_	8	adv	_	-
+7	einen	eine	ART	ART	Indef|Masc|Acc|Sg	8	det	_	-
+8	Balkon	Balkon	N	NN	Masc|Acc|Sg	4	kon	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	PRO	PDS	Masc|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	groß	groß	ADV	ADJD	Pos|	2	pred	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	meine	meine	ART	PPOSAT	Fem|Nom|Sg	6	det	_	(0)
+6	Frau	Frau	N	NN	Fem|Nom|Sg	12	subj	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	meine	meine	ART	PPOSAT	Neut|Nom|Pl	9	det	_	(0)
+9	Kinder	Kind	N	NN	Neut|Nom|Pl	6	kon	_	-
+10	und	und	KON	KON	_	9	kon	_	-
+11	ich	ich	PRO	PPER	1|Sg|_|Nom	10	cj	_	(0)
+12	haben	haben	V	VAFIN	_|Pl|Pres|_	2	kon	_	-
+13	dort	dort	ADV	ADV	_	12	adv	_	-
+14	alle	alle	ART	PIDAT	_|_|_	15	det	_	-
+15	Platz	Platz	N	NN	Masc|_|Sg	12	obja	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	frühstücken	frühstücken	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	oft	oft	ADV	ADV	_	2	adv	_	-
+4	dort	dort	ADV	ADV	_	2	adv	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	nur	nur	ADV	ADV	_	2	adv	_	-
+4	ein	eine	ART	ART	Indef|Neut|_|Sg	5	det	_	-
+5	Badezimmer	Badezimmer	N	NN	Neut|_|Sg	2	obja	_	-
+6	mit	mit	PREP	APPR	Dat	2	pp	_	-
+7	Toilette	Toilette	N	NN	Fem|Dat|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|_|Sg	2	obja	_	-
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+5	praktisch	praktisch	ADV	ADJD	Pos|	2	adv	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	3	pp	_	-
+2	Schlafzimmer	Schlafzimmer	N	NN	Neut|Dat|Sg	1	pn	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	alle	alle	ART	PIDAT	Masc|Nom|Pl	5	det	_	-
+5	Schränke	Schrank	N	NN	Masc|Nom|Pl	3	subj	_	-
+6	braun	braun	ADV	ADJD	Pos|	3	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sehr	sehr	ADV	ADV	_	4	adv	_	-
+4	dunkel	dunkel	ADV	ADJD	Pos|	2	pred	_	-
+5	und	und	KON	KON	_	2	kon	_	-
+6	gefällt	gefallen	V	VVFIN	3|Sg|Pres|Ind	5	cj	_	-
+7	mir	ich	PRO	PPER	1|Sg|_|Dat	6	objd	_	(0)
+8	nicht	nicht	PTKNEG	PTKNEG	_	6	adv	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	das	die	ART	ART	Def|Neut|Nom|Sg	3	det	_	-
+3	Kinderzimmer	Kinderzimmer	N	NN	Neut|Nom|Sg	4	subj	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	-
+5	groß	groß	ADV	ADJD	Pos|	4	pred	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	hell	hell	ADV	ADJD	Pos|	6	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Neut|Nom|Pl	3	det	_	(0)
+2	drei	drei	CARD	CARD	_	3	attr	_	-
+3	Kinder	Kind	N	NN	Neut|Nom|Pl	4	subj	_	-
+4	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+5	hier	hier	ADV	ADV	_	7	adv	_	-
+6	schön	schön	ADV	ADJD	Pos|	7	adv	_	-
+7	spielen	spielen	V	VVINF	_	4	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	2	det	_	-
+2	Wohnzimmer	Wohnzimmer	N	NN	Neut|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	klein	klein	ADV	ADJD	Pos|	3	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	-
+2	Esstisch	Esstisch	N	NN	Masc|Nom|Sg	5	subj	_	-
+3	mit	mit	PREP	APPR	Dat	2	pp	_	-
+4	Stühlen	Stuhl	N	NN	Masc|Dat|Pl	3	pn	_	-
+5	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+6	in	in	PREP	APPR	Dat	5	pp	_	-
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	(2
+8	Küche	Küche	N	NN	Fem|Dat|Sg	6	pn	_	2)
+9	,	,	$,	$,	_	0	root	_	-
+10	leider	leider	ADV	ADV	_	0	root	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(2)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	groß	groß	ADV	ADJD	Pos|	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	3	pp	_	-
+2	Wohnzimmer	Wohnzimmer	N	NN	Neut|Dat|Sg	1	pn	_	-
+3	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	nur	nur	ADV	ADV	_	3	adv	_	-
+5	ein	eine	ART	ART	Indef|Neut|Nom|Sg	6	det	_	-
+6	Sofa	Sofa	N	NN	Neut|Nom|Sg	3	subj	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	der	die	ART	ART	Def|Masc|Nom|Sg	9	det	_	-
+9	Fernseher	Fernseher	N	NN	Masc|Nom|Sg	6	kon	_	-
+10	und	und	KON	KON	_	9	kon	_	-
+11	ein	eine	ART	ART	Indef|Masc|Nom|Sg	13	det	_	-
+12	kleiner	klein	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	13	attr	_	-
+13	Tisch	Tisch	N	NN	Masc|Nom|Sg	10	cj	_	-
+

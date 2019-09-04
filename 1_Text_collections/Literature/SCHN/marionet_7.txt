@@ -1,0 +1,463 @@
+1	Da	da	A	ADV	_	2	adv	_	_
+2	magst	mögen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	94	94
+4	wohl	wohl	A	ADV	_	6	adv	_	_
+5	recht	recht	A	ADJD	Pos|	6	pred	_	_
+6	haben	haben	V	VAINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Georg	Georg	N	NE	Masc|_|Sg	2	vok	5	5
+9	.	.	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wie	wie	P	PWAV	_	3	adv	_	_
+3	kam	kommen	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+4	dies	dies	P	PDS	Neut|Nom|Sg	3	subj	_	_
+5	alles	alle	P	PIS	Neut|Nom|Sg	4	app	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Wodurch	Wodurch	P	PWAV	_	2	adv	_	_
+2	ward	ward	V	VAFIN	_|Sg|_|_	0	root	_	_
+3	diese	diese	A	PDAT	Fem|Nom|Sg	5	det	_	_
+4	außerordentliche	außerordentlich	A	ADJA	Pos|Fem|Nom|Sg|_|	5	attr	_	_
+5	Veränderung	Veränderung	N	NN	Fem|Nom|Sg	2	subj	_	_
+6	deines	deine	A	PPOSAT	_|Gen|Sg	7	det	99	99
+7	Wesen	Wesen	N	NN	_|Gen|Sg	5	gmod	_	_
+8	hervorgerufen	hervorrufen	V	VVPP	_	2	aux	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Dadurch	Dadurch	P	PROAV	_	9	pp	100	100
+2	,	,	$	$,	_	0	root	100	100
+3	daß	daß	K	KOUS	_	5	konj	100	100
+4	du	du	P	PPER	2|Sg|_|Nom	5	subj	99	99
+5	glaubtest	glauben	V	VVFIN	2|Sg|Past|_	1	objc	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	das	die	A	ART	Def|Neut|Nom|Sg	9	det	_	_
+8	schöne	schön	A	ADJA	Pos|Neut|Nom|Sg|Wk|	9	attr	_	_
+9	Mädchen	Mädchen	N	NN	Neut|Nom|Sg	20	subj	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	das	die	P	PRELS	Neut|Nom|Sg	18	subj	100	100
+12	dich	du	P	PPER	2|Sg|_|Acc	18	obja	99	99
+13	damals	damals	A	ADV	_	18	adv	_	_
+14	doch	doch	A	ADV	_	18	adv	_	_
+15	zum	zu	P	APPRART	Dat	18	pp	_	_
+16	ersten	erst	A	ADJA	_|Neut|Dat|Sg|Wk|	17	attr	_	_
+17	Male	Mal	N	NN	Neut|Dat|Sg	15	pn	_	_
+18	sah	sehen	V	VVFIN	3|Sg|Past|Ind	9	rel	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	hätte	haben	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+21	sich	sie	P	PRF	3|_|_	28	obja	_	_
+22	auf	auf	P	APPR	Acc	28	pp	_	_
+23	den	die	A	ART	Def|Masc|Acc|Sg	25	det	_	_
+24	ersten	erst	A	ADJA	_|Masc|Acc|Sg|_|	25	attr	_	_
+25	Blick	Blick	N	NN	Masc|Acc|Sg	22	pn	_	_
+26	in	in	P	APPR	Acc	28	pp	_	_
+27	dich	du	P	PPER	2|Sg|_|Acc	26	pn	99	99
+28	verliebt	verlieben	V	VVPP	_	20	aux	_	_
+29	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	5	5
+2	hatte	haben	V	VAFIN	1|Sg|Past|Ind	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	alle	alle	A	PIDAT	Fem|_|Sg	5	det	_	_
+5	Ursache	Ursache	N	NN	Fem|_|Sg	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	101	101
+2	hattest	haben	V	VAFIN	2|Sg|Past|Ind	0	root	_	_
+3	Ursache	Ursache	N	NN	Fem|_|Sg	2	obja	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	es	es	P	PPER	3|Sg|Neut|_	0	root	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	glauben	glauben	V	VVINF	_	0	root	_	_
+8	;	;	$	$.	_	0	root	_	_
+9	aber	aber	K	KON	_	0	root	_	_
+10	du	du	P	PPER	2|Sg|_|Nom	11	subj	101	101
+11	hast	haben	V	VAFIN	2|Sg|Pres|Ind	9	cj	_	_
+12	dich	du	P	PPER	2|Sg|_|Acc	13	obja	_	_
+13	geirrt	irren	V	VVPP	_	11	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	möglich	möglich	A	ADJD	Pos|	1	pred	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	198	198
+2	Ganze	Ganze	N	NN	Neut|Nom|Sg	3	subj	198	198
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	ein	eine	A	ART	Indef|Masc|Nom|Sg	6	det	102	102
+5	tiefsinniger	tiefsinnig	A	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	102	102
+6	Spaß	Spaß	N	NN	Masc|Nom|Sg	3	pred	102	102
+7	,	,	$	$,	_	0	root	102	102
+8	den	die	P	PRELS	Masc|Acc|Sg	10	obja	102	102
+9	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	5	5
+10	ausgedacht	ausdenken	V	VVPP	_	11	aux	_	_
+11	hatte	haben	V	VAFIN	1|Sg|Past|Ind	6	rel	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	in	in	P	APPR	Dat	1	pp	6	6
+3	verstellter	verstellt	A	ADJA	Pos|Fem|Dat|Sg|St|	4	attr	6	6
+4	Verwunderung	Verwunderung	N	NN	Fem|Dat|Sg	2	pn	6	6
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Spaß	Spaß	N	NN	Masc|Nom|Sg	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	eine	eine	A	ART	Indef|Fem|Nom|Sg	5	det	170	170
+4	abgekartete	abgekartet	A	ADJA	Pos|Fem|Nom|Sg|_|	5	attr	170	170
+5	Sache	Sache	N	NN	Fem|Nom|Sg	2	pred	170	170
+6	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	2	det	_	_
+2	Kleine	klein	A	ADJA	_|_|_	11	subj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	die	die	P	PRELS	Fem|Nom|Sg	9	subj	104	104
+5	so	so	A	ADV	_	6	adv	_	_
+6	zärtlich	zärtlich	A	ADJD	Pos|	9	pred	_	_
+7	mit	mit	P	APPR	Dat	9	pp	_	_
+8	dir	du	P	PPER	2|Sg|_|Dat	7	pn	105	105
+9	war	sein	V	VAFIN	3|Sg|Past|Ind	2	rel	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	tat	tun	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+12	einfach	einfach	A	ADJD	Pos|	11	pred	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	was	was	P	PRELS	Neut|_|Sg	16	obja	_	_
+15	ich	ich	P	PPER	1|Sg|_|Nom	16	subj	103	103
+16	wollte	wollen	V	VMFIN	1|Sg|Past|_	11	rel	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Ihr	ihr	P	PPER	2|Pl|_|Nom	2	subj	_	_
+2	wart	sein	V	VAFIN	2|Pl|Past|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|Nom|Pl	4	det	_	_
+4	Puppen	Puppe	N	NN	Fem|Nom|Pl	2	pred	_	_
+5	in	in	P	APPR	Dat	4	pp	_	_
+6	meiner	meine	A	PPOSAT	Fem|Dat|Sg	7	det	103	103
+7	Hand	Hand	N	NN	Fem|Dat|Sg	5	pn	111	111
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	103	103
+2	lenkte	lenken	V	VVFIN	1|Sg|Past|_	0	root	_	_
+3	die	die	A	ART	Def|Masc|_|Pl	4	det	_	_
+4	Drähte	Draht	N	NN	Masc|_|Pl	2	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	12	expl	_	_
+2	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+3	abgemacht	abmachen	V	VVPP	_	2	aux	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	12	konj	_	_
+6	sie	sie	P	PPER	3|Sg|Fem|Nom	12	subj	104	104
+7	sich	sie	P	PRF	3|_|_	11	obja	_	_
+8	in	in	P	APPR	Acc	11	objp	_	_
+9	dich	du	P	PPER	2|Sg|_|Acc	8	pn	105	105
+10	verliebt	verliebt	A	ADJD	Pos|	11	adv	_	_
+11	stellen	stellen	V	VVINF	_	12	aux	_	_
+12	sollte	sollen	V	VMFIN	3|Sg|Past|_	2	subjc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Denn	denn	K	KON	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	3	subj	105	105
+3	hattest	haben	V	VAFIN	2|Sg|Past|Ind	1	cj	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	103	103
+5	immer	immer	A	ADV	_	6	adv	_	_
+6	leid	leid	A	ADJD	Pos|	7	pred	_	_
+7	getan	tun	V	VVPP	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Eduard	Eduard	N	NE	Masc|_|Sg	3	vok	6	6
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	103	103
+2	wollte	wollen	V	VMFIN	1|Sg|Past|_	0	root	_	_
+3	in	in	P	APPR	Dat	9	pp	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	3	pn	105	105
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+6	Illusion	Illusion	N	NN	Fem|_|Sg	9	obja	_	_
+7	eines	eine	A	ART	Indef|Neut|Gen|Sg	8	det	_	_
+8	Glücks	Glück	N	NN	Neut|Gen|Sg	6	gmod	_	_
+9	erwecken	erwecken	V	VVINF	_	2	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	damit	damit	K	KOUS	_	17	konj	_	_
+12	dich	du	P	PPER	2|Sg|_|Acc	17	obja	105	105
+13	das	die	A	ART	Def|Neut|Nom|Sg	15	det	_	_
+14	wahre	wahr	A	ADJA	Pos|Neut|Nom|Sg|Wk|	15	attr	_	_
+15	Glück	Glück	N	NN	Neut|Nom|Sg	17	subj	_	_
+16	bereit	bereit	A	ADJD	Pos|	17	pred	_	_
+17	fände	finden	V	VVFIN	3|Sg|Past|Subj	2	neb	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	wenn	wenn	K	KOUS	_	22	konj	_	_
+20	es	es	P	PPER	3|Sg|Neut|Nom	22	subj	_	_
+21	einmal	einmal	A	ADV	_	22	adv	_	_
+22	erschiene	erscheinen	V	VVFIN	3|Sg|_|Subj	17	neb	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	3	koord	_	_
+2	so	so	A	ADV	_	3	adv	_	_
+3	hab	hab	V	VVFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	20	subj	103	103
+6	-	-	$	$(	_	0	root	_	_
+7	wie	wie	P	PWAV	_	13	adv	_	_
+8	es	es	P	PPER	3|Sg|Neut|Nom	15	subj	_	_
+9	Leuten	Leute	N	NN	_|Dat|Pl	13	objd	_	_
+10	meiner	meine	A	PPOSAT	Fem|Gen|Sg	11	det	103	103
+11	Art	Art	N	NN	Fem|Gen|Sg	9	gmod	_	_
+12	wohl	wohl	A	ADV	_	13	adv	_	_
+13	gegeben	geben	V	VVPP	_	14	aux	_	_
+14	sein	sein	V	VAINF	_	15	aux	_	_
+15	mag	mögen	V	VMFIN	3|Sg|Pres|Ind	5	par	_	_
+16	-	-	$	$(	_	0	root	_	_
+17	vielleicht	vielleicht	A	ADV	_	20	adv	_	_
+18	noch	noch	A	ADV	_	20	adv	_	_
+19	tiefer	tief	A	ADJD	Comp|	20	pred	_	_
+20	gewirkt	wirken	V	VVPP	_	3	neb	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	als	als	K	KOUS	_	24	konj	_	_
+23	ich	ich	P	PPER	1|Sg|_|Nom	24	subj	103	103
+24	wollte	wollen	V	VMFIN	1|Sg|Past|_	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	103	103
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	dich	du	P	PRF	2|Sg|Acc	8	obja	_	_
+4	zu	zu	P	APPR	Dat	8	objp	_	_
+5	einem	eine	A	ART	Indef|Masc|Dat|Sg	7	det	113	113
+6	andern	andern	A	ADJA	_|Masc|Dat|Sg|_	7	attr	113	113
+7	Menschen	Mensch	N	NN	Masc|Dat|Sg	4	pn	113	113
+8	gemacht	machen	V	VVPP	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	103	103
+3	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	1	cj	_	_
+4	wohl	wohl	A	ADV	_	5	adv	_	_
+5	sagen	sagen	V	VVINF	_	3	aux	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	ein	eine	A	ART	Indef|Neut|Nom|Sg	11	det	_	_
+10	edleres	edel	A	ADJA	Comp|Neut|Nom|Sg|St|	11	attr	_	_
+11	Vergnügen	Vergnügen	N	NN	Neut|Nom|Sg	8	pred	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	mit	mit	P	APPR	Dat	16	pp	_	_
+14	Lebendigen	Lebendige	N	NN	_|Dat|_	13	pn	_	_
+15	zu	zu	P	PTKZU	_	16	part	_	_
+16	spielen	spielen	V	VVINF	_	8	obji	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	als	als	K	KOKOM	_	23	kom	_	_
+19	Luftgestalten	Luftgestalt	N	NN	_|_|_	18	cj	_	_
+20	im	in	P	APPRART	Dat	23	pp	_	_
+21	poetischen	poetisch	A	ADJA	Pos|Masc|Dat|Sg|Wk|	22	attr	_	_
+22	Tanze	Tanz	N	NN	Masc|Dat|Sg	20	pn	_	_
+23	herumwirbeln	herumwirbeln	V	VVINF	_	25	obji	_	_
+24	zu	zu	P	PTKZU	_	25	part	_	_
+25	lassen	lassen	V	VVINF	_	16	kon	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Höre	hören	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Georg	Georg	N	NE	Masc|Nom|Sg	8	subj	5	5
+4	,	,	$	$,	_	0	root	_	_
+5	alles	alle	P	PIS	_|_|Sg	8	obja	_	_
+6	in	in	P	APPR	Dat	8	pp	_	_
+7	allem	alle	P	PIS	_|Dat|Sg	6	pn	_	_
+8	genommen	nehmen	V	VVPP	_	10	neb	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	finde	finden	V	VVFIN	1|Sg|Pres|_	1	kon	_	_
+11	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	103	103
+12	,	,	$	$,	_	0	root	_	_
+13	du	du	P	PPER	2|Sg|_|Nom	14	subj	_	_
+14	hättest	haben	V	VAFIN	2|Sg|Past|Subj	10	kon	_	_
+15	mir	ich	P	PPER	1|Sg|_|Dat	18	objd	103	103
+16	das	die	P	PDS	Neut|_|Sg	18	obja	_	_
+17	nicht	nicht	P	PTKNEG	_	18	adv	_	_
+18	sagen	sagen	V	VVINF	_	19	aux	_	_
+19	sollen	sollen	V	VMINF	_	14	aux	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Denke	Denke	N	NN	Fem|_|Sg	5	vok	_	_
+2	nur	nur	A	ADV	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	5	5
+5	hätte	haben	V	VAFIN	1|Sg|Past|Subj	0	root	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	9	objd	_	_
+7	damals	damals	A	ADV	_	9	adv	_	_
+8	allerlei	allerlei	P	PIS	_	9	obja	_	_
+9	eingebildet	einbilden	V	VVPP	_	5	aux	_	_
+10	;	;	$	$.	_	0	root	_	_
+11	es	es	P	PPER	3|Sg|Neut|Nom	12	subj	_	_
+12	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+13	nun	nun	A	ADV	_	12	adv	_	_
+14	doch	doch	A	ADV	_	12	adv	_	_
+15	einigermaßen	einigermaßen	A	ADV	_	16	adv	_	_
+16	beschämend	beschämen	A	ADJD	_|<PPRES	12	pred	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	am	an	P	APPRART	Dat	1	pp	6	6
+3	Fenster	Fenster	N	NN	Neut|Dat|Sg	2	pn	6	6
+4	.	.	$	$.	_	0	root	33)	33)
+
+1	Ah	Ah	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	da	da	A	ADV	_	4	adv	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	sie	sie	P	PPER	3|Sg|Fem|Nom	4	subj	106	106
+6	!	!	$	$.	_	0	root	_	_
+
+1	Meine	meine	A	PPOSAT	Fem|_|Sg	2	det	_	_
+2	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Ah	Ah	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wie	wie	P	PWAV	_	4	adv	_	_
+4	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	sie	sie	P	PPER	3|Sg|Fem|Nom	4	subj	106	106
+6	sich	sie	P	PRF	3|_|_	7	obja	_	_
+7	freuen	freuen	V	VVINF	_	4	aux	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	107	107
+4	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+5	allerdings	allerdings	A	ADV	_	6	adv	_	_
+6	bemerken	bemerken	V	VVINF	_	4	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	12	konj	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	107	107
+10	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+11	vorbereitet	vorbereiten	V	VVPP	_	12	aux	_	_
+12	war	sein	V	VAFIN	1|Sg|Past|Ind	6	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	108	108
+4	Güte	Güte	N	NN	Fem|_|Sg	5	obja	108	108
+5	haben	haben	V	VAINF	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	mich	ich	P	PPER	1|Sg|_|Acc	14	obja	107	107
+8	bei	bei	P	APPR	Dat	14	pp	_	_
+9	ihr	ihr	P	PPER	3|Sg|Fem|Dat	8	pn	108	108
+10	wegen	wegen	P	APPR	_	14	pp	_	_
+11	meiner	meine	A	PPOSAT	Fem|_|Sg	12	det	107	107
+12	Toilette	Toilette	N	NN	Fem|_|Sg	10	pn	_	_
+13	zu	zu	P	PTKZU	_	14	part	_	_
+14	entschuldigen	entschuldigen	V	VVINF	_	5	obji	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	keine	keine	A	PIAT	Masc|_|Pl	3	det	_	_
+3	Umstände	Umstand	N	NN	Masc|_|Pl	1	cj	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	meiner	meine	A	PPOSAT	Fem|Dat|Sg	4	det	_	_
+4	Frau	Frau	N	NN	Fem|Dat|Sg	7	objd	_	_
+5	gewiß	gewiß	A	ADJD	Pos|	7	adv	_	_
+6	willkommen	willkommen	A	ADJD	Pos|	7	pred	_	_
+7	sein	sein	V	VAINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Anna	Anna	N	NE	Fem|Nom|Sg	15	subj	109	109
+2	kaum	kaum	A	ADV	_	15	adv	_	_
+3	30	30	C	CARD	_	4	attr	_	_
+4	Jahre	Jahr	N	NN	Neut|_|Pl	15	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	sehr	sehr	A	ADV	_	7	adv	_	_
+7	hübsch	hübsch	A	ADJD	Pos|	15	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	höchst	höchst	A	ADV	_	10	adv	_	_
+10	einfach	einfach	A	ADJD	Pos|	7	kon	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	aber	aber	K	KON	_	10	kon	_	_
+13	mit	mit	P	APPR	Dat	12	cj	_	_
+14	Geschmack	Geschmack	N	NN	Masc|Dat|Sg	13	pn	_	_
+15	gekleidet	kleiden	V	VVPP	_	0	root	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	und	und	K	KON	_	0	root	_	_
+18	der	die	A	ART	Def|Masc|Nom|Sg	20	det	_	_
+19	achtjährige	achtjährig	A	ADJA	Pos|Masc|Nom|Sg|Wk|	20	attr	_	_
+20	Bub	Bub	N	NN	Masc|Nom|Sg	17	cj	_	_
+21	'	'	$	$(	_	0	root	_	_
+22	kommen	kommen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+23	herein	herein	P	PTKVZ	_	22	avz	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	endlich	endlich	A	ADJD	Pos|	3	pred	_	_
+3	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	110	110
+5	da	da	A	ADV	_	3	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Sieh	sehen	V	VVIMP	Sg	0	root	_	_
+2	einmal	einmal	A	ADV	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Anna	Anna	N	NE	Fem|_|Sg	0	root	109	109
+5	,	,	$	$,	_	0	root	_	_
+6	wen	wer	P	PWS	_|Acc|Sg	10	obja	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	5	5
+8	dir	du	P	PPER	2|Sg|_|Dat	10	objd	110	110
+9	da	da	A	ADV	_	10	adv	_	_
+10	mitgebracht	mitbringen	V	VVPP	_	11	aux	_	_
+11	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+

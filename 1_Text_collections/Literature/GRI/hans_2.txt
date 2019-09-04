@@ -1,0 +1,479 @@
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Zur	zu	P	APPRART	Dat	0	root	_	_
+4	Gretel	Gretel	N	NN	Fem|Dat|Sg	3	pn	6	6
+5	,	,	$	$,	_	0	root	6	6
+6	Mutter	Mutter	N	NN	Fem|Dat|Sg	4	app	6	6
+7	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Machs	Machs	N	NE	_	0	root	8	8
+4	gut	gut	A	ADJD	Pos|	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Hans	Hans	N	NE	Masc|_|Sg	0	root	0	0
+7	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Schon	schon	A	ADV	_	4	adv	_	_
+3	gut	gut	A	ADJD	Pos|	4	pred	_	_
+4	machen	machen	V	VVINF	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Adies	Adies	N	NE	Fem|_|Sg	0	root	1	1
+2	,	,	$	$,	_	0	root	1	1
+3	Mutter	Mutter	N	NN	Fem|_|Sg	1	app	1	1
+4	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Adies	Adies	N	NE	Masc|_|Sg	0	root	1	1
+4	,	,	$	$,	_	0	root	1	1
+5	Hans	Hans	N	NE	Masc|_|Sg	3	app	1	1
+6	.	.	$	$.	_	0	root	_	_
+
+1	Hans	Hans	N	NE	Masc|Nom|Sg	2	subj	0	0
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zur	zu	P	APPRART	Dat	2	objp	_	_
+4	Gretel	Gretel	N	NN	_|Dat|_	3	pn	2	2
+5	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Guten	gut	A	ADJA	Pos|_|_|Sg|_|	3	attr	_	_
+3	Tag	Tag	N	NN	_|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Gretel	Gretel	N	NE	_|_|Sg	3	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Guten	gut	A	ADJA	Pos|_|_|Sg|_|	4	attr	_	_
+4	Tag	Tag	N	NN	_|_|Sg	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Hans	Hans	N	NE	Masc|_|Sg	4	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	bringst	bringen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	Gutes	Gut	N	NN	Neut|_|Sg	0	root	9	9
+5	?	?	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Bring	Bring	N	NE	_	7	obja	10	10
+4	nichts	nichts	P	PIS	_	6	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	gegeben	geben	V	VVPP	_	7	aux	_	_
+7	han	han	V	VAINF	_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Gretel	Gretel	N	NE	_|Nom|Sg	3	subj	6	6
+3	schenkt	schenken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dem	die	A	ART	Def|Masc|Dat|Sg	5	det	0	0
+5	Hans	Hans	N	NE	Masc|Dat|Sg	3	objd	0	0
+6	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	17	17
+7	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	8	attr	17	17
+8	Ziege	Ziege	N	NN	Fem|_|Sg	3	obja	17	17
+9	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Adies	Adies	N	NE	_	0	root	1	1
+3	,	,	$	$,	_	0	root	1	1
+4	Gretel	Gretel	N	NE	_	2	app	1	1
+5	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Adies	Adies	N	NE	Masc|_|Sg	0	root	1	1
+4	,	,	$	$,	_	0	root	1	1
+5	Hans	Hans	N	NE	Masc|_|Sg	3	app	1	1
+6	.	.	$	$.	_	0	root	_	_
+
+1	Hans	Hans	N	NE	Masc|Nom|Sg	2	subj	0	0
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	17	17
+4	Ziege	Ziege	N	NN	Fem|_|Sg	2	obja	17	17
+5	,	,	$	$,	_	0	root	_	_
+6	bindet	binden	V	VVFIN	_|_|Pres|_	2	kon	_	_
+7	ihr	ihr	P	PPER	3|Sg|Fem|Dat	6	objd	17	17
+8	die	die	A	ART	Def|Neut|_|Pl	9	det	_	_
+9	Beine	Bein	N	NN	Neut|_|Pl	6	obja	_	_
+10	und	und	K	KON	_	2	kon	_	_
+11	steckt	stecken	V	VVFIN	_|_|Pres|Ind	10	cj	_	_
+12	sie	sie	P	PPER	3|_|_|_	11	obja	17	17
+13	in	in	P	APPR	Acc	11	objp	_	_
+14	die	die	A	ART	Def|Fem|Acc|Sg	15	det	18	18
+15	Tasche	Tasche	N	NN	Fem|Acc|Sg	13	pn	18	18
+16	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	5	adv	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	0	0
+3	nach	nach	P	APPR	Dat	5	pp	_	_
+4	Hause	Haus	N	NN	Neut|Dat|Sg	3	pn	12	12
+5	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	7	subjc	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	sie	sie	P	PPER	3|_|_|_	0	root	17	17
+9	erstickt	ersticken	V	VVPP	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	3	attr	_	_
+3	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Mutter	Mutter	N	NN	Fem|_|Sg	3	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	4	attr	_	_
+4	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Hans	Hans	N	NE	Masc|_|Sg	4	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	19	19
+4	gewesen	sein	V	VAPP	_	2	aux	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Bei	bei	P	APPR	Dat	6	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	6	6
+5	Gretel	Gretel	N	NN	Fem|Dat|Sg	3	pn	6	6
+6	gewesen	sein	V	VAPP	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	19	19
+6	ihr	ihr	P	PPER	3|Sg|Fem|Dat	7	objd	6	6
+7	gebracht	bringen	V	VVPP	_	4	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Nichts	Nichts	N	NN	Neut|Nom|Sg	4	subj	14	14
+4	gebracht	bringen	V	VVPP	_	7	neb	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	gegeben	geben	V	VVPP	_	7	aux	_	_
+7	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	7	objd	19	19
+6	Gretel	Gretel	N	NN	_|Nom|Sg	4	subj	6	6
+7	gegeben	geben	V	VVPP	_	4	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	'	'	$	$(	_	0	root	_	_
+11	Ziege	Ziege	N	NN	Fem|Nom|Sg	12	subj	17	17
+12	gegeben	geben	V	VVPP	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Wo	Wo	P	PWAV	_	4	adv	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	19	19
+6	die	die	A	ART	Def|Fem|_|Sg	7	det	_	_
+7	Ziege	Ziege	N	NN	Fem|_|Sg	4	obja	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Hans	Hans	N	NE	Masc|_|Sg	7	app	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	In	in	P	APPR	Acc	6	objp	_	_
+4	die	die	A	ART	Def|Fem|Acc|Sg	5	det	18	18
+5	Tasche	Tasche	N	NN	Fem|Acc|Sg	3	pn	18	18
+6	gesteckt	stecken	V	VVPP	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Das	die	P	PDS	Neut|_|Sg	7	obja	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	19	19
+6	dumm	dumm	A	ADJD	Pos|	7	pred	_	_
+7	gemacht	machen	V	VVPP	_	4	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Hans	Hans	N	NE	Masc|_|Sg	0	root	0	0
+10	,	,	$	$,	_	0	root	_	_
+11	mußtest	müssen	V	VMFIN	2|Sg|Past|Ind	0	root	_	_
+12	die	die	A	ART	Def|Fem|_|Sg	13	det	17	17
+13	Ziege	Ziege	N	NN	Fem|_|Sg	17	obja	17	17
+14	an	an	P	APPR	Acc	17	objp	_	_
+15	ein	eine	A	ART	Indef|Neut|Acc|Sg	16	det	21	21
+16	Seil	Seil	N	NN	Neut|Acc|Sg	14	pn	21	21
+17	binden	binden	V	VVINF	_	11	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Tut	Tut	N	NE	_	0	root	16	16
+4	nichts	nichts	P	PIS	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	besser	gut	A	ADJD	Comp|	7	pred	_	_
+7	machen	machen	V	VVINF	_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Wohin	Wohin	P	PWAV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Hans	Hans	N	NE	Masc|_|Sg	0	root	0	0
+5	?	?	$	$.	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	Zur	zu	P	APPRART	Dat	0	root	_	_
+9	Gretel	Gretel	N	NN	Fem|Dat|Sg	8	pn	6	6
+10	,	,	$	$,	_	0	root	6	6
+11	Mutter	Mutter	N	NN	Fem|Dat|Sg	9	app	6	6
+12	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Machs	Machs	N	NE	_	0	root	8	8
+4	gut	gut	A	ADJD	Pos|	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Hans	Hans	N	NE	Masc|_|Sg	0	root	0	0
+7	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Schon	schon	A	ADV	_	5	adv	_	_
+4	gut	gut	A	ADJD	Pos|	5	pred	_	_
+5	machen	machen	V	VVINF	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Adies	Adies	N	NE	Fem|_|Sg	0	root	1	1
+2	,	,	$	$,	_	0	root	1	1
+3	Mutter	Mutter	N	NN	Fem|_|Sg	1	app	1	1
+4	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Adies	Adies	N	NE	Masc|_|Sg	0	root	1	1
+4	,	,	$	$,	_	0	root	1	1
+5	Hans	Hans	N	NE	Masc|_|Sg	3	app	1	1
+6	.	.	$	$.	_	0	root	_	_
+
+1	Hans	Hans	N	NE	Masc|Nom|Sg	2	subj	0	0
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zur	zu	P	APPRART	Dat	2	objp	_	_
+4	Gretel	Gretel	N	NN	_|Dat|_	3	pn	2	2
+5	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Guten	gut	A	ADJA	Pos|_|_|Sg|_|	3	attr	_	_
+3	Tag	Tag	N	NN	_|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Gretel	Gretel	N	NE	_|_|Sg	3	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Guten	gut	A	ADJA	Pos|_|_|Sg|_|	4	attr	_	_
+4	Tag	Tag	N	NN	_|_|Sg	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Hans	Hans	N	NE	Masc|_|Sg	4	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	bringst	bringen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	Gutes	Gut	N	NN	Neut|_|Sg	0	root	9	9
+5	?	?	$	$.	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	Bring	Bring	N	NE	_	12	obja	10	10
+9	nichts	nichts	P	PIS	_	11	obja	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	gegeben	geben	V	VVPP	_	12	aux	_	_
+12	han	han	V	VAINF	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Gretel	Gretel	N	NE	_	3	obja	2	2
+3	schenkt	schenken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dem	die	A	ART	Def|Masc|Dat|Sg	5	det	0	0
+5	Hans	Hans	N	NE	Masc|Dat|Sg	3	objd	0	0
+6	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	20	20
+7	Stück	Stück	N	NN	Masc|Nom|Sg	3	subj	20	20
+8	Speck	Speck	N	NN	Masc|Nom|Sg	7	app	20	20
+9	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Adies	Adies	N	NE	_	0	root	1	1
+3	,	,	$	$,	_	0	root	1	1
+4	Gretel	Gretel	N	NE	_	2	app	1	1
+5	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Adies	Adies	N	NE	Masc|_|Sg	0	root	1	1
+4	,	,	$	$,	_	0	root	1	1
+5	Hans	Hans	N	NE	Masc|_|Sg	3	app	1	1
+6	.	.	$	$.	_	0	root	_	_
+
+1	Hans	Hans	N	NE	Masc|Nom|Sg	2	subj	0	0
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	4	det	20	20
+4	Speck	Speck	N	NN	Masc|Acc|Sg	2	obja	20	20
+5	,	,	$	$,	_	0	root	_	_
+6	bindet	binden	V	VVFIN	_|_|Pres|_	2	kon	_	_
+7	ihn	er	P	PPER	3|Sg|Masc|Acc	6	obja	0	0
+8	an	an	P	APPR	Acc	6	pp	_	_
+9	ein	eine	A	ART	Indef|Neut|Acc|Sg	10	det	_	_
+10	Seil	Seil	N	NN	Neut|Acc|Sg	8	pn	_	_
+11	und	und	K	KON	_	0	root	_	_
+12	schleifts	schleifts	T	TRUNC	_	0	root	_	_
+13	hinter	hinter	P	APPR	_	0	root	_	_
+14	sich	sie	P	PRF	3|_|_	13	pn	_	_
+15	her	her	P	PTKVZ	_	0	root	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Masc|Nom|Pl	2	det	_	_
+2	Hunde	Hund	N	NN	Masc|Nom|Pl	3	subj	_	_
+3	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	fressen	fressen	V	VVFIN	_|Pl|Pres|_	4	cj	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	20	20
+7	Speck	Speck	N	NN	Masc|Acc|Sg	5	obja	20	20
+8	ab	ab	P	PTKVZ	_	5	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	5	adv	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	4	4
+3	nach	nach	P	APPR	Dat	5	pp	_	_
+4	Haus	Haus	N	NN	Neut|Dat|Sg	3	pn	12	12
+5	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	7	subj	4	4
+9	das	die	A	ART	Def|Neut|_|Sg	10	det	21	21
+10	Seil	Seil	N	NN	Neut|_|Sg	7	obja	21	21
+11	an	an	P	APPR	Dat	7	pp	_	_
+12	der	die	A	ART	Def|Fem|Dat|Sg	13	det	_	_
+13	Hand	Hand	N	NN	Fem|Dat|Sg	11	pn	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	und	und	K	KON	_	7	kon	_	_
+16	ist	sein	V	VAFIN	3|Sg|Pres|Ind	15	cj	_	_
+17	nichts	nichts	P	PIS	_|Nom|Sg	16	subj	_	_
+18	mehr	mehr	A	ADV	_	17	adv	_	_
+19	daran	daran	P	PROAV	_	16	pp	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	3	attr	_	_
+3	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Mutter	Mutter	N	NN	Fem|_|Sg	3	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Guten	gut	A	ADJA	Pos|Masc|_|Sg|_|	4	attr	_	_
+4	Abend	Abend	N	NN	Masc|_|Sg	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Hans	Hans	N	NE	Masc|_|Sg	4	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	22	22
+4	gewesen	sein	V	VAPP	_	2	aux	_	_
+5	?	?	$	$.	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	Bei	bei	P	APPR	Dat	11	pp	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	6	6
+10	Gretel	Gretel	N	NN	Fem|Dat|Sg	8	pn	6	6
+11	gewesen	sein	V	VAPP	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	22	22
+6	ihr	ihr	P	PPER	3|Sg|Fem|Dat	7	objd	6	6
+7	gebracht	bringen	V	VVPP	_	4	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Nichts	Nichts	N	NN	Neut|Nom|Sg	4	subj	14	14
+4	gebracht	bringen	V	VVPP	_	7	neb	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	gegeben	geben	V	VVPP	_	7	aux	_	_
+7	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	dir	du	P	PPER	2|Sg|_|Dat	7	objd	22	22
+6	Gretel	Gretel	N	NN	_|Nom|Sg	4	subj	6	6
+7	gegeben	geben	V	VVPP	_	4	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	'	'	$	$(	_	0	root	_	_
+11	Stück	Stück	N	NN	Neut|Nom|Sg	13	subj	_	_
+12	Speck	Speck	N	NN	Masc|_|Sg	13	obja	_	_
+13	gegeben	geben	V	VVPP	_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Wo	Wo	P	PWAV	_	4	adv	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	22	22
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	_	_
+7	Speck	Speck	N	NN	Masc|Acc|Sg	4	obja	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Hans	Hans	N	NE	Masc|Acc|Sg	7	app	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Ans	an	P	APPRART	Acc	5	objp	_	_
+4	Seil	Seil	N	NN	Neut|Acc|Sg	3	pn	29	29
+5	gebunden	binden	V	VVPP	_	11	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	heim	heim	A	ADV	_	8	adv	_	_
+8	geführt	führen	V	VVPP	_	11	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Hunde	Hund	N	NN	Masc|_|_	11	obja	_	_
+11	weggeholt	wegholen	V	VVPP	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	'	'	$	$(	_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	Das	die	P	PDS	Neut|_|Sg	7	obja	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	22	22
+6	dumm	dumm	A	ADJD	Pos|	7	pred	_	_
+7	gemacht	machen	V	VVPP	_	4	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Hans	Hans	N	NE	Masc|_|Sg	0	root	0	0
+10	,	,	$	$,	_	0	root	_	_
+11	mußtest	müssen	V	VMFIN	2|Sg|Past|Ind	0	root	_	_
+12	den	die	A	ART	Def|Masc|Acc|Sg	13	det	20	20
+13	Speck	Speck	N	NN	Masc|Acc|Sg	17	obja	20	20
+14	auf	auf	P	APPR	Dat	17	objp	_	_
+15	dem	die	A	ART	Def|Masc|Dat|Sg	16	det	24	24
+16	Kopf	Kopf	N	NN	Masc|Dat|Sg	14	pn	24	24
+17	tragen	tragen	V	VVINF	_	11	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+

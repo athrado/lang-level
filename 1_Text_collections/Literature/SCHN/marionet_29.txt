@@ -1,0 +1,444 @@
+1	Solches	solche	P	PIS	Neut|Nom|Sg	2	subj	_	_
+2	widerfährt	widerfahren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	den	die	A	ART	Def|Fem|Dat|Pl	5	det	_	_
+4	ehrbarsten	ehrbar	A	ADJA	Sup|Fem|Dat|Pl|_|	5	attr	_	_
+5	Frauen	Frau	N	NN	Fem|Dat|Pl	2	objd	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	396	396
+8	selber	selber	A	ADV	_	7	adv	_	_
+9	war	sein	V	VAFIN	1|Sg|Past|Ind	0	root	_	_
+10	zu	zu	P	APPR	Dat	16	objp	_	_
+11	dem	die	A	ART	Def|Masc|Dat|Sg	12	det	_	_
+12	Traum	Traum	N	NN	Masc|Dat|Sg	10	pn	_	_
+13	einer	eine	A	ART	Indef|Fem|Gen|Sg	15	det	400	400
+14	vornehmen	vornehm	A	ADJA	Pos|Fem|Gen|Sg|Wk|	15	attr	400	400
+15	Dame	Dame	N	NN	Fem|Gen|Sg	12	gmod	400	400
+16	geladen	laden	V	VVPP	_	9	aux	400	400
+17	,	,	$	$,	_	0	root	400	400
+18	der	die	P	PRELS	Fem|Dat|Sg	21	objd	400	400
+19	ein	eine	A	ART	Indef|Masc|Nom|Sg	20	det	401	401
+20	Mohrenfürst	Mohrenfürst	N	NN	Masc|Nom|Sg	21	subj	401	401
+21	erschien	erscheinen	V	VVFIN	3|Sg|Past|Ind	15	rel	_	_
+22	und	und	K	KON	_	21	kon	_	_
+23	die	die	P	PRELS	_|_|_	30	obja	401	401
+24	ein	eine	A	ART	Indef|Masc|Nom|Sg	26	det	_	_
+25	kohlrabenschwarzes	kohlrabenschwarz	A	ADJA	Pos|Neut|_|Sg|St|	26	attr	_	_
+26	Mägdelein	Mägdelein	N	NN	Masc|Nom|Sg	30	subj	_	_
+27	auf	auf	P	APPR	Acc	30	objp	_	_
+28	die	die	A	ART	Def|Fem|Acc|Sg	29	det	138	138
+29	Welt	Welt	N	NN	Fem|Acc|Sg	27	pn	138	138
+30	brachte	bringen	V	VVFIN	3|Sg|Past|Ind	22	cj	_	_
+31	!	!	$	$.	_	0	root	_	_
+
+1	Glocken	Glocke	N	NN	Fem|_|Pl	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	ungeduldig	ungeduldig	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Den	die	A	ART	Def|Masc|Acc|Sg	2	det	_	_
+2	Nachtisch	Nachtisch	N	NN	Masc|Acc|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	402	402
+2	Stunde	Stunde	N	NN	Fem|Nom|Sg	3	subj	402	402
+3	drängt	drängen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	nichts	nichts	P	PIS	_	0	root	_	_
+2	mehr	mehr	A	ADV	_	1	adv	_	_
+3	da	da	P	PTKVZ	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ei	Ei	N	NN	Neut|_|Sg	6	obja	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Sophie	Sophie	N	NE	Fem|_|Sg	1	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	6	subj	_	_
+8	trotz	trotz	P	APPR	_	6	pp	_	_
+9	aller	alle	A	PIDAT	_|_|_	10	det	_	_
+10	Sorgsamkeit	Sorgsamkeit	N	NN	_|_|_	8	pn	_	_
+11	doch	doch	A	ADV	_	6	adv	_	_
+12	etwas	etwas	A	ADV	_	6	adv	_	_
+13	vergessen	vergessen	V	VVINF	_	0	root	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	0	root	76	76
+2	nein	nein	P	PTKANT	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	236	236
+2	bringt	bringen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	einen	eine	A	ART	Indef|Masc|Acc|Sg	4	det	404	404
+4	Aufsatz	Aufsatz	N	NN	Masc|Acc|Sg	2	obja	404	404
+5	mit	mit	P	APPR	Dat	2	pp	_	_
+6	Früchten	Frucht	N	NN	Fem|Dat|Pl	5	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Herrlich	herrlich	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	403	403
+2	duften	duften	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	frisch	frisch	A	ADJD	Pos|	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	als	als	K	KOKOM	_	7	konj	_	_
+7	wären	sein	V	VAFIN	3|Pl|Past|Subj	2	neb	_	_
+8	sie	sie	P	PPER	3|Pl|_|Nom	7	subj	403	403
+9	eben	eben	A	ADV	_	12	adv	_	_
+10	vom	von	P	APPRART	Dat	12	pp	_	_
+11	Baume	Baum	N	NN	Masc|Dat|Sg	10	pn	_	_
+12	gepflückt	pflücken	V	VVPP	_	7	aux	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	zu	zu	P	APPR	Dat	2	objp	_	_
+5	so	so	A	ADV	_	6	adv	411	411
+6	prächtigen	prächtig	A	ADJA	Pos|Fem|Dat|Pl|_|	7	attr	411	411
+7	Früchten	Frucht	N	NN	Fem|Dat|Pl	4	pn	411	411
+8	?	?	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	herrliche	herrlich	A	ADJA	Pos|Fem|Nom|Pl|St|	5	attr	_	_
+5	Früchte	Frucht	N	NN	Fem|Nom|Pl	2	subj	_	_
+6	in	in	P	APPR	Acc	2	objp	_	_
+7	diese	diese	A	PDAT	Fem|Acc|Sg	8	det	259	259
+8	Stadt	Stadt	N	NN	Fem|Acc|Sg	6	pn	259	259
+9	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	4	det	_	_
+4	Zufall	Zufall	N	NN	Masc|Nom|Sg	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	6	pp	_	_
+2	Schaukasten	Schaukasten	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	des	die	A	ART	Def|_|Gen|Sg	4	det	_	_
+4	Silvio	Silvio	N	NN	_|Gen|Sg	2	gmod	_	_
+5	Renatti	Renatti	N	NE	_|Gen|Sg	4	app	_	_
+6	sah	sehen	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	405	405
+8	den	die	A	ART	Def|Masc|Acc|Sg	9	det	404	404
+9	Aufsatz	Aufsatz	N	NN	Masc|Acc|Sg	10	obja	404	404
+10	ausgestellt	ausstellen	V	VVPP	_	6	neb	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Schön	schön	A	ADJD	Pos|	0	root	_	_
+2	genug	genug	A	ADV	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	um	um	K	KOUI	_	9	konj	_	_
+5	eine	eine	A	ART	Indef|Fem|_|Sg	7	det	_	_
+6	herrschaftliche	herrschaftlich	A	ADJA	Pos|Fem|_|Sg|_|	7	attr	_	_
+7	Tafel	Tafel	N	NN	Fem|_|Sg	9	obja	_	_
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	zieren	zieren	V	VVINF	_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Dafür	Dafür	P	PROAV	_	5	objp	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	2	2
+4	auch	auch	A	ADV	_	5	adv	_	_
+5	bestimmt	bestimmen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	406	406
+2	Bürgermeister	Bürgermeister	N	NN	Masc|Nom|Sg	3	subj	406	406
+3	empfängt	empfangen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	heute	heute	A	ADV	_	3	adv	_	_
+5	den	die	A	ART	Def|Masc|_|_	6	det	405	405
+6	Fürsten	Fürst	N	NN	Masc|Acc|Sg	3	obja	405	405
+7	von	von	P	APPR	_	6	pp	405	405
+8	Dessau	Dessau	N	NN	Fem|_|Sg	7	pn	405	405
+9	,	,	$	$,	_	0	root	405	405
+10	der	die	P	PRELS	Masc|Nom|Sg	18	subj	405	405
+11	sich	sie	P	PRF	3|_|_	18	obja	_	_
+12	auf	auf	P	APPR	Dat	18	pp	_	_
+13	der	die	A	ART	Def|Fem|Dat|Sg	14	det	_	_
+14	Durchreise	Durchreise	N	NN	Fem|Dat|Sg	12	pn	_	_
+15	zum	zu	P	APPRART	Dat	18	pp	_	_
+16	Kriegslager	Kriegslager	N	NN	Neut|Dat|Sg	15	pn	_	_
+17	hier	hier	A	ADV	_	15	adv	_	_
+18	aufhält	aufhalten	V	VVFIN	3|Sg|Pres|Ind	6	rel	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	1	subj	410	410
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	406	406
+4	Bürgermeister	Bürgermeister	N	NN	Masc|Nom|Sg	1	pred	406	406
+5	?	?	$	$.	_	0	root	_	_
+
+1	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	dies	dies	P	PDS	Neut|Nom|Sg	1	subj	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	407	407
+4	Fürst	Fürst	N	NN	Masc|Nom|Sg	1	pred	407	407
+5	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	das	die	P	PDS	Neut|_|Sg	0	root	_	_
+4	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Oder	oder	K	KON	_	0	root	_	_
+2	hab	hab	V	VAFIN	1|Sg|_|_	1	cj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	408	408
+5	dir	du	P	PPER	2|Sg|_|Dat	8	objd	409	409
+6	mehr	mehr	A	PIAT	Masc|_|Sg	7	det	_	_
+7	Schmuck	Schmuck	N	NN	Masc|_|Sg	8	obja	_	_
+8	gegeben	geben	V	VVPP	_	2	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	als	als	K	KOUS	_	13	konj	_	_
+11	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	408	408
+12	mich	ich	P	PRF	1|Sg|Acc	13	obja	_	_
+13	erinnere	erinnern	V	VVFIN	1|Sg|Pres|_	2	neb	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	daß	daß	K	KOUS	_	18	konj	_	_
+16	du	du	P	PPER	2|Sg|_|Nom	18	subj	409	409
+17	imstande	imstande	A	ADJD	_	18	pred	_	_
+18	warst	sein	V	VAFIN	2|Sg|Past|Ind	13	objc	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	diesen	diese	A	PDAT	Masc|Acc|Sg	21	det	404	404
+21	Aufsatz	Aufsatz	N	NN	Masc|Acc|Sg	23	obja	404	404
+22	zu	zu	P	PTKZU	_	23	part	_	_
+23	bezahlen	bezahlen	V	VVINF	_	24	aux	_	_
+24	f	f	V	VMFIN	_	2	kon	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|_|_	0	root	76	76
+2	nein	nein	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Diese	diese	A	PDAT	Fem|Nom|Sg	2	det	_	_
+2	Rechnung	Rechnung	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	hab	hab	V	VVFIN	_|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	408	408
+6	in	in	P	APPR	_	9	pp	_	_
+7	anderer	anderer	A	ADJA	_|Fem|_|Sg|_	8	attr	_	_
+8	Art	Art	N	NN	Fem|_|Sg	6	pn	_	_
+9	beglichen	begleichen	V	VVPP	_	3	neb	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wie	wie	P	PWAV	_	1	cj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wenn	wenn	K	KOUS	_	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_	8	obja	_	_
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	fragen	fragen	V	VVINF	_	0	root	_	_
+9	erlaubt	erlauben	V	VVPP	_	10	aux	_	_
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	410	410
+2	junge	jung	A	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	410	410
+3	Italiener	Italiener	N	NN	Masc|Nom|Sg	10	subj	410	410
+4	,	,	$	$,	_	0	root	410	410
+5	der	die	P	PRELS	Masc|Nom|Sg	8	subj	410	410
+6	im	in	P	APPRART	Dat	8	pp	_	_
+7	Laden	Lade	N	NN	_|Dat|_	6	pn	_	_
+8	stand	stehen	V	VVFIN	3|Sg|Past|Ind	3	rel	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	verlangte	verlangen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+11	einen	eine	A	ART	Indef|Masc|Acc|Sg	12	det	_	_
+12	Kuß	Kuß	N	NN	Masc|Acc|Sg	10	obja	_	_
+13	dafür	dafür	P	PROAV	_	10	pp	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	bezahltest	bezahlen	V	VVFIN	2|Sg|Past|_	1	cj	_	_
+4	so	so	A	ADV	_	3	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sollt	sollen	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	326	326
+4	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	da	da	K	KOUS	_	11	konj	_	_
+7	wir	wir	P	PPER	1|Pl|_|Nom	11	subj	_	_
+8	so	so	A	ADV	_	9	adv	_	_
+9	vornehmen	vornehm	A	ADJA	Pos|Masc|_|Sg|_|	10	attr	_	_
+10	Besuch	Besuch	N	NN	Masc|_|Sg	11	obja	_	_
+11	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	über	über	P	APPR	_	9	pp	_	_
+4	alle	alle	A	PIDAT	_|_|_	5	det	_	_
+5	Maßen	Maß	N	NN	_|_|_	3	pn	_	_
+6	edel	edel	A	ADJD	Pos|	9	adv	_	_
+7	und	und	K	KON	_	6	kon	_	_
+8	gastfreundlich	gastfreundlich	A	ADJD	Pos|	7	cj	_	_
+9	gehandelt	handeln	V	VVPP	_	2	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Fräulein	Fräulein	N	NN	Neut|_|_	2	vok	393	393
+12	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	3	koord	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	415	415
+3	schwöre	schwören	V	VVFIN	1|Sg|_|_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	wenn	wenn	K	KOUS	_	13	konj	_	_
+6	diese	diese	A	PDAT	Fem|Nom|Pl	7	det	411	411
+7	Früchte	Frucht	N	NN	Fem|Nom|Pl	13	subj	411	411
+8	eben	eben	A	ADV	_	13	adv	_	_
+9	aus	aus	P	APPR	Dat	13	objp	_	_
+10	dem	die	A	ART	Def|_|Dat|Sg	12	det	412	412
+11	heißen	heiß	A	ADJA	Pos|_|Dat|Sg|Wk|	12	attr	412	412
+12	Sizilien	Sizilien	N	NN	_|Dat|Sg	9	pn	412	412
+13	kommen	kommen	V	VVFIN	3|Pl|Pres|_	3	neb	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	wenn	wenn	K	KOUS	_	25	konj	_	_
+16	der	die	P	PDS	Masc|Nom|Sg	25	subj	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	der	die	P	PRELS	Masc|Nom|Sg	20	subj	412	412
+19	sie	sie	P	PPER	3|_|_|_	20	obja	411	411
+20	pflückte	pflücken	V	VVFIN	3|Sg|Past|_	16	rel	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	an	an	P	APPR	_	25	objp	_	_
+23	Sonnenstich	Sonnenstich	N	NN	Masc|_|Sg	22	pn	413	413
+24	zugrunde	zugrunde	P	PTKVZ	_	25	avz	_	_
+25	ging	gehen	V	VVFIN	3|Sg|Past|Ind	13	neb	_	_
+26	,	,	$	$,	_	0	root	_	_
+27	der	die	P	PRELS	_|_|Sg	0	root	413	413
+28	,	,	$	$,	_	0	root	_	_
+29	der	die	P	PRELS	Masc|Nom|Sg	33	subj	413	413
+30	sie	sie	P	PPER	3|_|_|_	33	obja	411	411
+31	nach	nach	P	APPR	Dat	33	pp	_	_
+32	Deutschland	Deutschland	N	NE	Neut|Dat|Sg	31	pn	_	_
+33	brachte	bringen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+34	,	,	$	$,	_	0	root	_	_
+35	an	an	P	APPR	_	37	pp	_	_
+36	Heimweh	Heimweh	N	NN	Neut|_|Sg	35	pn	_	_
+37	verstarb	versterben	V	VVFIN	_|Sg|Past|Ind	33	kon	_	_
+38	und	und	K	KON	_	37	kon	_	_
+39	Bürgermeister	Bürgermeister	N	NN	Masc|Nom|Pl	46	subj	_	_
+40	und	und	K	KON	_	39	kon	_	_
+41	Fürst	Fürst	N	NN	Masc|Nom|Sg	40	cj	_	_
+42	vor	vor	P	APPR	_	46	pp	_	_
+43	Kränkung	Kränkung	N	NN	Fem|_|Sg	42	pn	_	_
+44	darüber	darüber	P	PROAV	_	46	pp	_	_
+45	wahnsinnig	wahnsinnig	A	ADJD	Pos|	46	pred	_	_
+46	werden	werden	V	VAFIN	_|Pl|Pres|_	38	cj	_	_
+47	,	,	$	$,	_	0	root	_	_
+48	daß	daß	K	KOUS	_	55	konj	_	_
+49	sie	sie	P	PPER	3|Pl|_|Nom	55	subj	411	411
+50	auf	auf	P	APPR	Acc	54	objp	_	_
+51	einen	eine	A	ART	Indef|Masc|Acc|Sg	53	det	_	_
+52	solchen	solche	A	PIDAT	Masc|Acc|Sg	53	attr	_	_
+53	Nachtisch	Nachtisch	N	NN	Masc|Acc|Sg	50	pn	_	_
+54	verzichten	verzichten	V	VVINF	_	55	aux	_	_
+55	müssen	müssen	V	VMFIN	3|Pl|Pres|_	46	objc	_	_
+56	,	,	$	$,	_	0	root	_	_
+57	-	-	$	$(	_	0	root	_	_
+58	der	die	A	ART	Def|Masc|Nom|Sg	60	det	414	414
+59	freche	frech	A	ADJA	Pos|Masc|Nom|Sg|Wk|	60	attr	414	414
+60	Italiener	Italiener	N	NN	Masc|Nom|Sg	61	subj	414	414
+61	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+62	sie	sie	P	PPER	3|_|_|_	67	obja	411	411
+63	sich	sie	P	PRF	3|_|_	66	obja	_	_
+64	doch	doch	A	ADV	_	66	adv	_	_
+65	tausendfach	tausendfach	A	ADJD	Pos|	66	adv	_	_
+66	überzahlen	überzahlen	V	VVINF	_	67	obji	_	_
+67	lassen	lassen	V	VVINF	_	61	aux	_	_
+68	,	,	$	$,	_	0	root	_	_
+69	und	und	K	KON	_	61	kon	_	_
+70	er	er	P	PPER	3|Sg|Masc|Nom	71	subj	414	414
+71	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	69	cj	_	_
+72	es	es	P	PPER	3|Sg|Neut|_	74	expl	_	_
+73	mir	ich	P	PPER	1|Sg|_|Dat	74	objd	415	415
+74	büßen	büßen	V	VVINF	_	71	aux	_	_
+75	,	,	$	$,	_	0	root	_	_
+76	eh	eh	A	ADJD	_	78	adv	_	_
+77	'	'	$	$(	_	0	root	_	_
+78	ich	ich	P	PPER	1|Sg|_|Nom	0	root	415	415
+79	die	die	A	ART	Def|Fem|_|Sg	80	det	259	259
+80	Stadt	Stadt	N	NN	Fem|_|Sg	81	obja	259	259
+81	verlasse	verlassen	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+82	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	aber	aber	A	ADV	_	3	adv	_	_
+3	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+4	wir	wir	P	PPER	1|Pl|_|Nom	3	subj	416	416
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_	9	obja	_	_
+7	uns	wir	P	PPER	1|Pl|_|Dat	8	objd	416	416
+8	schmecken	schmecken	V	VVINF	_	9	obji	_	_
+9	lassen	lassen	V	VVINF	_	3	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	essen	essen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|Nom|Sg	2	subj	236	236
+2	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Cassian	Cassian	N	NE	_	2	obja	250	250
+4	an	an	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+

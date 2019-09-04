@@ -1,0 +1,515 @@
+1	»	»	$	$(	_	0	root	_	_
+2	Führe	fahren	V	VVFIN	_|Sg|_|_	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	308	308
+4	zu	zu	P	APPR	Dat	2	pp	_	_
+5	ihm	er	P	PPER	3|Sg|_|Dat	4	pn	8	8
+6	!	!	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Komm	Komm	N	NE	Masc|_|Sg	0	root	309	309
+3	,	,	$	$,	_	0	root	309	309
+4	Herr	Herr	N	NN	Masc|_|Sg	2	app	309	309
+5	!	!	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+2	schritt	schreiten	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	voran	voran	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	in	in	P	APPR	Acc	0	root	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	22	22
+7	Hof	Hof	N	NN	Masc|Acc|Sg	5	pn	22	22
+8	hinaus	hinaus	P	PTKVZ	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	eine	eine	A	ART	Indef|Fem|_|Sg	11	det	_	_
+11	Art	Art	N	NN	Fem|_|Sg	9	cj	_	_
+12	Stiege	Stiege	N	NN	Fem|_|Sg	11	app	_	_
+13	empor	empor	P	PTKVZ	_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Dort	dort	A	ADV	_	2	adv	_	_
+2	oben	oben	A	ADV	_	3	adv	_	_
+3	sah	sehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	man	man	P	PIS	_|Nom|Sg	3	subj	_	_
+5	beim	bei	P	APPRART	Dat	3	pp	_	_
+6	Scheine	Schein	N	NN	Masc|Dat|Sg	5	pn	_	_
+7	einer	eine	A	ART	Indef|Fem|Gen|Sg	8	det	516	516
+8	Lampe	Lampe	N	NN	Fem|Gen|Sg	6	gmod	516	516
+9	mehrere	mehrere	A	PIAT	_|_|_	10	det	_	_
+10	Thüren	Thüren	N	NN	_|_|_	3	obja	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+2	öffnete	öffnen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	eine	eine	A	ART	Indef|Fem|_|Sg	0	root	_	_
+4	derselben	derselben	A	ADV	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Auch	auch	A	ADV	_	2	adv	_	_
+2	hier	hier	A	ADV	_	3	adv	_	_
+3	brannte	brennen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	5	det	_	_
+5	Lampe	Lampe	N	NN	Fem|Nom|Sg	3	subj	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	aber	aber	K	KON	_	0	root	_	_
+8	das	die	P	PDS	Neut|Nom|Sg	17	subj	_	_
+9	mit	mit	P	APPR	Dat	8	pp	_	_
+10	einer	eine	A	ART	Indef|Fem|_|Sg	14	det	_	_
+11	einzigen	einzig	A	ADJA	Pos|Fem|Dat|Sg|Wk|	14	attr	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	alten	alt	A	ADJA	Pos|_|Dat|_|_|	11	kon	_	_
+14	Matte	Matte	N	NN	Fem|Dat|Sg	9	pn	_	_
+15	versehene	versehen	A	ADJA	Pos|Neut|_|Sg|Wk|	16	attr	_	_
+16	Gemach	Gemach	N	NN	Neut|_|Sg	14	app	_	_
+17	war	sein	V	VAFIN	_|Sg|Past|Ind	7	cj	_	_
+18	leer	leer	A	ADJD	Pos|	17	pred	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wohnt	wohnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+4	hier	hier	A	ADV	_	2	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+7	fragte	fragen	V	VVFIN	1|Sg|Past|_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	234	234
+9	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	4	subj	8	8
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	cj	_	_
+5	ja	ja	A	ADV	_	4	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+7	da	da	A	ADV	_	4	adv	_	_
+8	!	!	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Allah	Allah	N	NE	Masc|Nom|Sg	3	subj	48	48
+3	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	3	expl	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wo	wo	P	PWAV	_	8	adv	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	8	subj	48	48
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	3	objc	_	_
+9	!	!	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wo	Wo	P	PWAV	_	3	adv	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	8	8
+5	sein	seine	A	PPOSAT	Neut|_|Sg	6	det	8	8
+6	Pferd	Pferd	N	NN	Neut|_|Sg	3	obja	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Im	in	P	APPRART	Dat	0	root	_	_
+3	Stalle	Stall	N	NN	Masc|Dat|Sg	2	pn	310	310
+4	,	,	$	$,	_	0	root	310	310
+5	welcher	welche	P	PRELS	Masc|Nom|Sg	10	subj	310	310
+6	sich	sie	P	PRF	3|_|_	10	obja	_	_
+7	im	in	P	APPRART	Dat	10	objp	_	_
+8	zweiten	zweit	A	ADJA	_|_|Dat|_|_|	9	attr	_	_
+9	Awlu	Awlu	N	NN	_|Dat|_	7	pn	_	_
+10	befindet	befinden	V	VVFIN	3|Sg|Pres|Ind	3	rel	_	_
+11	.	.	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	War	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+4	heute	heute	A	ADV	_	2	adv	_	_
+5	Abend	Abend	N	NN	Masc|Nom|Sg	2	pred	_	_
+6	unten	unten	A	ADV	_	5	adv	_	_
+7	bei	bei	P	APPR	Dat	5	pp	_	_
+8	den	die	A	ART	Def|Masc|Dat|Pl	10	det	_	_
+9	andern	andern	A	ADJA	_|Masc|Dat|Pl|_	10	attr	_	_
+10	Gästen	Gast	N	NN	Masc|Dat|Pl	7	pn	_	_
+11	?	?	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	aber	aber	A	ADV	_	3	adv	_	_
+3	stand	stehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	8	8
+5	lange	lang	A	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	_
+6	Zeit	Zeit	N	NN	Fem|_|Sg	7	grad	_	_
+7	unter	unter	P	APPR	Dat	3	objp	_	_
+8	dem	die	A	ART	Def|Neut|Dat|Sg	9	det	18	18
+9	Thore	Thor	N	NN	Neut|Dat|Sg	7	pn	18	18
+10	.	.	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	311	311
+3	suche	suchen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	außer	außer	P	APPR	Dat	3	pp	_	_
+5	ihm	er	P	PPER	3|Sg|_|Dat	4	pn	8	8
+6	noch	noch	A	ADV	_	3	adv	_	_
+7	einen	eine	A	ART	Indef|Masc|Acc|Sg	9	det	_	_
+8	andern	andern	A	ADJA	_|Masc|Acc|Sg|_	9	attr	_	_
+9	Mann	Mann	N	NN	Masc|Acc|Sg	3	obja	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	welcher	welche	A	PWAT	Masc|Nom|Sg	12	det	234	234
+12	Manach	Manach	N	NN	Masc|Nom|Sg	15	subj	234	234
+13	el	el	N	NE	Masc|Nom|Sg	12	app	234	234
+14	Barscha	Barscha	N	NE	Masc|Nom|Sg	13	app	234	234
+15	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	9	objc	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Kennst	kennen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	Du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	1	obja	234	234
+4	?	?	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Warum	Warum	P	PWAV	_	3	adv	_	_
+3	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	311	311
+5	ihn	er	P	PPER	3|Sg|Masc|Acc	7	obja	8	8
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	kennen	kennen	V	VVINF	_	3	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	heute	heute	A	ADV	_	2	adv	_	_
+5	bei	bei	P	APPR	Dat	2	pp	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	pn	311	311
+7	gewohnt	gewohnt	A	ADJD	Pos|	2	adv	_	_
+8	!	!	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+2	wohnt	wohnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	also	also	A	ADV	_	2	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	hier	hier	A	ADV	_	2	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	8	8
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	abgereist	abreisen	V	VVPP	_	5	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Allein	Allein	A	ADV	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	sondern	sondern	K	KON	_	0	root	_	_
+5	mit	mit	P	APPR	Dat	4	cj	_	_
+6	zwei	zwei	C	CARD	_	7	attr	710	710
+7	Freunden	Freund	N	NN	Masc|Dat|Pl	5	pn	710	710
+8	.	.	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	21	21
+3	ritten	reiten	V	VVFIN	3|Pl|Past|_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	für	für	P	APPR	Acc	2	pp	_	_
+4	Pferde	Pferd	N	NN	Neut|Acc|Pl	3	pn	_	_
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Zwei	zwei	C	CARD	_	3	attr	312	312
+3	Schimmel	Schimmel	N	NN	Masc|Acc|Pl	0	root	312	312
+4	und	und	K	KON	_	3	kon	_	_
+5	einen	eine	A	ART	Indef|Masc|Acc|Sg	6	det	_	_
+6	Braunen	Braune	N	NN	Masc|Acc|Sg	4	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wohin	Wohin	P	PWAV	_	3	adv	_	_
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|Pl|_|Nom	3	subj	21	21
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	21	21
+3	wollen	wollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+4	nach	nach	P	APPR	Dat	3	objp	_	_
+5	Filibe	Filibe	N	NN	_|Dat|_	4	pn	291	291
+6	und	und	K	KON	_	4	kon	_	_
+7	dann	dann	A	ADV	_	9	adv	_	_
+8	weiter	weiter	A	ADV	_	9	adv	_	_
+9	nach	nach	P	APPR	Dat	6	cj	_	_
+10	Sofia	Sofia	N	NN	Fem|Dat|Sg	9	pn	770	770
+11	.	.	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Kanntest	kennen	V	VVFIN	2|Sg|Past|Ind	0	root	_	_
+3	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	die	die	A	ART	Def|Masc|_|Pl	6	det	_	_
+5	beiden	beide	A	PIDAT	Masc|_|Pl	6	attr	_	_
+6	Freunde	Freund	N	NN	Masc|_|Pl	2	obja	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+2	ging	gehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	aus	aus	P	PTKVZ	_	2	avz	_	_
+4	und	und	K	KON	_	2	kon	_	_
+5	brachte	bringen	V	VVFIN	_|Sg|Past|Ind	4	cj	_	_
+6	sie	sie	P	PPER	3|_|_|_	5	obja	21	21
+7	mit	mit	P	PTKVZ	_	5	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+4	drei	drei	C	CARD	_	5	attr	_	_
+5	Pferde	Pferd	N	NN	Neut|_|Pl	6	obja	_	_
+6	mitgebracht	mitbringen	V	VVPP	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	sondern	sondern	K	KON	_	0	root	_	_
+5	nur	nur	A	ADV	_	7	adv	_	_
+6	den	die	A	ART	Def|_|_|_	7	det	_	_
+7	Braunen	Braune	N	NN	_|_|_	4	cj	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Masc|_|Pl	2	det	312	312
+2	Schimmel	Schimmel	N	NN	Masc|_|Pl	6	obja	312	312
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	8	8
+5	heute	heute	A	ADV	_	6	adv	_	_
+6	gekauft	kaufen	V	VVPP	_	3	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	als	als	K	KOUS	_	12	konj	_	_
+9	es	es	P	PPER	3|Sg|Neut|Nom	12	subj	_	_
+10	beinahe	beinahe	A	ADV	_	12	adv	_	_
+11	Abend	Abend	N	NN	Masc|Nom|Sg	12	pred	235	235
+12	war	sein	V	VAFIN	3|Sg|Past|Ind	3	neb	_	_
+13	.	.	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	wußte	wußte	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	313	313
+4	genau	genau	A	ADJD	Pos|	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	12	konj	_	_
+7	mein	meine	A	PPOSAT	Neut|Nom|Sg	8	det	313	313
+8	Gehör	Gehör	N	NN	Neut|Nom|Sg	12	subj	_	_
+9	mich	ich	P	PPER	1|Sg|_|Acc	12	obja	313	313
+10	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+11	getäuscht	getäuscht	A	ADJD	Pos|	12	adv	_	_
+12	hatte	haben	V	VAFIN	3|Sg|Past|Ind	2	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Barud	Barud	N	NE	_|Dat|_	11	objd	67	67
+2	el	el	N	NE	_|Dat|_	1	app	67	67
+3	Amasat	Amasat	N	NE	_|Dat|_	2	app	67	67
+4	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+5	mit	mit	P	APPR	Dat	11	pp	_	_
+6	Hülfe	Hülfe	N	NN	Fem|Dat|Sg	5	pn	212	212
+7	dieses	diese	A	PDAT	Neut|Nom|Sg	8	det	234	234
+8	Manach	Manach	N	NN	Neut|Nom|Sg	4	subj	234	234
+9	el	el	N	NE	Neut|Nom|Sg	8	app	234	234
+10	Barscha	Barscha	N	NE	Neut|Nom|Sg	9	app	234	234
+11	entkommen	entkommen	V	VVPP	_	4	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	3	subj	_	_
+2	aber	aber	A	ADV	_	3	adv	_	_
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	der	die	A	ART	Def|Masc|Nom|Sg	5	det	314	314
+5	Dritte	Dritte	N	NN	Masc|Nom|Sg	6	pred	314	314
+6	gewesen	sein	V	VAPP	_	3	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	3	adv	716	716
+2	ein	eine	A	ART	Indef|Masc|Nom|Sg	3	det	716	716
+3	Schließer	Schließer	N	NN	Masc|Nom|Sg	0	root	716	716
+4	des	die	A	ART	Def|Neut|Gen|Sg	5	det	315	315
+5	Gefängnisses	Gefängnis	N	NN	Neut|Gen|Sg	3	gmod	315	315
+6	,	,	$	$,	_	0	root	_	_
+7	welcher	welche	P	PRELS	_|_|_	0	root	315	315
+8	den	die	A	ART	Def|_|_|_	9	det	140	140
+9	Gefangenen	Gefangene	N	NN	_|_|_	0	root	140	140
+10	heraus	heraus	A	APZR	_	0	root	_	_
+11	gelassen	lassen	V	VVPP	_	12	aux	_	_
+12	hatte	haben	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+13	und	und	K	KON	_	0	root	_	_
+14	in	in	P	APPR	_	16	pp	_	_
+15	Folge	Folge	N	NN	Fem|_|Sg	14	pn	508	508
+16	dessen	die	P	PDS	_|Gen|Sg	13	cj	_	_
+17	gezwungen	zwingen	V	VVPP	_	18	aux	_	_
+18	gewesen	sein	V	VAPP	_	19	aux	_	_
+19	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+20	,	,	$	$,	_	0	root	_	_
+21	sich	sie	P	PRF	3|_|_	23	obja	_	_
+22	ihnen	sie	P	PPER	3|Pl|_|Dat	23	objd	318	318
+23	anzuschließen	anschließen	V	VVIZU	_	17	obji	_	_
+24	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	317	317
+2	fragte	fragen	V	VVFIN	1|Sg|Past|_	0	root	_	_
+3	weiter	weiter	A	ADV	_	2	adv	_	_
+4	:	\:	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	316	316
+3	Mann	Mann	N	NN	Masc|Nom|Sg	12	subj	316	316
+4	,	,	$	$,	_	0	root	316	316
+5	nach	nach	P	APPR	Dat	10	pp	316	316
+6	welchem	welche	P	PRELS	Masc|Dat|Sg	5	pn	316	316
+7	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	317	317
+8	Dich	Dich	N	NN	_	10	obja	55	55
+9	zuerst	zuerst	A	ADV	_	10	adv	_	_
+10	fragte	fragen	V	VVFIN	1|Sg|Past|_	3	rel	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+13	ihnen	sie	P	PPER	3|Pl|_|Dat	15	objd	318	318
+14	nicht	nicht	P	PTKNEG	_	15	adv	_	_
+15	nachgefolgt	nachfolgen	V	VVPP	_	12	aux	_	_
+16	?	?	$	$.	_	0	root	_	_
+17	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+5	genau	genau	A	ADJD	Pos|	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sehr	sehr	A	ADV	_	3	adv	_	_
+3	genau	genau	A	ADJD	Pos|	0	root	_	_
+4	;	;	$	$.	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	317	317
+6	stand	stehen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+7	am	an	P	APPRART	Dat	6	pp	_	_
+8	Thore	Thor	N	NN	Neut|Dat|Sg	7	pn	319	319
+9	,	,	$	$,	_	0	root	_	_
+10	als	als	K	KOUS	_	12	konj	_	_
+11	sie	sie	P	PPER	3|Pl|_|Nom	12	subj	21	21
+12	fortritten	fortreiten	V	VVFIN	3|Pl|Past|_	6	neb	_	_
+13	.	.	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Führe	fahren	V	VVFIN	_|Sg|_|_	0	root	_	_
+3	uns	wir	P	PPER	1|Pl|_|_	2	obja	320	320
+4	zu	zu	P	APPR	Dat	2	pp	_	_
+5	seinem	seine	A	PPOSAT	Neut|Dat|Sg	6	det	8	8
+6	Pferde	Pferd	N	NN	Neut|Dat|Sg	4	pn	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	8	8
+2	führte	führen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	uns	wir	P	PPER	1|Pl|_|_	2	obja	320	320
+4	über	über	P	APPR	Acc	2	pp	_	_
+5	den	die	A	ART	Def|Masc|Acc|Sg	7	det	_	_
+6	vordern	vordern	A	ADJA	_|Masc|Acc|Sg|_	7	attr	_	_
+7	Hof	Hof	N	NN	Masc|Acc|Sg	4	pn	_	_
+8	und	und	K	KON	_	4	kon	_	_
+9	durch	durch	P	APPR	Acc	8	cj	_	_
+10	einen	eine	A	ART	Indef|Masc|Acc|Sg	12	det	_	_
+11	gewölbten	gewölbt	A	ADJA	Pos|Masc|Acc|Sg|_|	12	attr	_	_
+12	Durchgang	Durchgang	N	NN	Masc|Acc|Sg	9	pn	_	_
+13	nach	nach	P	APPR	Dat	2	pp	_	_
+14	einem	eine	A	ART	Indef|Neut|Dat|Sg	16	det	887	887
+15	niedrigen	niedrig	A	ADJA	Pos|Neut|Dat|Sg|Wk|	16	attr	887	887
+16	Gebäude	Gebäude	N	NN	Neut|Dat|Sg	13	pn	887	887
+17	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	321	321
+2	Geruchssinn	Geruchssinn	N	NN	Masc|Nom|Sg	3	subj	321	321
+3	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	3	objd	317	317
+5	schon	schon	A	ADV	_	3	adv	_	_
+6	von	von	P	APPR	Dat	3	pp	_	_
+7	Weitem	Weiter	N	NN	_|Dat|Sg	6	pn	14	14
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	13	konj	_	_
+10	es	es	P	PPER	3|Sg|Neut|Nom	13	subj	_	_
+11	ein	eine	A	ART	Indef|Masc|Nom|Sg	12	det	_	_
+12	Stall	Stall	N	NN	Masc|Nom|Sg	13	pred	_	_
+13	sei	sein	V	VAFIN	3|Sg|Pres|Subj	3	objc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	321	321
+2	öffnete	öffnen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	die	die	A	ART	Def|_|_|_	4	det	452	452
+4	Thüre	Thüre	N	NN	_|_|_	2	obja	452	452
+5	desselben	dieselbe	P	PDS	_|Gen|Sg	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	dunkel	dunkel	A	ADJD	Pos|	2	pred	_	_
+4	;	;	$	$.	_	0	root	_	_
+5	aber	aber	K	KON	_	0	root	_	_
+6	ein	eine	A	ART	Indef|Neut|Nom|Sg	8	det	_	_
+7	leises	leis	A	ADJA	Pos|Neut|Nom|Sg|St|	8	attr	_	_
+8	Schnaufen	Schnaufen	N	NN	Neut|Nom|Sg	9	subj	_	_
+9	sagte	sagen	V	VVFIN	3|Sg|Past|_	5	cj	_	_
+10	mir	ich	P	PPER	1|Sg|_|Dat	9	objd	317	317
+11	,	,	$	$,	_	0	root	_	_
+12	daß	daß	K	KOUS	_	16	konj	_	_
+13	ein	eine	A	ART	Indef|Neut|Nom|Sg	14	det	_	_
+14	Pferd	Pferd	N	NN	Neut|Nom|Sg	16	subj	_	_
+15	vorhanden	vorhanden	A	ADJD	Pos|	16	pred	_	_
+16	sei	sein	V	VAFIN	3|Sg|Pres|Subj	9	objc	_	_
+17	.	.	$	$.	_	0	root	_	_
+

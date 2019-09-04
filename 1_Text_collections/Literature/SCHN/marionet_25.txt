@@ -1,0 +1,444 @@
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	266	266
+2	schwankt	schwanken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	2	objd	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mich	ich	P	PPER	1|Sg|_|Acc	2	obja	325	325
+2	schwindelt	schwindeln	V	VVFIN	_|_|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wenn	wenn	K	KOUS	_	8	konj	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	325	325
+6	den	die	A	ART	Def|Masc|_|_	7	det	_	_
+7	Namen	Name	N	NN	Masc|_|_	8	obja	_	_
+8	ausspreche	aussprechen	V	VVFIN	1|Sg|Pres|_	2	neb	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Eleonora	Eleonora	N	NE	_	0	root	326	326
+2	Lambriani	Lambriani	N	NE	_	1	app	326	326
+3	?	?	$	$.	_	0	root	_	_
+
+1	Des	die	A	ART	Def|Masc|Gen|Sg	2	det	539	539
+2	Herzogs	Herzog	N	NN	Masc|Gen|Sg	0	root	539	539
+3	von	von	P	APPR	_	2	pp	539	539
+4	Altenburg	Altenburg	N	NN	Fem|_|Sg	3	pn	539	539
+5	Mätresse	Mätresse	N	NN	Fem|_|Sg	4	app	539	539
+6	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gewesen	sein	V	VAPP	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	14	det	_	_
+2	in	in	P	APPR	_	14	pp	_	_
+3	Fontainebleau	Fontainebleau	N	NE	_|_|_	2	pn	329	329
+4	nachts	nachts	A	ADV	_	3	adv	329	329
+5	im	in	P	APPRART	Dat	14	pp	_	_
+6	Schloßpark	Schloßpark	N	NN	Masc|Dat|Sg	5	pn	_	_
+7	vor	vor	P	APPR	Dat	6	pp	_	_
+8	dem	die	A	ART	Def|Masc|Dat|Sg	9	det	_	_
+9	König	König	N	NN	Masc|Dat|Sg	7	pn	_	_
+10	von	von	P	APPR	Dat	9	pp	_	_
+11	Frankreich	Frankreich	N	NE	Neut|Dat|Sg	10	pn	327	327
+12	und	und	K	KON	_	11	kon	_	_
+13	seinen	seine	A	PPOSAT	_|Dat|_	12	cj	327	327
+14	Offizieren	Offizier	N	NN	Fem|Nom|Sg	17	subj	_	_
+15	ohne	ohne	P	APPR	Acc	14	pp	_	_
+16	Schleier	Schleier	N	NN	Masc|Acc|_	15	pn	_	_
+17	tanzte	tanzen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+18	-	-	$	$(	_	0	root	_	_
+19	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	328	328
+2	Dummkopf	Dummkopf	N	NN	Masc|Nom|Sg	0	root	328	328
+3	,	,	$	$,	_	0	root	328	328
+4	der	die	P	PRELS	Masc|Nom|Sg	8	subj	328	328
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_	8	obja	329	329
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	begreift	begreifen	V	VVFIN	3|Sg|Pres|Ind	2	rel	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	329	329
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	von	von	P	APPR	_	6	pp	_	_
+4	ihrer	ihre	A	PPOSAT	Fem|_|Sg	5	det	329	329
+5	Schönheit	Schönheit	N	NN	Fem|_|Sg	3	pn	_	_
+6	berauscht	berauschen	V	VVPP	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	0	root	_	_
+2	den	die	A	ART	Def|Masc|_|_	3	det	330	330
+3	Grafen	Graf	N	NN	Masc|_|_	11	obja	330	330
+4	von	von	P	APPR	_	3	pp	330	330
+5	Leigang	Leigang	N	NN	_|_|Sg	4	pn	330	330
+6	zum	zu	P	APPRART	Dat	4	kon	330	330
+7	Fenster	Fenster	N	NN	Neut|Dat|Sg	6	pn	330	330
+8	in	in	P	APPR	Acc	7	pp	330	330
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	330	330
+10	Hof	Hof	N	NN	Masc|Acc|Sg	8	pn	330	330
+11	hinunterwarf	hinunterwerfen	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	daß	daß	K	KOUS	_	18	konj	_	_
+14	die	die	A	ART	Def|Masc|Nom|Pl	15	det	_	_
+15	Hunde	Hund	N	NN	Masc|Nom|Pl	18	subj	_	_
+16	auf	auf	P	APPR	Acc	18	objp	_	_
+17	ihn	er	P	PPER	3|Sg|Masc|Acc	16	pn	330	330
+18	stürzten	stürzen	V	VVFIN	3|Pl|Past|_	11	subjc	_	_
+19	und	und	K	KON	_	18	kon	_	_
+20	ihm	er	P	PPER	3|Sg|_|Dat	23	objd	330	330
+21	ein	eine	A	ART	Indef|Neut|_|Sg	22	det	_	_
+22	Ohr	Ohr	N	NN	Neut|_|Sg	23	obja	_	_
+23	abfraßen	abfressen	V	VVFIN	_|Pl|Past|Ind	19	cj	_	_
+24	-	-	$	$(	_	0	root	_	_
+25	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	nur	nur	A	ADV	_	2	adv	_	_
+4	einen	eine	A	ART	Indef|Masc|Acc|Sg	5	det	_	_
+5	Stock	Stock	N	NN	Masc|Acc|Sg	2	obja	_	_
+6	hoch	hoch	A	ADJD	Pos|	2	pred	_	_
+7	und	und	K	KON	_	2	kon	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	9	subj	2	2
+9	behielt	behalten	V	VVFIN	3|Sg|Past|Ind	7	cj	_	_
+10	das	die	A	ART	Def|Neut|_|Sg	11	det	_	_
+11	andere	andere	A	ADJA	Neut|_|Sg	9	obja	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	0	root	_	_
+2	einmal	einmal	A	ADV	_	3	adv	_	_
+3	schwor	schwören	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	neunundneunzig	neunundneunzig	C	CARD	_	6	attr	331	331
+6	Nächte	Nacht	N	NN	Fem|Acc|Pl	7	pn	331	331
+7	lang	lang	P	APPO	Acc	9	pp	_	_
+8	jede	jede	A	PIDAT	Fem|_|Sg	9	det	_	_
+9	Nacht	Nacht	N	NN	Fem|_|Sg	0	root	_	_
+10	einen	eine	A	ART	Indef|Masc|Acc|Sg	12	det	_	_
+11	andern	andern	A	ADJA	_|Masc|Acc|Sg|_	12	attr	_	_
+12	Liebhaber	Liebhaber	N	NN	Masc|Acc|Sg	14	obja	_	_
+13	zu	zu	P	PTKZU	_	14	part	_	_
+14	beglücken	beglücken	V	VVINF	_	0	root	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	von	von	P	APPR	Dat	0	root	_	_
+17	denen	die	P	PRELS	_|Dat|Pl	16	pn	331	331
+18	keiner	keine	P	PIS	Fem|_|Sg	0	root	_	_
+19	was	was	P	PWS	Neut|Nom|Sg	22	subj	_	_
+20	Geringeres	Geringeres	N	NN	Neut|Nom|Sg	21	pred	_	_
+21	sein	sein	V	VAINF	_	22	aux	_	_
+22	durfte	dürfen	V	VMFIN	3|Sg|Past|Ind	0	root	_	_
+23	als	als	K	KOKOM	_	21	kom	_	_
+24	ein	eine	A	ART	Indef|Masc|Nom|Sg	25	det	407	407
+25	Fürst	Fürst	N	NN	Masc|Nom|Sg	23	cj	407	407
+26	,	,	$	$,	_	0	root	_	_
+27	-	-	$	$(	_	0	root	_	_
+28	die	die	P	PRELS	Fem|Nom|Sg	31	subj	332	332
+29	ihren	ihre	A	PPOSAT	Masc|_|Sg	30	det	332	332
+30	Schwur	Schwur	N	NN	Masc|_|Sg	31	obja	_	_
+31	hielt	halten	V	VVFIN	3|Sg|Past|Ind	18	rel	_	_
+32	und	und	K	KON	_	31	kon	_	_
+33	sich	sie	P	PRF	3|_|Dat	44	objd	_	_
+34	in	in	P	APPR	Dat	44	pp	_	_
+35	der	die	A	ART	Def|_|_|_	36	det	_	_
+36	hundertsten	hundertst	A	ADJA	_|_|_	34	pn	_	_
+37	einen	eine	A	ART	Indef|Masc|Acc|Sg	38	det	333	333
+38	Savoyardenknaben	Savoyardenknaben	N	NN	Masc|Acc|Sg	44	obja	333	333
+39	mit	mit	P	APPR	Dat	44	pp	_	_
+40	seinem	seine	A	PPOSAT	_|Dat|Sg	41	det	333	333
+41	Leierkasten	Leierkasten	N	NN	_|Dat|Sg	39	pn	_	_
+42	ins	in	P	APPRART	Acc	44	pp	_	_
+43	Schlafgemach	Schlafgemach	N	NN	Neut|Acc|Sg	42	pn	_	_
+44	holte	holen	V	VVFIN	_|Sg|Past|_	32	cj	_	_
+45	-	-	$	$(	_	0	root	_	_
+46	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	4	subj	332	332
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_|_|_|Nom	4	pred	2	2
+7	,	,	$	$,	_	0	root	_	_
+8	sie	sie	P	PPER	3|Sg|Fem|Nom	9	subj	332	332
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	kon	_	_
+10	'	'	$	$(	_	0	root	_	_
+11	s	s	P	PPER	_|_|_|Nom	9	pred	2	2
+12	!	!	$	$.	_	0	root	_	_
+
+1	die	die	A	ART	Def|_|_|_	2	det	_	_
+2	Elende	Elende	N	NN	_|_|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Herrlichste	Herrlichste	N	NN	_|_|_	2	kon	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Schönste	Schönste	N	NN	_|_|_	4	kon	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	334	334
+3	will	wollen	V	VMFIN	1|Sg|Pres|Ind	1	cj	_	_
+4	sie	sie	P	PPER	3|_|_|_	3	obja	332	332
+5	-	-	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	334	334
+7	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	3	kon	_	_
+8	sie	sie	P	PPER	3|_|_|_	9	obja	332	332
+9	haben	haben	V	VAINF	_	7	aux	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	dann	dann	A	ADV	_	3	adv	_	_
+3	sterben	sterben	V	VVINF	_	1	cj	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Hm	hm	I	ITJ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	könnte	können	V	VMFIN	3|Sg|Past|Subj	0	root	_	_
+3	sein	sein	V	VAINF	_	2	aux	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	11	konj	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	11	subj	336	336
+7	sie	sie	P	PPER	3|_|_|_	11	obja	335	335
+8	für	für	P	APPR	Acc	11	pp	_	_
+9	einen	eine	A	ART	Indef|Masc|Acc|Sg	10	det	_	_
+10	Groschen	Groschen	N	NN	Masc|Acc|Sg	8	pn	_	_
+11	kriegst	kriegen	V	VVFIN	2|Sg|Pres|Ind	3	objc	_	_
+12	;	;	$	$.	_	0	root	_	_
+13	-	-	$	$(	_	0	root	_	_
+14	es	es	P	PPER	3|Sg|Neut|Nom	15	subj	_	_
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+16	aber	aber	A	ADV	_	15	adv	_	_
+17	auch	auch	A	ADV	_	15	adv	_	_
+18	möglich	möglich	A	ADJD	Pos|	15	pred	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	daß	daß	K	KOUS	_	24	konj	_	_
+21	sie	sie	P	PPER	3|Sg|Fem|Nom	24	subj	335	335
+22	zehntausend	zehntausend	C	CARD	_	23	attr	_	_
+23	Dukaten	Dukaten	N	NN	_|_|Pl	24	obja	_	_
+24	fordert	fordern	V	VVFIN	3|Sg|Pres|Ind	15	objc	_	_
+25	für	für	P	APPR	Acc	24	pp	_	_
+26	einen	eine	A	ART	Indef|Masc|Acc|Sg	27	det	_	_
+27	Kuß	Kuß	N	NN	Masc|Acc|Sg	25	pn	_	_
+28	auf	auf	P	APPR	Acc	24	pp	_	_
+29	die	die	A	ART	Def|_|Acc|Pl	30	det	_	_
+30	Fingerspitzen	Fingerspitze	N	NN	_|Acc|Pl	28	pn	_	_
+31	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	möglich	möglich	A	ADJD	Pos|	2	pred	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	15	konj	_	_
+6	sie	sie	P	PPER	3|Sg|Fem|Nom	15	subj	335	335
+7	auf	auf	P	APPR	_	15	pp	_	_
+8	deinen	deine	A	PPOSAT	Masc|_|Sg	11	det	336	336
+9	ersten	erst	A	ADJA	_|Masc|_|Sg|_|	11	attr	_	_
+10	begehrenden	begehrend	A	ADJA	Pos|Masc|_|Sg|_|<PPRES	11	attr	_	_
+11	Blick	Blick	N	NN	Masc|_|Sg	7	pn	_	_
+12	ihr	ihre	A	PPOSAT	_|_|Sg	13	det	335	335
+13	Hemde	Hemd	N	NN	_|_|Sg	15	obja	_	_
+14	mitten	mitten	A	ADV	_	15	adv	_	_
+15	entzweireißt	entzweireißen	V	VVFIN	3|Sg|Pres|Ind	2	objc	_	_
+16	-	-	$	$(	_	0	root	_	_
+17	es	es	P	PPER	3|Sg|Neut|Nom	18	subj	_	_
+18	kann	können	V	VMFIN	3|Sg|Pres|Ind	2	kon	_	_
+19	aber	aber	A	ADV	_	21	adv	_	_
+20	auch	auch	A	ADV	_	21	adv	_	_
+21	sein	sein	V	VAINF	_	18	aux	_	_
+22	,	,	$	$,	_	0	root	_	_
+23	daß	daß	K	KOUS	_	29	konj	_	_
+24	sie	sie	P	PPER	3|Sg|Fem|Nom	29	subj	335	335
+25	dich	du	P	PPER	2|Sg|_|Acc	29	obja	336	336
+26	gegen	gegen	P	APPR	Acc	29	pp	_	_
+27	tausend	tausend	C	CARD	_	28	attr	_	_
+28	Türken	Türke	N	NN	_|Acc|Pl	26	pn	_	_
+29	schickt	schicken	V	VVFIN	3|Sg|Pres|Ind	21	objc	_	_
+30	,	,	$	$,	_	0	root	_	_
+31	bevor	bevor	K	KOUS	_	34	konj	_	_
+32	sie	sie	P	PPER	3|Sg|Fem|Nom	34	subj	335	335
+33	dir	du	P	PPER	2|Sg|_|Dat	34	objd	336	336
+34	erlaubt	erlauben	V	VVFIN	3|Sg|Pres|Ind	29	neb	_	_
+35	,	,	$	$,	_	0	root	_	_
+36	ihr	ihr	P	PPER	3|Sg|Fem|Dat	39	objd	335	335
+37	die	die	A	ART	Def|Fem|_|Sg	38	det	_	_
+38	Schuhschnalle	Schuhschnalle	N	NN	Fem|_|Sg	39	obja	_	_
+39	aufzusprengen	aufsprengen	V	VVIZU	_	34	obji	_	_
+40	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	2	2
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	bereit	bereit	A	ADJD	Pos|	2	pred	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wo	wo	P	PWAV	_	9	adv	_	_
+5	sie	sie	P	PPER	3|Sg|Fem|Nom	9	subj	_	_
+6	in	in	P	APPR	Dat	9	pp	_	_
+7	diesem	diese	A	PDAT	Masc|Dat|Sg	8	det	116	116
+8	Augenblick	Augenblick	N	NN	Masc|Dat|Sg	6	pn	116	116
+9	weilt	weilen	V	VVFIN	3|Sg|Pres|Ind	1	objc	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	_	0	root	_	_
+2	Homburg	Homburg	N	NE	_|_|Sg	1	pn	337	337
+3	.	.	$	$.	_	0	root	_	_
+
+1	Dort	dort	A	ADV	_	2	adv	_	_
+2	tanzt	tanzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	337	337
+4	bei	bei	P	APPR	Dat	2	pp	_	_
+5	den	die	A	ART	Def|Fem|Dat|Pl	6	det	338	338
+6	Festlichkeiten	Festlichkeit	N	NN	Fem|Dat|Pl	4	pn	338	338
+7	,	,	$	$,	_	0	root	_	_
+8	die	die	P	PRELS	_|_|_	0	root	338	338
+9	anläßlich	anläßlich	P	APPR	_	12	pp	_	_
+10	der	die	A	ART	Def|Fem|_|Sg	11	det	_	_
+11	Monarchenzusammenkunft	Monarchenzusammenkunft	N	NN	Fem|_|Sg	9	pn	_	_
+12	stattfinden	stattfinden	V	VVINF	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	morgen	morgen	A	ADV	_	3	adv	_	_
+3	früh	früh	A	ADJD	Pos|	4	pred	_	_
+4	bin	sein	V	VAFIN	1|Sg|Pres|Ind	1	cj	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	2	2
+6	dort	dort	A	ADV	_	4	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	2	adv	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	339	339
+4	deine	deine	A	PPOSAT	Masc|_|Pl	5	det	339	339
+5	Schätze	Schatz	N	NN	Masc|_|Pl	2	obja	_	_
+6	vergraben	vergraben	V	VVINF	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Heut	heuen	V	VVPP	_	2	aux	_	_
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	noch	noch	A	ADV	_	1	adv	_	_
+5	in	in	P	APPR	_	1	pp	_	_
+6	anderer	anderer	A	ADJA	_|Fem|_|Pl|_	7	attr	_	_
+7	Taschen	Tasche	N	NN	Fem|_|Pl	5	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	morgen	morgen	A	ADV	_	3	adv	_	_
+3	vor	vor	P	APPR	_	5	pp	_	_
+4	Abend	Abend	N	NN	Masc|_|Sg	3	pn	340	340
+5	bin	sein	V	VAFIN	1|Sg|Pres|Ind	1	cj	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	2	2
+7	reich	reich	A	ADJD	Pos|	5	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	341	341
+4	das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+5	machen	machen	V	VVINF	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sollte	sollen	V	VMFIN	_|Sg|Past|_	0	root	_	_
+2	dir	du	P	PPER	2|Sg|_|Dat	5	objd	341	341
+3	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+4	bekannt	bekannt	A	ADJD	Pos|	5	pred	_	_
+5	sein	sein	V	VAINF	_	1	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	16	konj	_	_
+8	in	in	P	APPR	_	16	pp	_	_
+9	Homburg	Homburg	N	NE	_|_|Sg	8	pn	337	337
+10	zu	zu	P	APPR	Dat	16	pp	_	_
+11	den	die	A	ART	Def|Masc|Dat|Pl	12	det	_	_
+12	Festtagen	Festtag	N	NN	Masc|Dat|Pl	10	pn	_	_
+13	alle	alle	A	PIDAT	Masc|Nom|Pl	14	det	_	_
+14	Spieler	Spieler	N	NN	Masc|Nom|Pl	16	subj	_	_
+15	Europas	Europa	N	NE	Neut|Gen|Sg	14	gmod	342	342
+16	zusammenströmen	zusammenströmen	V	VVFIN	3|Pl|Pres|_	5	objc	_	_
+17	?	?	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	5	subj	_	_
+2	sich	sie	P	PRF	3|_|_	5	obja	_	_
+3	mit	mit	P	APPR	Dat	5	objp	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	3	pn	343	343
+5	einläßt	einlassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	dessen	die	A	PRELAT	_|Nom|Sg	8	det	_	_
+8	Reichtum	Reichtum	N	NN	_|Nom|Sg	9	subj	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	rel	_	_
+10	mein	mein	V	VVPP	_	9	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|_|Nom|Sg	2	det	345	345
+2	Tag	Tag	N	NN	_|Nom|Sg	3	subj	345	345
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	lang	lang	A	ADJD	Pos|	3	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wenn	wenn	K	KOUS	_	9	konj	_	_
+7	man	man	P	PIS	_|Nom|Sg	9	subj	_	_
+8	Glück	Glück	N	NN	Neut|_|Sg	9	obja	97	97
+9	hat	haben	V	VAFIN	3|Sg|Pres|Ind	3	neb	_	_
+10	.	.	$	$.	_	0	root	_	_
+

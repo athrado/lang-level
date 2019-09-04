@@ -1,0 +1,89 @@
+1	Keine	keine	ART	PIAT	Fem|_|Sg	2	det	_	-
+2	Frage	Frage	N	NN	Fem|_|Sg	0	root	_	-
+3	:	\:	$.	$.	_	0	root	_	-
+4	Das	die	ART	ART	Def|Neut|_|Sg	5	det	_	-
+5	Fahrrad	Fahrrad	N	NN	Neut|_|Sg	0	root	_	-
+6	!	!	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	fahre	fahren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	jeden	jede	ART	PIDAT	_|_|Sg	4	det	_	-
+4	Tag	Tag	N	NN	_|_|Sg	2	obja	_	-
+5	mit	mit	PREP	APPR	Dat	2	pp	_	-
+6	dem	die	ART	ART	Def|Neut|Dat|Sg	7	det	_	(1
+7	Rad	Rad	N	NN	Neut|Dat|Sg	5	pn	_	1)
+8	zur	zu	PREP	APPRART	Dat	2	pp	_	-
+9	Arbeit	Arbeit	N	NN	Fem|Dat|Sg	8	pn	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+3	liebe	lieben	V	VVFIN	1|Sg|Pres|_	1	cj	_	-
+4	das	die	PRO	PDS	Neut|_|Sg	3	obja	_	-
+5	!	!	$.	$.	_	0	root	_	-
+
+1	Für	für	PREP	APPR	Acc	3	pp	_	-
+2	mich	ich	PRO	PPER	1|Sg|_|Acc	1	pn	_	(0)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Radfahren	Radfahren	N	NN	Neut|Nom|Sg	3	subj	_	-
+5	ein	eine	ART	ART	Indef|Neut|Nom|Sg	6	det	_	-
+6	Gefühl	Gefühl	N	NN	Neut|Nom|Sg	3	pred	_	-
+7	von	von	PREP	APPR	_	6	pp	_	-
+8	Freiheit	Freiheit	N	NN	Fem|_|Sg	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	mobil	mobil	ADV	ADJD	Pos|	2	pred	_	-
+4	und	und	KON	KON	_	2	kon	_	-
+5	brauche	brauchen	V	VVFIN	_|Sg|Pres|_	4	cj	_	-
+6	dafür	dafür	PROAV	PROAV	_	5	pp	_	-
+7	keine	keine	ART	PIAT	Fem|_|Sg	8	det	_	-
+8	Energie	Energie	N	NN	Fem|_|Sg	5	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	2	det	_	(1
+2	Rad	Rad	N	NN	Neut|Nom|Sg	3	subj	_	1)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	für	für	PREP	APPR	Acc	3	pp	_	-
+5	mich	ich	PRO	PPER	1|Sg|_|Acc	4	pn	_	(0)
+6	das	die	ART	ART	Def|Neut|Nom|Sg	8	det	_	-
+7	beste	gut	ADJA	ADJA	Sup|Neut|Nom|Sg|Wk|	8	attr	_	-
+8	Verkehrsmittel	Verkehrsmittel	N	NN	Neut|Nom|Sg	3	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	stehe	stehen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	nie	nie	ADV	ADV	_	2	adv	_	-
+4	im	in	PREP	APPRART	Dat	2	pp	_	-
+5	Stau	Stau	N	NN	Masc|Dat|Sg	4	pn	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	suche	suchen	V	VVFIN	_|Sg|Pres|_	2	kon	_	-
+8	nie	nie	ADV	ADV	_	7	adv	_	-
+9	lange	lange	ADV	ADJD	_	7	adv	_	-
+10	nach	nach	PREP	APPR	Dat	7	pp	_	-
+11	einem	eine	ART	ART	Indef|Masc|Dat|Sg	12	det	_	-
+12	Parkplatz	Parkplatz	N	NN	Masc|Dat|Sg	10	pn	_	-
+13	und	und	KON	KON	_	7	kon	_	-
+14	muss	müssen	V	VMFIN	_|Sg|Pres|Ind	13	cj	_	-
+15	nicht	nicht	PTKNEG	PTKNEG	_	16	adv	_	-
+16	tanken	tanken	V	VVINF	_	14	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Klar	klar	ADV	ADJD	Pos|	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	-
+4	Dieselmotor	Dieselmotor	N	NN	Masc|Nom|Sg	5	subj	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	natürlich	natürlich	ADV	ADJD	Pos|	5	adv	_	-
+7	auch	auch	ADV	ADV	_	5	adv	_	-
+8	eine	eine	ART	ART	Indef|Fem|Nom|Sg	10	det	_	-
+9	große	groß	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	10	attr	_	-
+10	Erfindung	Erfindung	N	NN	Fem|Nom|Sg	5	pred	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	diese	diese	ART	PDAT	Fem|_|Sg	3	det	_	-
+3	Luftverschmutzung	Luftverschmutzung	N	NN	Fem|_|Sg	1	cj	_	-
+4	...	...	$.	$.	_	0	root	_	-
+

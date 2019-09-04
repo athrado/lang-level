@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,10.538461538461538
+LIX,28.056709713644018
+# words,137
+# sents,13
+discourse entities,0.23076923076923078
+avg entity frequency,2.0
+vocabulary density,0.7195121951219512
+adjectives,0.8461538461538461
+nouns,2.8461538461538463
+verbs,0.9230769230769231
+pronouns,1.7692307692307692
+particles,2.3846153846153846
+punctuation marks,1.6153846153846154
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.0
+aux verbs,0.46153846153846156
+full verbs,0.46153846153846156
+split verbs,0.0
+nominative,1.1538461538461537
+accusative,0.46153846153846156
+dative,0.15384615384615385
+genitive,0.0
+gen modifiers,0.0
+prep with gen,0.0
+all genitives,0.0
+accusative obj,0.3076923076923077
+dative obj,0.0
+genitive obj,0.0
+prepositional obj,0.07692307692307693
+acc+dat obj,0.3076923076923077
+gen+prep obj,0.07692307692307693
+present forms,0.9230769230769231
+past forms,0.0
+perfect forms,0.0
+pqp forms,0.0
+perfect+pqp forms,0.0
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.0
+all futur forms,0.0
+subj 1 forms,0.0
+subj 2 forms,0.0
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.0
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.0
+comp+superlative,0.0
+conjunctions,0.0
+subjunctions,0.0
+relative clauses,0.07692307692307693
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.07692307692307693
+question words,0.07692307692307693
+question marks,0.15384615384615385
+subj/pred inversions,0.15384615384615385
+placeholder 'es',0.0
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,0.0
+concessive,0.0
+conditional,0.07692307692307693
+consecutive,0.0
+final,0.0
+interrogative,0.0
+modal,0.0
+other,0.07692307692307693
+temporal,0.0
+A1 features,3
+A1 features summed,0.3076923076923077
+A2 features,2
+A2 features summed,0.15384615384615385
+B1 features,1
+B1 features summed,0.07692307692307693
+level features (all),21
+level features (all) summed,15.307692307692307

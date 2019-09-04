@@ -1,0 +1,58 @@
+1	Einmal	einmal	ADV	ADV	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	nachdem	nachdem	KOUS	KOUS	_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	0	root	_	(0)
+5	einkaufen	einkaufen	V	VVINF	_	0	root	_	-
+6	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+9	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+10	den	die	ART	ART	Def|Masc|Acc|Sg	11	det	_	-
+11	Zug	Zug	N	NN	Masc|Acc|Sg	12	obja	_	-
+12	verpasst	verpassen	V	VVPP	_	8	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	2	det	_	-
+2	Wetter	Wetter	N	NN	Neut|Nom|Sg	3	subj	_	-
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+4	sehr	sehr	ADV	ADV	_	5	adv	_	-
+5	kalt	kalt	ADV	ADJD	Pos|	3	pred	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	nass	nass	ADV	ADJD	Pos|	6	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+3	spät	spät	ADV	ADJD	Pos|	4	adv	_	-
+4	abends	abends	ADV	ADV	_	2	adv	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Außer	außer	PREP	APPR	Dat	3	pp	_	-
+2	mir	ich	PRO	PPER	1|Sg|_|Dat	1	pn	_	(0)
+3	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	-
+4	fast	fast	ADV	ADV	_	5	adv	_	-
+5	keine	keine	ART	PIAT	_|Nom|Pl	7	det	_	-
+6	anderen	anderen	ADJA	ADJA	_|_|Nom|Pl|_	7	attr	_	-
+7	Leute	Leute	N	NN	_|Nom|Pl	3	subj	_	-
+8	da	da	PTKVZ	PTKVZ	_	3	avz	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+3	sehr	sehr	ADV	ADV	_	4	adv	_	-
+4	kalt	kalt	ADV	ADJD	Pos|	2	pred	_	-
+5	und	und	KON	KON	_	0	root	_	-
+6	ein	eine	ART	ART	Indef|_|_|Sg	5	cj	_	-
+7	bisschen	bisschen	ADV	ADV	_	8	adv	_	-
+8	beängstigend	beängstigen	ADV	ADJD	_|<PPRES	0	root	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Deshalb	Deshalb	PROAV	PROAV	_	2	pp	_	-
+2	waren	sein	V	VAFIN	_|Pl|Past|Ind	0	root	_	-
+3	das	die	PRO	PDS	Neut|Nom|Sg	4	subj	_	-
+4	meine	meinen	V	VVFIN	3|Sg|Pres|Subj	0	root	_	-
+5	längsten	lang	ADJA	ADJA	Sup|Fem|_|Pl|_|	7	attr	_	-
+6	fünf	fünf	CARD	CARD	_	7	attr	_	-
+7	Minuten	Minute	N	NN	Fem|_|Pl	4	zeit	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

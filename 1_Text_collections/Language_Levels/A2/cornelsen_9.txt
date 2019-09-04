@@ -1,0 +1,65 @@
+1	Wenn	wenn	KOUS	KOUS	_	6	konj	_	-
+2	du	du	PRO	PPER	2|Sg|_|Nom	6	subj	_	(0)
+3	jemanden	jemand	PRO	PIS	_|Acc|Sg	5	obja	_	-
+4	gern	gern	ADV	ADV	_	5	adv	_	-
+5	kennenlernen	kennenlernen	V	VVINF	_	6	aux	_	-
+6	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	dann	dann	ADV	ADV	_	9	adv	_	-
+9	maile	mailen	V	VVFIN	_|Sg|Pres|_	6	kon	_	-
+10	oder	oder	KON	KON	_	9	kon	_	-
+11	telefoniere	telefonieren	V	VVFIN	_|Sg|Pres|_	10	cj	_	-
+12	nicht	nicht	PTKNEG	PTKNEG	_	11	adv	_	-
+13	sehr	sehr	ADV	ADV	_	14	adv	_	-
+14	lange	lange	ADV	ADJD	_	11	adv	_	-
+15	hin	hin	ADV	ADV	_	11	adv	_	-
+16	und	und	KON	KON	_	0	root	_	-
+17	her	her	PTKVZ	PTKVZ	_	0	root	_	-
+18	.	.	$.	$.	_	0	root	_	-
+
+1	Mach	machen	V	VVIMP	Sg	0	root	_	-
+2	möglichst	möglichst	ADV	ADV	_	3	adv	_	-
+3	schnell	schnell	ADV	ADJD	Pos|	1	pred	_	-
+4	ein	eine	ART	ART	Indef|Neut|_|Sg	5	det	_	-
+5	Treffen	Treffen	N	NN	Neut|_|Sg	1	obja	_	-
+6	aus	aus	PTKVZ	PTKVZ	_	1	avz	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Schreiben	Schreibe	N	NN	_|Nom|Pl	4	subj	_	-
+2	und	und	KON	KON	_	1	kon	_	-
+3	Telefonieren	Telefonieren	N	NN	Neut|Nom|Sg	2	cj	_	-
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+5	vielleicht	vielleicht	ADV	ADV	_	4	adv	_	-
+6	schön	schön	ADV	ADJD	Pos|	4	pred	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	aber	aber	KON	KON	_	4	kon	_	-
+9	hilft	helfen	V	VVFIN	3|Sg|Pres|Ind	8	cj	_	-
+10	nicht	nicht	PTKNEG	PTKNEG	_	9	adv	_	-
+11	viel	viel	PRO	PIS	_|Nom|Sg	9	subj	_	-
+12	bei	bei	PREP	APPR	Dat	9	pp	_	-
+13	der	die	ART	ART	Def|Fem|Dat|Sg	14	det	_	-
+14	Partnersuche	Partnersuche	N	NN	Fem|Dat|Sg	12	pn	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Viele	viele	ART	PIDAT	_|_|Pl	3	det	_	-
+2	wichtige	wichtig	ADJA	ADJA	Pos|_|_|Pl|St|	3	attr	_	-
+3	Informationen	Information	N	NN	_|_|Pl	7	obja	_	-
+4	über	über	PREP	APPR	Acc	3	pp	_	-
+5	den	die	ART	ART	Def|Masc|Acc|Sg	6	det	_	-
+6	Partner	Partner	N	NN	Masc|Acc|Sg	4	pn	_	-
+7	bekommst	bekommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	-
+8	du	du	PRO	PPER	2|Sg|_|Nom	7	subj	_	(0)
+9	so	so	ADV	ADV	_	7	adv	_	-
+10	nicht	nicht	PTKNEG	PTKNEG	_	7	adv	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Du	du	PRO	PPER	2|Sg|_|Nom	2	subj	_	(0)
+2	musst	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	-
+3	den	die	ART	ART	Def|Masc|_|_	5	det	_	-
+4	anderen	anderen	ADJA	ADJA	_|Masc|_|_|_	5	attr	_	-
+5	Menschen	Mensch	N	NN	Masc|_|_	6	obja	_	-
+6	sehen	sehen	V	VVINF	_	2	aux	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	erleben	erleben	V	VVINF	_	7	cj	_	-
+9	.	.	$.	$.	_	0	root	_	-
+

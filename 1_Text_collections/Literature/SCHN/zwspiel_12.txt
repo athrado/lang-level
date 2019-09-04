@@ -1,0 +1,319 @@
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	im	in	P	APPRART	Dat	4	pp	_	_
+3	Sommer	Sommer	N	NN	Masc|Dat|Sg	2	pn	139	139
+4	will	wollen	V	VMFIN	1|Sg|Pres|Ind	1	cj	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	136	136
+6	meine	meine	A	PPOSAT	_|_|_	7	det	136	136
+7	Vierte	Vierte	N	NN	_|_|_	9	obja	_	_
+8	fertig	fertig	A	ADJD	Pos|	9	pred	_	_
+9	machen	machen	V	VVINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	136	136
+2	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	heuer	heuer	A	ADV	_	2	adv	_	_
+4	was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+5	neues	neu	A	ADJA	Pos|Neut|_|Sg|St|	7	obja	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	dirigieren	dirigieren	V	VVINF	_	8	aux	_	_
+8	haben	haben	V	VAFIN	_|Pl|Pres|_	2	objc	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	3	pp	_	_
+2	übrigen	übrig	A	ADJA	Pos|_|Dat|_|_|	1	pn	_	_
+3	handelt	handeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	sich	sie	P	PRF	3|_|_	3	obja	_	_
+6	nur	nur	A	ADV	_	3	adv	_	_
+7	mehr	mehr	A	ADV	_	3	adv	_	_
+8	um	um	P	APPR	Acc	3	objp	_	_
+9	den	die	A	ART	Def|Masc|Acc|Sg	11	det	_	_
+10	letzten	letzte	A	ADJA	Pos|Masc|Acc|Sg|_|	11	attr	_	_
+11	Satz	Satz	N	NN	Masc|Acc|Sg	8	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	2	det	_	_
+2	übrigen	übrig	A	ADJA	_|_|Pl	3	subj	_	_
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	innerlich	innerlich	A	ADJD	Pos|	6	adv	_	_
+6	wenigstens	wenigstens	A	ADV	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	so	so	A	ADV	_	9	adv	_	_
+9	gut	gut	A	ADJD	Pos|	6	kon	_	_
+10	wie	wie	K	KOKOM	_	9	kom	_	_
+11	fertig	fertig	A	ADJD	Pos|	10	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	140	140
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	8	objd	131	131
+4	schon	schon	A	ADV	_	8	adv	_	_
+5	lang	lang	A	ADJD	Pos|	6	attr	_	_
+6	nichts	nichts	P	PIS	_	8	obja	_	_
+7	daraus	daraus	P	PROAV	_	8	pp	_	_
+8	vorgespielt	vorspielen	V	VVPP	_	2	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Amadeus	Amadeus	N	NE	Masc|_|Sg	2	vok	5	5
+11	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zum	zu	P	APPRART	Dat	3	pp	_	_
+2	Vorspielen	Vorspiel	N	NN	Neut|Dat|_	1	pn	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	noch	noch	A	ADV	_	3	adv	_	_
+6	nichts	nichts	P	PIS	_|Nom|_	3	pred	_	_
+7	;	;	$	$.	_	0	root	_	_
+8	aber	aber	K	KON	_	0	root	_	_
+9	die	die	A	ART	Def|Neut|_|Pl	10	det	_	_
+10	Hauptthemen	Hauptthema	N	NN	Neut|_|Pl	11	obja	_	_
+11	kennst	kennen	V	VVFIN	2|Sg|Pres|Ind	8	cj	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	11	subj	140	140
+13	doch	doch	A	ADV	_	11	adv	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Allegro	Allegro	N	NN	Neut|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	.das	.das	A	ADJA	_|Neut|_|Sg|_	2	attr	188	188
+2	Zwischenspiel	Zwischenspiel	N	NN	Neut|_|Sg	0	root	188	188
+3	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	am	an	P	APPRART	Dat	2	pp	_	_
+4	Klavier	Klavier	N	NN	Neut|Dat|Sg	3	pn	7	7
+5	und	und	K	KON	_	2	kon	_	_
+6	spielt	spielen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	einige	einige	A	PIAT	Masc|_|Pl	8	det	_	_
+8	Töne	Ton	N	NN	Masc|_|Pl	6	obja	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	2	adv	_	_
+2	im	in	P	APPRART	Dat	4	pp	_	_
+3	November	November	N	NN	Masc|Dat|Sg	2	pn	_	_
+4	gehst	gehen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	_	_
+6	fort	fort	P	PTKVZ	_	4	avz	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	für	für	P	APPR	Acc	0	root	_	_
+4	drei	drei	C	CARD	_	5	attr	_	_
+5	Monate	Monat	N	NN	Masc|Acc|Pl	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	im	in	P	APPRART	Dat	4	pp	_	_
+3	Oktober	Oktober	N	NN	Masc|Dat|Sg	2	pn	_	_
+4	werde	werden	V	VAFIN	1|Sg|Pres|_	1	cj	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	131	131
+6	in	in	P	APPR	_	8	pp	_	_
+7	Berlin	Berlin	N	NE	_|_|Sg	6	pn	141	141
+8	sein	sein	V	VAINF	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_|Sg|_|Nom	1	subj	_	_
+4	etwas	etwas	A	PIAT	Neut|_|Sg	5	det	_	_
+5	Neues	Neues	N	NN	Neut|_|Sg	1	obja	_	_
+6	in	in	P	APPR	Dat	1	pp	_	_
+7	dieser	diese	A	PDAT	Fem|Dat|Sg	8	det	400	400
+8	Angelegenheit	Angelegenheit	N	NN	Fem|Dat|Sg	6	pn	400	400
+9	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	;	;	$	$.	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	142	142
+4	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	ziemlich	ziemlich	A	ADJD	_	7	adv	_	_
+7	abgeschlossen	abgeschlossen	V	VVPP	_	4	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Reichenbach	Reichenbach	N	NN	Masc|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	7	obja	142	142
+4	in	in	P	APPR	Dat	7	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	29	29
+6	Oper	Oper	N	NN	Fem|Dat|Sg	4	pn	29	29
+7	aufgesucht	aufsuchen	V	VVPP	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Drei	drei	C	CARD	_	2	attr	_	_
+2	Gastrollen	Gastroll	N	NN	_|_|Pl	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	die	die	A	ART	Def|_|_|_	5	det	143	143
+5	Carmen	Carmen	N	NN	_|_|_	12	obja	143	143
+6	jedenfalls	jedenfalls	A	ADV	_	5	adv	143	143
+7	,	,	$	$,	_	0	root	143	143
+8	die	die	P	PRELS	_|_|_	10	obja	143	143
+9	andern	andere	P	PIS	_|Dat|_	10	objd	_	_
+10	kann	können	V	VMFIN	1|Sg|Pres|Ind	5	rel	_	_
+11	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	142	142
+12	wählen	wählen	V	VVINF	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	welche	welche	P	PWS	_|Nom|_	3	pred	_	_
+3	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	1	cj	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	145	145
+2	Tatjana	Tatjana	N	NE	Fem|_|Sg	0	root	145	145
+3	,	,	$	$,	_	0	root	_	_
+4	denk	denken	V	VVIMP	Sg	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	0	root	131	131
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	dort	dort	A	ADV	_	8	adv	_	_
+4	einen	eine	A	ART	Indef|Masc|Acc|Sg	7	det	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	ausgezeichneten	ausgezeichnet	A	ADJA	Pos|Masc|Acc|Sg|_|	7	attr	_	_
+7	Onegin	Onegin	N	NN	Masc|Acc|Sg	8	obja	_	_
+8	haben	haben	V	VAINF	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wedius	Wedius	N	NE	_	0	root	402	402
+2	,	,	$	$,	_	0	root	_	_
+3	ja	ja	A	ADV	_	0	root	_	_
+4	;	;	$	$.	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	144	144
+6	kenne	kennen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+7	ihn	er	P	PPER	3|Sg|Masc|Acc	6	obja	6	6
+8	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	zu	zu	P	APPR	Dat	2	pp	_	_
+4	meiner	meine	A	PPOSAT	Fem|Dat|Sg	5	det	144	144
+5	Zeit	Zeit	N	NN	Fem|Dat|Sg	3	pn	_	_
+6	in	in	P	APPR	_	2	pp	_	_
+7	Dresden	Dresden	N	NE	Neut|_|Sg	6	pn	404	404
+8	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Na	Na	I	ITJ	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Carmen	Carmen	N	NE	_	0	root	371	371
+5	,	,	$	$,	_	0	root	_	_
+6	Tatjana	Tatjana	N	NE	Fem|_|Sg	0	root	145	145
+7	und	und	K	KON	_	0	root	_	_
+8	-	-	$	$(	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	überlege	überlegen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	131	131
+4	noch	noch	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Vielleicht	vielleicht	A	ADV	_	2	adv	_	_
+2	besprechen	besprechen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_	2	obja	_	_
+6	miteinander	miteinander	A	ADV	_	2	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Selbstverständlich	selbstverständlich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	146	146
+2	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	_	_
+4	bewegter	bewegt	A	ADJA	Pos|Masc|Nom|Sg|St|	5	attr	_	_
+5	Winter	Winter	N	NN	Masc|Nom|Sg	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Allerdings	allerdings	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+4	viel	viel	P	PIS	_	6	obja	_	_
+5	voneinander	voneinander	A	ADV	_	6	adv	_	_
+6	haben	haben	V	VAINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+2	werden	werden	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	uns	wir	P	PRF	1|Pl|Dat	6	objd	_	_
+4	wieder	wieder	A	ADV	_	6	adv	_	_
+5	Briefe	Brief	N	NN	Masc|_|_	6	obja	277	277
+6	schreiben	schreiben	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	wie	K	KOKOM	_	0	root	_	_
+2	einst	einst	A	ADV	_	1	cj	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+

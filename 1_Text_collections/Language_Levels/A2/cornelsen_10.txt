@@ -1,0 +1,62 @@
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+2	erste	erst	ADJA	ADJA	_|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Kontakt	Kontakt	N	NN	Masc|Nom|Sg	4	subj	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	wichtig	wichtig	ADV	ADJD	Pos|	4	pred	_	-
+6	!	!	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	3	det	_	(0
+2	erste	erst	ADJA	ADJA	_|Fem|Nom|Sg|_|	3	attr	_	-
+3	E-Mail	E-Mail	N	NN	Fem|Nom|Sg	9	subj	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	die	die	PRO	PRELS	Fem|_|Sg	7	obja	_	(0)
+6	du	du	PRO	PPER	2|Sg|_|Nom	7	subj	_	-
+7	schreibst	schreiben	V	VVFIN	2|Sg|Pres|Ind	3	rel	_	0)
+8	,	,	$,	$,	_	0	root	_	-
+9	darf	dürfen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+10	nicht	nicht	PTKNEG	PTKNEG	_	16	adv	_	-
+11	zu	zu	PTKA	PTKA	_	12	adv	_	-
+12	lang	lang	ADV	ADJD	Pos|	16	pred	_	-
+13	und	und	KON	KON	_	12	kon	_	-
+14	nicht	nicht	PTKNEG	PTKNEG	_	15	adv	_	-
+15	langweilig	langweilig	ADV	ADJD	Pos|	13	cj	_	-
+16	sein	sein	V	VAINF	_	9	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(0)
+2	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	richtig	richtig	ADV	ADJD	Pos|	4	adv	_	-
+4	interessant	interessant	ADV	ADJD	Pos|	5	pred	_	-
+5	sein	sein	V	VAINF	_	2	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	wichtig	wichtig	ADV	ADJD	Pos|	2	pred	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	dass	dass	KOUS	KOUS	_	9	konj	_	-
+6	die	die	ART	ART	Def|Fem|Nom|Sg	7	det	_	(0
+7	E-Mail	E-Mail	N	NN	Fem|Nom|Sg	9	subj	_	0)
+8	persönlich	persönlich	ADV	ADJD	Pos|	9	pred	_	-
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	sie	sie	PRO	PPER	3|Sg|Fem|Nom	5	subj	_	(0)
+5	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	2	s	_	-
+6	für	für	PREP	APPR	Acc	10	pp	_	-
+7	eine	eine	ART	ART	Indef|Fem|Acc|Sg	9	det	_	-
+8	bestimmte	bestimmt	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	9	attr	_	-
+9	Person	Person	N	NN	Fem|Acc|Sg	6	pn	_	-
+10	sein	sein	V	VAINF	_	5	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Schreib	Schreib	N	NE	_	0	root	_	-
+2	keine	keine	ART	PIAT	Fem|_|Sg	3	det	_	-
+3	Standardmail	Standardmail	N	NN	Fem|_|Sg	0	root	_	-
+4	für	für	PREP	APPR	Acc	3	pp	_	-
+5	alle	alle	PRO	PIS	_|Acc|_	4	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+

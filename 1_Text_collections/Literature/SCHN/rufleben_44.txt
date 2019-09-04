@@ -1,0 +1,380 @@
+1	Die	die	A	ART	Def|_|_|_	2	det	631	631
+2	Wache	Wache	N	NN	_|_|_	0	root	631	631
+3	.	.	$	$.	_	0	root	_	_
+
+1	Zu	zu	P	APPR	Dat	0	root	_	_
+2	Befehl	Befehl	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Herr	Herr	N	NN	Masc|Dat|Sg	2	app	_	_
+5	Leutnant	Leutnant	N	NN	Masc|Dat|Sg	4	app	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Seine	seine	A	PPOSAT	Masc|Nom|Pl	2	det	0	0
+2	Schritte	Schritt	N	NN	Masc|Nom|Pl	3	subj	_	_
+3	verhallen	verhallen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	auf	auf	P	APPR	Dat	3	pp	_	_
+5	dem	die	A	ART	Def|Masc|Dat|Sg	6	det	633	633
+6	Gang	Gang	N	NN	Masc|Dat|Sg	4	pn	633	633
+7	.	.	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	169	169
+2	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	zum	zu	P	APPRART	Dat	1	pp	455	455
+3	Oberst	Oberst	N	NN	Masc|Dat|Sg	2	pn	455	455
+4	.	.	$	$.	_	0	root	634)	634)
+
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	beschließen	beschließen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	2	obja	_	_
+4	Oberst	Oberst	N	NN	Masc|_|Sg	3	app	_	_
+5	mit	mit	P	APPR	Dat	2	pp	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	pn	651	651
+7	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nichts	nichts	P	PIS	Masc|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	1	app	_	_
+4	Leutnant	Leutnant	N	NN	Masc|_|Sg	3	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nur	nur	A	ADV	_	3	adv	_	_
+3	bitte	bitten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	635	635
+5	Sie	sie	P	PPER	3|_|_|_	3	obja	636	636
+6	,	,	$	$,	_	0	root	_	_
+7	dafür	dafür	P	PROAV	_	0	root	_	_
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	sorgen	sorgen	V	VVINF	_	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	20	konj	_	_
+12	dieser	diese	A	PDAT	Masc|Nom|Sg	13	det	_	_
+13	Mord	Mord	N	NN	Masc|Nom|Sg	20	subj	_	_
+14	morgen	morgen	A	ADV	_	13	adv	_	_
+15	nicht	nicht	P	PTKNEG	_	19	adv	_	_
+16	vor	vor	P	APPR	Dat	19	pp	_	_
+17	unserem	unsre	A	PPOSAT	Masc|Dat|Sg	18	det	_	_
+18	Abmarsch	Abmarsch	N	NN	Masc|Dat|Sg	16	pn	_	_
+19	entdeckt	entdecken	V	VVPP	_	20	aux	_	_
+20	werde	werden	V	VAFIN	3|Sg|Pres|Subj	9	objc	_	_
+21	-	-	$	$(	_	0	root	_	_
+22	und	und	K	KON	_	20	par	_	_
+23	-	-	$	$(	_	0	root	_	_
+24	da	da	K	KOUS	_	30	konj	_	_
+25	ich	ich	P	PPER	1|Sg|_|Nom	30	subj	635	635
+26	noch	noch	A	ADV	_	29	adv	_	_
+27	etwas	etwas	P	PIS	_	29	obja	_	_
+28	zu	zu	P	PTKZU	_	29	part	_	_
+29	tun	tun	V	VVINF	_	30	aux	_	_
+30	habe	haben	V	VAFIN	1|Sg|Pres|_	20	neb	_	_
+31	und	und	K	KON	_	0	root	_	_
+32	Sie	sie	P	PPER	3|_|_|_	31	cj	636	636
+33	wahrscheinlich	wahrscheinlich	A	ADJD	Pos|	34	attr	_	_
+34	nichts	nichts	P	PIS	_	0	root	_	_
+35	mehr	mehr	A	ADV	_	34	adv	_	_
+36	-	-	$	$(	_	0	root	_	_
+37	ihn	er	P	PPER	3|Sg|Masc|Acc	44	obja	636	636
+38	für	für	P	APPR	Acc	44	pp	_	_
+39	alle	alle	A	PIDAT	Masc|Acc|Pl	40	det	_	_
+40	Fälle	Fall	N	NN	Masc|Acc|Pl	38	pn	_	_
+41	auf	auf	P	APPR	_	44	objp	_	_
+42	sich	sie	P	PRF	3|_|_	41	pn	_	_
+43	zu	zu	P	PTKZU	_	44	part	_	_
+44	nehmen	nehmen	V	VVINF	_	0	root	_	_
+45	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Ihnen	sie	P	PPER	3|Pl|_|Dat	6	objd	637	637
+4	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+5	schwer	schwer	A	ADJD	Pos|	6	pred	_	_
+6	werden	werden	V	VAINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	637	637
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	das	die	A	ART	Def|Neut|_|Sg	5	det	_	_
+5	Lügen	Lüge	N	NN	Neut|_|Sg	0	root	_	_
+6	gewohnt	wohnen	V	VVPP	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|_|Sg	5	vok	_	_
+2	Oberst	Oberst	N	NN	Masc|_|Sg	1	app	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+5	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+6	menschlicher	menschlich	A	ADJD	Comp|	7	pred	_	_
+7	gewesen	sein	V	VAPP	_	5	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	es	es	P	PPER	3|Sg|Neut|_	0	root	_	_
+10	in	in	P	APPR	_	0	root	_	_
+11	einem	eine	A	ART	Indef|_|Dat|Sg	0	root	_	_
+12	abzutun	abtun	V	VVIZU	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	468	468
+2	Oberst	Oberst	N	NN	Masc|Nom|Sg	0	root	468	468
+3	.	.	$	$.	_	0	root	_	_
+
+1	Menschlicher	Menschliche	N	NN	_|_|_	0	root	638	638
+2	-	-	$	$(	_	0	root	_	_
+3	ja	ja	P	PTKANT	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	lag	liegen	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+4	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+5	in	in	P	APPR	Dat	3	objp	_	_
+6	meiner	meine	A	PPOSAT	Fem|Dat|Sg	7	det	_	_
+7	Absicht	Absicht	N	NN	Fem|Dat|Sg	5	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	638	638
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	,	,	$	$,	_	0	root	455	455
+3	Marie	Marie	N	NE	Masc|_|Sg	1	app	455	455
+4	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|Nom|Sg	2	subj	455	455
+2	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	regungslos	regungslos	A	ADJD	Pos|	4	adv	_	_
+4	stehen	stehen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	dann	dann	A	ADV	_	7	adv	_	_
+7	beugt	beugen	V	VVFIN	3|Sg|Pres|Ind	4	kon	_	_
+8	er	er	P	PPER	3|Sg|Masc|Nom	7	subj	455	455
+9	sich	sie	P	PRF	3|_|_	7	obja	_	_
+10	wieder	wieder	A	ADV	_	7	adv	_	_
+11	zur	zu	P	APPRART	Dat	7	pp	_	_
+12	Leiche	Leiche	N	NN	Fem|Dat|Sg	11	pn	_	_
+13	herab	herab	A	ADV	_	7	adv	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	455	455
+4	auf	auf	P	PTKVZ	_	2	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	geht	gehen	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+7	zu	zu	P	APPR	Dat	6	pp	_	_
+8	dem	die	A	ART	Def|Masc|Dat|Sg	9	det	2	2
+9	Tisch	Tisch	N	NN	Masc|Dat|Sg	7	pn	2	2
+10	hin	hin	P	PTKVZ	_	6	avz	_	_
+11	und	und	K	KON	_	6	kon	_	_
+12	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	11	cj	_	_
+13	den	die	A	ART	Def|Masc|Acc|Sg	14	det	_	_
+14	Revolver	Revolver	N	NN	Masc|Acc|Sg	12	obja	_	_
+15	zur	zu	P	APPRART	Dat	12	objp	_	_
+16	Hand	Hand	N	NN	Fem|Dat|Sg	15	pn	639	639
+17	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	4	pp	_	_
+2	diesem	diese	A	PDAT	Masc|Dat|Sg	3	det	213	213
+3	Augenblick	Augenblick	N	NN	Masc|Dat|Sg	1	pn	213	213
+4	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	Marie	Marie	N	NE	_|Nom|Sg	4	subj	8	8
+6	hinter	hinter	P	APPR	Dat	4	pp	_	_
+7	dem	die	A	ART	Def|Masc|Dat|Sg	8	det	447	447
+8	Vorhang	Vorhang	N	NN	Masc|Dat|Sg	6	pn	447	447
+9	hervor	hervor	P	PTKVZ	_	4	avz	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	totenblaß	totenblaß	A	ADJD	Pos|	0	root	_	_
+12	und	und	K	KON	_	11	kon	_	_
+13	ruhig	ruhig	A	ADJD	Pos|	12	cj	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_|Nom|Sg	2	subj	8	8
+2	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	stehen	stehen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+4	mit	mit	P	APPR	Dat	3	pp	_	_
+5	halbgeöffneten	halbgeöffnet	A	ADJA	Pos|Fem|Dat|Pl|_|	6	attr	_	_
+6	Lippen	Lippe	N	NN	Fem|Dat|Pl	4	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	1	pred	0	0
+5	?	?	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	warst	sein	V	VAFIN	2|Sg|Past|Ind	0	root	_	_
+3	hier	hier	A	ADV	_	2	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_|Nom|Sg	2	subj	8	8
+2	nickt	nicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	2	obja	455	455
+2	stellt	stellen	V	VVFIN	2|Pl|Pres|Ind	0	root	_	_
+3	ihr	ihr	P	PPER	2|Pl|_|Nom	2	subj	_	_
+4	durch	durch	P	APPR	Acc	8	pp	_	_
+5	eine	eine	A	ART	Indef|Fem|Acc|Sg	6	det	_	_
+6	Handbewegung	Handbewegung	N	NN	Fem|Acc|Sg	4	pn	_	_
+7	anheim	anheim	A	ADJD	_	8	adv	_	_
+8	fortzugehen	fortgehen	V	VVIZU	_	2	obji	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_|Nom|Sg	2	subj	8	8
+2	bleibt	bleiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	stehen	stehen	V	VVINF	_	2	obji	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_|Nom|Sg	2	subj	8	8
+2	nickt	nicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	10	konj	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	640	640
+7	ein	eine	A	ART	Indef|Neut|_|Sg	8	det	_	_
+8	Ende	Ende	N	NN	Neut|_|Sg	9	obja	_	_
+9	machen	machen	V	VVINF	_	10	aux	_	_
+10	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	2	objc	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	ehe	ehe	K	KOUS	_	15	konj	_	_
+13	die	die	A	ART	Def|Fem|Nom|Sg	14	det	569	569
+14	Sonne	Sonne	N	NN	Fem|Nom|Sg	15	subj	569	569
+15	aufgeht	aufgehen	V	VVFIN	3|Sg|Pres|Ind	10	neb	_	_
+16	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	640	640
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Marie	Marie	N	NE	_	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	651	651
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	gekommen	kommen	V	VVPP	_	2	aux	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Fort	fort	P	PTKVZ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	fort	fort	P	PTKVZ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	_	_
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|Acc	2	obja	642	642
+4	mit	mit	P	APPR	Dat	3	pp	_	_
+5	einem	eine	A	ART	Indef|Masc|Dat|Sg	6	det	_	_
+6	Arm	Arm	N	NN	Masc|Dat|Sg	4	pn	_	_
+7	und	und	K	KON	_	3	kon	_	_
+8	mit	mit	P	APPR	Dat	12	pp	641	641
+9	dem	die	A	ART	Def|_|Dat|Sg	10	det	641	641
+10	andern	andern	A	ADJA	_|Dat|Sg	8	pn	641	641
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	641	641
+12	Mantel	Mantel	N	NN	Masc|Acc|Sg	7	cj	641	641
+13	,	,	$	$,	_	0	root	641	641
+14	der	die	P	PRELS	Masc|Nom|Sg	18	subj	641	641
+15	über	über	P	APPR	Dat	18	pp	_	_
+16	dem	die	A	ART	Def|Masc|Dat|Sg	17	det	577	577
+17	Stuhle	Stuhl	N	NN	Masc|Dat|Sg	15	pn	577	577
+18	hängt	hängen	V	VVFIN	3|Sg|Pres|Ind	12	rel	_	_
+19	,	,	$	$,	_	0	root	_	_
+20	hüllt	hüllen	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+21	sich	sie	P	PRF	3|_|Acc	20	obja	_	_
+22	und	und	K	KON	_	21	kon	_	_
+23	sie	sie	P	PPER	3|_|_|Acc	22	cj	642	642
+24	darein	darein	P	PTKVZ	_	20	avz	_	_
+25	,	,	$	$,	_	0	root	_	_
+26	eilt	eilen	V	VVFIN	_|_|Pres|Ind	20	kon	_	_
+27	mit	mit	P	APPR	Dat	26	pp	_	_
+28	ihr	ihr	P	PPER	3|Sg|Fem|Dat	27	pn	642	642
+29	davon	davon	P	PROAV	_	26	objp	_	_
+30	.	.	$	$.	_	0	root	_	_
+
+1	Hinter	hinter	P	APPR	_	3	pp	_	_
+2	sich	sie	P	PRF	3|_|_	1	pn	_	_
+3	versperrt	versperren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	641	641
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	75	75
+6	Türe	Türe	N	NN	Fem|_|Sg	3	obja	75	75
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	_	_
+2	Szene	Szene	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	nun	nun	A	ADV	_	3	adv	_	_
+5	leer	leer	A	ADJD	Pos|	3	pred	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	nur	nur	A	ADV	_	10	adv	_	_
+8	die	die	A	ART	Def|Neut|_|Pl	10	det	_	_
+9	tote	tote	A	ADJA	_|Neut|_|Pl|_	10	attr	_	_
+10	Irene	Iren	N	NN	Neut|_|Pl	0	root	_	_
+11	liegt	liegen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+12	auf	auf	P	APPR	Dat	11	pp	_	_
+13	dem	die	A	ART	Def|Masc|Dat|Sg	14	det	643	643
+14	Fußboden	Fußboden	N	NN	Masc|Dat|Sg	12	pn	643	643
+15	.	.	$	$.	_	0	root	_	_
+
+1	Draußen	draußen	A	ADV	_	2	adv	_	_
+2	Ruf	Ruf	N	NN	Masc|_|Sg	0	root	_	_
+3	einer	eine	A	ART	Indef|Fem|Gen|Sg	4	det	_	_
+4	Patrouille	Patrouille	N	NN	Fem|Gen|Sg	2	gmod	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ferne	Ferne	N	NN	_|_|_	0	root	_	_
+2	Trompetenstößs	Trompetenstößs	N	NE	_|_|_	1	app	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Vorhang	Vorhang	N	NN	Masc|_|Sg	0	root	644	644
+2	.	.	$	$.	_	0	root	_	_
+
+1	Kleiner	klein	A	ADJA	Pos|Masc|Nom|Sg|St|	2	attr	_	_
+2	Garten	Garten	N	NN	Masc|Nom|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+

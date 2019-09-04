@@ -1,0 +1,139 @@
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	liebe	lieben	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Musik	Musik	N	NN	Fem|_|Sg	2	obja	_	(1)
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Zu	zu	PREP	APPR	Dat	3	pp	_	-
+2	Hause	Haus	N	NN	Neut|Dat|Sg	1	pn	_	-
+3	höre	hören	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	viel	viel	ART	PIDAT	Neut|_|Sg	6	det	_	-
+6	Radio	Radio	N	NN	Neut|_|Sg	3	obja	_	-
+7	–	–	$(	$(	_	0	root	_	-
+8	eigentlich	eigentlich	ADV	ADV	_	9	adv	_	-
+9	immer	immer	ADV	ADV	_	0	root	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Auch	auch	ADV	ADV	_	2	adv	_	-
+2	unterwegs	unterwegs	ADV	ADV	_	3	adv	_	-
+3	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	immer	immer	ADV	ADV	_	3	adv	_	-
+6	Musik	Musik	N	NN	Fem|_|Sg	3	obja	_	(1)
+7	dabei	dabei	PTKVZ	PTKVZ	_	3	avz	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	über	über	ADV	ADV	_	5	adv	_	-
+4	1000	1000	CARD	CARD	_	5	attr	_	-
+5	Lieder	Lied	N	NN	Neut|_|Pl	2	obja	_	-
+6	auf	auf	PREP	APPR	Dat	2	pp	_	-
+7	meinem	meine	ART	PPOSAT	Neut|Dat|Sg	8	det	_	(0)
+8	Handy	Handy	N	NN	Neut|Dat|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Außerdem	Außerdem	PROAV	PROAV	_	2	pp	_	-
+2	sammle	sammeln	V	VVFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	CDs	CD	N	NN	Fem|_|Pl	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Fem|Nom|Sg	2	det	_	(0)
+2	Lieblingsmusik	Lieblingsmusik	N	NN	Fem|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Jazz-Rock	Jazz-Rock	N	NN	Masc|Nom|Sg	3	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	1	cj	_	-
+4	ein	eine	ART	ART	Indef|Masc|Nom|Sg	6	det	_	-
+5	großer	groß	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	6	attr	_	-
+6	Fan	Fan	N	NN	Masc|Nom|Sg	3	pred	_	-
+7	von	von	PREP	APPR	_	6	pp	_	-
+8	Dean	Dean	N	NE	_|_|_	7	pn	_	(2
+9	Brown	Brown	N	NE	_|_|_	8	app	_	2)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|Masc|Nom|Sg	4	det	_	-
+4	Jazz-Gitarrist	Jazz-Gitarrist	N	NN	Masc|Nom|Sg	2	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(2)
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	aus	aus	PREP	APPR	Dat	2	objp	_	-
+4	Amerika	Amerika	N	NE	Neut|Dat|Sg	3	pn	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(2)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	schon	schon	ADV	ADV	_	7	adv	_	-
+4	in	in	PREP	APPR	_	7	pp	_	-
+5	mehreren	mehrere	ART	PIAT	Fem|_|Pl	6	det	_	-
+6	Bands	Band	N	NN	Fem|_|Pl	4	pn	_	-
+7	gespielt	spielen	V	VVPP	_	2	aux	_	-
+8	–	–	$(	$(	_	0	root	_	-
+9	zum	zu	PREP	APPRART	Dat	7	pp	_	-
+10	Beispiel	Beispiel	N	NN	Neut|Dat|Sg	9	pn	_	-
+11	mit	mit	PREP	APPR	Dat	10	pp	_	-
+12	Marcus	Marcus	N	NE	_|Dat|_	11	pn	_	-
+13	Miller	Miller	N	NE	_|Dat|_	12	app	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(3)
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	Dean	Dean	N	NE	_|Nom|Sg	6	subj	_	(2
+5	Brown	Brown	N	NE	_|Nom|Sg	4	app	_	2)
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	-
+7	der	die	ART	ART	Def|_|_|_	8	det	_	-
+8	beste	gut	ADJA	ADJA	Masc|Nom|Sg	6	pred	_	-
+9	!	!	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(3)
+2	spiele	spielen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	auch	auch	ADV	ADV	_	2	adv	_	-
+4	ein	eine	ART	ART	Indef|_|_|Sg	6	det	_	-
+5	bisschen	bisschen	ART	PIDAT	Fem|_|Sg	6	attr	_	-
+6	Gitarre	Gitarre	N	NN	Fem|_|Sg	2	obja	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	aber	aber	KON	KON	_	0	root	_	-
+9	natürlich	natürlich	ADV	ADJD	Pos|	10	adv	_	-
+10	nicht	nicht	PTKNEG	PTKNEG	_	12	adv	_	-
+11	so	so	ADV	ADV	_	12	adv	_	-
+12	gut	gut	ADV	ADJD	Pos|	8	cj	_	-
+13	wie	wie	KOKOM	KOKOM	_	12	kom	_	-
+14	er	er	PRO	PPER	3|Sg|Masc|Nom	13	cj	_	(2)
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(3)
+2	warte	warten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	auf	auf	PREP	APPR	Acc	2	pp	_	-
+4	seine	seine	ART	PPOSAT	Fem|Acc|Sg	6	det	_	(2)
+5	nächste	nah	ADJA	ADJA	_|Fem|Acc|Sg|_|	6	attr	_	-
+6	CD	CD	N	NN	Fem|Acc|Sg	3	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(3)
+3	hoffe	hoffen	V	VVFIN	1|Sg|Pres|_	1	cj	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	dass	dass	KOUS	KOUS	_	11	konj	_	-
+6	er	er	PRO	PPER	3|Sg|Masc|Nom	11	subj	_	(2)
+7	bald	bald	ADV	ADV	_	11	adv	_	-
+8	wieder	wieder	ADV	ADV	_	11	adv	_	-
+9	nach	nach	PREP	APPR	Dat	11	pp	_	-
+10	Deutschland	Deutschland	N	NE	Neut|Dat|Sg	9	pn	_	-
+11	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	3	objc	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Seine	seine	ART	PPOSAT	Neut|Nom|Pl	2	det	_	(2)
+2	Konzerte	Konzert	N	NN	Neut|Nom|Pl	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	wirklich	wirklich	ADV	ADJD	Pos|	3	adv	_	-
+5	super	super	ADV	ADJD	Pos|	3	pred	_	-
+6	!	!	$.	$.	_	0	root	_	-
+

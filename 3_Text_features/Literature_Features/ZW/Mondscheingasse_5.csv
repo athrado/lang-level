@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,22.12
+LIX,35.32072332730561
+# words,1106
+# sents,50
+discourse entities,0.02
+avg entity frequency,0.0
+vocabulary density,0.4659090909090909
+adjectives,1.62
+nouns,2.46
+verbs,3.68
+pronouns,5.28
+particles,5.18
+punctuation marks,3.84
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.1
+aux verbs,0.62
+full verbs,2.86
+split verbs,0.42
+nominative,0.68
+accusative,1.56
+dative,0.8
+genitive,0.22
+gen modifiers,0.14
+prep with gen,0.02
+all genitives,0.16
+accusative obj,1.32
+dative obj,0.22
+genitive obj,0.0
+prepositional obj,0.18
+acc+dat obj,1.54
+gen+prep obj,0.18
+present forms,0.78
+past forms,1.42
+perfect forms,0.06
+pqp forms,0.06
+perfect+pqp forms,0.3
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.12
+all futur forms,0.0
+subj 1 forms,0.1
+subj 2 forms,0.0
+subj 2 aux forms,0.06
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.16
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.04
+superlative,0.0
+comp+superlative,0.04
+conjunctions,0.44
+subjunctions,0.12
+relative clauses,0.16
+participial clauses pres,0.04
+participial clauses past,0.0
+all participial clauses,0.04
+negations,0.34
+question words,0.12
+question marks,0.0
+subj/pred inversions,0.92
+placeholder 'es',0.04
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,36.72
+concessive,3.44
+conditional,57.62
+consecutive,0.02
+final,5.34
+interrogative,2.08
+modal,17.7
+other,91.42
+temporal,71.4
+A1 features,6
+A1 features summed,1.4800000000000002
+A2 features,9
+A2 features summed,96.41999999999999
+B1 features,5
+B1 features summed,77.10000000000001
+level features (all),42
+level features (all) summed,38.43999999999999

@@ -1,0 +1,86 @@
+1	Liebe	lieb	ADJA	ADJA	Pos|_|_|Pl|St|	2	attr	_	-
+2	Eltern	Elter	N	NN	_|_|Pl	6	vok	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	die	die	ART	ART	Def|Fem|Nom|Sg	5	det	_	-
+5	Albert-Einstein-Schule	Albert-Einstein-Schule	N	NN	Fem|Nom|Sg	6	subj	_	-
+6	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+7	50	50	CARD	CARD	_	8	attr	_	(0
+8	Jahre	Jahr	N	NN	Neut|_|Pl	9	grad	_	0)
+9	alt	alt	ADV	ADJD	Pos|	6	pred	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|_|Sg	2	obja	_	-
+2	möchten	mögen	V	VMFIN	1|Pl|Past|Subj	0	root	_	-
+3	wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+4	mit	mit	PREP	APPR	Dat	2	pp	_	-
+5	Ihnen	sie	PRO	PPER	3|Pl|_|Dat	4	pn	_	(0)
+6	am	an	PREP	APPRART	Dat	2	pp	_	-
+7	Samstag	Samstag	N	NN	_|Dat|Sg	6	pn	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	den	die	ART	ART	Def|_|_|_	10	det	_	-
+10	24.5.	24.5.	ADJA	ADJA	_|_|_	0	root	_	-
+11	ab	ab	PREP	APPR	Dat	10	pp	_	-
+12	10.00	10.00	CARD	CARD	_	13	attr	_	-
+13	Uhr	Uhr	N	NN	Fem|Dat|Sg	11	pn	_	-
+14	feiern	feiern	V	VVINF	_	0	root	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	ie	ie	ADJA	ADJA	_|Fem|Nom|Pl|_	2	attr	_	(2
+2	Schülerinnen	Schülerin	N	NN	Fem|Nom|Pl	9	subj	_	2)
+3	und	und	KON	KON	_	2	kon	_	-
+4	Schüler	Schüler	N	NN	Masc|Nom|_	3	cj	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	Lehrerinnen	Lehrerin	N	NN	_|Nom|_	4	kon	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	Lehrer	Lehrer	N	NN	Masc|Nom|_	7	cj	_	-
+9	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+10	Spiele	Spiel	N	NN	Neut|_|_	15	obja	_	-
+11	,	,	$,	$,	_	0	root	_	-
+12	Kaffee	Kaffee	N	NN	_|_|Sg	10	kon	_	-
+13	und	und	KON	KON	_	12	kon	_	-
+14	Kuchen	Kuchen	N	NN	Masc|_|_	13	cj	_	-
+15	vorbereitet	vorbereiten	V	VVPP	_	9	aux	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Hoffentlich	hoffentlich	ADV	ADV	_	2	adv	_	-
+2	scheint	scheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	die	die	ART	ART	Def|Fem|Nom|Sg	4	det	_	-
+4	Sonne	Sonne	N	NN	Fem|Nom|Sg	2	subj	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	6	adv	_	-
+4	im	in	PREP	APPRART	Dat	6	pp	_	-
+5	Haus	Haus	N	NN	Neut|Dat|Sg	4	pn	_	-
+6	feiern	feiern	V	VVINF	_	2	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(2)
+2	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+3	auch	auch	ADV	ADV	_	6	adv	_	-
+4	kleine	klein	ADJA	ADJA	Pos|Neut|_|Pl|St|	5	attr	_	-
+5	Kinder	Kind	N	NN	Neut|_|Pl	6	obja	_	-
+6	mitbringen	mitbringen	V	VVINF	_	2	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|_|Sg	4	det	_	-
+4	Spielecke	Spieleck	N	NN	Fem|_|Sg	2	obja	_	-
+5	für	für	PREP	APPR	Acc	4	pp	_	-
+6	Kinder	Kind	N	NN	Neut|Acc|Pl	5	pn	_	-
+7	ab	ab	PREP	APPR	Dat	2	pp	_	-
+8	1	1	CARD	CARD	_	9	attr	_	-
+9	Jahr	Jahr	N	NN	Neut|Dat|Sg	7	pn	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Bitte	Bitte	ITJ	ITJ	_	0	root	_	-
+2	kommen	kommen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(2)
+4	,	,	$,	$,	_	0	root	_	-
+5	wir	wir	PRO	PPER	1|Pl|_|Nom	6	subj	_	(1)
+6	freuen	freuen	V	VVFIN	1|Pl|Pres|_	2	kon	_	-
+7	uns	wir	PRO	PRF	1|Pl|_	6	obja	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

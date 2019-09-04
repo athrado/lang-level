@@ -1,0 +1,305 @@
+1	Natürlich	natürlich	A	ADJD	Pos|	2	adv	_	_
+2	nicht	nicht	P	PTKNEG	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	wenig	wenig	P	PIS	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	0	root	_	_
+4	für	für	P	APPR	Acc	6	pp	_	_
+5	dich	du	P	PPER	2|Sg|_|Acc	4	pn	_	_
+6	eines	eine	P	PIS	Neut|Nom|Sg	7	subj	_	_
+7	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Für	für	P	APPR	Acc	0	root	_	_
+2	mich	ich	P	PPER	1|Sg|_|Acc	1	pn	78	78
+3	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	könnte	können	V	VMFIN	3|Sg|Past|Subj	0	root	_	_
+3	ja	ja	A	ADV	_	4	adv	_	_
+4	sein	sein	V	VAINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	9	konj	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	9	subj	178	178
+8	Lust	Lust	N	NN	Fem|_|Sg	9	obja	_	_
+9	bekämst	bekämst	V	VVFIN	2|Sg|_|_	4	objc	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	deine	deine	A	PPOSAT	Masc|_|Pl	2	det	178	178
+2	Pläne	Plan	N	NN	Masc|_|Pl	4	obja	_	_
+3	zu	zu	P	PTKZU	_	4	part	_	_
+4	ändern	ändern	V	VVINF	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+2	mit	mit	P	APPR	Dat	0	root	_	_
+3	Marie	Marie	N	NE	_|Dat|_	2	pn	95	95
+4	zusammen	zusammen	P	PTKVZ	_	0	root	_	_
+5	zu	zu	P	PTKZU	_	6	part	_	_
+6	bleiben	bleiben	V	VVINF	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	lieber	lieb	A	ADJD	Comp|	2	adv	_	_
+2	ungestört	ungestört	A	ADJD	Pos|	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	179	179
+2	ändre	ändern	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	meine	meine	A	PPOSAT	Masc|_|Pl	4	det	179	179
+4	Pläne	Plan	N	NN	Masc|_|Pl	2	obja	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	3	subj	180	180
+3	sollst	sollen	V	VMFIN	2|Sg|Pres|Ind	1	cj	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	7	obja	_	_
+5	auch	auch	A	ADV	_	7	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	tun	tun	V	VVINF	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	4	konj	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	4	subj	180	180
+3	es	es	P	PPER	3|Sg|Neut|_	4	obja	_	_
+4	wünschest	wünschen	V	VVFIN	2|Sg|Pres|Subj	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	78	78
+2	wünsche	wünschen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	146	146
+2	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+2	jetzt	jetzt	A	ADV	_	11	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	mit	mit	P	APPR	Dat	11	pp	_	_
+5	einemmal	einemmal	N	NE	_|Dat|_	4	pn	203	203
+6	,	,	$	$,	_	0	root	_	_
+7	wirklich	wirklich	A	ADJD	Pos|	11	adv	_	_
+8	die	die	A	ART	Def|Fem|Nom|Sg	9	det	171	171
+9	Stunde	Stunde	N	NN	Fem|Nom|Sg	1	subj	171	171
+10	da	da	A	ADV	_	11	adv	_	_
+11	sein	sein	V	VAINF	_	1	aux	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Welche	welche	A	PWAT	Fem|_|Sg	2	det	_	_
+2	Stunde	Stunde	N	NN	Fem|_|Sg	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	die	die	P	PRELS	_|_|_	0	root	_	_
+4	wir	wir	P	PPER	1|Pl|_|Nom	14	subj	182	182
+5	beide	beide	P	PIS	_|Nom|Pl	4	app	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	lang	lang	A	ADJD	Pos|	14	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	auch	auch	A	ADV	_	14	adv	_	_
+10	in	in	P	APPR	Dat	14	pp	_	_
+11	den	die	A	ART	Def|Masc|Dat|Pl	13	det	181	181
+12	schönsten	schön	A	ADJA	Sup|Masc|Dat|Pl|_|	13	attr	181	181
+13	Tagen	Tag	N	NN	Masc|Dat|Pl	10	pn	181	181
+14	vorhergesehen	vorhersehen	V	VVPP	_	0	root	181	181
+15	,	,	$	$,	_	0	root	181	181
+16	die	die	P	PRELS	Masc|_|Pl	22	obja	181	181
+17	wir	wir	P	PPER	1|Pl|_|Nom	23	subj	182	182
+18	beinahe	beinahe	A	ADV	_	22	adv	_	_
+19	wie	wie	K	KOKOM	_	22	kom	_	_
+20	etwas	etwas	A	ADV	_	21	adv	_	_
+21	Unausbleibliches	Unausbleibliches	N	NE	_	19	cj	_	_
+22	erwartet	erwarten	V	VVPP	_	23	aux	_	_
+23	haben	haben	V	VAFIN	1|Pl|Pres|_	13	rel	_	_
+24	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	78	78
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	da	da	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	wissen	wissen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	8	konj	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	8	subj	_	_
+7	vorbei	vorbei	A	ADV	_	8	pred	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vorbei	vorbei	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	78	78
+2	glaube	glauben	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wir	wir	P	PPER	1|Pl|_|Nom	5	subj	_	_
+5	sprechen	sprechen	V	VVFIN	1|Pl|Pres|_	2	s	_	_
+6	die	die	A	ART	Def|Fem|_|Sg	8	det	_	_
+7	ganze	ganz	A	ADJA	Pos|Fem|_|Sg|_|	8	attr	_	_
+8	Zeit	Zeit	N	NN	Fem|_|Sg	5	zeit	_	_
+9	von	von	P	APPR	_	5	pp	_	_
+10	nichts	nichts	P	PIS	_|_|_	9	pn	_	_
+11	anderm	andere	P	PIS	_|Dat|Sg	10	app	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	recht	recht	A	ADJD	Pos|	2	pred	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	3	pp	_	_
+2	Grunde	Grund	N	NN	Masc|Dat|Sg	1	pn	472	472
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	gut	gut	A	ADJD	Pos|	3	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	14	konj	_	_
+8	es	es	P	PPER	3|Sg|Neut|Nom	14	subj	_	_
+9	endlich	endlich	A	ADJD	Pos|	13	adv	_	_
+10	mit	mit	P	APPR	Dat	13	pp	_	_
+11	klaren	klar	A	ADJA	Pos|Neut|Dat|Pl|_|	12	attr	_	_
+12	Worten	Wort	N	NN	Neut|Dat|Pl	10	pn	_	_
+13	ausgesprochen	aussprechen	V	VVPP	_	14	aux	_	_
+14	ist	sein	V	VAFIN	3|Sg|Pres|Ind	3	objc	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Pl	2	det	_	_
+2	Stimmungen	Stimmung	N	NN	Fem|Nom|Pl	6	subj	_	_
+3	der	die	A	ART	Def|Fem|Gen|Sg	5	det	230	230
+4	letzten	letzte	A	ADJA	Pos|Fem|Gen|Sg|Wk|	5	attr	230	230
+5	Zeit	Zeit	N	NN	Fem|Gen|Sg	2	gmod	230	230
+6	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+7	zuweilen	zuweilen	A	ADV	_	6	adv	_	_
+8	etwas	etwas	A	ADV	_	9	adv	_	_
+9	bang	bang	A	ADJD	Pos|	6	pred	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	jetzt	jetzt	A	ADV	_	6	adv	_	_
+4	jedenfalls	jedenfalls	A	ADV	_	6	adv	_	_
+5	besser	gut	A	ADJD	Comp|	6	pred	_	_
+6	werden	werden	V	VAINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Besser	gut	A	ADJD	Comp|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	ja	ja	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	magst	mögen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	recht	recht	A	ADJD	Pos|	4	pred	_	_
+4	haben	haben	V	VAINF	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Mir	ich	P	PPER	1|Sg|_|Dat	2	objd	78	78
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	beinah	beinah	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	als	als	K	KOKOM	_	6	konj	_	_
+6	fing	fangen	V	VVFIN	3|Sg|Past|Ind	2	neb	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+9	jetzt	jetzt	A	ADV	_	6	adv	_	_
+10	schon	schon	A	ADV	_	6	adv	_	_
+11	an	an	P	PTKVZ	_	6	avz	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	besser	gut	A	ADJD	Comp|	15	pred	_	_
+14	zu	zu	P	PTKZU	_	15	part	_	_
+15	werden	werden	V	VAINF	_	6	obji	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Seltsam	seltsam	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	atmet	atmen	V	VVFIN	_|_|Pres|_	0	root	_	_
+2	freier	frei	A	ADJD	Comp|	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	183	183
+4	eben	eben	A	ADV	_	2	adv	_	_
+5	den	die	A	ART	Def|Masc|Acc|Sg	6	det	_	_
+6	Lohn	Lohn	N	NN	Masc|Acc|Sg	2	obja	_	_
+7	davon	davon	P	PROAV	_	6	pp	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	14	konj	_	_
+10	wir	wir	P	PPER	1|Pl|_|Nom	14	subj	183	183
+11	immer	immer	A	ADV	_	12	adv	_	_
+12	ehrlich	ehrlich	A	ADJD	Pos|	13	pred	_	_
+13	gewesen	sein	V	VAPP	_	14	aux	_	_
+14	sind	sein	V	VAFIN	1|Pl|Pres|Ind	7	objc	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	Amadeus	Amadeus	N	NE	Masc|Acc|Sg	6	app	_	_
+17	.	.	$	$.	_	0	root	_	_
+

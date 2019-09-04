@@ -1,0 +1,337 @@
+1	in	in	P	APPR	_	6	pp	_	_
+2	6	6	C	CARD	_	3	attr	1441	1441
+3	Akten	Akt	N	NN	_|_|Pl	1	pn		
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nun	nun	A	ADV	_	4	adv	_	_
+3	die	die	A	ART	Def|Fem|_|Pl	4	det	_	_
+4	Personen	Person	N	NN	Fem|_|Pl	1	cj	_	_
+5	:	\:	$	$.	_	0	root	_	_
+
+1	Schopf	Schopf	N	NN	Masc|Nom|Sg	18	vok	628	628
+2	,	,	$	$,	_	0	root	628	628
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	628	628
+4	buckliger	bucklig	A	ADJA	Pos|Masc|Nom|Sg|St|	5	attr	628	628
+5	Antiquar	Antiquar	N	NN	Masc|Nom|Sg	1	app	628	628
+6	Clara	Clara	N	NE	Fem|Nom|Sg	5	app	628	628
+7	,	,	$	$,	_	0	root	_	_
+8	seine	seine	A	PPOSAT	Fem|Nom|Sg	9	det	627	627
+9	Frau	Frau	N	NN	Fem|Nom|Sg	6	app	627	627
+10	Walter	Walter	N	NE	Fem|Nom|Sg	9	app	627	627
+11	Wild	Wild	N	NE	Fem|Nom|Sg	10	app	627	627
+12	,	,	$	$,	_	0	root	_	_
+13	ein	eine	A	ART	Indef|Masc|Nom|Sg	15	det	71	71
+14	berühmter	berühmt	A	ADJA	Pos|Masc|Nom|Sg|St|	15	attr	71	71
+15	Journalist	Journalist	N	NN	Masc|Nom|Sg	18	subj		
+
+1	Wen	wer	P	PWS	_|Acc|Sg	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	noch	noch	A	ADV	_	1	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Girlinger	Girlinger	N	NE	_	0	root	453	453
+2	?	?	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Wirlinger	Wirlinger	N	NE	Masc|Nom|Sg	0	root	629	629
+2	,	,	$	$,	_	0	root	629	629
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	4	det	629	629
+4	Agitator	Agitator	N	NN	Masc|Nom|Sg	1	app	629	629
+5	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	famos	famos	A	ADJD	Pos|	2	pred	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sozial	sozial	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nun	nun	A	ADV	_	1	cj	_	_
+3	:	\:	$	$.	_	0	root	_	_
+
+1	Volk	Volk	N	NN	Neut|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Arbeiter	Arbeiter	N	NN	Masc|_|_	1	kon	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Studenten	Student	N	NN	Masc|_|_	3	kon	1066	1066
+6	,	,	$	$,	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Erst	erst	A	ADV	_	4	adv	_	_
+2	noch	noch	A	ADV	_	4	adv	_	_
+3	eine	eine	A	ART	Indef|Fem|_|Sg	4	det	_	_
+4	Hauptperson	Hauptperson	N	NN	Fem|_|Sg	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Martha	Martha	N	NE	Fem|_|Sg	0	root	491	491
+2	,	,	$	$,	_	0	root	491	491
+3	eine	eine	A	ART	Indef|Fem|_|Sg	4	det	491	491
+4	Prostituierte	Prostituierte	N	NN	Fem|_|Sg	1	app	491	491
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ah	Ah	N	NN	Fem|_|Sg	0	root	669	669
+2	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	giebt	giebt	A	ADJA	Neut|_|Sg	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	_	_
+5	Konflikt	Konflikt	N	NN	Masc|Acc|Sg	2	obja	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ganz	ganz	A	ADV	_	2	adv	_	_
+2	von	von	P	APPR	_	4	pp	_	_
+3	selber	selber	A	ADV	_	2	adv	_	_
+4	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	immer	immer	A	ADV	_	4	adv	_	_
+6	das	die	A	ART	Def|Neut|Nom|Sg	7	det	626	626
+7	Beste	Beste	N	NN	Neut|Nom|Sg	4	subj	626	626
+8	.	.	$	$.	_	0	root	_	_
+
+1	Natürlich	natürlich	A	ADJD	Pos|	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+3	Martha	Martha	N	NE	_	0	root	491	491
+4	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|Nom|Sg	4	det	_	_
+4	Retterin	Retterin	N	NN	Fem|Nom|Sg	2	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	491	491
+2	opfert	opfern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Am	an	P	APPRART	Dat	3	pp	_	_
+2	Schluß	Schluß	N	NN	Masc|Dat|Sg	1	pn	630	630
+3	bricht	brechen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	5	det	_	_
+5	Revolution	Revolution	N	NN	Fem|Nom|Sg	3	subj	_	_
+6	aus	aus	P	PTKVZ	_	3	avz	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	kam	kommen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	ganz	ganz	A	ADV	_	4	adv	_	_
+4	ins	in	P	APPRART	Acc	2	objp	_	_
+5	Fieber	Fieber	N	NN	Neut|Acc|_	4	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	2	det	_	_
+2	Prostituierte	Prostituierte	N	NN	_|_|_	0	root	_	_
+3	als	als	K	KOKOM	_	2	kom	_	_
+4	Retterin	Retterin	N	NN	Fem|_|Sg	3	cj	1851	1851
+5	!	!	$	$.	_	0	root	_	_
+
+1	Schopf	Schopf	N	NN	Masc|_|Sg	0	root	_	_
+2	als	als	K	KOKOM	_	1	kom	_	_
+3	Typus	Typus	N	NN	_	2	cj	_	_
+4	des	die	A	ART	Def|_|Gen|Sg	6	det	_	_
+5	krämerischen	krämerisch	A	ADJA	Pos|_|Gen|Sg|_|	6	attr	_	_
+6	Bourgeois	Bourgeois	N	NN	_|Gen|Sg	3	gmod	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Walter	Walter	N	NE	_	0	root	627	627
+2	Wild	Wild	N	NE	_	1	app	627	627
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	_	_
+4	Idealist	Idealist	N	NN	Masc|Nom|Sg	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Clara	Clara	N	NE	Fem|_|Sg	0	root	628	628
+2	das	die	A	ART	Def|Neut|_|Sg	4	det	_	_
+3	verführerische	verführerisch	A	ADJA	Pos|Neut|_|Sg|Wk|	4	attr	_	_
+4	Weib	Weib	N	NN	Neut|_|Sg	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wirlinger	Wirlinger	N	NN	_	0	root	629	629
+2	der	die	A	ART	Def|Masc|Nom|Sg	4	det	_	_
+3	dämonische	dämonisch	A	ADJA	Pos|Masc|Nom|Sg|Wk|	4	attr	_	_
+4	Volkstribun	Volkstribun	N	NN	Masc|Nom|Sg	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	am	an	P	APPRART	Dat	5	pp	_	_
+3	Schluß	Schluß	N	NN	Masc|Dat|Sg	2	pn	630	630
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	_	_
+5	Revolution	Revolution	N	NN	Fem|_|Sg	1	cj	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	schrieb	schreiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	gleich	gleich	A	ADV	_	2	adv	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	_	_
+5	Schlußszene	Schlußszene	N	NN	Fem|_|Sg	2	obja	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	ungeheuer	ungeheuer	A	ADJD	Pos|	8	adv	_	_
+8	wild	wild	V	VVPP	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	natürlich	natürlich	A	ADJD	Pos|	11	adv	_	_
+11	blos	blos	A	ADJD	_	12	adv	_	_
+12	so	so	A	ADV	_	15	adv	_	_
+13	in	in	P	APPR	Dat	15	pp	_	_
+14	Umrissen	Umriss	N	NN	Masc|Dat|Pl	13	pn	_	_
+15	hingeklitscht	hingeklitscht	A	ADJD	_	9	cj	_	_
+16	wie	wie	K	KOKOM	_	15	kom	_	_
+17	mit	mit	P	APPR	Dat	16	cj	_	_
+18	der	die	A	ART	Def|Fem|Dat|Sg	19	det	_	_
+19	Maurerkelle	Maurerkelle	N	NN	Fem|Dat|Sg	17	pn	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Glockenläuten	Glockenläuten	N	NN	Neut|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Kanonenschläge	Kanonenschlag	N	NN	Masc|_|Pl	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Barrikaden	Barrikade	N	NN	Fem|_|Pl	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Brand	Brand	N	NE	Neut|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Marseillaise	Marseillaise	N	NN	Fem|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Carmagnole	Carmagnole	N	NE	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Martha	Martha	N	NE	_	0	root	491	491
+2	im	in	P	APPRART	Dat	1	pp	491	491
+3	schwarzen	schwarz	A	ADJA	Pos|Neut|Dat|Sg|Wk|	4	attr	491	491
+4	Hemd	Hemd	N	NN	Neut|Dat|Sg	2	pn	491	491
+5	mit	mit	P	APPR	Dat	4	pp	491	491
+6	der	die	A	ART	Def|Fem|Dat|Sg	8	det	2087	2087
+7	roten	rot	A	ADJA	Pos|Fem|Dat|Sg|Wk|	8	attr	2087	2087
+8	Fahne	Fahne	N	NN	Fem|Dat|Sg	5	pn	491	491
+9	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	auf	auf	P	APPR	_	4	pp	_	_
+3	einmal	einmal	A	ADV	_	2	adv	_	_
+4	war	sein	V	VAFIN	3|Sg|Past|Ind	1	cj	_	_
+5	Alles	alle	P	PIS	Neut|Nom|Sg	4	subj	_	_
+6	aus	aus	P	PTKVZ	_	4	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Strom	Strom	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	vorbei	vorbei	A	ADV	_	5	adv	_	_
+5	geschossen	schießen	V	VVPP	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wollte	wollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+4	mehr	mehr	A	ADV	_	3	adv	_	_
+5	fließen	fließen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Fortwährend	Fortwährend	N	NN	Neut|Dat|Sg	2	objd	_	_
+2	drängte	drängen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	schon	schon	A	ADV	_	6	adv	_	_
+6	bei	bei	P	APPR	Dat	2	pp	_	_
+7	diesen	diese	A	PDAT	_|Dat|Pl	9	det	_	_
+8	gewaltigen	gewaltig	A	ADJA	Pos|_|Dat|Pl|_|	9	attr	_	_
+9	Hinpatzen	Hinpatzen	N	NN	_|Dat|Pl	6	pn	_	_
+10	der	die	A	ART	Def|Fem|Gen|Pl	11	det	_	_
+11	Farben	Farbe	N	NN	Fem|Gen|Pl	9	gmod	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	das	die	A	ART	Def|Neut|Nom|Sg	14	det	631	631
+14	Gefühl	Gefühl	N	NN	Neut|Nom|Sg	2	subj	631	631
+15	ein	ein	P	PTKVZ	_	2	avz	_	_
+16	:	\:	$	$.	_	0	root	_	_
+17	Aber	aber	K	KON	_	0	root	_	_
+18	der	die	A	ART	Def|Masc|Nom|Sg	20	det	_	_
+19	erste	erst	A	ADJA	_|Masc|Nom|Sg|Wk|	20	attr	_	_
+20	Akt	Akt	N	NN	Masc|Nom|Sg	17	cj	_	_
+21	?	?	$	$.	_	0	root	_	_
+
+1	Wieso	Wieso	P	PWAV	_	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	Revolution	Revolution	N	NN	Fem|_|Sg	0	root	632	632
+4	?	?	$	$.	_	0	root	_	_
+
+1	Natürlich	natürlich	A	ADJD	Pos|	2	adv	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	632	632
+4	kommen	kommen	V	VVINF	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Freilich	freilich	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+3	Wieso	Wieso	F	FM	_	0	root	_	_
+4	denn	denn	A	ADV	_	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	doch	doch	A	ADV	_	5	adv	_	_
+4	irgendwie	irgendwie	A	ADV	_	5	adv	_	_
+5	motiviert	motivieren	V	VVPP	_	6	aux	_	_
+6	werden	werden	V	VAINF	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	da	da	A	ADV	_	3	adv	_	_
+3	blieb	bleiben	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	_	_
+5	stecken	stecken	V	VVINF	_	3	obji	_	_
+6	und	und	K	KON	_	3	kon	_	_
+7	kam	kommen	V	VVFIN	_|Sg|Past|Ind	6	cj	_	_
+8	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+9	heraus	heraus	P	PTKVZ	_	7	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	410	410
+2	Schlimmste	Schlimmste	N	NN	Neut|Nom|Sg	3	subj	410	410
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	17	konj	_	_
+6	er	er	P	PPER	3|Sg|Masc|Nom	17	subj	0	0
+7	sich	sie	P	PRF	3|_|_	16	obja	_	_
+8	in	in	P	APPR	Dat	16	pp	_	_
+9	seinem	seine	A	PPOSAT	Masc|Dat|Sg	11	det	0	0
+10	dichterischen	dichterisch	A	ADJA	Pos|Masc|Dat|Sg|Wk|	11	attr	_	_
+11	Tumulte	Tumult	N	NN	Masc|Dat|Sg	8	pn	_	_
+12	zu	zu	P	PTKA	_	13	adv	_	_
+13	lebhaft	lebhaft	A	ADJD	Pos|	16	adv	_	_
+14	mit	mit	P	APPR	Dat	16	pp	_	_
+15	Martha	Martha	N	NE	_|Dat|_	14	pn	491	491
+16	beschäftigt	beschäftigen	V	VVPP	_	17	aux	_	_
+17	hatte	haben	V	VAFIN	3|Sg|Past|Ind	3	objc	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ach	ach	I	ITJ	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	hols	hols	V	VVFIN	_|Sg|_|_	0	root	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	226	226
+6	Teufel	Teufel	N	NN	Masc|Nom|Sg	4	subj	226	226
+7	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	11	11
+2	geh	geh	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	hin	hin	P	PTKVZ	_	2	avz	_	_
+4	!	!	$	$.	_	0	root	_	_
+

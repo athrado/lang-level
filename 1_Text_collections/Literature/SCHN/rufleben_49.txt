@@ -1,0 +1,436 @@
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	155	155
+2	Tante	Tante	N	NN	Fem|Nom|Sg	3	subj	155	155
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	auf	auf	P	APPR	Dat	3	pp	_	_
+5	dem	die	A	ART	Def|Masc|Dat|Sg	6	det	389	389
+6	Weg	Weg	N	NN	Masc|Dat|Sg	4	pn	389	389
+7	längs	längs	P	APPR	Gen	3	pp	_	_
+8	des	die	A	ART	Def|Masc|Gen|Sg	9	det	646	646
+9	Zaunes	Zaun	N	NN	Masc|Gen|Sg	7	pn	646	646
+10	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	_	_
+2	Tante	Tante	N	NN	Fem|_|Sg	0	root	_	_
+3	noch	noch	A	ADV	_	4	adv	_	_
+4	draußen	draußen	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	2	pred	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	0	0
+5	denn	denn	A	ADV	_	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|_|_|_	0	root	706	706
+2	,	,	$	$,	_	0	root	706	706
+3	Herr	Herr	N	NN	Masc|_|Sg	1	app	706	706
+4	Doktor	Doktor	N	NE	Masc|_|Sg	3	app	706	706
+5	,	,	$	$,	_	0	root	_	_
+6	Sie	sie	P	PPER	3|_|_|_	0	root	706	706
+7	?	?	$	$.	_	0	root	_	_
+
+1	Herein	herein	P	PTKVZ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	erregt	erregen	V	VVPP	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Von	von	P	APPR	_	0	root	_	_
+2	der	die	A	ART	Def|_|_|_	3	det	707	707
+3	Kath	Kath	N	NN	_|_|_	1	pn	707	707
+4	'	'	$	$(	_	0	root	707	707
+5	rin	rin	F	FM	_|_|_	3	app	707	707
+6	!	!	$	$.	_	0	root	_	_
+
+1	Bringen	bringen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	708	708
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	_	_
+5	Nachricht	Nachricht	N	NN	Fem|_|Sg	1	obja	_	_
+6	von	von	P	APPR	_	5	pp	_	_
+7	der	die	A	ART	Def|_|_|_	8	det	707	707
+8	Kath	Kath	N	NN	_|_|_	6	pn	707	707
+9	'	'	$	$(	_	0	root	707	707
+10	rin	rin	F	FM	_|_|_	8	app	707	707
+11	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Von	von	P	APPR	_	3	pp	_	_
+2	Katharina	Katharina	N	NN	Fem|_|Sg	1	pn	24	24
+3	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	708	708
+5	leider	leider	A	ADV	_	9	adv	_	_
+6	nichts	nichts	P	PIS	_	9	obja	_	_
+7	in	in	P	APPR	_	9	objp	_	_
+8	Erfahrung	Erfahrung	N	NN	Fem|_|Sg	7	pn	_	_
+9	gebracht	bringen	V	VVPP	_	3	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Frau	Frau	N	NN	Masc|_|_	3	vok	_	_
+12	Richter	Richter	N	NN	Masc|_|_	11	app	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	155	155
+2	Tante	Tante	N	NN	Fem|_|Sg	0	root	155	155
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nichts	nichts	P	PIS	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Nichts	nichts	P	PIS	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	709	709
+2	wollen	wollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	8	objd	732	732
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_	8	obja	_	_
+6	nur	nur	A	ADV	_	8	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	sagen	sagen	V	VVINF	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	709	709
+2	wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Herr	Herr	N	NN	Masc|_|Sg	4	vok	706	706
+2	Doktor	Doktor	N	NN	Masc|_|Sg	1	app	706	706
+3	,	,	$	$,	_	0	root	_	_
+4	reden	reden	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	710	710
+6	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	710	710
+2	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	732	732
+4	alles	alle	P	PIS	_|_|Sg	3	app	_	_
+5	sagen	sagen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	711	711
+2	versichere	versichern	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|_|_|_	2	obja	712	712
+4	,	,	$	$,	_	0	root	_	_
+5	Frau	Frau	N	NN	Masc|_|_	0	root	_	_
+6	Richter	Richter	N	NN	Masc|_|_	5	app	_	_
+7	daß	daß	K	KOUS	_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	0	root	711	711
+9	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+10	mehr	mehr	A	ADV	_	9	adv	_	_
+11	weiß	weiß	A	ADJD	Pos|	0	root	_	_
+12	als	als	K	KOKOM	_	0	root	_	_
+13	Sie	sie	P	PPER	3|_|_|_	12	cj	712	712
+14	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	155	155
+2	Tante	Tante	N	NN	Fem|_|Sg	0	root	155	155
+3	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	warum	warum	P	PWAV	_	3	adv	_	_
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	713	713
+5	denn	denn	A	ADV	_	6	adv	_	_
+6	hergekommen	herkommen	V	VVPP	_	3	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	Erinnern	erinnern	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	713	713
+3	sich	sie	P	PRF	3|_|_	1	obja	_	_
+4	denn	denn	A	ADV	_	1	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	liebe	lieb	A	ADJA	Pos|Masc|_|_|_|	8	attr	_	_
+8	Frau	Frau	N	NN	Masc|_|_	1	vok	_	_
+9	Richter	Richter	N	NN	Masc|_|_	8	app	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	714	714
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	Ihnen	sie	P	PPER	3|Pl|_|Dat	10	objd	713	713
+5	ja	ja	A	ADV	_	10	adv	_	_
+6	schon	schon	A	ADV	_	10	adv	_	_
+7	in	in	P	APPR	Dat	10	pp	_	_
+8	der	die	A	ART	Def|Fem|Dat|Sg	9	det	11	11
+9	Stadt	Stadt	N	NN	Fem|Dat|Sg	7	pn	11	11
+10	gesagt	sagen	V	VVPP	_	2	aux	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	daß	daß	K	KOUS	_	0	root	_	_
+13	ich	ich	P	PPER	1|Sg|_|Nom	0	root	714	714
+14	den	die	A	ART	Def|_|_|_	15	det	716	716
+15	Herrn	Herrn	N	NN	_|_|_	18	obja	716	716
+16	Adjunkten	Adjunkt	N	NN	Masc|Nom|Pl	18	subj	_	_
+17	hier	hier	A	ADV	_	18	adv	_	_
+18	abholen	abholen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+19	und	und	K	KON	_	18	kon	_	_
+20	bei	bei	P	APPR	Dat	27	pp	_	_
+21	dieser	diese	A	PDAT	Fem|Dat|Sg	22	det	715	715
+22	Gelegenheit	Gelegenheit	N	NN	Fem|Dat|Sg	20	pn	715	715
+23	Sie	sie	P	PPER	3|Sg|Fem|Nom	28	subj	716	716
+24	und	und	K	KON	_	23	kon	_	_
+25	Fräulein	Fräulein	N	NN	Neut|Nom|_	24	cj	8	8
+26	Marie	Marie	N	NE	Neut|Nom|_	25	app	8	8
+27	besuchen	besuchen	V	VVINF	_	28	aux	_	_
+28	würde	werden	V	VAFIN	_|Sg|Past|Subj	19	cj	_	_
+29	.	.	$	$.	_	0	root	_	_
+
+1	Kinder	Kind	N	NN	Neut|_|Pl	0	root	717	717
+2	auf	auf	P	APPR	Dat	1	pp	717	717
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	650	650
+4	Wiese	Wiese	N	NN	Fem|Dat|Sg	2	pn	650	650
+5	,	,	$	$,	_	0	root	_	_
+6	die	die	P	PRELS	Neut|Nom|Pl	11	subj	717	717
+7	nach	nach	P	APPR	Dat	11	pp	_	_
+8	einiger	einige	A	PIAT	Fem|Dat|Sg	9	det	_	_
+9	Zeit	Zeit	N	NN	Fem|Dat|Sg	7	pn	_	_
+10	wieder	wieder	A	ADV	_	11	adv	_	_
+11	verschwinden	verschwinden	V	VVFIN	3|Pl|Pres|_	1	rel	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	155	155
+2	Tante	Tante	N	NN	Fem|_|Sg	0	root	155	155
+3	sich	sie	P	PRF	3|_|_	4	obja	_	_
+4	erinnernd	erinnern	A	ADJD	_|<PPRES	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ja	ja	A	ADV	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	sein	seine	A	PPOSAT	_|_|Sg	0	root	718	718
+2	Sie	sie	P	PPER	3|_|_|_	0	root	718	718
+3	mir	ich	P	PPER	1|Sg|_|Dat	0	root	732	732
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	bös	bös	A	ADJD	Pos|	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Herr	Herr	N	NN	Masc|_|Sg	0	root	706	706
+9	Doktor	Doktor	N	NN	Masc|_|Sg	8	app	706	706
+10	.	.	$	$.	_	0	root	_	_
+
+1	Freilich	freilich	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	freilich	freilich	A	ADV	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	719	719
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	7	obja	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	732	732
+6	ja	ja	A	ADV	_	7	adv	_	_
+7	versprochen	versprechen	V	VVPP	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	schön	schön	A	ADJD	Pos|	2	pred	_	_
+6	von	von	P	APPR	Dat	2	pp	_	_
+7	Ihnen	sie	P	PPER	3|Pl|_|Dat	6	pn	719	719
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	13	konj	_	_
+10	Sie	sie	P	PPER	3|Pl|_|Nom	13	subj	719	719
+11	Ihr	ihre	A	PPOSAT	Neut|_|Sg	12	det	719	719
+12	Wort	Wort	N	NN	Neut|_|Sg	13	obja	_	_
+13	halten	halten	V	VVFIN	3|Pl|Pres|_	2	objc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	8	8
+2	Marie	Marie	N	NN	Fem|Nom|Sg	3	subj	8	8
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	6	obja	_	_
+5	sehr	sehr	A	ADV	_	6	adv	_	_
+6	freuen	freuen	V	VVINF	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	8	8
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	wohl	wohl	A	ADV	_	6	adv	_	_
+4	bald	bald	A	ADV	_	6	adv	_	_
+5	da	da	A	ADV	_	6	adv	_	_
+6	sein	sein	V	VAINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	8	8
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	spazieren	spazieren	V	VVINF	_	4	obji	_	_
+4	gegangen	gehen	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wollen	wollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	sich	sie	P	PRF	3|_|_	5	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	niedersetzen	niedersetzen	V	VVINF	_	1	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Herr	Herr	N	NN	Masc|_|Sg	1	vok	706	706
+8	Doktor	Doktor	N	NN	Masc|_|Sg	7	app	706	706
+9	?	?	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	auch	auch	A	ADV	_	3	adv	_	_
+3	Sie	sie	P	PPER	3|_|_|_	1	cj	845	845
+4	,	,	$	$,	_	0	root	845	845
+5	Herr	Herr	N	NN	Masc|_|Sg	3	app	845	845
+6	Adjunkt	Adjunkt	N	NN	Masc|_|Sg	5	app	845	845
+7	?	?	$	$.	_	0	root	_	_
+
+1	Setzt	setzen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	sich	sie	P	PRF	3|_|_	1	obja	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	3	subj	103	103
+3	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	schön	schön	A	ADJD	Pos|	8	adv	_	_
+3	Ihr	ihre	A	PPOSAT	Neut|Nom|Sg	4	det	_	_
+4	Haus	Haus	N	NN	Neut|Nom|Sg	8	subj	_	_
+5	hier	hier	A	ADV	_	8	adv	_	_
+6	im	in	P	APPRART	Dat	8	objp	_	_
+7	Grünen	Grüne	N	NN	_|Dat|_	6	pn	_	_
+8	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Frau	Frau	N	NN	Masc|_|_	8	vok	_	_
+11	Richter	Richter	N	NN	Masc|_|_	10	app	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	abgeschieden	abscheiden	V	VVPP	_	0	root	_	_
+3	und	und	K	KON	_	0	root	_	_
+4	frei	frei	A	ADJD	Pos|	3	cj	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	155	155
+2	Tante	Tante	N	NN	Fem|_|Sg	0	root	155	155
+3	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	4	objp	_	_
+2	Markt	Markt	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	drin	drin	A	ADV	_	2	adv	_	_
+4	könnt	können	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	0	root	720	720
+6	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+7	wohnen	wohnen	V	VVINF	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	es	es	P	PPER	3|Sg|Neut|Nom	10	subj	_	_
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+11	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	720	720
+12	zu	zu	P	PTKA	_	13	adv	_	_
+13	laut	laut	A	ADJD	Pos|	10	pred	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Immer	immer	A	ADV	_	2	adv	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	0	0
+5	was	was	P	PIS	_	2	obja	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	an	an	P	APPR	_	2	pp	_	_
+8	Sonntagen	Sonntag	N	NN	_|_|_	7	pn	721	721
+9	gar	gar	A	ADV	_	7	adv	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	wenn	wenn	K	KOUS	_	16	konj	_	_
+12	sie	sie	P	PPER	3|Pl|_|Nom	16	subj	721	721
+13	aus	aus	P	APPR	Dat	16	pp	_	_
+14	den	die	A	ART	Def|Neut|Dat|Pl	15	det	_	_
+15	Dörfern	Dorf	N	NN	Neut|Dat|Pl	13	pn	_	_
+16	hereinkommen	hereinkommen	V	VVFIN	3|Pl|Pres|_	2	neb	_	_
+17	zu	zu	P	APPR	Dat	16	pp	_	_
+18	uns	wir	P	PPER	1|Pl|_|Dat	17	pn	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wie	wie	P	PWAV	_	11	pred	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	720	720
+5	von	von	P	APPR	_	11	pp	_	_
+6	der	die	A	ART	Def|Fem|_|Sg	7	det	654	654
+7	Kirche	Kirche	N	NN	Fem|_|Sg	5	pn	654	654
+8	über	über	P	APPR	Acc	5	kon	_	_
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	_	_
+10	Platz	Platz	N	NN	Masc|Acc|Sg	8	pn	_	_
+11	gegangen	gehen	V	VVPP	_	12	aux	_	_
+12	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+15	die	die	A	ART	Def|_|Nom|Pl	16	det	86	86
+16	Leute	Leute	N	NN	_|Nom|Pl	14	subj	86	86
+17	wieder	wieder	A	ADV	_	14	adv	_	_
+18	zusammen	zusammen	P	PTKVZ	_	14	avz	_	_
+19	gestanden	gestehen	V	VVPP	_	14	aux	_	_
+20	und	und	K	KON	_	14	kon	_	_
+21	haben	haben	V	VAFIN	_|Pl|Pres|_	20	cj	_	_
+22	Neuigkeiten	Neuigkeit	N	NN	Fem|Dat|Pl	25	objd	_	_
+23	vom	von	P	APPRART	Dat	25	pp	_	_
+24	Krieg	Krieg	N	NN	Masc|Dat|Sg	23	pn	_	_
+25	erzählt	erzählen	V	VVPP	_	21	aux	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	103	103
+2	Arzt	Arzt	N	NN	Masc|Nom|Sg	0	root	103	103
+3	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	etwas	etwas	A	PIAT	_	4	det	_	_
+4	näheres	nah	A	ADJA	Neut|_|Sg	0	root	_	_
+5	gehört	gehören	V	VVPP	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Frau	Frau	N	NN	Masc|_|_	0	root	_	_
+8	Richter	Richter	N	NN	Masc|_|_	7	app	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	2	det	155	155
+2	Tante	Tante	N	NN	Fem|_|Sg	0	root	155	155
+3	.	.	$	$.	_	0	root	_	_
+
+1	Bei	bei	P	APPR	Dat	3	pp	_	_
+2	Haindorf	Haindorf	N	NN	Neut|Dat|Sg	1	pn	790	790
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_|Sg|_|Nom	3	subj	0	0
+6	was	was	P	PIS	_	7	obja	_	_
+7	gegeben	geben	V	VVPP	_	3	aux	_	_
+8	;	;	$	$.	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	viele	viele	A	PIDAT	_|_|Pl	11	det	_	_
+11	hundert	hundert	C	CARD	_|_|_	15	subj	_	_
+12	oder	oder	K	KON	_	11	kon	_	_
+13	gar	gar	A	ADV	_	14	adv	_	_
+14	tausend	tausend	C	CARD	_	12	cj	_	_
+15	sollen	sollen	V	VMFIN	_|Pl|Pres|_	9	cj	_	_
+16	gefallen	fallen	V	VVPP	_	17	aux	_	_
+17	sein	sein	V	VAINF	_	15	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+

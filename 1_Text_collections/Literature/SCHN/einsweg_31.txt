@@ -1,0 +1,461 @@
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	glaubst	glauben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	355	355
+4	:	\:	$	$.	_	0	root	_	_
+5	Wär	Wär	F	FM	_	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	das	die	P	PDS	Neut|_|Sg	0	root	_	_
+8	damals	damals	A	ADV	_	9	adv	_	_
+9	geschehen	geschehen	V	VVINF	_	0	root	_	_
+10	-	-	$	$(	_	0	root	_	_
+11	meinst	meinen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	11	subj	355	355
+13	,	,	$	$,	_	0	root	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	15	subj	984	984
+15	hätt	hätt	V	VVFIN	1|Sg|_|_	11	s	_	_
+16	'	'	$	$(	_	0	root	_	_
+17	so	so	A	ADV	_	18	adv	_	_
+18	was	was	P	PIS	_|Nom|Pl	20	subj	_	_
+19	anstellen	anstellen	V	VVINF	_	20	aux	_	_
+20	können	können	V	VMFIN	3|Pl|Pres|_	15	s	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	wenn	wenn	K	KOUS	_	0	root	_	_
+23	wir	wir	P	PPER	1|Pl|_|Nom	0	root	356	356
+24	-	-	$	$(	_	0	root	_	_
+25	ein	eine	A	ART	Indef|Neut|_|Sg	26	det	_	_
+26	Kind	Kind	N	NN	Neut|_|Sg	0	root	_	_
+27	.	.	$	$.	_	0	root	_	_
+
+1	wenn	wenn	K	KOUS	_	0	root	_	_
+2	wir	wir	P	PPER	1|Pl|_|Nom	0	root	356	356
+3	-	-	$	$(	_	0	root	_	_
+4	das	die	A	ART	Def|Neut|_|Sg	5	det	357	357
+5	Kind	Kind	N	NN	Neut|_|Sg	6	obja	357	357
+6	gehabt	haben	V	VAPP	_	7	aux	_	_
+7	hätten	haben	V	VAFIN	_|Pl|Past|Subj	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Frag	Frag	N	NE	_	0	root	358	358
+2	'	'	$	$(	_	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	0	root	359	359
+4	doch	doch	A	ADV	_	5	adv	_	_
+5	aufs	auf	P	APPRART	Acc	0	root	_	_
+6	Gewissen	Gewissen	N	NN	_|Acc|_	5	pn	360	360
+7	,	,	$	$,	_	0	root	360	360
+8	Julian	Julian	N	NE	Masc|Acc|Sg	6	app	360	360
+9	-	-	$	$(	_	0	root	_	_
+10	glaubst	glauben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+11	du	du	P	PPER	2|Sg|_|Nom	10	subj	359	359
+12	'	'	$	$(	_	0	root	_	_
+13	s	s	P	PPER	_	0	root	360	360
+14	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	0	root	984	984
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	cj	359	359
+6	auch	auch	A	ADV	_	5	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Alles	alle	P	PIS	Neut|Nom|Sg	2	subj	_	_
+2	wär	wär	V	VAFIN	_|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	anders	anders	A	ADV	_	5	pred	_	_
+5	gekommen	kommen	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Alles	alle	P	PIS	_|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	361	361
+2	wären	sein	V	VAFIN	1|Pl|Past|Subj	0	root	_	_
+3	zusammen	zusammen	A	ADV	_	4	adv	_	_
+4	geblieben	bleiben	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	7	subj	361	361
+7	hätten	haben	V	VAFIN	1|Pl|Past|Subj	2	kon	_	_
+8	noch	noch	A	ADV	_	12	adv	_	_
+9	ein	eine	A	ART	Indef|_|_|Sg	11	det	_	_
+10	paar	paar	A	PIDAT	Neut|_|Pl	11	attr	_	_
+11	Kinder	Kind	N	NN	Neut|_|Pl	12	obja	_	_
+12	gekriegt	kriegen	V	VVPP	_	7	aux	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	wir	wir	P	PPER	1|Pl|_|Nom	15	subj	361	361
+15	hätten	haben	V	VAFIN	1|Pl|Past|Subj	7	kon	_	_
+16	uns	wir	P	PPER	1|Pl|_|_	17	obja	_	_
+17	geheiratet	heiraten	V	VVPP	_	15	aux	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	wir	wir	P	PPER	1|Pl|_|Nom	20	subj	361	361
+20	möchten	mögen	V	VMFIN	1|Pl|Past|Subj	15	kon	_	_
+21	zusammen	zusammen	A	ADV	_	22	adv	_	_
+22	leben	leben	V	VVINF	_	20	aux	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	984	984
+2	wär	wär	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	ein	eine	A	ART	Indef|Neut|_|Sg	7	det	_	_
+6	altes	alt	A	ADJA	Pos|Neut|_|Sg|St|	7	attr	_	_
+7	Schloßfräulein	Schloßfräulein	N	NN	Neut|_|Sg	2	obja	_	_
+8	und	und	K	KON	_	2	kon	_	_
+9	du	du	P	PPER	2|Sg|_|Nom	10	subj	_	_
+10	wärst	sein	V	VAFIN	2|Sg|Past|Subj	8	cj	_	_
+11	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+12	-	-	$	$(	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	3	det	_	_
+2	alter	alt	A	ADJA	Pos|Masc|Nom|Sg|St|	3	attr	_	_
+3	Junggesell	Junggesell	N	NN	Masc|Nom|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Na	Na	I	ITJ	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wenn	wenn	K	KOUS	_	8	konj	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	8	subj	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_	8	obja	_	_
+7	selber	selber	A	ADV	_	6	adv	_	_
+8	sagst	sagen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	die	die	A	ART	Def|Fem|_|Sg	3	det	_	_
+3	Hauptsache	Hauptsache	N	NN	Fem|_|Sg	1	cj	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Wir	wir	P	PPER	1|Pl|_|Nom	6	subj	_	_
+6	hätten	haben	V	VAFIN	1|Pl|Past|Subj	0	root	_	_
+7	ein	eine	A	ART	Indef|Neut|_|Sg	8	det	_	_
+8	Kind	Kind	N	NN	Neut|_|Sg	6	obja	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	984	984
+2	hätt	hätt	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ein	eine	A	ART	Indef|Neut|_|Sg	5	det	_	_
+5	Kind	Kind	N	NN	Neut|_|Sg	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	335	335
+2	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|Nom|Sg	2	subj	129	129
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	im	in	P	APPRART	Dat	2	pp	_	_
+4	Zimmer	Zimmer	N	NN	Neut|Dat|Sg	3	pn	362	362
+5	auf-	auf-	T	TRUNC	_	0	root	_	_
+6	und	und	K	KON	_	0	root	_	_
+7	abgegangen	abgehen	V	VVPP	_	6	cj	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+4	alles	alle	P	PIS	Neut|Nom|Sg	3	app	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Irene	Iren	N	NN	Neut|Nom|Pl	4	app	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	sprichst	sprechen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	wieder	wieder	A	ADV	_	2	adv	_	_
+5	von	von	P	APPR	Dat	2	pp	_	_
+6	allen	alle	A	PIDAT	_|Dat|Pl	5	pn	_	_
+7	diesen	diese	A	PDAT	_|_|_	0	root	_	_
+8	vergessenen	vergessen	A	ADJA	Pos|_|_|_|_|	0	root	_	_
+9	-	-	$	$(	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vergessenen	Vergessene	N	NN	_|_|_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Vergangenen	vergangen	A	ADJA	Pos|Neut|Dat|_|_|	3	attr	_	_
+3	Dingen	Ding	N	NN	Neut|Dat|_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vergangen	vergehen	V	VVPP	_	2	aux	_	_
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	freilich	freilich	A	ADV	_	1	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	draußen	draußen	A	ADV	_	3	adv	_	_
+3	auf	auf	P	APPR	Dat	6	pp	_	_
+4	dem	die	A	ART	Def|Neut|Dat|Sg	5	det	112	112
+5	Land	Land	N	NN	Neut|Dat|Sg	3	pn	112	112
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+7	man	man	P	PIS	_|Nom|Sg	6	subj	_	_
+8	viel	viel	A	PIDAT	Fem|_|Sg	9	det	_	_
+9	Zeit	Zeit	N	NN	Fem|_|Sg	6	obja	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Alles	alle	P	PIS	_|_|Sg	0	root	_	_
+2	mögliche	möglich	A	ADJA	Pos|_|Nom|Sg|_|	3	subj	_	_
+3	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	einem	eine	A	ART	Indef|_|Dat|Sg	0	root	_	_
+5	durch	durch	P	APPR	Acc	0	root	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	143	143
+7	Kopf	Kopf	N	NN	Masc|Acc|Sg	5	pn	143	143
+8	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	gar	gar	A	ADV	_	18	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wenn	wenn	K	KOUS	_	8	konj	_	_
+5	man	man	P	PIS	_|Nom|Sg	8	subj	_	_
+6	andere	andere	A	ADJA	_|Neut|_|Pl|_	7	attr	_	_
+7	Kinder	Kind	N	NN	Neut|_|Pl	8	obja	_	_
+8	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	18	neb	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	die	die	A	ART	Def|_|_|_	11	det	363	363
+11	Lori	Lori	N	NN	Fem|Nom|Sg	12	subj	363	363
+12	hat	haben	V	VAFIN	3|Sg|Pres|Ind	8	par	_	_
+13	nämlich	nämlich	A	ADV	_	12	adv	_	_
+14	zwei	zwei	C	CARD	_	15	attr	_	_
+15	Buben	Bub	N	NN	Masc|_|Pl	12	obja	_	_
+16	-	-	$	$(	_	0	root	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	fällt	fallen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+19	einem	eine	A	ART	Indef|_|Dat|Sg	21	part	_	_
+20	so	so	A	ADV	_	21	adv	_	_
+21	manches	manche	P	PIS	Neut|Nom|Sg	18	subj	_	_
+22	ein	ein	P	PTKVZ	_	18	avz	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Neulich	neulich	A	ADV	_	2	adv	_	_
+2	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	363	363
+5	beinahe	beinahe	A	ADV	_	2	adv	_	_
+6	wie	wie	K	KOKOM	_	2	kom	_	_
+7	eine	eine	A	ART	Indef|Fem|_|Sg	8	det	_	_
+8	Vision	Vision	N	NN	Fem|_|Sg	6	cj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	364	364
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	übers	über	P	APPRART	Acc	5	pp	_	_
+4	Feld	Feld	N	NN	Neut|Acc|Sg	3	pn	729	729
+5	gegangen	gehen	V	VVPP	_	2	aux	_	_
+6	gegen	gegen	P	APPR	Acc	5	pp	_	_
+7	Abend	Abend	N	NN	Masc|Acc|Sg	6	pn	440	440
+8	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	tu	tun	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	364	364
+5	manchmal	manchmal	A	ADV	_	2	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ganz	ganz	A	ADV	_	8	adv	_	_
+8	allein	allein	A	ADV	_	5	kon	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Weit	weit	A	ADJD	Pos|	4	pred	_	_
+2	und	und	K	KON	_	1	kon	_	_
+3	breit	breit	A	ADJD	Pos|	2	cj	_	_
+4	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+5	niemand	niemand	P	PIS	_|Nom|Sg	4	subj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Unten	unten	A	ADV	_	3	adv	_	_
+2	das	die	A	ART	Def|Neut|Nom|Sg	3	det	_	_
+3	Dorf	Dorf	N	NN	Neut|Nom|Sg	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	auch	auch	A	ADV	_	8	adv	_	_
+6	ganz	ganz	A	ADV	_	7	adv	_	_
+7	still	still	A	ADJD	Pos|	8	adv	_	_
+8	dagelegen	daliegen	V	VVPP	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	3	koord	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	364	364
+3	spazier	spazier	V	VVFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	so	so	A	ADV	_	3	adv	_	_
+6	weiter	weiter	P	PTKVZ	_	3	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	immer	immer	A	ADV	_	9	adv	_	_
+9	weiter	weiter	A	ADV	_	10	adv	_	_
+10	gegen	gegen	P	APPR	Acc	0	root	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	179	179
+12	Wald	Wald	N	NN	Masc|Acc|Sg	10	pn	179	179
+13	zu	zu	P	PTKVZ	_	0	root	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	plötzlich	plötzlich	A	ADJD	Pos|	3	pred	_	_
+3	war	sein	V	VAFIN	1|Sg|Past|Ind	1	cj	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	364	364
+5	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+6	mehr	mehr	A	ADV	_	5	adv	_	_
+7	allein	allein	A	ADV	_	3	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	warst	sein	V	VAFIN	2|Sg|Past|Ind	0	root	_	_
+3	da	da	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	zwischen	zwischen	P	APPR	_	6	pp	_	_
+3	uns	wir	P	PPER	1|Pl|_|_	2	pn	365	365
+4	beiden	beide	P	PIS	_|_|Pl	3	app	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	_	_
+6	Kind	Kind	N	NN	Neut|_|Sg	1	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	8	obja	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	365	365
+4	so	so	A	ADV	_	8	adv	_	_
+5	an	an	P	APPR	Dat	8	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	184	184
+7	Hand	Hand	N	NN	Fem|Dat|Sg	5	pn	184	184
+8	geführt	führen	V	VVPP	_	2	aux	_	_
+9	-	-	$	$(	_	0	root	_	_
+10	unser	unsre	A	PPOSAT	Neut|_|Sg	12	det	365	365
+11	kleines	klein	A	ADJA	Pos|Neut|_|Sg|St|	12	attr	_	_
+12	Kind	Kind	N	NN	Neut|_|Sg	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Ärgerlich	ärgerlich	A	ADJD	Pos|	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	um	um	K	KOUI	_	6	konj	_	_
+4	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+5	zu	zu	P	PTKZU	_	6	part	_	_
+6	weinen	weinen	V	VVINF	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	zu	zu	P	PTKA	_	5	adv	_	_
+5	dumm	dumm	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	984	984
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	_	_
+6	Kind	Kind	N	NN	_|_|Sg	0	root	_	_
+7	wär	wär	F	FM	_|_|Sg	6	app	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	jetzt	jetzt	A	ADV	_	11	adv	_	_
+10	ein	eine	A	ART	Indef|_|_|Sg	11	det	_	_
+11	Bengel	Bengel	N	NN	_|_|Sg	7	app	_	_
+12	von	von	P	APPR	Dat	11	pp	_	_
+13	dreiundzwanzig	dreiundzwanzig	C	CARD	_	14	attr	_	_
+14	Jahren	Jahr	N	NN	Neut|Dat|Pl	12	pn	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	wär	wär	F	FM	Neut|Dat|Pl	14	app	_	_
+17	'	'	$	$(	_	0	root	_	_
+18	vielleicht	vielleicht	A	ADV	_	11	adv	_	_
+19	ein	eine	A	ART	Indef|Masc|Nom|Sg	20	det	366	366
+20	Lump	Lump	N	NN	Masc|Nom|Sg	0	root	366	366
+21	oder	oder	K	KON	_	20	kon	366	366
+22	ein	eine	A	ART	Indef|Neut|Nom|Sg	24	det	366	366
+23	schlechtes	schlecht	A	ADJA	Pos|Neut|Nom|Sg|St|	24	attr	366	366
+24	Mädel	Mädel	N	NN	Neut|Nom|Sg	21	cj	366	366
+25	.	.	$	$.	_	0	root	_	_
+
+1	Oder	oder	K	KON	_	0	root	_	_
+2	wär	wär	F	FM	_	1	cj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	vielleicht	vielleicht	A	ADV	_	6	adv	_	_
+5	schon	schon	A	ADV	_	6	adv	_	_
+6	tot	tot	A	ADJD	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Oder	oder	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|_	1	cj	_	_
+3	wär	wär	F	FM	_|Nom|Pl	12	subj	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	irgendwo	irgendwo	A	ADV	_	6	adv	_	_
+6	draußen	draußen	A	ADV	_	7	adv	_	_
+7	in	in	P	APPR	Dat	3	pp	_	_
+8	der	die	A	ART	Def|Fem|Dat|Sg	9	det	34	34
+9	Welt	Welt	N	NN	Fem|Dat|Sg	7	pn	34	34
+10	und	und	K	KON	_	3	kon	_	_
+11	wir	wir	P	PPER	1|Pl|_|Nom	10	cj	_	_
+12	hätten	haben	V	VAFIN	3|Pl|Past|Subj	0	root	_	_
+13	gar	gar	A	ADV	_	14	adv	_	_
+14	nichts	nichts	P	PIS	_	12	obja	_	_
+15	mehr	mehr	A	ADV	_	14	adv	_	_
+16	von	von	P	APPR	Dat	12	pp	_	_
+17	ihm	er	P	PPER	3|Sg|_|Dat	16	pn	366	366
+18	.	.	$	$.	_	0	root	_	_
+
+1	ja	ja	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	ja	ja	A	ADV	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	einmal	einmal	A	ADV	_	4	adv	_	_
+4	hätten	haben	V	VAFIN	1|Pl|Past|Subj	2	cj	_	_
+5	wir	wir	P	PPER	1|Pl|_|Nom	4	subj	367	367
+6	es	es	P	PPER	3|Sg|Neut|_	8	obja	_	_
+7	doch	doch	A	ADV	_	8	adv	_	_
+8	gehabt	haben	V	VAPP	_	4	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	einmal	einmal	A	ADV	_	11	adv	_	_
+11	war	sein	V	VAFIN	_|Sg|Past|Ind	4	kon	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	s	s	P	PPER	_|Sg|_|Nom	11	subj	_	_
+14	doch	doch	A	ADV	_	18	adv	_	_
+15	ein	eine	A	ART	Indef|Neut|Nom|Sg	17	det	_	_
+16	kleines	klein	A	ADJA	Pos|Neut|Nom|Sg|St|	17	attr	_	_
+17	Kind	Kind	N	NN	Neut|Nom|Sg	18	pred	_	_
+18	gewesen	sein	V	VAPP	_	11	aux	_	_
+19	und	und	K	KON	_	11	kon	_	_
+20	hätt	hätt	V	VVFIN	_	19	cj	_	_
+21	'	'	$	$(	_	0	root	_	_
+22	uns	wir	P	PPER	1|Pl|_|_	20	obja	367	367
+23	gern	gern	A	ADV	_	20	adv	_	_
+24	gehabt	haben	V	VAPP	_	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	_	_
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	weiter	weiter	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Stille	Stille	N	NN	_|_|_	0	root	694	694
+2	.	.	$	$.	_	0	root	_	_
+

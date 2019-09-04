@@ -1,0 +1,305 @@
+1	So	so	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mein	meine	A	PPOSAT	_|Nom|Sg	2	det	_	_
+2	Aug	Aug	N	NN	_|Nom|Sg	3	subj	_	_
+3	verschleiert	verschleiern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	sagtest	sagen	V	VVFIN	2|Sg|Past|_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	235	235
+4	,	,	$	$,	_	0	root	235	235
+5	Vetter	Vetter	N	NE	_|Nom|Sg	3	app	235	235
+6	Martin	Martin	N	NE	_|Nom|Sg	5	app	235	235
+7	?	?	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	die	die	A	ART	Def|Masc|_|Pl	2	det	_	_
+2	Schatten	Schatten	N	NN	Masc|_|Pl	0	root	_	_
+3	des	die	A	ART	Def|Masc|Gen|Sg	4	det	26	26
+4	Todes	Tod	N	NN	Masc|Gen|Sg	2	gmod	26	26
+5	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	ihr	ihre	A	PPOSAT	Masc|Nom|Sg	4	det	_	_
+4	Name	Name	N	NN	Masc|Nom|Sg	2	subj	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Eleonora	Eleonora	N	NE	_	0	root	326	326
+2	Lambriani	Lambriani	N	NE	_	1	app	326	326
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	424	424
+4	Mühe	Mühe	N	NN	Fem|Dat|Sg	2	objd	424	424
+5	wert	wert	A	ADJD	Pos|	2	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	sich	sie	P	PRF	3|_|_	12	obja	_	_
+8	noch	noch	A	ADV	_	12	adv	_	_
+9	einen	eine	A	ART	Indef|Masc|Acc|Sg	10	det	_	_
+10	Tag	Tag	N	NN	Masc|Acc|Sg	12	zeit	_	_
+11	Urlaub	Urlaub	N	NN	_|Acc|Sg	10	app	_	_
+12	nehmen	nehmen	V	VVINF	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Eleonora	Eleonora	N	NE	_	0	root	326	326
+2	Lambriani	Lambriani	N	NE	_	1	app	326	326
+3	-	-	$	$(	_	0	root	_	_
+4	was	was	P	PWS	Neut|Nom|Sg	5	pred	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Mädchen	Mädchen	N	NN	Neut|_|Sg	0	root	_	_
+3	von	von	P	APPR	Dat	2	pp	_	_
+4	Athen	Athen	N	NE	Neut|Dat|Sg	3	pn	453	453
+5	!	!	$	$.	_	0	root	_	_
+
+1	so	so	A	ADV	_	2	adv	_	_
+2	hieß	heißen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	326	326
+4	!	!	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Elende	Elende	N	NN	_|_|_	0	root	454	454
+4	,	,	$	$,	_	0	root	454	454
+5	Elende	Elende	N	NN	_|_|_	3	app	454	454
+6	!	!	$	$.	_	0	root	_	_
+
+1	daß	daß	K	KOUS	_	6	konj	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	6	subj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	6	obja	454	454
+5	nur	nur	A	ADV	_	6	adv	_	_
+6	weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Eleonora	Eleonora	N	NE	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	hier	hier	A	ADV	_	3	adv	455	455
+2	die	die	A	ART	Def|Fem|_|Sg	3	det	455	455
+3	Blume	Blume	N	NN	Fem|_|Sg	0	root	455	455
+4	.	.	$	$.	_	0	root	_	_
+
+1	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	235	235
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	sie	sie	P	PPER	3|_|_|_	5	obja	455	455
+5	aufbewahrt	aufbewahren	V	VVPP	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dieselbe	dieselbe	P	PDS	Fem|Nom|Sg	2	subj	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	nimm	nehmen	V	VVIMP	Sg	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	0	root	250	250
+4	,	,	$	$,	_	0	root	250	250
+5	Vetter	Vetter	N	NE	_|_|_	3	app	250	250
+6	Cassian	Cassian	N	NE	_|_|_	5	app	250	250
+7	.	.	$	$.	_	0	root	_	_
+
+1	bring	bringen	V	VVIMP	Sg	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	1	obja	456	456
+4	ihr	ihr	P	PPER	3|Sg|Fem|Dat	1	objd	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	235	235
+2	lasse	lassen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	456	456
+4	grüßen	grüßen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Beim	bei	P	APPRART	Dat	0	root	_	_
+2	Himmel	Himmel	N	NN	Masc|Dat|Sg	1	pn	457	457
+3	,	,	$	$,	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	458	458
+5	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|_	5	obja	_	_
+7	ihr	ihr	P	PPER	_|_|_|_	0	root	2	2
+8	bestellen	bestellen	V	VVINF	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	mancherlei	mancherlei	P	PIS	_	9	cj	_	_
+11	dazu	dazu	P	PROAV	_	10	pp	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	was	was	P	PWS	Neut|Nom|Sg	19	subj	_	_
+14	ihr	ihr	P	PPER	2|Pl|_|Nom	18	pred	_	_
+15	noch	noch	A	ADV	_	16	adv	_	_
+16	mehr	mehr	A	PIAT	Masc|_|Sg	17	det	_	_
+17	Spaß	Spaß	N	NN	Masc|_|Sg	18	obja	_	_
+18	machen	machen	V	VVINF	_	19	aux	_	_
+19	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	10	rel	_	_
+20	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	_	_
+4	verlassen	verlassen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	458	458
+6	um	um	P	APPR	_	4	pp	_	_
+7	Eleonora	Eleonora	N	NE	_|_|_	6	pn	326	326
+8	Lambriani	Lambriani	N	NE	_|_|_	7	app	326	326
+9	?	?	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	458	458
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	5	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	leugnen	leugnen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	erst	erst	A	ADV	_	4	adv	_	_
+3	morgen	morgen	A	ADV	_	4	adv	_	_
+4	früh	früh	A	ADJD	Pos|	1	cj	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	.	.	$	$.	_	0	root	_	_
+
+1	Weh	wehen	V	VVIMP	Sg	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	235	235
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	459	459
+2	eilt	eilen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zum	zu	P	APPRART	Dat	2	objp	_	_
+4	Fenster	Fenster	N	NN	Neut|Dat|Sg	3	pn	33	33
+5	und	und	K	KON	_	2	kon	_	_
+6	stürzt	stürzen	V	VVFIN	_|_|Pres|Ind	5	cj	_	_
+7	sich	sie	P	PRF	3|_|_	6	obja	_	_
+8	hinunter	hinunter	P	PTKVZ	_	6	avz	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|Nom|Sg	2	subj	235	235
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ihr	ihr	P	PPER	3|Sg|Fem|Dat	2	objd	459	459
+4	nach	nach	P	PTKVZ	_	2	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	sinkt	sinken	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+7	nieder	nieder	P	PTKVZ	_	6	avz	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sophie	Sophie	N	NE	Fem|_|Sg	0	root	236	236
+2	!	!	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	2	obja	250	250
+2	stürzt	stürzen	V	VVFIN	2|Pl|Pres|Ind	0	root	_	_
+3	ihr	ihr	P	PPER	2|Pl|_|Nom	2	subj	_	_
+4	nach	nach	P	PTKVZ	_	2	avz	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	zum	zu	P	APPRART	Dat	0	root	_	_
+7	Fenster	Fenster	N	NN	Neut|Dat|Sg	6	pn	33	33
+8	hinunter	hinunter	P	PTKVZ	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Martin	Martin	N	NE	_|_|Sg	0	root	235	235
+2	zum	zu	P	APPRART	Dat	1	pp	235	235
+3	Diener	Diener	N	NN	Masc|Dat|Sg	2	pn	235	235
+4	.	.	$	$.	_	0	root	445)	445)
+
+1	Wehe	wehe	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	wehe	wehen	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	445	445
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	5	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	rühren	rühren	V	VVINF	_	2	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Seh	Seh	N	NE	_	0	root	460	460
+2	'	'	$	$(	_	0	root	_	_
+3	Er	er	P	PPER	3|Sg|Masc|Nom	0	root	460	460
+4	nach	nach	P	PTKVZ	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Diener	Diener	N	NN	Masc|_|_	0	root	465	465
+2	zum	zu	P	APPRART	Dat	1	pp	465	465
+3	Fenster	Fenster	N	NN	Neut|Dat|Sg	2	pn	33	33
+4	.	.	$	$.	_	0	root	_	_
+
+1	Höchst	höchst	A	ADV	_	2	adv	_	_
+2	Wundersames	Wundersames	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	5	obja	_	_
+5	ereignet	ereignen	V	VVPP	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+2	springende	springend	A	ADJA	Pos|Masc|Nom|Sg|Wk|<PPRES	3	attr	_	_
+3	Herr	Herr	N	NN	Masc|Nom|Sg	4	subj	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	7	det	_	_
+6	springende	springend	A	ADJA	Pos|Neut|_|Sg|Wk|<PPRES	7	attr	_	_
+7	Fräulein	Fräulein	N	NN	Neut|_|Sg	11	obja	_	_
+8	in	in	P	APPR	Dat	11	pp	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	_	_
+10	Luft	Luft	N	NN	Fem|Dat|Sg	8	pn	_	_
+11	aufgefangen	auffangen	V	VVPP	_	4	aux	_	_
+12	und	und	K	KON	_	4	kon	_	_
+13	beide	beide	P	PIS	_|Nom|Pl	14	subj	_	_
+14	sind	sein	V	VAFIN	3|Pl|Pres|Ind	12	cj	_	_
+15	wohlbehalten	wohlbehalten	A	ADJD	Pos|	17	adv	_	_
+16	unten	unten	A	ADV	_	17	adv	_	_
+17	angelangt	anlangen	V	VVPP	_	14	aux	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Cassian	Cassian	N	NE	_	0	root	250	250
+2	von	von	P	APPR	_	1	pp	250	250
+3	unten	unten	A	ADV	_	4	adv	250	250
+4	brüllend	brüllen	A	ADJD	_|<PPRES	2	pn	250	250
+5	.	.	$	$.	_	0	root	_	_
+
+1	He	He	N	NE	_	0	root	487	487
+2	!	!	$	$.	_	0	root	_	_
+
+1	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_|Sg|_|Nom	1	subj	2	2
+4	bald	bald	A	ADV	_	1	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+

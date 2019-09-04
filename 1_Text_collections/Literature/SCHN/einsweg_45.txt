@@ -1,0 +1,289 @@
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	293	293
+2	wollen	wollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+4	wiederkommen	wiederkommen	V	VVINF	_	2	aux	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	warum	warum	P	PWAV	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	1	1
+2	versichere	versichern	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|_|_|_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	1	1
+2	verstehe	verstehen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	3	obja	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	verlegen	verlegen	V	VVINF	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	hier	hier	A	ADV	_	2	adv	_	_
+5	zu	zu	P	PTKZU	_	6	part	_	_
+6	verstehen	verstehen	V	VVINF	_	2	obji	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Lieber	lieb	A	ADJA	Pos|Masc|Nom|Sg|St|	2	attr	_	_
+2	Doktor	Doktor	N	NN	Masc|Nom|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	1	1
+4	.	.	$	$.	_	0	root	_	_
+
+1	warum	warum	P	PWAV	_	8	adv	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	9	subj	_	_
+3	in	in	P	APPR	Acc	8	objp	_	_
+4	dieses	diese	A	PDAT	Neut|Acc|Sg	5	det	21	21
+5	Haus	Haus	N	NN	Neut|Acc|Sg	3	pn	21	21
+6	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+7	mehr	mehr	A	ADV	_	6	adv	_	_
+8	kommen	kommen	V	VVINF	_	9	aux	_	_
+9	wollen	wollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	10	expl	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|Dat	10	objd	_	_
+4	wieder	wieder	A	ADV	_	10	adv	_	_
+5	einmal	einmal	A	ADV	_	7	adv	_	_
+6	ein	eine	A	ART	Indef|_|_|Sg	7	det	_	_
+7	anderer	anderer	A	ADJA	_|_|Sg	2	subj	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	9	det	549	549
+9	Hals	Hals	N	NN	Masc|Acc|Sg	10	obja	549	549
+10	gebrochen	brechen	V	VVPP	_	2	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Lieber	lieb	A	ADJA	Pos|Masc|Nom|Sg|St|	2	attr	_	_
+2	Freund	Freund	N	NN	Masc|Nom|Sg	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	63	63
+3	wohl	wohl	A	ADV	_	1	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wenn	wenn	K	KOUS	_	6	konj	_	_
+3	man	man	P	PIS	_|Nom|Sg	6	subj	_	_
+4	Sie	sie	P	PPER	3|_|_|_	5	obja	_	_
+5	zurückrufen	zurückrufen	V	VVINF	_	6	aux	_	_
+6	sollte	sollen	V	VMFIN	3|Sg|Past|_	1	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	5	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	tun	tun	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	4	konj	_	_
+2	man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	1	1
+4	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	werd	werd	F	FM	_	11	obja	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	11	pred	_	_
+9	immer	immer	A	ADV	_	8	adv	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	finden	finden	V	VVINF	_	4	obji	_	_
+12	sein	sein	V	VAINF	_	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|Nom|Sg	2	subj	2	2
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ins	in	P	APPRART	Acc	2	objp	_	_
+4	Zimmer	Zimmer	N	NN	Neut|Acc|_	3	pn	697	697
+5	.	.	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	_	0	root	404	404
+2	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	Neut|_|_	0	root	38	38
+2	Fräulein	Fräulein	N	NN	Neut|_|_	1	app	38	38
+3	Johanna	Johanna	N	NE	Fem|_|Sg	2	app	38	38
+4	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	schon	schon	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|_|Sg	2	vok	_	_
+6	Doktor	Doktor	N	NN	Masc|_|Sg	5	app	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Empfehlen	empfehlen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	550	550
+3	mich	ich	P	PPER	1|Sg|_|Acc	1	obja	1	1
+4	Ihrem	ihre	A	PPOSAT	Masc|Dat|Sg	5	det	550	550
+5	Herrn	Herrn	N	NN	Masc|Dat|Sg	1	objd	_	_
+6	Vater	Vater	N	NN	Masc|Dat|Sg	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	_	0	root	404	404
+2	.	.	$	$.	_	0	root	_	_
+
+1	Reicht	reichen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	ihr	ihr	P	PPER	3|Sg|Fem|Dat	1	objd	_	_
+3	die	die	A	ART	Def|Fem|Nom|Sg	4	det	184	184
+4	Hand	Hand	N	NN	Fem|Nom|Sg	1	subj	184	184
+5	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	38	38
+2	,	,	$	$,	_	0	root	38	38
+3	Felix	Felix	N	NE	Masc|_|Sg	1	app	38	38
+4	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	ruhig	ruhig	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	1	subj	1	1
+3	dir	du	P	PPER	2|Sg|_|Dat	4	objd	_	_
+4	gesagt	sagen	V	VVPP	_	1	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	9	konj	_	_
+7	Sala	Sala	N	NE	_|Nom|Sg	9	subj	26	26
+8	verloren	verlieren	V	VVPP	_	9	aux	_	_
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	objc	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|Nom|Sg	2	subj	3	3
+2	zögert	zögern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	3	3
+2	wußt	wußt	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	3	adv	_	_
+2	Felix	Felix	N	NE	Masc|Nom|Sg	4	subj	3	3
+3	reden	reden	V	VVINF	_	4	aux	_	_
+4	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	sie	sie	P	PPER	3|Sg|Fem|Nom	6	subj	2	2
+8	eine	eine	A	ART	Indef|Fem|_|Sg	11	det	_	_
+9	seltsam	seltsam	A	ADJD	Pos|	10	adv	_	_
+10	abwehrende	abwehrend	A	ADJA	Pos|Fem|_|Sg|_|<PPRES	11	attr	_	_
+11	Bewegung	Bewegung	N	NN	Fem|_|Sg	6	obja	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	gehst	gehen	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	mit	mit	P	APPR	Dat	3	pp	_	_
+6	ihm	er	P	PPER	3|Sg|_|Dat	5	pn	3	3
+7	oder	oder	K	KON	_	5	kon	_	_
+8	ohne	ohne	P	APPR	Acc	7	cj	_	_
+9	ihn	er	P	PPER	3|Sg|Masc|Acc	8	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	335	335
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	jetzt	jetzt	A	ADV	_	7	adv	_	_
+4	hier	hier	A	ADV	_	7	adv	_	_
+5	recht	recht	A	ADJD	Pos|	6	adv	_	_
+6	still	still	A	ADJD	Pos|	7	pred	_	_
+7	werden	werden	V	VAINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	unbeweglich	unbeweglich	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wie	wie	P	PWAV	_	3	adv	_	_
+3	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	1	cj	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	leben	leben	V	VVINF	_	3	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Johanna	Johanna	N	NN	Fem|_|Sg	3	vok	2	2
+8	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	3	3
+2	meine	meinen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	5	adv	_	_
+5	werdet	werden	V	VAFIN	2|Pl|Pres|_	2	objc	_	_
+6	ihr	ihr	P	PPER	2|Pl|_|Nom	5	subj	_	_
+7	beide	beide	P	PIS	_|Nom|Pl	6	app	_	_
+8	leben	leben	V	VVINF	_	5	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	du	du	P	PPER	2|Sg|_|Nom	0	root	_	_
+11	und	und	K	KON	_	10	kon	_	_
+12	der	die	A	ART	Def|Masc|Nom|Sg	13	det	22	22
+13	Vater	Vater	N	NN	Masc|Nom|Sg	11	cj	22	22
+14	?	?	$	$.	_	0	root	_	_
+

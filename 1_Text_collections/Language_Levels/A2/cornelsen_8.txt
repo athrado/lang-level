@@ -1,0 +1,58 @@
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+3	vielleicht	vielleicht	ADV	ADV	_	2	adv	_	-
+4	vor	vor	PREP	APPR	Dat	2	pp	_	-
+5	einem	eine	ART	ART	Indef|Neut|Dat|Sg	7	det	_	-
+6	halben	halb	ADJA	ADJA	Pos|Neut|Dat|Sg|Wk|	7	attr	_	-
+7	Jahr	Jahr	N	NN	Neut|Dat|Sg	4	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|_|Sg	4	det	_	-
+4	Anzeige	Anzeige	N	NN	Fem|_|Sg	8	obja	_	-
+5	in	in	PREP	APPR	Dat	8	pp	_	-
+6	einer	eine	ART	ART	Indef|Fem|Dat|Sg	7	det	_	-
+7	Zeitschrift	Zeitschrift	N	NN	Fem|Dat|Sg	5	pn	_	-
+8	gesehen	sehen	V	VVPP	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Danach	Danach	PROAV	PROAV	_	2	pp	_	-
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	beim	bei	PREP	APPRART	Dat	15	pp	_	-
+5	Surfen	Surfen	N	NN	Neut|Dat|Sg	4	pn	_	-
+6	im	in	PREP	APPRART	Dat	15	pp	_	-
+7	Internet	Internet	N	NN	Neut|Dat|Sg	6	pn	_	-
+8	immer	immer	ADV	ADV	_	9	adv	_	-
+9	wieder	wieder	ADV	ADV	_	15	adv	_	-
+10	Werbung	Werbung	N	NN	Fem|_|Sg	15	obja	_	-
+11	für	für	PREP	APPR	Acc	10	pp	_	-
+12	Online-Bestell-Services	Online-Bestell-Service	N	NN	_|Acc|Pl	11	pn	_	-
+13	für	für	PREP	APPR	Acc	12	pp	_	-
+14	Lebensmittel	Lebensmittel	N	NN	_|Acc|_	13	pn	_	-
+15	gesehen	sehen	V	VVPP	_	2	aux	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	gedacht	denken	V	VVPP	_	2	aux	_	-
+4	:	\:	$.	$.	_	0	root	_	-
+5	Das	die	PRO	PDS	Neut|Nom|Sg	6	subj	_	-
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+7	doch	doch	ADV	ADV	_	6	adv	_	-
+8	prima	prima	ADV	ADJD	Pos|	6	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	spare	sparen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Zeit	Zeit	N	NN	Fem|_|Sg	2	obja	_	-
+4	und	und	KON	KON	_	2	kon	_	-
+5	muss	müssen	V	VMFIN	_|Sg|Pres|Ind	4	cj	_	-
+6	die	die	ART	ART	Def|_|_|_	7	det	_	-
+7	Lebensmittel	Lebensmittel	N	NN	_|_|_	10	obja	_	-
+8	nicht	nicht	PTKNEG	PTKNEG	_	10	adv	_	-
+9	selbst	selbst	ADV	ADV	_	10	adv	_	-
+10	tragen	tragen	V	VVINF	_	5	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

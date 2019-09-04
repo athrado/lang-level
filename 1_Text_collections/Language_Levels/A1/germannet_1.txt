@@ -1,0 +1,131 @@
+1	Zu	zu	PREP	APPR	Dat	4	objp	_	-
+2	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	3	det	_	(0)
+3	Familie	Familie	N	NN	Fem|Dat|Sg	1	pn	_	-
+4	gehören	gehören	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	vier	vier	CARD	CARD	_	6	attr	_	-
+6	Personen	Person	N	NN	Fem|Nom|Pl	4	subj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|_|_|_	0	root	_	-
+2	Mutter	Mutter	N	NN	Fem|Dat|Sg	3	objd	_	-
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	und	und	KON	KON	_	0	root	_	-
+6	dann	dann	ADV	ADV	_	5	cj	_	-
+7	gehört	gehören	V	VVPP	_	0	root	_	-
+8	natürlich	natürlich	ADV	ADJD	Pos|	10	adv	_	-
+9	mein	meine	ART	PPOSAT	Masc|Nom|Sg	10	det	_	(0)
+10	Mann	Mann	N	NN	Masc|Nom|Sg	0	root	_	-
+11	dazu	dazu	PROAV	PROAV	_	10	pp	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	zwei	zwei	CARD	CARD	_	4	attr	_	(2
+4	Kinder	Kind	N	NN	Neut|Acc|Pl	2	obja	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	einen	eine	ART	ART	Indef|Masc|Acc|Sg	7	det	_	-
+7	Sohn	Sohn	N	NN	Masc|Acc|Sg	4	app	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	der	die	PRO	PRELS	Masc|Nom|Sg	13	subj	_	-
+10	sechs	sechs	CARD	CARD	_	11	attr	_	-
+11	Jahre	Jahr	N	NN	Neut|_|Pl	12	grad	_	-
+12	alt	alt	ADV	ADJD	Pos|	13	pred	_	-
+13	ist	sein	V	VAFIN	3|Sg|Pres|Ind	7	rel	_	2)
+14	und	und	KON	KON	_	0	root	_	-
+15	eine	eine	ART	ART	Indef|Fem|_|Sg	17	det	_	-
+16	dreijährige	dreijährig	ADJA	ADJA	Pos|Fem|_|Sg|_|	17	attr	_	-
+17	Tochter	Tochter	N	NN	Fem|_|Sg	14	cj	_	-
+18	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	(1)
+2	wohnen	wohnen	V	VVFIN	1|Pl|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	Dat	2	objp	_	-
+4	einem	eine	ART	ART	Indef|Neut|Dat|Sg	6	det	_	-
+5	kleinen	klein	ADJA	ADJA	Pos|Neut|Dat|Sg|Wk|	6	attr	_	-
+6	Haus	Haus	N	NN	Neut|Dat|Sg	3	pn	_	-
+7	mit	mit	PREP	APPR	Dat	6	pp	_	-
+8	einem	eine	ART	ART	Indef|Masc|Dat|Sg	9	det	_	-
+9	Garten	Garten	N	NN	Masc|Dat|Sg	7	pn	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Dort	dort	ADV	ADV	_	2	adv	_	-
+2	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+3	die	die	ART	ART	Def|Neut|Nom|Pl	4	det	_	(2
+4	Kinder	Kind	N	NN	Neut|Nom|Pl	2	subj	_	2)
+5	ein	eine	ART	ART	Indef|_|_|Sg	0	root	_	-
+6	bisschen	bisschen	ADV	ADV	_	0	root	_	-
+7	spielen	spielen	V	VVINF	_	0	root	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Unser	unsre	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(1)
+2	Sohn	Sohn	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	bald	bald	ADV	ADV	_	3	adv	_	-
+5	in	in	PREP	APPR	Acc	3	objp	_	-
+6	die	die	ART	ART	Def|Fem|Acc|Sg	7	det	_	-
+7	Schule	Schule	N	NN	Fem|Acc|Sg	5	pn	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	unsere	unsre	ART	PPOSAT	Fem|Nom|Sg	10	det	_	(1)
+10	Tochter	Tochter	N	NN	Fem|Nom|Sg	11	subj	_	-
+11	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	3	kon	_	-
+12	noch	noch	ADV	ADV	_	11	adv	_	-
+13	eine	eine	ART	ART	Indef|Fem|Acc|Sg	14	det	_	-
+14	Zeit	Zeit	N	NN	Fem|Acc|Sg	15	pn	_	-
+15	lang	lang	PREP	APPO	Acc	11	pp	_	-
+16	in	in	PREP	APPR	_	11	pp	_	-
+17	den	die	ART	ART	Def|_|_|_	18	det	_	-
+18	Kindergarten	Kindergarten	N	NN	_|_|_	16	pn	_	-
+19	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Neut|Nom|Pl	2	det	_	(3)
+2	Kinder	Kind	N	NN	Neut|Nom|Pl	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	am	an	PREP	APPRART	Dat	3	pp	_	-
+5	Nachmittag	Nachmittag	N	NN	_|Dat|Sg	4	pn	_	-
+6	zu	zu	PREP	APPR	Dat	3	pp	_	-
+7	Hause	Haus	N	NN	Neut|Dat|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	So	so	ADV	ADV	_	2	adv	_	-
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(3)
+4	nur	nur	ADV	ADV	_	2	adv	_	-
+5	halbtags	halbtags	ADV	ADV	_	2	adv	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Eigentlich	eigentlich	ADV	ADV	_	2	adv	_	-
+2	gehören	gehören	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	zu	zu	PREP	APPR	Dat	2	pp	_	-
+4	unserer	unsre	ART	PPOSAT	Fem|Dat|Sg	5	det	_	(1)
+5	Familie	Familie	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	auch	auch	ADV	ADV	_	2	adv	_	-
+7	noch	noch	ADV	ADV	_	2	adv	_	-
+8	die	die	ART	ART	Def|_|Nom|Pl	9	det	_	(4
+9	Großeltern	Großeltern	N	NN	_|Nom|Pl	2	subj	_	4)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(4)
+2	wohnen	wohnen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+4	bei	bei	PREP	APPR	Dat	2	objp	_	-
+5	uns	wir	PRO	PPER	1|Pl|_|Dat	4	pn	_	(1)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(4)
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+3	ein	eine	ART	ART	Indef|Neut|_|Sg	4	det	_	-
+4	Haus	Haus	N	NN	Neut|_|Sg	2	obja	_	-
+5	in	in	PREP	APPR	Dat	2	pp	_	-
+6	der	die	ART	ART	Def|Fem|Dat|Sg	7	det	_	-
+7	Nähe	Nähe	N	NN	Fem|Dat|Sg	5	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|_|Pl	2	det	_	(2
+2	Kinder	Kind	N	NN	Neut|_|Pl	0	root	_	2)
+3	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	sie	sie	PRO	PPER	3|Pl|_|Nom	3	subj	_	(4)
+5	oft	oft	ADV	ADV	_	3	adv	_	-
+6	besuchen	besuchen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+7	.	.	$.	$.	_	0	root	_	-
+

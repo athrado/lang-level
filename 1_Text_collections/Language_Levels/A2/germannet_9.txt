@@ -1,0 +1,155 @@
+1	Hartmut	Hartmut	N	NE	Masc|Nom|Sg	2	subj	_	(0)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	im	in	PREP	APPRART	Dat	7	pp	_	-
+4	Februar	Februar	N	NN	Masc|Dat|Sg	3	pn	_	-
+5	eine	eine	ART	ART	Indef|Fem|_|Sg	6	det	_	-
+6	Reise	Reis	N	NN	Fem|_|Sg	7	obja	_	-
+7	gemacht	machen	V	VVPP	_	2	aux	_	-
+8	:	\:	$.	$.	_	0	root	_	-
+9	Er	er	PRO	PPER	3|Sg|Masc|Nom	10	subj	_	(0)
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+11	in	in	PREP	APPR	Acc	14	pp	_	-
+12	die	die	ART	ART	Def|_|Acc|Pl	13	det	_	-
+13	Alpen	Alp	N	NN	_|Acc|Pl	11	pn	_	-
+14	gefahren	fahren	V	VVPP	_	10	aux	_	-
+15	,	,	$,	$,	_	0	root	_	-
+16	in	in	PREP	APPR	Acc	14	pp	_	-
+17	ein	eine	ART	ART	Indef|Neut|Acc|Sg	19	det	_	-
+18	kleines	klein	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	19	attr	_	-
+19	Dorf	Dorf	N	NN	Neut|Acc|Sg	16	pn	_	-
+20	in	in	PREP	APPR	_	19	pp	_	-
+21	Österreich	Österreich	N	NE	Neut|_|Sg	20	pn	_	-
+22	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	in	in	PREP	APPR	Dat	2	pp	_	-
+4	einem	eine	ART	ART	Indef|Neut|Dat|Sg	6	det	_	-
+5	hübschen	hübsch	ADJA	ADJA	Pos|Neut|Dat|Sg|Wk|	6	attr	_	-
+6	Hotel	Hotel	N	NN	Neut|Dat|Sg	3	pn	_	-
+7	ein	eine	ART	ART	Indef|Neut|_|Sg	8	det	_	-
+8	Einzelzimmer	Einzelzimmer	N	NN	Neut|_|Sg	2	obja	_	-
+9	bekommen	bekommen	V	VVINF	_	0	root	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	2	det	_	-
+2	Essen	Esse	N	NN	Neut|Nom|Sg	5	subj	_	-
+3	im	in	PREP	APPRART	Dat	2	pp	_	-
+4	Hotel	Hotel	N	NN	Neut|Dat|Sg	3	pn	_	-
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	ihm	er	PRO	PPER	3|Sg|_|Dat	9	objd	_	(0)
+7	sehr	sehr	ADV	ADV	_	8	adv	_	-
+8	gut	gut	ADV	ADJD	Pos|	9	adv	_	-
+9	geschmeckt	schmecken	V	VVPP	_	5	aux	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Jeden	jede	ART	PIDAT	_|Dat|Sg	2	det	_	-
+2	Morgen	Morgen	N	NN	_|Dat|Sg	7	objd	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Hartmut	Hartmut	N	NE	Masc|Nom|Sg	3	subj	_	(0)
+5	zum	zu	PREP	APPRART	Dat	7	objp	_	-
+6	Skikurs	Skikurs	N	NN	Masc|Dat|Sg	5	pn	_	-
+7	gegangen	gehen	V	VVPP	_	3	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	-
+2	Skilehrer	Skilehrer	N	NN	Masc|Nom|Sg	7	subj	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	Herr	Herr	N	NN	Masc|Nom|Sg	2	app	_	-
+5	Winter	Winter	N	NE	_|Nom|Sg	4	app	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+8	gesagt	sagen	V	VVPP	_	7	aux	_	-
+9	:	\:	$.	$.	_	0	root	_	-
+10	"	"	$(	$(	_	0	root	_	-
+11	Hartmut	Hartmut	N	NE	Masc|Nom|Sg	12	subj	_	(0)
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+13	der	die	ART	ART	Def|_|_|_	14	det	_	-
+14	beste	gut	ADJA	ADJA	Masc|Nom|Sg	12	pred	_	-
+15	von	von	PREP	APPR	Dat	12	pp	_	-
+16	meinen	meine	ART	PPOSAT	Masc|Dat|Pl	17	det	_	-
+17	Schülern	Schüler	N	NN	Masc|Dat|Pl	15	pn	_	-
+18	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Hartmut	Hartmut	N	NE	Masc|Nom|Sg	3	subj	_	(0)
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	sich	sie	PRO	PRF	3|_|_	6	obja	_	-
+5	sehr	sehr	ADV	ADV	_	6	adv	_	-
+6	gefreut	freuen	V	VVPP	_	3	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	4	pp	_	-
+2	letzten	letzte	ADJA	ADJA	Pos|Masc|Dat|Sg|Wk|	3	attr	_	-
+3	Abend	Abend	N	NN	Masc|Dat|Sg	1	pn	_	-
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	die	die	ART	ART	Def|Fem|Nom|Sg	7	det	_	-
+6	ganze	ganz	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	7	attr	_	-
+7	Gruppe	Gruppe	N	NN	Fem|Nom|Sg	4	subj	_	-
+8	Abschied	Abschied	N	NN	Masc|_|Sg	9	obja	_	-
+9	gefeiert	feiern	V	VVPP	_	4	aux	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	-
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+3	viel	viel	ART	PIDAT	Masc|_|Sg	4	det	_	-
+4	Wein	Wein	N	NN	Masc|_|Sg	5	obja	_	-
+5	getrunken	trinken	V	VVPP	_	2	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Hartmut	Hartmut	N	NN	Masc|Nom|Sg	2	subj	_	(0)
+4	gesagt	sagen	V	VVPP	_	2	aux	_	-
+5	:	\:	$.	$.	_	0	root	_	-
+6	"	"	$(	$(	_	0	root	_	-
+7	Ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	(0)
+8	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+9	eine	eine	ART	ART	Indef|Fem|_|Sg	10	det	_	-
+10	Idee	Idee	N	NN	Fem|_|Sg	8	obja	_	-
+11	!	!	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	-
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	Dat	7	pp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	-
+5	Dunkelheit	Dunkelheit	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	Ski	Ski	N	NN	Masc|_|_	7	obja	_	-
+7	laufen	laufen	V	VVINF	_	2	aux	_	-
+8	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Alle	alle	PRO	PIS	_|Nom|Pl	3	subj	_	-
+3	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+4	geantwortet	antworten	V	VVPP	_	3	aux	_	-
+5	:	\:	$.	$.	_	0	root	_	-
+6	"	"	$(	$(	_	0	root	_	-
+7	Das	die	PRO	PDS	Neut|Nom|Sg	8	subj	_	-
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+9	eine	eine	ART	ART	Indef|Fem|Nom|Sg	11	det	_	-
+10	tolle	toll	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	11	attr	_	-
+11	Idee	Idee	N	NN	Fem|Nom|Sg	8	pred	_	-
+12	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Sie	sie	PRO	PPER	3|Pl|_|Nom	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	in	in	PREP	APPR	_	8	pp	_	-
+5	der	die	ART	ART	Def|Masc|_|_	6	det	_	-
+6	Dunkelheit	Dunkelheit	N	NN	Masc|_|_	4	pn	_	-
+7	Ski	Ski	N	NN	Masc|_|_	6	app	_	-
+8	gelaufen	laufen	V	VVPP	_	3	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Hartmut	Hartmut	N	NE	Masc|Nom|Sg	2	subj	_	(0)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|Dat	6	objd	_	-
+4	das	die	ART	ART	Def|Neut|_|Sg	5	det	_	-
+5	Bein	Bein	N	NN	Neut|_|Sg	6	obja	_	-
+6	gebrochen	brechen	V	VVPP	_	2	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Armer	arm	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	2	attr	_	(0
+2	Hartmut	Hartmut	N	NN	Masc|Nom|Sg	0	root	_	0)
+3	!	!	$.	$.	_	0	root	_	-
+

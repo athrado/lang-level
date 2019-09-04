@@ -1,0 +1,401 @@
+1	Anna	Anna	N	NE	Fem|_|Sg	0	root	109	109
+2	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	_	0	root	_	_
+2	Reisen	Reise	N	NN	_|_|_	1	pn	137	137
+3	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	in	in	P	APPR	Dat	1	pp	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	138	138
+4	Welt	Welt	N	NN	Fem|Dat|Sg	2	pn	138	138
+5	herum	herum	P	PTKVZ	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Anna	Anna	N	NE	Fem|_|Sg	0	root	109	109
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	allein	allein	A	ADV	_	1	cj	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vorzugsweise	vorzugsweise	A	ADV	_	2	adv	_	_
+2	allein	allein	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Anfangs	anfangs	A	ADV	_	2	adv	_	_
+2	allerdings	allerdings	A	ADV	_	3	adv	_	_
+3	nicht	nicht	P	PTKNEG	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Anna	Anna	N	NE	Fem|_|Sg	0	root	109	109
+2	.	.	$	$.	_	0	root	_	_
+
+1	Anfangs	anfangs	A	ADV	_	2	adv	_	_
+2	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	wohl	wohl	A	ADV	_	2	adv	_	_
+5	mit	mit	P	APPR	Dat	2	pp	_	_
+6	Irene	Irene	N	NE	Fem|Dat|Sg	5	pn	74	74
+7	-	-	$	$(	_	0	root	_	_
+8	gereist	reisen	V	VVPP	_	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mit	mit	P	APPR	Dat	0	root	_	_
+4	Irene	Irene	N	NE	Fem|Dat|Sg	3	pn	74	74
+5	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hm	hm	I	ITJ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	0	root	139	139
+4	meine	meine	A	PPOSAT	_|_|_	0	root	139	139
+5	-	-	$	$(	_	0	root	_	_
+6	Blick	Blick	N	NN	Masc|_|Sg	0	root	_	_
+7	Annas	Anna	N	NE	Fem|Gen|Sg	6	gmod	109	109
+8	wo	wo	P	PWAV	_	12	adv	_	_
+9	sie	sie	P	PPER	3|Sg|Fem|Nom	13	subj	109	109
+10	jetzt	jetzt	A	ADV	_	12	adv	_	_
+11	wohl	wohl	A	ADV	_	12	adv	_	_
+12	sein	sein	V	VAINF	_	13	aux	_	_
+13	mag	mögen	V	VMFIN	3|Sg|Pres|Ind	6	objc	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	Irene	Irene	N	NE	Fem|_|Sg	6	app	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	ruhig	ruhig	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	139	139
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	139	139
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	lange	lange	A	ADJD	_	8	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	von	von	P	APPR	Dat	8	pp	_	_
+7	ihr	ihr	P	PPER	3|Sg|Fem|Dat	6	pn	_	_
+8	gehört	gehören	V	VVPP	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	139	139
+2	war	sein	V	VAFIN	1|Sg|Past|Ind	0	root	_	_
+3	weit	weit	A	ADJD	Pos|	2	adv	_	_
+4	herum	herum	P	PTKVZ	_	2	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	139	139
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	sogar	sogar	A	ADV	_	6	adv	_	_
+4	in	in	P	APPR	_	6	pp	_	_
+5	Kalifornien	Kalifornien	N	NE	Neut|_|Sg	4	pn	_	_
+6	gewesen	sein	V	VAPP	_	2	aux	_	_
+7	und	und	K	KON	_	0	root	_	_
+8	in	in	P	APPR	_	7	cj	_	_
+9	Indien	Indien	N	NE	Neut|_|Sg	8	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ah	Ah	N	NN	Fem|_|Sg	0	root	66	66
+2	!	!	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	_	_
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	140	140
+5	mich	ich	P	PRF	1|Sg|Acc	9	obja	_	_
+6	allmählich	allmählich	A	ADJD	Pos|	9	adv	_	_
+7	auf	auf	P	APPR	_	9	pp	_	_
+8	Europa	Europa	N	NE	_|_|Sg	7	pn	342	342
+9	beschränkt	beschränken	V	VVPP	_	2	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	und	und	K	KON	_	2	kon	_	_
+12	später	spät	A	ADJD	_|	13	adv	_	_
+13	sind	sein	V	VAFIN	3|Pl|Pres|Ind	11	cj	_	_
+14	meine	meine	A	PPOSAT	Fem|Nom|Pl	15	det	140	140
+15	Reisen	Reise	N	NN	Fem|Nom|Pl	13	subj	_	_
+16	immer	immer	A	ADV	_	17	adv	_	_
+17	kleiner	klein	A	ADJD	Comp|	18	pred	_	_
+18	geworden	werden	V	VAPP	_	13	aux	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Beschreibt	beschreiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	mit	mit	P	APPR	Dat	1	pp	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	111	111
+4	Hand	Hand	N	NN	Fem|Dat|Sg	2	pn	111	111
+5	eine	eine	A	ART	Indef|Fem|Nom|Sg	6	det	582	582
+6	Spirale	Spirale	N	NN	Fem|Nom|Sg	1	subj	582	582
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+3	Kreis	Kreis	N	NN	Masc|Nom|Sg	0	root	_	_
+4	immer	immer	A	ADV	_	3	adv	_	_
+5	enger	eng	A	ADJD	Comp|	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	mach	machen	V	VVIMP	Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	pred	140	140
+5	nur	nur	A	ADV	_	7	adv	_	_
+6	noch	noch	A	ADV	_	7	adv	_	_
+7	Wanderungen	Wanderung	N	NN	Fem|_|Pl	2	obja	_	_
+8	in	in	P	APPR	Dat	2	pp	_	_
+9	der	die	A	ART	Def|Fem|Dat|Sg	10	det	42	42
+10	Umgebung	Umgebung	N	NN	Fem|Dat|Sg	8	pn	42	42
+11	Wiens	Wien	N	NE	_|Dat|Pl	10	app	42	42
+12	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	ändert	ändern	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	nichts	nichts	P	PIS	_	3	obja	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Denn	denn	K	KON	_	0	root	_	_
+2	für	für	P	APPR	Acc	4	pp	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	pn	140	140
+4	bedeutet	bedeuten	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	6	det	_	_
+6	Spaziergang	Spaziergang	N	NN	Masc|Nom|Sg	4	subj	_	_
+7	auf	auf	P	APPR	Dat	4	pp	_	_
+8	den	die	A	ART	Def|Neut|Dat|Pl	9	det	_	_
+9	Geländen	Gelände	N	NN	Neut|Dat|Pl	7	pn	_	_
+10	da	da	A	ADV	_	4	adv	_	_
+11	draußen	draußen	A	ADV	_	4	adv	_	_
+12	mehr	mehr	A	ADV	_	13	adv	_	_
+13	als	als	K	KOKOM	_	4	kom	_	_
+14	für	für	P	APPR	Acc	13	cj	_	_
+15	andere	andere	P	PIS	_|Acc|_	14	pn	_	_
+16	eine	eine	A	ART	Indef|Fem|_|Sg	17	det	_	_
+17	Fahrt	Fahrt	N	NN	Fem|_|Sg	4	obja	_	_
+18	um	um	P	APPR	Acc	4	pp	_	_
+19	die	die	A	ART	Def|Fem|Acc|Sg	20	det	138	138
+20	Welt	Welt	N	NN	Fem|Acc|Sg	18	pn	138	138
+21	.	.	$	$.	_	0	root	_	_
+
+1	Denn	denn	K	KON	_	0	root	_	_
+2	überall	überall	A	ADV	_	3	adv	_	_
+3	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	Menschen	Mensch	N	NN	Masc|_|_	3	obja	31	31
+6	und	und	K	KON	_	5	kon	_	_
+7	Schicksale	Schicksal	N	NN	Neut|_|Pl	6	cj	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wenn	wenn	K	KOUS	_	11	konj	_	_
+10	man	man	P	PIS	_|Nom|Sg	11	subj	_	_
+11	versteht	verstehen	V	VVFIN	3|Sg|Pres|Ind	3	neb	_	_
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	sehen	sehen	V	VVINF	_	11	obji	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	zu	zu	P	PTKZU	_	16	part	_	_
+16	hören	hören	V	VVINF	_	14	cj	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	3	pp	_	_
+2	Ganzen	Ganze	N	NN	_|Dat|_	1	pn	141	141
+3	lebst	leben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	jetzt	jetzt	A	ADV	_	3	adv	_	_
+6	sehr	sehr	A	ADV	_	7	adv	_	_
+7	zurückgezogen	zurückziehen	V	VVPP	_	3	neb	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+10	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	5	adv	_	_
+2	man	man	P	PIS	_|Nom|Sg	5	subj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	5	obja	141	141
+5	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	142	142
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	Gesellschaft	Gesellschaft	N	NN	_|_|Sg	2	obja	143	143
+5	,	,	$	$,	_	0	root	_	_
+6	wenn	wenn	K	KOUS	_	11	konj	_	_
+7	mir	ich	P	PPER	1|Sg|_|Dat	11	objd	142	142
+8	'	'	$	$(	_	0	root	_	_
+9	s	s	P	PPER	_	11	obja	143	143
+10	gerade	gerade	A	ADV	_	11	adv	_	_
+11	paßt	paßt	V	VVFIN	_	2	neb	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	142	142
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	Freunde	Freund	N	NN	Masc|_|_	2	obja	351	351
+5	und	und	K	KON	_	4	kon	_	_
+6	Freundinnen	Freundin	N	NN	Fem|_|Pl	5	cj	_	_
+7	-	-	$	$(	_	0	root	_	_
+8	für	für	P	APPR	Acc	6	pp	_	_
+9	einen	eine	A	ART	Indef|Masc|Acc|Sg	10	det	_	_
+10	Tag	Tag	N	NN	Masc|Acc|Sg	8	pn	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	ein	eine	A	ART	Indef|_|Nom|Sg	3	det	_	_
+3	Tag	Tag	N	NN	_|Nom|Sg	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	lang	lang	A	ADJD	Pos|	4	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wenn	wenn	K	KOUS	_	9	konj	_	_
+8	man	man	P	PIS	_|Nom|Sg	9	subj	_	_
+9	versteht	verstehen	V	VVFIN	3|Sg|Pres|Ind	4	neb	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	leben	leben	V	VVINF	_	9	obji	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	142	142
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	wie	wie	K	KOKOM	_	2	kom	_	_
+4	Harun-al-Raschid	Harun-al-Raschid	N	NE	Masc|Nom|Sg	3	cj	144	144
+5	,	,	$	$,	_	0	root	144	144
+6	der	die	P	PRELS	Masc|Nom|Sg	10	subj	144	144
+7	unerkannt	unerkannt	A	ADJD	Pos|	10	adv	_	_
+8	im	in	P	APPRART	Dat	10	pp	_	_
+9	Volke	Volk	N	NN	Neut|Dat|Sg	8	pn	_	_
+10	wandelt	wandeln	V	VVFIN	3|Sg|Pres|Ind	4	rel	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|Nom|Pl	2	det	145	145
+2	Leute	Leute	N	NN	_|Nom|Pl	13	subj	145	145
+3	,	,	$	$,	_	0	root	145	145
+4	mit	mit	P	APPR	Dat	11	pp	145	145
+5	denen	die	P	PRELS	_|Dat|Pl	4	pn	145	145
+6	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	142	142
+7	da	da	A	ADV	_	6	adv	_	_
+8	draußen	draußen	A	ADV	_	6	adv	_	_
+9	große	groß	A	ADJA	Pos|Fem|_|Sg|_|	10	attr	_	_
+10	Geste	Gest	N	NN	Fem|_|Sg	11	obja	_	_
+11	rede	reden	V	VVFIN	1|Sg|Pres|_	2	rel	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	ahnen	ahnen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+14	nicht	nicht	P	PTKNEG	_	13	adv	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	wer	wer	P	PWS	_|Nom|Sg	18	subj	_	_
+17	ich	ich	P	PPER	1|Sg|_|Nom	18	pred	142	142
+18	bin	sein	V	VAFIN	1|Sg|Pres|Ind	13	objc	_	_
+19	;	;	$	$.	_	0	root	_	_
+20	und	und	K	KON	_	0	root	_	_
+21	wer	wer	P	PWS	_|Nom|Sg	25	subj	_	_
+22	von	von	P	APPR	Dat	25	pp	_	_
+23	mir	ich	P	PPER	1|Sg|_|Dat	22	pn	142	142
+24	Abschied	Abschied	N	NN	Masc|_|Sg	25	obja	146	146
+25	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	27	objc	_	_
+26	,	,	$	$,	_	0	root	_	_
+27	weiß	wissen	V	VVFIN	_|Sg|Pres|Ind	20	cj	_	_
+28	nicht	nicht	P	PTKNEG	_	27	adv	_	_
+29	,	,	$	$,	_	0	root	_	_
+30	ob	ob	K	KOUS	_	33	konj	_	_
+31	er	er	P	PPER	3|Sg|Masc|Nom	33	subj	146	146
+32	mich	ich	P	PPER	1|Sg|_|Acc	33	obja	142	142
+33	wiederfindet	wiederfinden	V	VVFIN	3|Sg|Pres|Ind	27	subjc	_	_
+34	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Neut|Nom|Sg	6	det	251	251
+4	höchst	höchst	A	ADV	_	5	adv	251	251
+5	interessantes	interessant	A	ADJA	Pos|Neut|Nom|Sg|St|	6	attr	251	251
+6	Dasein	Dasein	N	NN	Neut|Nom|Sg	2	pred	251	251
+7	.	.	$	$.	_	0	root	_	_
+
+1	Eduard	Eduard	N	NE	Masc|_|Sg	0	root	6	6
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wenn	wenn	K	KOUS	_	6	konj	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	6	subj	147	147
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	spazieren	spazieren	V	VVINF	_	6	obji	_	_
+6	gehst	gehen	V	VVFIN	2|Sg|Pres|Ind	1	cj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	was	was	P	PWS	Neut|_|Sg	9	obja	_	_
+9	fängst	fangen	V	VVFIN	2|Sg|Pres|Ind	6	rel	_	_
+10	du	du	P	PPER	2|Sg|_|Nom	9	subj	147	147
+11	denn	denn	A	ADV	_	9	adv	_	_
+12	dann	dann	A	ADV	_	9	adv	_	_
+13	an	an	P	PTKVZ	_	9	avz	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Womit	Womit	P	PWAV	_	2	adv	_	_
+2	beschäftigst	beschäftigen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	147	147
+4	dich	du	P	PPER	2|Sg|_|Acc	2	obja	_	_
+5	eigentlich	eigentlich	A	ADV	_	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	0	root	_	_
+2	einem	eine	A	ART	Indef|Masc|Dat|Sg	4	det	_	_
+3	plötzlichen	plötzlich	A	ADJA	Pos|Masc|Dat|Sg|Wk|	4	attr	_	_
+4	Entschlusse	Entschluss	N	NN	Masc|Dat|Sg	1	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Schreibst	schreiben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	147	147
+3	denn	denn	A	ADV	_	1	adv	_	_
+4	noch	noch	A	ADV	_	1	adv	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Georg	Georg	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Schreiben	Schreibe	N	NN	_|_|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	0	root	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	3	det	148	148
+3	Sinne	Sinn	N	NN	Masc|Dat|Sg	1	pn	148	148
+4	,	,	$	$,	_	0	root	148	148
+5	den	die	P	PRELS	Masc|Acc|Sg	9	obja	148	148
+6	du	du	P	PPER	2|Sg|_|Nom	9	subj	_	_
+7	dem	die	A	ART	Def|Neut|Dat|Sg	8	det	149	149
+8	Worte	Wort	N	NN	Neut|Dat|Sg	9	objd	149	149
+9	gibst	geben	V	VVFIN	2|Sg|Pres|Ind	3	rel	_	_
+10	-	-	$	$(	_	0	root	_	_
+11	nein	nein	P	PTKANT	_	0	root	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	0	root	_	_
+2	einem	eine	A	ART	Indef|_|Dat|Sg	3	det	_	_
+3	andern	andern	A	ADJA	_|Dat|Sg	1	pn	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	ja	ja	P	PTKANT	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+

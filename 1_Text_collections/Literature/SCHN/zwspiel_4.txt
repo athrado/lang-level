@@ -1,0 +1,372 @@
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	As	A	N	NN	_|_|_	0	root	35	35
+2	dur	dur	N	NE	_|_|_	1	app	35	35
+3	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	gelangweilt	langweilen	V	VVPP	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	G	G	N	NN	Neut|_|_	0	root	35	35
+2	dur	dur	N	NE	Neut|_|_	1	app	35	35
+3	selbstverständlich	selbstverständlich	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	5	vok	8	8
+2	neben	neben	P	APPR	Dat	1	pp	8	8
+3	ihm	er	P	PPER	3|Sg|_|Dat	2	pn	6	6
+4	,	,	$	$,	_	0	root	_	_
+5	lächelt	lächeln	V	VVFIN	_|_|Pres|_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	Dat	5	pp	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	4	det	_	_
+3	halben	halb	A	ADJA	Pos|Masc|Dat|Sg|Wk|	4	attr	_	_
+4	Ton	Ton	N	NN	Masc|Dat|Sg	1	pn	_	_
+5	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+6	unser	unsre	A	PPOSAT	Neut|Nom|Sg	7	det	757	757
+7	Glück	Glück	N	NN	Neut|Nom|Sg	5	subj	757	757
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	scheitern	scheitern	V	VVINF	_	5	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	geht	gehen	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+6	nach	nach	P	APPR	Dat	5	pp	_	_
+7	hinten	hinten	A	ADV	_	6	adv	_	_
+8	und	und	K	KON	_	5	kon	_	_
+9	blickt	blicken	V	VVFIN	_|_|Pres|Ind	8	cj	_	_
+10	in	in	P	APPR	Acc	9	pp	_	_
+11	den	die	A	ART	Def|Masc|Acc|Sg	12	det	1	1
+12	Garten	Garten	N	NN	Masc|Acc|Sg	10	pn	1	1
+13	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ihre	ihre	A	PPOSAT	Fem|_|Sg	2	det	8	8
+2	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	205	205
+4	Bub	Bub	N	NN	Masc|Nom|Sg	6	subj	205	205
+5	'	'	$	$(	_	0	root	_	_
+6	spielt	spielen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	draußen	draußen	A	ADV	_	6	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Am	an	P	APPRART	Dat	0	root	_	_
+2	Fenster	Fenster	N	NN	Neut|Dat|Sg	1	pn	36	36
+3	,	,	$	$,	_	0	root	_	_
+4	winkt	winken	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+5	hinaus	hinaus	P	PTKVZ	_	4	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Pause	Pause	N	NN	Fem|_|Sg	0	root	146	146
+2	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	nehmen	nehmen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	das	die	A	ART	Def|Neut|_|Sg	4	det	38	38
+4	Leben	Leben	N	NN	Neut|_|Sg	2	obja	38	38
+5	zu	zu	P	PTKA	_	6	adv	_	_
+6	schwer	schwer	A	ADJD	Pos|	2	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Amadeus	Amadeus	N	NE	Masc|_|Sg	2	vok	5	5
+9	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	am	an	P	APPRART	Dat	1	pp	5	5
+3	Fenster	Fenster	N	NN	Neut|Dat|Sg	2	pn	5	5
+4	,	,	$	$,	_	0	root	36)	36)
+5	sich	sie	P	PRF	3|_|_	0	root	36)	36)
+6	zu	zu	P	APPR	Dat	8	pp	36)	36)
+7	ihr	ihr	P	PPER	3|Sg|Fem|Dat	6	pn	8	8
+8	wendend	wenden	A	ADJD	_|<PPRES	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	37	37
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+4	lügen	lügen	V	VVINF	_	2	aux	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	37	37
+7	will	wollen	V	VMFIN	1|Sg|Pres|Ind	2	kon	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	lügen	lügen	V	VVINF	_	7	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	38	38
+6	Leben	Leben	N	NN	Neut|_|Sg	8	obja	38	38
+7	schwer	schwer	A	ADJD	Pos|	8	adv	_	_
+8	nehmen	nehmen	V	VVINF	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nicht	nicht	P	PTKNEG	_	2	adv	_	_
+2	lügen	lügen	V	VVINF	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	39	39
+2	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	manchmal	manchmal	A	ADV	_	2	adv	_	_
+5	viele	viele	A	PIDAT	Masc|_|Pl	6	det	_	_
+6	Monate	Monat	N	NN	Masc|_|Pl	2	obja	_	_
+7	von	von	P	APPR	_	6	pp	_	_
+8	Ihrer	ihre	A	PPOSAT	Fem|_|Sg	9	det	39	39
+9	Frau	Frau	N	NN	Fem|_|Sg	7	pn	_	_
+10	fort	fort	P	PTKVZ	_	2	avz	_	_
+11	-	-	$	$(	_	0	root	_	_
+12	nicht	nicht	P	PTKNEG	_	13	adv	_	_
+13	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Ihre	ihre	A	PPOSAT	Fem|Nom|Sg	2	det	39	39
+2	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	doch	doch	A	ADV	_	7	adv	_	_
+5	schon	schon	A	ADV	_	7	adv	_	_
+6	hier	hier	A	ADV	_	7	adv	_	_
+7	engagiert	engagieren	V	VVPP	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	während	während	K	KOUS	_	15	konj	_	_
+10	Sie	sie	P	PPER	3|Pl|_|Nom	15	subj	39	39
+11	noch	noch	A	ADV	_	15	adv	_	_
+12	irgendwo	irgendwo	A	ADV	_	13	adv	_	_
+13	draußen	draußen	A	ADV	_	15	adv	_	_
+14	Kapellmeister	Kapellmeister	N	NN	Masc|Nom|_	15	pred	_	_
+15	waren	sein	V	VAFIN	3|Pl|Past|Ind	3	neb	_	_
+16	?	?	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+3	Dinge	Ding	N	NN	Neut|Nom|Pl	2	pred	40	40
+4	,	,	$	$,	_	0	root	40	40
+5	die	die	P	PRELS	Neut|Nom|Pl	9	subj	40	40
+6	Sie	sie	P	PPER	3|_|_|_	9	obja	_	_
+7	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+8	ganz	ganz	A	ADV	_	9	adv	_	_
+9	verstehen	verstehen	V	VVFIN	3|Pl|Pres|_	3	rel	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Frau	Frau	N	NN	Fem|Nom|Sg	3	app	_	_
+12	Gräfin	Gräfin	N	NN	Fem|Nom|Sg	11	app	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Blickt	blicken	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	zur	zu	P	APPRART	Dat	1	pp	_	_
+3	Eingangstüre	Eingangstüre	N	NN	Fem|Dat|Sg	2	pn	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	9	expl	_	_
+4	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+5	Ihre	ihre	A	PPOSAT	Fem|Nom|Sg	6	det	8	8
+6	Frau	Frau	N	NN	Fem|Nom|Sg	4	subj	41	41
+7	noch	noch	A	ADV	_	8	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	sein	sein	V	VAINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	Dat	8	pp	_	_
+2	einem	eine	A	ART	Indef|_|Dat|Sg	5	det	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	schönen	schön	A	ADJA	Pos|_|Dat|Sg|Wk|	5	attr	_	_
+5	Tag	Tag	N	NN	_|Dat|Sg	1	pn	_	_
+6	wie	wie	K	KOKOM	_	5	kom	_	_
+7	heute	heute	A	ADV	_	6	cj	_	_
+8	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	sie	sie	P	PPER	3|Sg|Fem|Nom	8	subj	41	41
+10	auf	auf	P	APPR	_	15	objp	_	_
+11	ihren	ihre	A	PPOSAT	_|_|Sg	12	det	41	41
+12	Spaziergang	Spaziergang	N	NN	_|_|Sg	10	pn	_	_
+13	doch	doch	A	ADV	_	15	adv	_	_
+14	nicht	nicht	P	PTKNEG	_	15	adv	_	_
+15	verzichten	verzichten	V	VVINF	_	8	aux	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	4	obja	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	_	_
+3	da	da	A	ADV	_	4	adv	_	_
+4	versuchen	versuchen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+7	,	,	$	$,	_	0	root	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	ziemlich	ziemlich	A	ADJD	_	10	adv	_	_
+10	kläglich	kläglich	A	ADJD	Pos|	8	pred	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	42	42
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	12	konj	_	_
+6	sie	sie	P	PPER	3|Sg|Fem|Nom	12	subj	8	8
+7	zuweilen	zuweilen	A	ADV	_	12	adv	_	_
+8	auch	auch	A	ADV	_	12	adv	_	_
+9	mit	mit	P	APPR	Dat	12	pp	_	_
+10	Ihnen	sie	P	PPER	3|Pl|_|Dat	9	pn	_	_
+11	spazieren	spazieren	V	VVINF	_	12	obji	_	_
+12	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	2	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	5	konj	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+3	meine	meine	A	PPOSAT	Fem|_|Sg	4	det	42	42
+4	Zeit	Zeit	N	NN	Fem|_|Sg	5	obja	_	_
+5	erlaubt	erlauben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ja	ja	A	ADV	_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	manchmal	manchmal	A	ADV	_	3	adv	_	_
+3	mit	mit	P	APPR	Dat	1	cj	_	_
+4	Sigismund	Sigismund	N	NE	_|Dat|_	3	pn	43	43
+5	.	.	$	$.	_	0	root	_	_
+
+1	Heute	heute	A	ADV	_	2	adv	_	_
+2	wahrscheinlich	wahrscheinlich	A	ADJD	Pos|	3	adv	_	_
+3	mit	mit	P	APPR	Dat	0	root	_	_
+4	dem	die	A	ART	Def|Masc|Dat|Sg	5	det	43	43
+5	Fürsten	Fürst	N	NN	Masc|Dat|Sg	3	pn	43	43
+6	Sigismund	Sigismund	N	NE	Masc|Dat|Sg	5	app	43	43
+7	.	.	$	$.	_	0	root	_	_
+
+1	das	die	P	PDS	Neut|_|Sg	6	obja	_	_
+2	wollten	wollen	V	VMFIN	3|Pl|Past|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	6	objd	6	6
+5	doch	doch	A	ADV	_	6	adv	_	_
+6	sagen	sagen	V	VVINF	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Weshalb	Weshalb	P	PWAV	_	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	44	44
+2	wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+4	doch	doch	A	ADV	_	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Mir	ich	P	PPER	1|Sg|_|Dat	2	objd	_	_
+2	fällt	fallen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	wahrhaftig	wahrhaftig	A	ADV	_	2	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	ein	ein	P	PTKVZ	_	2	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	was	was	P	PRELS	Neut|_|Sg	0	root	_	_
+9	Übles	Übeles	N	NN	Neut|_|Sg	12	obja	_	_
+10	daran	daran	P	PROAV	_	9	pp	_	_
+11	zu	zu	P	PTKZU	_	12	part	_	_
+12	finden	finden	V	VVINF	_	0	root	_	_
+13	;	;	$	$.	_	0	root	_	_
+14	er	er	P	PPER	3|Sg|Masc|Nom	15	subj	_	_
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+16	ja	ja	A	ADV	_	15	adv	_	_
+17	Ihr	ihre	A	PPOSAT	Masc|Nom|Sg	18	det	44	44
+18	Freund	Freund	N	NN	Masc|Nom|Sg	15	pred	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mehr	mehr	P	PIS	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	oder	oder	K	KON	_	0	root	_	_
+4	weniger	weniger	A	ADV	_	5	adv	_	_
+5	als	als	K	KOKOM	_	3	cj	_	_
+6	das	die	P	PDS	Neut|_|Sg	5	cj	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	45	45
+4	Schüler	Schüler	N	NN	Masc|Nom|Sg	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Friederike	Friederike	N	NE	Fem|_|Sg	0	root	8	8
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	hab	hab	A	ADJA	Neut|_|Sg	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	45	45
+5	ja	ja	A	ADV	_	8	adv	_	_
+6	gar	gar	A	ADV	_	7	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	gewußt	gewußt	V	VVPP	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Als	Als	K	KOKOM	_	18	kom	_	_
+2	ganz	ganz	A	ADV	_	3	adv	117	117
+3	junger	jung	A	ADJA	Pos|Masc|Nom|Sg|St|	4	attr	117	117
+4	Mensch	Mensch	N	NN	Masc|Nom|Sg	1	cj	117	117
+5	,	,	$	$,	_	0	root	117	117
+6	vor	vor	P	APPR	Dat	4	pp	117	117
+7	zehn	zehn	C	CARD	_	8	attr	117	117
+8	Jahren	Jahr	N	NN	Neut|Dat|Pl	6	pn	117	117
+9	,	,	$	$,	_	0	root	_	_
+10	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	10	subj	45	45
+13	auf	auf	P	APPR	Dat	18	pp	_	_
+14	dem	die	A	ART	Def|Neut|Dat|Sg	15	det	46	46
+15	Schloß	Schloß	N	NN	Neut|Dat|Sg	13	pn	46	46
+16	seines	seine	A	PPOSAT	Masc|Gen|Sg	17	det	46	46
+17	Vaters	Vater	N	NN	Masc|Gen|Sg	15	gmod	_	_
+18	gelebt	leben	V	VVPP	_	10	aux	_	_
+19	.	.	$	$.	_	0	root	_	_
+

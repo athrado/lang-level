@@ -1,0 +1,392 @@
+1	Zimmer	Zimmer	N	NN	Neut|_|Sg	0	root	492	492
+2	im	in	P	APPRART	Dat	1	pp	492	492
+3	Hause	Haus	N	NN	Masc|Dat|Sg	2	pn	78	78
+4	Wegrat	Wegrat	N	NN	Masc|Dat|Sg	3	app	78	78
+5	,	,	$	$,	_	0	root	_	_
+6	an	an	P	APPR	Acc	10	objp	_	_
+7	das	die	P	PRELS	Neut|Acc|Sg	6	pn	492	492
+8	die	die	A	ART	Def|Fem|Nom|Sg	9	det	79	79
+9	Veranda	Veranda	N	NN	Fem|Nom|Sg	10	subj	79	79
+10	grenzt	grenzen	V	VVFIN	3|Sg|Pres|Ind	1	rel	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Entsprechender	entsprechend	A	ADJA	Pos|Masc|Nom|Sg|St|_	2	attr	_	_
+2	Ausblick	Ausblick	N	NN	Masc|Nom|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	38	38
+2	allein	allein	A	ADV	_	1	adv	38	38
+3	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	26	26
+2	Sala	Sala	N	NE	_	0	root	26	26
+3	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|Nom|Sg	2	subj	2	2
+2	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	APPR	Dat	2	pp	_	_
+4	einem	eine	A	ART	Indef|Masc|Dat|Sg	5	det	_	_
+5	Sessel	Sessel	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	mit	mit	P	APPR	Dat	2	pp	_	_
+8	verschlungenen	verschlungen	A	ADJA	Pos|Fem|Dat|Pl|_|	9	attr	_	_
+9	Händen	Hand	N	NN	Fem|Dat|Pl	7	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_|Nom|Sg	2	subj	26	26
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	ein	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Guten	gut	A	ADJA	Pos|_|_|_|_|	2	attr	_	_
+2	Morgen	Morgen	N	NN	_|_|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Johanna	Johanna	N	NN	Fem|_|Sg	2	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|Nom|Sg	2	subj	2	2
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+6	ihm	er	P	PPER	3|Sg|_|Dat	5	objd	1	1
+7	entgegen	entgegen	P	PTKVZ	_	5	avz	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	sieht	sehen	V	VVFIN	3|Sg|Pres|Ind	5	kon	_	_
+10	ihn	er	P	PPER	3|Sg|Masc|Acc	9	obja	1	1
+11	an	an	P	PTKVZ	_	9	avz	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Kommst	kommen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	zum	zu	P	APPRART	Dat	1	objp	_	_
+4	letztenmal	letztenmal	N	NN	_|Dat|_	3	pn	493	493
+5	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Zum	zu	P	APPRART	Dat	0	root	_	_
+2	letztenmal	letztenmal	N	NN	_|Dat|_	1	pn	493	493
+3	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	subj	_	_
+2	fällt	fallen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dir	du	P	PPER	2|Sg|_|Dat	2	objd	_	_
+4	ein	ein	P	PTKVZ	_	2	avz	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	10	expl	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	10	obja	_	_
+4	in	in	P	APPR	_	10	pp	_	_
+5	unsern	unsre	A	PPOSAT	Fem|_|Pl	6	det	_	_
+6	Dispositionen	Disposition	N	NN	Fem|_|Pl	4	pn	_	_
+7	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+8	das	die	A	ART	Def|Neut|Nom|Sg	9	det	894	894
+9	Geringste	Geringste	N	NN	Neut|Nom|Sg	2	subj	894	894
+10	geändert	ändern	V	VVPP	_	2	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Heut	heuen	V	VVPP	_	2	aux	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	5	det	_	_
+4	siebente	siebent	A	ADJA	_|Masc|Nom|Sg|Wk|	5	attr	_	_
+5	Oktober	Oktober	N	NN	Masc|Nom|Sg	2	subj	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	am	an	P	APPRART	Dat	10	pp	_	_
+8	sechsundzwanzigsten	sechsundzwanzigst	A	ADJA	_|Masc|Dat|Sg|Wk|	9	attr	_	_
+9	November	November	N	NN	Masc|Dat|Sg	7	pn	_	_
+10	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+11	das	die	A	ART	Def|Neut|Nom|Sg	12	det	_	_
+12	Schiff	Schiff	N	NN	Neut|Nom|Sg	10	subj	_	_
+13	von	von	P	APPR	_	10	pp	_	_
+14	Genua	Genua	N	NN	Fem|_|Sg	13	pn	516	516
+15	ab	ab	P	PTKVZ	_	10	avz	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	wirst	werden	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	plötzlich	plötzlich	A	ADJD	Pos|	6	adv	_	_
+4	von	von	P	APPR	_	6	pp	_	_
+5	hier	hier	A	ADV	_	4	adv	_	_
+6	verschwunden	verschwinden	V	VVPP	_	7	aux	_	_
+7	sein	sein	V	VAINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	890	890
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	bei	bei	P	APPR	Dat	6	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	494	494
+5	Gartentüre	Gartentüre	N	NN	Fem|Dat|Sg	3	pn	494	494
+6	stehen	stehen	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	und	und	K	KON	_	2	kon	_	_
+9	sie	sie	P	PPER	3|Sg|Fem|Nom	10	subj	494	494
+10	wird	werden	V	VAFIN	3|Sg|Pres|Ind	8	cj	_	_
+11	verschlossen	verschlossen	A	ADJD	Pos|	12	pred	_	_
+12	bleiben	bleiben	V	VVINF	_	10	aux	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Solche	solche	A	PIDAT	Neut|Nom|Pl	2	det	_	_
+2	Dinge	Ding	N	NN	Neut|Nom|Pl	3	subj	_	_
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	doch	doch	A	ADV	_	3	adv	_	_
+5	zwischen	zwischen	P	APPR	_	3	pp	_	_
+6	uns	wir	P	PPER	1|Pl|_|_	5	pn	_	_
+7	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+8	notwendig	notwendig	A	ADJD	Pos|	3	pred	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wahrhaftig	wahrhaftig	A	ADJD	Pos|	4	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Bedenke	bedenken	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	1	subj	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	2	2
+2	und	und	K	KON	_	1	kon	_	_
+3	Sala	Sala	N	NE	Fem|_|Sg	2	cj	26	26
+4	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|Nom|Sg	2	subj	3	3
+2	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	ein	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	496	496
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	pred	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|Nom|Sg	3	kon	_	_
+6	von	von	P	APPR	_	5	pp	_	_
+7	Sala	Sala	N	NE	_|_|_	6	pn	26	26
+8	?	?	$	$.	_	0	root	_	_
+
+1	Händedruck	Händedruck	N	NN	Masc|_|Sg	0	root	495	495
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wie	wie	P	PWAV	_	4	adv	_	_
+4	weit	weit	A	ADJD	Pos|	5	adv	_	_
+5	halten	halten	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	5	subj	496	496
+7	mit	mit	P	APPR	Dat	5	pp	_	_
+8	Ihren	ihre	A	PPOSAT	Fem|Dat|Pl	9	det	496	496
+9	Vorbereitungen	Vorbereitung	N	NN	Fem|Dat|Pl	7	pn	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+2	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	keiner	keine	P	PIS	Masc|Nom|Sg	2	subj	_	_
+4	besondern	besondern	V	VVINF	_	2	obji	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	497	497
+2	packe	packen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	meine	meine	A	PPOSAT	Masc|_|_	4	det	497	497
+4	Koffer	Koffer	N	NN	Masc|_|_	2	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	lasse	lassen	V	VVFIN	_|Sg|Pres|_	2	kon	_	_
+7	die	die	A	ART	Def|Masc|_|Pl	8	det	_	_
+8	Vorhänge	Vorhang	N	NN	Masc|_|Pl	6	obja	_	_
+9	herunter	herunter	A	ADV	_	6	adv	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	sperre	sperren	V	VVFIN	_|Sg|Pres|_	6	kon	_	_
+12	die	die	A	ART	Def|Fem|_|Pl	13	det	498	498
+13	Türen	Tür	N	NN	Fem|_|Pl	11	obja	498	498
+14	ab	ab	P	PTKVZ	_	11	avz	_	_
+15	-	-	$	$(	_	0	root	_	_
+16	und	und	K	KON	_	11	kon	_	_
+17	dann	dann	A	ADV	_	18	adv	_	_
+18	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	16	cj	_	_
+19	es	es	P	PPER	3|Sg|Neut|Nom	18	subj	_	_
+20	in	in	P	APPR	Acc	18	objp	_	_
+21	rätselhafte	rätselhaft	A	ADJA	Pos|_|Acc|Pl|St|	22	attr	_	_
+22	Fernen	Ferne	N	NN	_|Acc|Pl	20	pn	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	497	497
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	übrigens	übrigens	A	ADV	_	2	adv	_	_
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	_	_
+5	Frage	Frage	N	NN	Fem|_|Sg	2	obja	_	_
+6	an	an	P	APPR	Acc	2	pp	_	_
+7	Sie	sie	P	PPER	3|_|_|Acc	6	pn	498	498
+8	,	,	$	$,	_	0	root	_	_
+9	Felix	Felix	N	NE	Masc|Acc|Sg	7	app	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Hätten	haben	V	VAFIN	3|Pl|Past|Subj	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	498	498
+3	einige	einige	A	PIAT	Fem|_|Sg	4	det	_	_
+4	Lust	Lust	N	NN	Fem|_|Sg	1	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mit	mit	P	APPR	Dat	9	pp	_	_
+7	uns	wir	P	PPER	1|Pl|_|Dat	6	pn	_	_
+8	zu	zu	P	PTKZU	_	9	part	_	_
+9	kommen	kommen	V	VVINF	_	1	obji	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|Nom|Sg	2	subj	3	3
+2	erstaunt	erstaunen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Ob	ob	K	KOUS	_	4	konj	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	499	499
+3	Lust	Lust	N	NN	Fem|_|Sg	4	obja	_	_
+4	hätte	haben	V	VAFIN	1|Sg|Past|Subj	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Fragen	fragen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	500	500
+3	mich	ich	P	PPER	1|Sg|_|Acc	1	obja	499	499
+4	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+5	im	in	P	APPRART	Dat	0	root	_	_
+6	Ernst	Ernst	N	NE	_|Dat|Sg	5	pn	768	768
+7	,	,	$	$,	_	0	root	768	768
+8	Herr	Herr	N	NN	Masc|Dat|Sg	6	app	768	768
+9	von	von	P	APPR	_	8	pp	768	768
+10	Sala	Sala	N	NE	_|_|_	9	pn	26	26
+11	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	190	190
+2	Frage	Frage	N	NN	Fem|Nom|Sg	3	subj	190	190
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	genau	genau	A	ADJD	Pos|	5	adv	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	ernst	ernst	A	ADJD	Pos|	7	adv	_	_
+7	gemeint	meinen	V	VVPP	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	als	als	K	KOUS	_	13	konj	_	_
+10	Sie	sie	P	PPER	3|Pl|_|Nom	13	subj	500	500
+11	sie	sie	P	PPER	3|_|_|_	12	obja	190	190
+12	nehmen	nehmen	V	VVINF	_	13	aux	_	_
+13	wollen	wollen	V	VMFIN	3|Pl|Pres|_	3	neb	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	501	501
+4	das	die	P	PDS	Neut|_|Sg	5	obja	_	_
+5	verstehen	verstehen	V	VVINF	_	2	aux	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Ob	ob	K	KOUS	_	8	konj	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	501	501
+3	mit	mit	P	APPR	Dat	7	pp	_	_
+4	Ihnen	sie	P	PPER	3|Pl|_|Dat	3	pn	_	_
+5	nach	nach	P	APPR	Dat	7	pp	_	_
+6	Asien	Asien	N	NE	Neut|Dat|Sg	5	pn	502	502
+7	gehen	gehen	V	VVINF	_	8	aux	_	_
+8	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	12	obja	_	_
+2	sollte	sollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+4	denn	denn	A	ADV	_	12	adv	_	_
+5	mit	mit	P	APPR	Dat	12	pp	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	pn	501	501
+7	bei	bei	P	APPR	Dat	12	pp	_	_
+8	einem	eine	A	ART	Indef|Neut|Dat|Sg	9	det	_	_
+9	Unternehmen	Unternehmen	N	NN	Neut|Dat|Sg	7	pn	_	_
+10	dieser	diese	A	PDAT	Fem|Gen|Sg	11	det	230	230
+11	Art	Art	N	NN	Fem|Gen|Sg	9	gmod	230	230
+12	anfangen	anfangen	V	VVINF	_	2	aux	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	ziemlich	ziemlich	A	ADJD	_	2	adv	_	_
+5	nahe	nahe	P	PTKVZ	_	2	avz	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Handelt	handeln	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	1	subj	_	_
+3	sich	sie	P	PRF	3|_|_	1	obja	_	_
+4	denn	denn	A	ADV	_	1	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+6	um	um	P	APPR	Acc	1	objp	_	_
+7	eine	eine	A	ART	Indef|Fem|Acc|Sg	8	det	503	503
+8	Expedition	Expedition	N	NN	Fem|Acc|Sg	6	pn	503	503
+9	von	von	P	APPR	Dat	8	pp	503	503
+10	rein	rein	A	ADJD	Pos|	11	adv	503	503
+11	wissenschaftlichem	wissenschaftlich	A	ADJA	Pos|Masc|Dat|Sg|St|	12	attr	503	503
+12	Charakter	Charakter	N	NN	Masc|Dat|Sg	9	pn	503	503
+13	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Als	Als	K	KOKOM	_	6	kom	_	_
+2	solche	solche	P	PIS	_|_|_	1	cj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	3	subj	503	503
+5	wohl	wohl	A	ADV	_	6	adv	_	_
+6	gedacht	denken	V	VVPP	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	leicht	leicht	A	ADJD	Pos|	6	adv	_	_
+6	möglich	möglich	A	ADJD	Pos|	23	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	12	konj	_	_
+9	es	es	P	PPER	3|Sg|Neut|Nom	12	subj	_	_
+10	allerlei	allerlei	P	PIS	_	11	obja	_	_
+11	geben	geben	V	VVINF	_	12	aux	_	_
+12	wird	werden	V	VAFIN	3|Sg|Pres|Ind	23	objc	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	wobei	wobei	P	PWAV	_	23	pp	_	_
+15	junge	jung	A	ADJA	Pos|Masc|Nom|Pl|St|	16	attr	_	_
+16	Männer	Mann	N	NN	Masc|Nom|Pl	24	subj	_	_
+17	wie	wie	K	KOKOM	_	23	kom	_	_
+18	Sie	sie	P	PPER	3|_|_|_	17	cj	503	503
+19	sehr	sehr	A	ADV	_	20	adv	_	_
+20	gut	gut	A	ADJD	Pos|	23	pred	_	_
+21	am	an	P	APPRART	Dat	23	pp	_	_
+22	Platze	Platz	N	NN	Masc|Dat|Sg	21	pn	_	_
+23	sein	sein	V	VAINF	_	24	aux	_	_
+24	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+

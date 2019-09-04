@@ -1,0 +1,489 @@
+1	Endlich	endlich	A	ADJD	Pos|	2	adv	_	_
+2	sehe	sehen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	581	581
+4	dich	du	P	PPER	2|Sg|_|Acc	2	obja	678	678
+5	!	!	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	alles	alle	P	PIS	Neut|Nom|Sg	2	subj	_	_
+4	gut	gut	A	ADJD	Pos|	2	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Ernste	Ernst	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	nickte	nicken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+4	ihm	er	P	PPER	3|Sg|_|Dat	3	objd	10	10
+5	zu	zu	P	PTKVZ	_	3	avz	_	_
+6	und	und	K	KON	_	3	kon	_	_
+7	sagte	sagen	V	VVFIN	_|Sg|Past|_	6	cj	_	_
+8	in	in	P	APPR	Dat	7	pp	_	_
+9	einfachem	einfach	A	ADJA	Pos|Masc|Dat|Sg|St|	10	attr	_	_
+10	Tone	Ton	N	NN	Masc|Dat|Sg	8	pn	_	_
+11	:	\:	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Bleib	Bleib	N	NE	_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	sitzen	sitzen	V	VVINF	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	ereiferst	ereifern	V	VVFIN	2|Sg|Pres|_	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	2	obja	_	_
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+4	sich	sie	P	PRF	3|_|_	7	obja	_	_
+5	da	da	A	ADV	_	7	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	ereifern	ereifern	V	VVINF	_	2	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Gar	gar	A	ADV	_	3	adv	_	_
+3	nicht	nicht	P	PTKNEG	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Dich	Dich	N	NE	_|Nom|Sg	2	subj	_	_
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	_	_
+5	nichts	nichts	P	PIS	_	2	obja	_	_
+6	an	an	P	PTKVZ	_	2	avz	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sogar	sogar	A	ADV	_	4	adv	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	viel	viel	P	PIS	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	ebenso	ebenso	A	ADV	_	4	adv	_	_
+7	wie	wie	K	KOKOM	_	6	kom	_	_
+8	jeden	jede	A	PIDAT	_|_|Sg	9	det	_	_
+9	andern	andern	A	ADJA	_|_|Sg	7	cj	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	4	adv	_	_
+4	gesagt	sagen	V	VVPP	_	2	aux	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Mitgegangen	mitgehen	V	VVPP	_	8	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	mitgefangen	mitfangen	V	VVPP	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	betrifft	betreffen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	3	obja	679	679
+5	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Vetter	Vetter	N	NE	_	3	vok	909	909
+8	.	.	$	$.	_	0	root	_	_
+
+1	Dir	du	P	PPER	2|Sg|_|Dat	2	objd	679	679
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	niemand	niemand	P	PIS	_|Nom|Sg	2	subj	_	_
+4	etwas	etwas	A	ADV	_	5	adv	_	_
+5	thun	thun	A	ADJD	_	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	die	die	A	ART	Def|_|_|_	3	det	_	_
+3	andern	andern	A	ADJA	_|_|_	4	subj	_	_
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	1	cj	_	_
+5	verloren	verlieren	V	VVPP	_	4	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	97	97
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	meine	meine	A	PPOSAT	Masc|Nom|Pl	5	det	680	680
+5	Freunde	Freund	N	NN	Masc|Nom|Pl	3	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	680	680
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	5	obja	97	97
+4	hierher	hierher	A	ADV	_	5	adv	_	_
+5	geführt	führen	V	VVPP	_	2	aux	_	_
+6	!	!	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	3	adv	_	_
+3	müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+4	sie	sie	P	PPER	3|Pl|_|Nom	3	subj	97	97
+5	dich	du	P	PPER	2|Sg|_|Acc	8	obja	_	_
+6	sogar	sogar	A	ADV	_	8	adv	_	_
+7	dafür	dafür	P	PROAV	_	8	pp	_	_
+8	bezahlen	bezahlen	V	VVINF	_	3	aux	_	_
+9	!	!	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	680	680
+4	habe	haben	V	VAFIN	1|Sg|Pres|_	2	cj	_	_
+5	sie	sie	P	PPER	3|_|_|_	8	obja	97	97
+6	ins	in	P	APPRART	Acc	8	pp	_	_
+7	Verderben	Verderben	N	NN	Neut|Acc|_	6	pn	_	_
+8	geleitet	leiten	V	VVPP	_	4	aux	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	dieser	diese	A	PDAT	Masc|Nom|Sg	3	det	129	129
+3	Sennor	Sennor	N	NN	Masc|Nom|Sg	4	subj	129	129
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+5	meiner	meine	A	PPOSAT	Fem|Dat|Sg	6	det	680	680
+6	Mutter	Mutter	N	NN	Fem|Dat|Sg	12	objd	_	_
+7	während	während	P	APPR	Gen	12	pp	_	_
+8	des	die	A	ART	Def|_|Gen|Sg	9	det	133	133
+9	Pampero	Pampero	N	NN	_|Gen|Sg	7	pn	133	133
+10	das	die	A	ART	Def|Neut|_|Sg	11	det	104	104
+11	Leben	Leben	N	NN	Neut|_|Sg	12	obja	104	104
+12	gerettet	retten	V	VVPP	_	4	aux	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	hübsch	hübsch	A	ADJD	Pos|	3	pred	_	_
+6	von	von	P	APPR	Dat	3	pp	_	_
+7	ihm	er	P	PPER	3|Sg|_|Dat	6	pn	10	10
+8	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	2	subj	133	133
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	8	obja	_	_
+4	doch	doch	A	ADV	_	8	adv	_	_
+5	auch	auch	A	ADV	_	8	adv	_	_
+6	bei	bei	P	APPR	Dat	8	pp	_	_
+7	ihm	er	P	PPER	3|Sg|_|Dat	6	pn	129	129
+8	bedankt	bedanken	V	VVPP	_	9	aux	_	_
+9	haben	haben	V	VAINF	_	2	aux	_	_
+10	!	!	$	$.	_	0	root	_	_
+11	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Dafür	Dafür	P	PROAV	_	3	pp	_	_
+3	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	10	10
+5	gefangen	fangen	V	VVPP	_	6	aux	_	_
+6	werden	werden	V	VAINF	_	3	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Gefangen	fangen	V	VVPP	_	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Pah	Pah	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sterben	sterben	V	VVINF	_	2	aux	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	10	10
+4	.	.	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Cielo	Cielo	N	NE	_	0	root	681	681
+3	!	!	$	$.	_	0	root	_	_
+4	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	7	obja	_	_
+3	giebt	giebt	V	VMFIN	3|Sg|_|_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	da	da	A	ADV	_	7	adv	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	erschrecken	erschrecken	V	VVINF	_	3	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	A	ART	Def|Neut|Nom|Sg	4	det	_	_
+4	Sterben	Sterben	N	NN	Neut|Nom|Sg	2	subj	_	_
+5	weiter	weiter	P	PTKVZ	_	2	avz	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Mancher	manche	P	PIS	Masc|Nom|Sg	2	subj	_	_
+2	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	fort	fort	P	PTKVZ	_	2	avz	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	sogar	sogar	A	ADV	_	6	adv	_	_
+6	durch	durch	P	APPR	Acc	2	pp	_	_
+7	Mördershand	Mördershand	N	NN	Fem|Acc|Sg	6	pn	_	_
+8	!	!	$	$.	_	0	root	_	_
+9	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Denke	Denke	N	NN	Fem|_|Sg	0	root	_	_
+3	doch	doch	A	ADV	_	2	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+5	stets	stets	A	ADV	_	4	adv	_	_
+6	und	und	K	KON	_	5	kon	_	_
+7	immer	immer	A	ADV	_	6	cj	_	_
+8	an	an	P	APPR	_	2	pp	_	_
+9	deinen	deine	A	PPOSAT	Masc|_|Sg	10	det	_	_
+10	Bruder	Bruder	N	NN	Masc|_|Sg	8	pn	_	_
+11	!	!	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	682	682
+3	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	aber	aber	A	ADV	_	7	adv	_	_
+5	an	an	P	APPR	Acc	7	objp	_	_
+6	ihn	er	P	PPER	3|Sg|Masc|Acc	5	pn	10	10
+7	denken	denken	V	VVINF	_	3	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	immer	immer	A	ADV	_	0	root	_	_
+10	und	und	K	KON	_	9	kon	_	_
+11	immer	immer	A	ADV	_	12	adv	_	_
+12	wieder	wieder	A	ADV	_	10	cj	_	_
+13	.	.	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	gehört	gehören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+5	hierher	hierher	A	ADV	_	3	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+7	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	gehört	gehören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	dahin	dahin	A	ADV	_	3	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	wohin	wohin	P	PWAV	_	9	pp	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	682	682
+8	selbst	selbst	A	ADV	_	9	adv	_	_
+9	gehöre	gehören	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nun	nun	A	ADV	_	3	adv	_	_
+3	schweig	schweigen	V	VVIMP	Sg	1	cj	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	in	in	P	APPR	_	2	pp	_	_
+4	Sicherheit	Sicherheit	N	NN	Fem|_|Sg	3	pn	683	683
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	682	682
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	dich	du	P	PRF	2|Sg|Acc	6	obja	_	_
+4	dann	dann	A	ADV	_	6	adv	_	_
+5	gleich	gleich	A	ADJD	Pos|	6	adv	_	_
+6	mitnehmen	mitnehmen	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	682	682
+3	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	nur	nur	A	ADV	_	3	adv	_	_
+5	mit	mit	P	PTKVZ	_	3	avz	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wenn	wenn	K	KOUS	_	10	konj	_	_
+8	die	die	A	ART	Def|_|_|_	9	det	_	_
+9	andern	andern	A	ADJA	_|_|_	10	subj	_	_
+10	gehen	gehen	V	VVFIN	3|Pl|Pres|_	3	neb	_	_
+11	.	.	$	$.	_	0	root	_	_
+12	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	So	so	A	ADV	_	3	adv	_	_
+3	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	682	682
+5	es	es	P	PPER	3|Sg|Neut|_	7	obja	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	ändern	ändern	V	VVINF	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Bleibe	Bleibe	N	NN	Fem|_|Sg	0	root	_	_
+2	also	also	A	ADV	_	1	adv	_	_
+3	da	da	A	ADV	_	1	adv	_	_
+4	!	!	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	10	10
+2	blickte	blicken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	uns	wir	P	PPER	1|Pl|_|_	2	obja	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	_	_
+5	Reihe	Reihe	N	NN	Fem|Dat|Sg	6	pn	_	_
+6	nach	nach	P	APPO	Dat	2	pp	_	_
+7	an	an	P	PTKVZ	_	2	avz	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	setzte	setzen	V	VVFIN	_|Sg|Past|_	2	kon	_	_
+10	sich	sie	P	PRF	3|_|_	9	obja	_	_
+11	dann	dann	A	ADV	_	12	adv	_	_
+12	mir	ich	P	PPER	1|Sg|_|Dat	9	objd	682	682
+13	gegenüber	gegenüber	P	APPR	Dat	9	pp	_	_
+14	nieder	nieder	A	ADJD	Pos|	13	pn	_	_
+15	und	und	K	KON	_	9	kon	_	_
+16	sagte	sagen	V	VVFIN	_|Sg|Past|_	15	cj	_	_
+17	:	\:	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nach	nach	P	APPR	Dat	5	pp	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	684	684
+4	Beschreibung	Beschreibung	N	NN	Fem|Dat|Sg	2	pn	684	684
+5	vermute	vermuten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	682	682
+7	,	,	$	$,	_	0	root	_	_
+8	daß	daß	K	KOUS	_	12	konj	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	12	subj	97	97
+10	der	die	A	ART	Def|Masc|Nom|Sg	11	det	685	685
+11	Deutsche	Deutsche	N	NN	Masc|Nom|Sg	12	pred	685	685
+12	sind	sein	V	VAFIN	3|Pl|Pres|Ind	5	objc	_	_
+13	?	?	$	$.	_	0	root	_	_
+14	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	682	682
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	7	s	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+7	antwortete	antworten	V	VVFIN	1|Sg|Past|_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	682	682
+9	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	97	97
+3	führen	fahren	V	VVFIN	3|Pl|_|_	0	root	_	_
+4	hier	hier	A	ADV	_	3	adv	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	6	det	686	686
+6	Wort	Wort	N	NN	Neut|_|Sg	3	obja	686	686
+7	,	,	$	$,	_	0	root	_	_
+8	wurde	werden	V	VAFIN	_|Sg|Past|Ind	3	kon	_	_
+9	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	682	682
+10	gesagt	sagen	V	VVPP	_	8	aux	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	und	und	K	KON	_	8	kon	_	_
+13	ich	ich	P	PPER	1|Sg|_|Nom	14	subj	682	682
+14	wende	wenden	V	VVFIN	1|Sg|Pres|_	12	cj	_	_
+15	mich	ich	P	PRF	1|Sg|Acc	14	obja	_	_
+16	deshalb	deshalb	P	PROAV	_	14	pp	_	_
+17	an	an	P	APPR	Acc	14	objp	_	_
+18	Sie	sie	P	PPER	3|_|_|Acc	17	pn	97	97
+19	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	6	obja	_	_
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	97	97
+4	mir	ich	P	PPER	1|Sg|_|Dat	6	objd	682	682
+5	zu	zu	P	PTKZU	_	6	part	_	_
+6	sagen	sagen	V	VVINF	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+8	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Zunächst	zunächst	A	ADV	_	7	adv	_	_
+3	und	und	K	KON	_	2	kon	_	_
+4	mit	mit	P	APPR	Dat	3	cj	_	_
+5	mehr	mehr	A	PIAT	Neut|Dat|Sg	6	det	_	_
+6	Recht	Recht	N	NN	Neut|Dat|Sg	4	pn	_	_
+7	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	682	682
+9	wissen	wissen	V	VVINF	_	7	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	was	was	P	PWS	Neut|_|Sg	15	obja	_	_
+12	Sie	sie	P	PPER	3|Pl|_|Nom	16	subj	97	97
+13	mir	ich	P	PPER	1|Sg|_|Dat	15	objd	682	682
+14	zu	zu	P	PTKZU	_	15	part	_	_
+15	sagen	sagen	V	VVINF	_	16	aux	_	_
+16	haben	haben	V	VAFIN	3|Pl|Pres|_	9	objc	_	_
+17	.	.	$	$.	_	0	root	_	_
+18	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	682	682
+3	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+4	Ihnen	sie	P	PPER	3|Pl|_|Dat	8	objd	97	97
+5	vom	von	P	APPRART	Dat	8	pp	_	_
+6	Major	Major	N	NN	Masc|Dat|Sg	5	pn	589	589
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	melden	melden	V	VVINF	_	3	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	daß	daß	K	KOUS	_	15	konj	_	_
+11	ich	ich	P	PPER	1|Sg|_|Nom	15	subj	682	682
+12	mit	mit	P	APPR	Dat	14	pp	_	_
+13	Ihnen	sie	P	PPER	3|Pl|_|Dat	12	pn	97	97
+14	unterhandeln	unterhandeln	V	VVINF	_	15	aux	_	_
+15	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	8	objc	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	da	da	K	KOUS	_	22	konj	_	_
+18	Sie	sie	P	PPER	3|Pl|_|Nom	22	subj	97	97
+19	es	es	P	PPER	3|Sg|Neut|_	21	obja	_	_
+20	so	so	A	ADV	_	21	adv	_	_
+21	gewünscht	wünschen	V	VVPP	_	22	aux	_	_
+22	haben	haben	V	VAFIN	3|Pl|Pres|_	15	neb	_	_
+23	.	.	$	$.	_	0	root	_	_
+24	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Gut	Gut	N	NN	Neut|_|Sg	0	root	727	727
+3	!	!	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	688	688
+4	zunächst	zunächst	A	ADV	_	7	adv	_	_
+5	die	die	A	ART	Def|Fem|_|Pl	6	det	687	687
+6	Grundlagen	Grundlage	N	NN	Fem|_|Pl	7	obja	687	687
+7	feststellen	feststellen	V	VVINF	_	2	aux	687	687
+8	,	,	$	$,	_	0	root	687	687
+9	auf	auf	P	APPR	Dat	15	pp	687	687
+10	denen	die	P	PRELS	Fem|Dat|Pl	9	pn	687	687
+11	eine	eine	A	ART	Indef|Fem|Nom|Sg	13	det	_	_
+12	solche	solche	A	PIDAT	Fem|Nom|Sg	13	attr	_	_
+13	Unterhandlung	Unterhandlung	N	NN	Fem|Nom|Sg	15	subj	_	_
+14	möglich	möglich	A	ADJD	Pos|	15	pred	_	_
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	rel	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	verlangt	verlangen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	581	581
+4	Major	Major	N	NN	Masc|Nom|Sg	2	subj	581	581
+5	?	?	$	$.	_	0	root	_	_
+6	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Sie	sie	P	PPER	3|_|_|_	0	root	97	97
+3	alle	alle	P	PIS	_|_|_	2	app	_	_
+4	.	.	$	$.	_	0	root	_	_
+5	«	«	$	$(	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Wir	wir	P	PPER	1|Pl|_|Nom	3	subj	688	688
+3	sollen	sollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+4	uns	wir	P	PRF	1|Pl|_	8	obja	_	_
+5	ihm	er	P	PPER	3|Sg|_|Dat	8	objd	10	10
+6	als	als	K	KOKOM	_	8	kom	_	_
+7	Gefangene	Gefangene	N	NN	_|_|_	6	cj	654	654
+8	überliefern	überliefern	V	VVINF	_	3	aux	_	_
+9	?	?	$	$.	_	0	root	_	_
+10	«	«	$	$(	_	0	root	_	_
+

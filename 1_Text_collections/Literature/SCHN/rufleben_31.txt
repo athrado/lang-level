@@ -1,0 +1,442 @@
+1	Das	die	A	ART	Def|Neut|_|Sg	2	det	_	_
+2	Zimmer	Zimmer	N	NN	Neut|_|Sg	0	root	_	_
+3	des	die	A	ART	Def|Masc|Gen|Sg	4	det	455	455
+4	Offiziers	Offizier	N	NN	Masc|Gen|Sg	2	gmod	455	455
+5	Max	Max	N	NE	Masc|Gen|Sg	4	app	455	455
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ziemlich	Ziemlich	A	ADJD	_	2	adv	_	_
+2	klein	klein	A	ADJD	Pos|	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Rechts	rechts	A	ADV	_	2	adv	_	_
+2	vorn	vorn	A	ADV	_	3	adv	_	_
+3	Eingangstür	Eingangstür	N	NN	Fem|_|Sg	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Links	Link	N	NN	Masc|_|_	0	root	452	452
+2	hinten	hinten	A	ADV	_	5	adv	447	447
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	447	447
+4	einfacher	einfach	A	ADJA	Pos|Masc|Nom|Sg|St|	5	attr	447	447
+5	Vorhang	Vorhang	N	NN	Masc|Nom|Sg	7	subj	447	447
+6	,	,	$	$,	_	0	root	447	447
+7	geschlossen	geschlossen	V	VVPP	_	0	root	447	447
+8	,	,	$	$,	_	0	root	447	447
+9	der	die	P	PRELS	Masc|Nom|Sg	13	subj	447	447
+10	zu	zu	P	APPR	Dat	13	objp	_	_
+11	einem	eine	A	ART	Indef|Masc|Dat|Sg	12	det	_	_
+12	Alkoven	Alkoven	N	NN	Masc|Dat|Sg	10	pn	_	_
+13	führt	führen	V	VVFIN	3|Sg|Pres|Ind	5	rel	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Hinten	hinten	A	ADV	_	2	adv	_	_
+2	rechts	rechts	A	ADV	_	4	adv	_	_
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	4	det	_	_
+4	Schrank	Schrank	N	NN	Masc|Nom|Sg	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Vorn	vorn	A	ADV	_	2	adv	448	448
+2	rechts	rechts	A	ADV	_	4	adv	448	448
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	4	det	448	448
+4	Tisch	Tisch	N	NN	Masc|Nom|Sg	0	root	448	448
+5	,	,	$	$,	_	0	root	448	448
+6	vor	vor	P	APPR	Dat	10	objp	448	448
+7	dem	die	P	PRELS	Masc|Dat|Sg	6	pn	448	448
+8	ein	eine	A	ART	Indef|Masc|Nom|Sg	9	det	_	_
+9	Sessel	Sessel	N	NN	Masc|Nom|Sg	10	subj	_	_
+10	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	4	rel	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Hinten	hinten	A	ADV	_	3	adv	449	449
+2	ein	eine	A	ART	Indef|Neut|_|Sg	3	det	449	449
+3	Fenster	Fenster	N	NN	Neut|_|Sg	0	root	449	449
+4	,	,	$	$,	_	0	root	449	449
+5	das	die	P	PRELS	Neut|Nom|Sg	9	subj	449	449
+6	auf	auf	P	APPR	Acc	9	pp	_	_
+7	den	die	A	ART	Def|Masc|Acc|Sg	8	det	_	_
+8	Kasernenhof	Kasernenhof	N	NN	Masc|Acc|Sg	6	pn	_	_
+9	hinausgeht	hinausgehen	V	VVFIN	3|Sg|Pres|Ind	3	rel	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Über	über	P	APPR	Dat	4	objp	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	3	det	450	450
+3	Hof	Hof	N	NN	Masc|Dat|Sg	1	pn	450	450
+4	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	Mondschein	Mondschein	N	NN	Masc|Nom|Sg	4	subj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	450	450
+2	Hof	Hof	N	NN	Masc|Nom|Sg	3	subj	450	450
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	geräumig	geräumig	A	ADJD	Pos|	11	adv	_	_
+6	und	und	K	KON	_	5	kon	_	_
+7	rückwärts	rückwärts	A	ADV	_	6	cj	_	_
+8	durch	durch	P	APPR	Acc	11	pp	_	_
+9	eine	eine	A	ART	Indef|Fem|Acc|Sg	10	det	_	_
+10	Mauer	Mauer	N	NN	Fem|Acc|Sg	8	pn	_	_
+11	geschlossen	geschlossen	V	VVPP	_	3	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	451	451
+2	Zimmer	Zimmer	N	NN	Neut|Nom|Sg	3	subj	451	451
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	parterre	parterre	A	ADV	_	5	adv	_	_
+5	gedacht	denken	V	VVPP	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Links	Link	N	NN	Masc|_|_	0	root	452	452
+2	in	in	P	APPR	Dat	7	pp	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	453	453
+4	Ecke	Eck	N	NN	Fem|Dat|Sg	2	pn	453	453
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+6	eiserner	eisern	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	_	_
+7	Ofen	Ofen	N	NN	Masc|Nom|Sg	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Neben	neben	P	APPR	Dat	6	pp	_	_
+2	dem	die	A	ART	Def|Neut|Dat|Sg	3	det	327	327
+3	Fenster	Fenster	N	NN	Neut|Dat|Sg	1	pn	327	327
+4	links	links	A	ADV	_	1	adv	_	_
+5	eine	eine	A	ART	Indef|Fem|_|Sg	6	det	_	_
+6	Etagere	Etagere	N	NN	Fem|_|Sg	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	einige	einige	A	PIAT	_|_|_	9	det	_	_
+9	Bücher	Buch	N	NN	_|_|_	6	kon	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	oben	oben	A	ADV	_	12	adv	_	_
+12	Flasche	Flasche	N	NN	Fem|_|Sg	9	kon	_	_
+13	und	und	K	KON	_	12	kon	_	_
+14	Trinkgläser	Trinkglas	N	NN	Neut|_|Pl	13	cj	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	An	an	P	APPR	Dat	6	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	454	454
+3	Wand	Wand	N	NN	Fem|Dat|Sg	1	pn	454	454
+4	links	links	A	ADV	_	1	adv	_	_
+5	vorne	vorne	A	ADV	_	1	adv	_	_
+6	Waffen	Waffe	N	NN	Fem|_|Pl	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Neben	neben	P	APPR	Dat	6	pp	_	_
+2	der	die	A	ART	Def|Fem|Dat|Sg	3	det	75	75
+3	Türe	Türe	N	NN	Fem|Dat|Sg	1	pn	75	75
+4	rechts	rechts	A	ADV	_	1	adv	_	_
+5	ein	eine	A	ART	Indef|_|_|Sg	6	det	_	_
+6	Kleiderrechen	Kleiderrechen	N	NN	_|_|Sg	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	an	an	P	APPR	Dat	12	objp	_	_
+9	dem	die	P	PRELS	_|Dat|Sg	8	pn	75	75
+10	ein	eine	A	ART	Indef|Masc|Nom|Sg	11	det	_	_
+11	Mantel	Mantel	N	NN	Masc|Nom|Sg	12	subj	_	_
+12	hängt	hängen	V	VVFIN	3|Sg|Pres|Ind	6	rel	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	4	konj	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	447	447
+3	Vorhang	Vorhang	N	NN	Masc|Nom|Sg	4	subj	447	447
+4	aufgeht	aufgehen	V	VVFIN	3|Sg|Pres|Ind	6	neb	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	Max	Max	N	NE	Masc|Nom|Sg	6	subj	455	455
+8	vor	vor	P	APPR	Dat	6	pp	_	_
+9	dem	die	A	ART	Def|Masc|Dat|Sg	10	det	456	456
+10	Tisch	Tisch	N	NN	Masc|Dat|Sg	8	pn	456	456
+11	,	,	$	$,	_	0	root	456	456
+12	auf	auf	P	APPR	Dat	16	pp	456	456
+13	dem	die	P	PRELS	Masc|Dat|Sg	12	pn	456	456
+14	eine	eine	A	ART	Indef|Fem|Nom|Sg	15	det	_	_
+15	Kerze	Kerze	N	NN	Fem|Nom|Sg	16	subj	_	_
+16	brennt	brennen	V	VVFIN	3|Sg|Pres|Ind	10	rel	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	und	und	K	KON	_	16	kon	_	_
+19	ordnet	ordnen	V	VVFIN	_|_|Pres|_	18	cj	_	_
+20	Papiere	Papier	N	NN	Neut|Nom|Pl	19	subj	_	_
+21	und	und	K	KON	_	20	kon	_	_
+22	Briefe	Brief	N	NN	Masc|Nom|Pl	21	cj	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	455	455
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	PTKVZ	_	2	avz	_	_
+4	und	und	K	KON	_	2	kon	_	_
+5	verbrennt	verbrennen	V	VVFIN	_|_|Pres|Ind	4	cj	_	_
+6	einige	einige	P	PIS	_|_|_	5	obja	_	_
+7	von	von	P	APPR	Dat	6	pp	_	_
+8	den	die	A	ART	Def|Masc|Dat|Pl	9	det	457	457
+9	Briefen	Brief	N	NN	Masc|Dat|Pl	7	pn	457	457
+10	in	in	P	APPR	Dat	5	pp	_	_
+11	dem	die	A	ART	Def|Masc|Dat|Sg	12	det	4	4
+12	Ofen	Ofen	N	NN	Masc|Dat|Sg	10	pn	4	4
+13	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Zwei	zwei	C	CARD	_	3	attr	_	_
+3	Soldaten	Soldat	N	NN	_|Nom|Pl	4	subj	_	_
+4	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	am	an	P	APPRART	Dat	4	pp	_	_
+6	Fenster	Fenster	N	NN	Neut|Dat|Sg	5	pn	15	15
+7	vorbei	vorbei	P	PTKVZ	_	4	avz	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	zwanglos	zwanglos	A	ADJD	Pos|	10	adv	_	_
+10	plaudernd	plaudern	A	ADJD	_|<PPRES	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	3	adv	_	_
+2	eine	eine	A	ART	Indef|Fem|_|Sg	3	det	_	_
+3	Patrouille	Patrouille	N	NN	Fem|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	aus	aus	P	APPR	Dat	3	pp	_	_
+6	vier	vier	C	CARD	_	7	attr	_	_
+7	Soldaten	Soldat	N	NN	_|_|Pl	8	grad	_	_
+8	bestehend	bestehen	A	ADJD	_|<PPRES	5	pn	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	In	in	P	APPR	Dat	6	pp	_	_
+3	der	die	A	ART	Def|Fem|Dat|Sg	4	det	_	_
+4	Ferne	Ferne	N	NN	Fem|Dat|Sg	2	pn	_	_
+5	ein	eine	A	ART	Indef|Neut|_|Sg	6	det	_	_
+6	Trompetensignal	Trompetensignal	N	NN	Neut|_|Sg	0	root	_	_
+7	;	;	$	$.	_	0	root	_	_
+8	dann	dann	A	ADV	_	10	adv	_	_
+9	wieder	wieder	A	ADV	_	10	adv	_	_
+10	Stille	Stille	N	NN	_|_|_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|Nom|Sg	2	subj	455	455
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	an	an	P	APPR	Acc	2	pp	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	2	2
+5	Tisch	Tisch	N	NN	Masc|Acc|Sg	3	pn	2	2
+6	zurück	zurück	P	PTKVZ	_	2	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	3	subj	458	458
+3	tritt	treten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	von	von	P	APPR	_	3	pp	_	_
+5	rechts	rechts	A	ADV	_	4	adv	_	_
+6	ein	ein	P	PTKVZ	_	3	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	2	pred	0	0
+5	?	?	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|Sg|_|Nom	2	subj	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Melde	Melde	N	NN	Fem|_|Sg	0	root	461	461
+2	gehorsamst	gehorsam	A	ADJD	Sup|	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	alles	alle	P	PIS	_|_|Sg	0	root	_	_
+5	in	in	P	APPR	_	4	pp	_	_
+6	Ordnung	Ordnung	N	NN	Fem|_|Sg	5	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	5	adv	_	_
+2	auch	auch	A	ADV	_	5	adv	_	_
+3	die	die	A	ART	Def|Masc|Nom|Pl	5	det	_	_
+4	zwei	zwei	C	CARD	_	5	attr	_	_
+5	Mann	Mann	N	NN	Masc|Nom|Pl	7	subj	_	_
+6	wieder	wieder	A	ADV	_	7	adv	_	_
+7	eingerückt	einrücken	V	VVPP	_	0	root	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Jawohl	Jawohl	N	NN	Neut|_|Sg	0	root	491	491
+2	.	.	$	$.	_	0	root	_	_
+
+1	Vor	vor	P	APPR	Dat	4	pp	_	_
+2	einer	eine	A	ART	Indef|Fem|Dat|Sg	3	det	459	459
+3	Viertelstunde	Viertelstunde	N	NN	Fem|Dat|Sg	1	pn	459	459
+4	gekommen	kommen	V	VVPP	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Habe	haben	V	VAFIN	3|Sg|Pres|Subj	0	root	_	_
+2	sie	sie	P	PPER	3|Sg|Fem|Nom	1	subj	459	459
+3	für	für	P	APPR	Acc	2	pp	_	_
+4	morgen	morgen	A	ADV	_	3	adv	_	_
+5	zum	zu	P	APPRART	Dat	7	pp	_	_
+6	Rapport	Rapport	N	NN	_|Dat|Sg	5	pn	_	_
+7	bestimmt	bestimmen	V	VVPP	_	1	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Für	für	P	APPR	Acc	0	root	_	_
+2	morgen	morgen	A	ADV	_	1	adv	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	sei	sein	V	VAFIN	3|Sg|Pres|Subj	0	root	_	_
+3	ihnen	sie	P	PPER	3|Pl|_|Dat	4	objd	460	460
+4	geschenkt	schenken	V	VVPP	_	2	aux	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	470	470
+2	Herr	Herr	N	NN	Masc|Nom|Sg	4	subj	470	470
+3	Oberst	Oberst	N	NN	Masc|Nom|Sg	2	app	470	470
+4	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	noch	noch	A	ADV	_	7	adv	_	_
+6	gar	gar	A	ADV	_	7	adv	_	_
+7	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	12	konj	_	_
+10	sie	sie	P	PPER	3|Pl|_|Nom	12	subj	460	460
+11	abgängig	abgängig	A	ADJD	Pos|	12	pred	_	_
+12	waren	sein	V	VAFIN	3|Pl|Past|Ind	4	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Jetzt	jetzt	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	keine	keine	A	PIAT	Fem|Nom|Sg	4	det	_	_
+4	Zeit	Zeit	N	NN	Fem|Nom|Sg	2	subj	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	strafen	strafen	V	VVINF	_	2	aux	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	guter	gut	A	ADJA	Pos|Masc|Nom|Sg|St|	10	attr	_	_
+10	Freund	Freund	N	NN	Masc|Nom|Sg	2	vok	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	denkst	denken	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	15	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Sebastian	Sebastian	N	NE	Masc|Nom|Sg	4	app	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wollten	wollen	V	VMFIN	3|Pl|Past|_	0	root	_	_
+9	sie	sie	P	PPER	3|Pl|_|Nom	8	subj	460	460
+10	sich	sie	P	PRF	3|_|_	15	obja	_	_
+11	wirklich	wirklich	A	ADJD	Pos|	15	adv	_	_
+12	aus	aus	P	APPR	Dat	11	pp	_	_
+13	dem	die	A	ART	Def|Masc|Dat|Sg	14	det	_	_
+14	Staube	Staub	N	NN	Masc|Dat|Sg	12	pn	_	_
+15	machen	machen	V	VVINF	_	8	aux	_	_
+16	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Melde	Melde	N	NN	Fem|_|Sg	0	root	461	461
+2	gehorsamst	gehorsam	A	ADJD	Sup|	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	sie	sie	P	PPER	3|Pl|_|Nom	5	subj	460	460
+5	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+6	wieder	wieder	A	ADV	_	5	adv	_	_
+7	da	da	A	ADV	_	5	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	462	462
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|_	5	expl	_	_
+5	gewußt	gewußt	V	VVPP	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	12	konj	_	_
+8	sie	sie	P	PPER	3|Pl|_|Nom	12	subj	460	460
+9	wieder	wieder	A	ADV	_	11	adv	_	_
+10	da	da	A	ADV	_	11	adv	_	_
+11	sein	sein	V	VAINF	_	12	aux	_	_
+12	werden	werden	V	VAFIN	3|Pl|Pres|_	5	objc	_	_
+13	zu	zu	P	APPR	Dat	11	pp	_	_
+14	rechter	recht	A	ADJA	Pos|Fem|Dat|Sg|St|	15	attr	_	_
+15	Zeit	Zeit	N	NN	Fem|Dat|Sg	13	pn	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	4	pp	_	_
+2	unserer	unsre	A	PPOSAT	Fem|Dat|Sg	3	det	_	_
+3	Schwadron	Schwadron	N	NN	Fem|Dat|Sg	1	pn	_	_
+4	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_|Sg|_|Nom	4	subj	0	0
+7	keine	keine	A	PIAT	Masc|_|Pl	8	det	_	_
+8	Feiglinge	Feigling	N	NN	Masc|_|Pl	4	obja	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	5	pp	_	_
+2	übrigen	übrig	A	ADJA	Pos|_|_|Pl|_|	3	attr	_	_
+3	komm	komm	C	CARD	_	1	pn	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	0	root	462	462
+6	vorm	vor	P	APPRART	Dat	5	pp	_	_
+7	Schlafengehen	Schlafengehe	N	NN	_|Dat|_	6	pn	_	_
+8	noch	noch	A	ADV	_	9	adv	_	_
+9	einmal	einmal	A	ADV	_	7	adv	_	_
+10	ins	in	P	APPRART	Acc	7	pp	_	_
+11	Mannschaftszimmer	Mannschaftszimmer	N	NN	Neut|Acc|_	10	pn	_	_
+12	und	und	K	KON	_	0	root	_	_
+13	werde	werden	V	VAFIN	_|Sg|Pres|_	12	cj	_	_
+14	selber	selber	A	ADV	_	19	adv	_	_
+15	mit	mit	P	APPR	Dat	19	pp	_	_
+16	den	die	A	ART	Def|_|Dat|Pl	18	det	_	_
+17	zwei	zwei	C	CARD	_	18	attr	_	_
+18	Leuten	Leute	N	NN	_|Dat|Pl	15	pn	_	_
+19	sprechen	sprechen	V	VVINF	_	13	aux	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nun	nun	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	0	root	463	463
+6	?	?	$	$.	_	0	root	_	_
+
+1	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	463	463
+3	den	die	P	PDS	Masc|Acc|Sg	6	obja	_	_
+4	Deinen	deine	A	PPOSAT	_|Dat|_	5	det	245	245
+5	Lebewohl	Lebewohl	N	NN	_|Dat|_	6	objd	245	245
+6	gesagt	sagen	V	VVPP	_	1	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	458	458
+2	Unteroffizier	Unteroffizier	N	NN	Masc|Nom|Sg	0	root	458	458
+3	.	.	$	$.	_	0	root	_	_
+
+1	Jawohl	Jawohl	N	NN	Neut|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	1	app	_	_
+4	Leutnant	Leutnant	N	NN	Masc|_|Sg	3	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Meiner	meine	A	PPOSAT	Fem|Dat|Sg	2	det	464	464
+2	Mutter	Mutter	N	NN	Fem|Dat|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	meinem	meine	A	PPOSAT	Masc|Dat|Sg	5	det	464	464
+5	Vater	Vater	N	NN	Masc|Dat|Sg	2	kon	_	_
+6	und	und	K	KON	_	5	kon	_	_
+7	meiner	meine	A	PPOSAT	Fem|Dat|Sg	8	det	464	464
+8	Braut	Braut	N	NN	Fem|Dat|Sg	6	cj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Max	Max	N	NE	Masc|_|Sg	0	root	455	455
+2	.	.	$	$.	_	0	root	_	_
+

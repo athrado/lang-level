@@ -1,0 +1,111 @@
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	aus	aus	PREP	APPR	Dat	2	objp	_	-
+4	Deutschland	Deutschland	N	NE	Neut|Dat|Sg	3	pn	_	(5)
+5	,	,	$,	$,	_	0	root	_	-
+6	aus	aus	PREP	APPR	Dat	3	kon	_	-
+7	Gelsenkirchen	Gelsenkirchen	N	NE	Neut|Dat|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Fußballspieler	Fußballspieler	N	NN	Masc|Nom|_	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Sein	seine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)|(1
+2	Vater	Vater	N	NN	Masc|Nom|Sg	6	subj	_	1)
+3	und	und	KON	KON	_	2	kon	_	-
+4	seine	seine	ART	PPOSAT	Fem|Nom|Sg	5	det	_	(1)
+5	Mutter	Mutter	N	NN	Fem|Nom|Sg	3	cj	_	-
+6	kommen	kommen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+7	aus	aus	PREP	APPR	Dat	6	objp	_	-
+8	der	die	ART	ART	Def|Fem|Dat|Sg	9	det	_	(4
+9	Türkei	Türkei	N	NE	Fem|Dat|Sg	7	pn	_	4)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	einen	eine	ART	ART	Indef|Masc|Acc|Sg	4	det	_	-
+4	Bruder	Bruder	N	NN	Masc|Acc|Sg	2	obja	_	-
+5	und	und	KON	KON	_	4	kon	_	-
+6	zwei	zwei	CARD	CARD	_	7	attr	_	-
+7	Schwestern	Schwester	N	NN	Fem|Acc|Pl	5	cj	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	24	24	CARD	CARD	_	4	attr	_	-
+4	Jahre	Jahr	N	NN	Neut|_|Pl	5	grad	_	-
+5	alt	alt	ADV	ADJD	Pos|	2	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	4	adv	_	-
+4	verheiratet	verheiraten	V	VVPP	_	2	aux	_	-
+5	und	und	KON	KON	_	2	kon	_	-
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	cj	_	-
+7	keine	keine	ART	PIAT	Neut|_|Pl	8	det	_	(2
+8	Kinder	Kind	N	NN	Neut|_|Pl	6	obja	_	2)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|Nom|Sg	4	det	_	-
+4	Freundin	Freundin	N	NN	Fem|Nom|Sg	2	pred	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	sie	sie	PRO	PPER	3|_|_|_	0	root	_	(2)
+7	heißt	heißen	V	VVPP	_	0	root	_	-
+8	Ebru	Ebru	N	NE	_	0	root	_	(3
+9	Polat	Polat	N	NE	_	8	app	_	3)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(3)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Sängerin	Sängerin	N	NN	Fem|Nom|Sg	2	pred	_	-
+4	und	und	KON	KON	_	2	kon	_	-
+5	sie	sie	PRO	PPER	3|Sg|Fem|Nom	6	subj	_	(3)
+6	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	4	cj	_	-
+7	aus	aus	PREP	APPR	Dat	6	objp	_	-
+8	der	die	ART	ART	Def|Fem|Dat|Sg	9	det	_	(4
+9	Türkei	Türkei	N	NE	Fem|Dat|Sg	7	pn	_	4)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	lebt	leben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	und	und	KON	KON	_	2	kon	_	-
+4	arbeitet	arbeiten	V	VVFIN	_|_|Pres|_	3	cj	_	-
+5	seit	seit	PREP	APPR	Dat	4	pp	_	-
+6	2010	2010	CARD	CARD	_	5	pn	_	-
+7	in	in	PREP	APPR	_	4	pp	_	-
+8	Spanien	Spanien	N	NE	Neut|_|Sg	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	spielt	spielen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	für	für	PREP	APPR	Acc	2	pp	_	-
+4	Real	Real	N	NE	Neut|Acc|Sg	3	pn	_	-
+5	Madrid	Madrid	N	NE	Neut|Acc|Sg	4	app	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(1)
+2	spielt	spielen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	auch	auch	ADV	ADV	_	2	adv	_	-
+4	für	für	PREP	APPR	Acc	2	pp	_	-
+5	Deutschland	Deutschland	N	NE	Neut|Acc|Sg	4	pn	_	(5)
+6	,	,	$,	$,	_	0	root	_	-
+7	für	für	PREP	APPR	Acc	4	kon	_	-
+8	die	die	ART	ART	Def|Fem|Acc|Sg	9	det	_	-
+9	Nationalmannschaft	Nationalmannschaft	N	NN	Fem|Acc|Sg	7	pn	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	-
+2	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	:	\:	$.	$.	_	0	root	_	-
+4	„	„	FM	FM	Masc|Nom|Sg	6	subj	_	-
+5	Fußball	Fußball	N	NN	Masc|Nom|Sg	4	app	_	-
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+7	international	international	ADV	ADJD	Pos|	6	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+9	“	“	$(	$(	_	0	root	_	-
+

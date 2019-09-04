@@ -1,0 +1,375 @@
+1	-	-	$	$(	_	0	root	_	_
+2	Nahm	nehmen	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+3	den	die	A	ART	Def|Masc|Acc|Sg	5	det	_	_
+4	goldenen	golden	A	ADJA	Pos|Masc|Acc|Sg|_|	5	attr	_	_
+5	Teller	Teller	N	NN	Masc|Acc|Sg	2	obja	_	_
+6	heraus	heraus	P	PTKVZ	_	2	avz	_	_
+7	und	und	K	KON	_	2	kon	_	_
+8	überreichte	überreichen	V	VVFIN	_|Sg|Past|_	7	cj	_	_
+9	ihn	er	P	PPER	3|Sg|Masc|Acc	8	obja	2	2
+10	dem	die	A	ART	Def|Masc|Dat|Sg	11	det	28	28
+11	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	8	objd	28	28
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ach	ach	I	ITJ	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	nun	nun	A	ADV	_	1	cj	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Der	die	A	ART	Def|Masc|Nom|Sg	3	det	28	28
+3	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	4	subj	28	28
+4	wollte	wollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+5	ihn	er	P	PPER	3|Sg|Masc|Acc	9	obja	2	2
+6	in	in	P	APPR	Acc	9	objp	_	_
+7	die	die	A	ART	Def|Fem|Acc|Sg	8	det	195	195
+8	Hand	Hand	N	NN	Fem|Acc|Sg	6	pn	195	195
+9	nehmen	nehmen	V	VVINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wollte	wollen	V	VMFIN	_|Sg|Past|_	0	root	_	_
+3	bloß	bloß	A	ADV	_	2	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Nahm	nehmen	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	2	2
+5	ließ	lassen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+6	ihn	er	P	PPER	3|Sg|Masc|Acc	5	obja	_	_
+7	fallen	fallen	V	VVINF	_	5	obji	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Oh	oh	I	ITJ	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	da	da	A	ADV	_	6	adv	_	_
+6	floß	floß	V	VVFIN	_|Sg|_|_	4	cj	_	_
+7	der	die	A	ART	Def|Masc|Nom|Sg	8	det	99	99
+8	Drachenspeichel	Drachenspeichel	N	NN	Masc|Nom|Sg	6	subj	99	99
+9	auf	auf	P	APPR	Acc	6	pp	_	_
+10	den	die	A	ART	Def|Masc|Acc|Sg	11	det	100	100
+11	Boden	Boden	N	NN	Masc|Acc|Sg	9	pn	100	100
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	War	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+2	der	die	P	PDS	Masc|Nom|Sg	1	subj	_	_
+3	denn	denn	A	ADV	_	9	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+5	in	in	P	APPR	Dat	9	pp	_	_
+6	den	die	A	ART	Def|Neut|Dat|Pl	8	det	_	_
+7	1000	1000	C	CARD	_	8	attr	_	_
+8	Jahren	Jahr	N	NN	Neut|Dat|Pl	5	pn	_	_
+9	eingetrocknet	eintrocknen	V	VVPP	_	1	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nein	nein	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	5	subj	2	2
+5	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+6	ganz	ganz	A	ADV	_	7	adv	_	_
+7	frisch	frisch	A	ADJD	Pos|	5	pred	_	_
+8	und	und	K	KON	_	5	kon	_	_
+9	verwandelte	verwandeln	V	VVFIN	_|Sg|Past|_	8	cj	_	_
+10	sich	sie	P	PRF	3|_|_	9	obja	_	_
+11	in	in	P	APPR	Acc	9	pp	_	_
+12	eine	eine	A	ART	Indef|Fem|Acc|Sg	14	det	_	_
+13	kleine	klein	A	ADJA	Pos|Fem|Acc|Sg|_|	14	attr	_	_
+14	Schildkröte	Schildkröte	N	NN	Fem|Acc|Sg	11	pn	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	T	T	N	NN	_|_|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	t	t	A	ADJD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	t	t	A	ADJD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	die	die	P	PDS	Fem|Nom|Sg	6	subj	_	_
+6	lief	laufen	V	VVFIN	3|Sg|Past|Ind	4	cj	_	_
+7	nun	nun	A	ADV	_	6	adv	_	_
+8	auf	auf	P	APPR	Dat	6	pp	_	_
+9	dem	die	A	ART	Def|Masc|Dat|Sg	10	det	_	_
+10	Burghofe	Burghof	N	NN	Masc|Dat|Sg	8	pn	_	_
+11	rum	rum	P	PTKVZ	_	6	avz	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	immer	immer	A	ADV	_	14	adv	_	_
+14	so	so	A	ADV	_	15	adv	_	_
+15	im	in	P	APPRART	Dat	6	pp	_	_
+16	Kreise	Kreis	N	NN	Masc|Dat|Sg	15	pn	1127	1127
+17	,	,	$	$,	_	0	root	_	_
+18	immer	immer	A	ADV	_	15	adv	_	_
+19	rum	rum	P	PTKVZ	_	0	root	_	_
+20	,	,	$	$,	_	0	root	_	_
+21	immer	immer	A	ADV	_	0	root	_	_
+22	rum	rum	P	PTKVZ	_	0	root	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	das	die	A	ART	Def|Neut|_|Sg	3	det	105	105
+2	sonderbare	sonderbar	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	105	105
+3	Tierchen	Tierchen	N	NN	Neut|_|Sg	0	root	105	105
+4	.	.	$	$.	_	0	root	_	_
+
+1	ganz	ganz	A	ADV	_	2	adv	_	_
+2	rot	rot	A	ADJD	Pos|	3	adv	_	_
+3	sahs	sahs	C	CARD	_	0	root	_	_
+4	aus	aus	A	APZR	_	0	root	_	_
+5	am	an	P	APPRART	Dat	0	root	_	_
+6	Schilde	Schild	N	NN	_|Dat|Sg	5	pn	_	_
+7	oben	oben	A	ADV	_	6	adv	_	_
+8	und	und	K	KON	_	0	root	_	_
+9	hatte	haben	V	VAFIN	_|Sg|Past|Ind	8	cj	_	_
+10	rote	rot	A	ADJA	Pos|Neut|_|Pl|St|	11	attr	203	203
+11	Augen	Auge	N	NN	Neut|_|Pl	9	obja	203	203
+12	,	,	$	$,	_	0	root	_	_
+13	und	und	K	KON	_	9	kon	_	_
+14	die	die	A	ART	Def|Neut|Nom|Pl	15	det	476	476
+15	Beine	Bein	N	NN	Neut|Nom|Pl	16	subj	476	476
+16	waren	sein	V	VAFIN	3|Pl|Past|Ind	13	cj	_	_
+17	auch	auch	A	ADV	_	16	adv	_	_
+18	rot	rot	A	ADJD	Pos|	16	pred	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	101	101
+5	Kröte	Kröte	N	NN	Fem|_|Sg	7	obja	101	101
+6	denn	denn	A	ADV	_	7	adv	_	_
+7	gesehen	sehen	V	VVPP	_	2	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	0	root	28	28
+5	.	.	$	$.	_	0	root	_	_
+
+1	hab	hab	V	VAFIN	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	..	..	$	$.	_	0	root	_	_
+2	die	die	A	ART	Def|Fem|_|Sg	3	det	101	101
+3	Kröte	Kröte	N	NN	Fem|_|Sg	0	root	101	101
+4	.	.	$	$.	_	0	root	_	_
+
+1	gesehn	gesehn	A	ADJD	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	und	und	K	KON	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	_	_
+3	sah	sehen	V	VVFIN	1|Sg|Past|Ind	1	cj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	wie	wie	P	PWAV	_	9	adv	_	_
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	102	102
+7	Kammerherr	Kammerherr	N	NN	Masc|Nom|Sg	10	subj	102	102
+8	sie	sie	P	PPER	3|_|_|_	9	obja	_	_
+9	fangen	fangen	V	VVINF	_	10	aux	_	_
+10	wollte	wollen	V	VMFIN	3|Sg|Past|_	3	objc	_	_
+11	und	und	K	KON	_	0	root	_	_
+12	immer	immer	A	ADV	_	13	adv	_	_
+13	psch	psch	A	ADJD	_	11	cj	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	psch	psch	A	ADJD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	kiß	kiß	A	ADJD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	kiß	kiß	A	ADJD	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	machte	machen	V	VVFIN	_|Sg|Past|_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	aber	aber	A	ADV	_	2	adv	_	_
+2	da	da	A	ADV	_	3	adv	_	_
+3	lief	laufen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	3	subj	103	103
+5	so	so	A	ADV	_	6	adv	_	_
+6	schnell	schnell	A	ADJD	Pos|	3	adv	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	so	so	A	ADV	_	9	adv	_	_
+9	schnell	schnell	A	ADJD	Pos|	10	adv	_	_
+10	lief	laufen	V	VVFIN	3|Sg|Past|Ind	3	kon	_	_
+11	sie	sie	P	PPER	3|Sg|Fem|Nom	10	subj	103	103
+12	mit	mit	P	APPR	Dat	10	pp	_	_
+13	ihren	ihre	A	PPOSAT	Neut|Dat|_	15	det	103	103
+14	roten	rot	A	ADJA	Pos|Neut|Dat|_|_|	15	attr	_	_
+15	Beinen	Bein	N	NN	Neut|Dat|_	12	pn	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	ins	in	P	APPRART	Acc	0	root	_	_
+2	Zimmer	Zimmer	N	NN	Neut|Acc|_	1	pn	_	_
+3	des	die	A	ART	Def|Masc|Gen|Sg	4	det	28	28
+4	Kaisers	Kaiser	N	NN	Masc|Gen|Sg	2	gmod	28	28
+5	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Die	die	A	ART	Def|Fem|_|Sg	3	det	101	101
+3	Kröte	Kröte	N	NN	Fem|_|Sg	0	root	101	101
+4	.	.	$	$.	_	0	root	_	_
+
+1	ins	in	P	APPRART	Acc	0	root	_	_
+2	Zimmer	Zimmer	N	NN	Neut|Acc|_	1	pn	_	_
+3	des	die	A	ART	Def|Masc|Gen|Sg	4	det	28	28
+4	Kaisers	Kaiser	N	NN	Masc|Gen|Sg	2	gmod	28	28
+5	.	.	$	$.	_	0	root	_	_
+
+1	mit	mit	P	APPR	Dat	0	root	_	_
+2	den	die	A	ART	Def|Neut|Dat|Pl	4	det	_	_
+3	roten	rot	A	ADJA	Pos|Neut|Dat|Pl|_|	4	attr	_	_
+4	Beinen	Bein	N	NN	Neut|Dat|Pl	1	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	cj	104	104
+6	,	,	$	$,	_	0	root	_	_
+7	mein	meine	A	PPOSAT	Masc|Nom|Sg	8	det	104	104
+8	Gott	Gott	N	NN	Masc|Nom|Sg	5	app	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	zwanzig	zwanzig	C	CARD	_	11	objd	_	_
+11	war	sein	V	VAFIN	1|Sg|Past|Ind	0	root	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	104	104
+13	gerade	gerade	A	ADV	_	11	adv	_	_
+14	vorbei	vorbei	A	ADV	_	11	pred	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	ich	ich	P	PPER	1|Sg|_|Nom	0	root	104	104
+17	.	.	$	$.	_	0	root	_	_
+
+1	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	104	104
+2	mußte	müssen	V	VMFIN	1|Sg|Past|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	lachen	lachen	V	VVINF	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wie	wie	P	PWAV	_	7	adv	_	_
+4	das	die	A	ART	Def|Neut|Nom|Sg	5	det	105	105
+5	Tierchen	Tierchen	N	NN	Neut|Nom|Sg	7	subj	105	105
+6	so	so	A	ADV	_	7	adv	_	_
+7	lief	laufen	V	VVFIN	3|Sg|Past|Ind	23	objc	_	_
+8	und	und	K	KON	_	7	kon	_	_
+9	der	die	A	ART	Def|Masc|Nom|Sg	10	det	106	106
+10	Kammerherr	Kammerherr	N	NN	Masc|Nom|Sg	14	subj	106	106
+11	gegen	gegen	P	APPR	Acc	10	pp	106	106
+12	die	die	A	ART	Def|Masc|Acc|Pl	13	det	106	106
+13	Türpfosten	Türpfosten	N	NN	Masc|Acc|Pl	11	pn	106	106
+14	rannte	rennen	V	VVFIN	3|Sg|Past|Ind	8	cj	_	_
+15	mit	mit	P	APPR	Dat	14	pp	_	_
+16	seinem	seine	A	PPOSAT	Masc|Dat|Sg	18	det	106	106
+17	spitzen	spitz	A	ADJA	Pos|Masc|Dat|Sg|Wk|	18	attr	_	_
+18	Kopfe	Kopf	N	NN	Masc|Dat|Sg	15	pn	_	_
+19	und	und	K	KON	_	18	kon	_	_
+20	sich	sie	P	PRF	3|_|Dat	19	cj	_	_
+21	die	die	A	ART	Def|Fem|Nom|Sg	22	det	135	135
+22	Stirne	Stirne	N	NN	Fem|Nom|Sg	23	subj	135	135
+23	rieb	reiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	rief	rufen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	28	28
+4	Kaiser	Kaiser	N	NN	Masc|Nom|Sg	2	subj	28	28
+5	:	\:	$	$.	_	0	root	_	_
+6	Du	du	P	PPER	2|Sg|_|Nom	0	root	107	107
+7	!	!	$	$.	_	0	root	_	_
+
+1	was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	107	107
+4	da	da	A	ADV	_	2	adv	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	auch	auch	A	ADV	_	1	adv	_	_
+3	so	so	A	ADV	_	5	adv	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	5	det	_	_
+5	Kröte	Kröte	N	NN	Fem|Nom|Sg	1	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Komm	kommen	V	VVIMP	Sg	0	root	_	_
+2	mal	mal	A	ADV	_	1	adv	_	_
+3	her	her	P	PTKVZ	_	1	avz	_	_
+4	und	und	K	KON	_	1	kon	_	_
+5	heb	heben	V	VVIMP	Sg	4	cj	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	94	94
+7	Teller	Teller	N	NN	Masc|Acc|Sg	5	obja	94	94
+8	auf	auf	P	PTKVZ	_	5	avz	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	lachte	lachen	V	VVFIN	_|Sg|Past|_	1	cj	_	_
+3	auch	auch	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Lachte	lachen	V	VVFIN	_|Sg|Past|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	auch	auch	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	108	108
+2	hätte	haben	V	VAFIN	1|Sg|Past|Subj	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+4	gelacht	lachen	V	VVPP	_	2	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	cj	_	_
+3	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	108	108
+3	ging	gehen	V	VVFIN	1|Sg|Past|Ind	0	root	_	_
+4	zum	zu	P	APPRART	Dat	3	objp	_	_
+5	Kaiser	Kaiser	N	NN	Masc|Dat|Sg	4	pn	320	320
+6	und	und	K	KON	_	4	kon	_	_
+7	da	da	A	ADV	_	6	cj	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	da	da	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	huh	huh	A	ADJD	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	0	root	_	_
+4	grausts	grausts	N	NE	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	da	da	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+

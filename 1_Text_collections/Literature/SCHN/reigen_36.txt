@@ -1,0 +1,470 @@
+1	Dichter	dicht	A	ADJA	Pos|Fem|Dat|Sg|St|	2	attr	_	_
+2	Bewiesen	Bewiesen	N	NN	Fem|Dat|Sg	7	objd	_	_
+3	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+5	überhaupt	überhaupt	A	ADV	_	6	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	werden	werden	V	VAINF	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	aber	aber	A	ADV	_	3	adv	_	_
+5	großartig	großartig	A	ADJD	Pos|	3	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	2	obja	_	_
+2	willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	621	621
+4	denn	denn	A	ADV	_	2	adv	_	_
+5	noch	noch	A	ADV	_	2	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJD	Comp|	0	root	_	_
+2	Wie	Wie	P	PWAV	_	0	root	_	_
+3	vielen	viele	P	PIS	_|_|_	0	root	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	621	621
+6	es	es	P	PPER	3|Sg|Neut|_	11	obja	_	_
+7	schon	schon	A	ADV	_	11	adv	_	_
+8	auf	auf	P	APPR	Acc	11	pp	_	_
+9	diese	diese	A	PDAT	Fem|Acc|Sg	10	det	622	622
+10	Art	Art	N	NN	Fem|Acc|Sg	8	pn	622	622
+11	beweisen	beweisen	V	VVINF	_	12	aux	_	_
+12	wollen	wollen	V	VMINF	_	4	aux	_	_
+13	...	...	$	$.	_	0	root	_	_
+14	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+15	du	du	P	PPER	2|Sg|_|Nom	14	subj	621	621
+16	alle	alle	P	PIS	_|Nom|_	15	app	_	_
+17	geliebt	lieben	V	VVPP	_	14	aux	_	_
+18	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Neut|_|_	0	root	623	623
+2	O	O	N	NN	Neut|_|_	1	app	623	623
+3	nein	nein	P	PTKANT	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Geliebt	lieben	V	VVPP	_	2	aux	_	_
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	624	624
+5	nur	nur	A	ADV	_	1	adv	_	_
+6	einen	eine	P	PIS	_|_|_	1	obja	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	Masc|Nom|Sg	2	subj	591	591
+2	umarmt	umarmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|_|_|_	2	obja	623	623
+4	Mein	meine	A	PPOSAT	_|_|Sg	0	root	624	624
+5	...	...	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	578	578
+2	Fritz	Fritz	N	NE	Masc|_|Sg	1	app	578	578
+3	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	573	573
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	624	624
+3	heiße	heißen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	Robert	Robert	N	NE	_|Nom|_	3	pred	510	510
+5	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|Nom|Sg	2	pred	_	_
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	denn	denn	A	ADV	_	2	adv	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	624	624
+5	für	für	P	APPR	Acc	2	pp	_	_
+6	dich	du	P	PRF	2|Sg|Acc	5	pn	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	wenn	wenn	K	KOUS	_	13	konj	_	_
+9	du	du	P	PPER	2|Sg|_|Nom	13	subj	625	625
+10	jetzt	jetzt	A	ADV	_	13	adv	_	_
+11	an	an	P	APPR	_	13	objp	_	_
+12	Fritz	Fritz	N	NE	Masc|_|Sg	11	pn	578	578
+13	denkst	denken	V	VVFIN	2|Sg|Pres|Ind	2	neb	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Du	du	P	PPER	2|Sg|_|Nom	3	subj	625	625
+3	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|Nom|Sg	5	det	_	_
+5	Laune	Laune	N	NN	Fem|Nom|Sg	3	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	_	_
+2	Gut	Gut	N	NN	Neut|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	daß	daß	K	KOUS	_	7	konj	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	809	809
+6	es	es	P	PPER	3|Sg|Neut|_	7	obja	_	_
+7	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	2	objc	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|Nom|Sg	3	subj	_	_
+2	Nun	nun	A	ADV	_	1	adv	_	_
+3	sag	sag	V	VVFIN	_|Sg|_|_	5	s	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+7	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+8	stolz	stolz	A	ADJD	Pos|	5	pred	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|Fem|Gen|Pl|St|	2	attr	_	_
+2	Ja	Ja	N	NN	Fem|Gen|Pl	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	weshalb	weshalb	P	PWAV	_	5	adv	_	_
+5	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	2	objc	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	626	626
+7	denn	denn	A	ADV	_	9	adv	_	_
+8	stolz	stolz	A	ADJD	Pos|	9	pred	_	_
+9	sein	sein	V	VAINF	_	5	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	626	626
+3	denke	denken	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	daß	daß	K	KOUS	_	11	konj	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	11	subj	_	_
+7	wohl	wohl	A	ADV	_	11	adv	_	_
+8	einen	eine	A	ART	Indef|Masc|Acc|Sg	9	det	_	_
+9	Grund	Grund	N	NN	Masc|Acc|Sg	11	obja	_	_
+10	dazu	dazu	P	PROAV	_	11	pp	_	_
+11	hast	haben	V	VAFIN	2|Sg|Pres|Ind	3	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	230	230
+2	Ach	Ach	N	NN	_|_|_	0	root	230	230
+3	deswegen	deswegen	P	PROAV	_	2	pp	230	230
+4	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	641	641
+2	Jawohl	Jawohl	N	NE	Fem|_|Sg	1	app	641	641
+3	,	,	$	$,	_	0	root	_	_
+4	deswegen	deswegen	P	PROAV	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	meine	meine	A	PPOSAT	Fem|_|Sg	8	det	_	_
+7	blasse	blass	A	ADJA	Pos|Fem|_|Sg|_|	8	attr	_	_
+8	Grille	Grille	N	NN	Fem|_|Sg	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nun	nun	A	ADV	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	5	adv	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+7	mit	mit	P	APPR	Dat	5	pp	_	_
+8	dem	die	A	ART	Def|Neut|Dat|Sg	9	det	_	_
+9	Zirpen	Zirpen	N	NN	Neut|Dat|Sg	7	pn	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Zirpen	zirpen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	noch	noch	A	ADV	_	1	adv	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	627	627
+2	Ununterbrochen	Ununterbrochen	N	NN	_|_|_	0	root	627	627
+3	.	.	$	$.	_	0	root	_	_
+
+1	Hörst	hören	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	1	obja	627	627
+5	denn	denn	A	ADV	_	1	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Freilich	freilich	A	ADV	_	3	adv	_	_
+3	hör	hören	V	VVIMP	Sg	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	0	root	628	628
+6	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	das	die	P	PDS	Neut|Nom|Sg	3	subj	_	_
+3	sind	sein	V	VAFIN	_|Pl|Pres|Ind	1	cj	_	_
+4	Frösche	Frosch	N	NN	Masc|Nom|Pl	3	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mein	meine	A	PPOSAT	Neut|Nom|Sg	7	det	628	628
+7	Kind	Kind	N	NN	Neut|Nom|Sg	4	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	_	_
+2	Du	Du	N	NN	Neut|_|Sg	3	obja	_	_
+3	irrst	irren	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	0	root	_	_
+5	;	;	$	$.	_	0	root	_	_
+6	die	die	P	PDS	_|Nom|Pl	7	subj	_	_
+7	quaken	quaken	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Gewiß	gewiß	A	ADJD	Pos|	3	adv	_	_
+3	quaken	quaken	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+4	sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	_	_
+2	Aber	Aber	N	NN	_|Nom|Sg	10	subj	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	hier	hier	A	ADV	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mein	meine	A	PPOSAT	Neut|Nom|Sg	7	det	630	630
+7	Kind	Kind	N	NN	Neut|Nom|Sg	2	app	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	hier	hier	A	ADV	_	2	adv	_	_
+10	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+11	gezirpt	gezirpt	N	NE	_|Nom|_	10	pred	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	wohl	wohl	A	ADV	_	3	adv	_	_
+5	das	die	A	ART	Def|Neut|Nom|Sg	6	det	629	629
+6	Eigensinnigste	Eigensinnigste	N	NN	Neut|Nom|Sg	3	pred	629	629
+7	,	,	$	$,	_	0	root	_	_
+8	was	was	P	PRELS	Neut|Nom|Sg	12	subj	629	629
+9	mir	ich	P	PPER	1|Sg|_|Dat	11	objd	630	630
+10	je	je	A	ADV	_	11	adv	_	_
+11	untergekommen	unterkommen	V	VVPP	_	12	aux	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	3	objc	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Gib	geben	V	VVIMP	Sg	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	1	objd	630	630
+3	einen	eine	A	ART	Indef|Masc|Acc|Sg	4	det	_	_
+4	Kuß	Kuß	N	NN	Masc|Acc|Sg	1	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mein	meine	A	PPOSAT	Masc|Nom|Sg	7	det	630	630
+7	Frosch	Frosch	N	NN	Masc|Nom|Sg	4	app	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|Fem|_|Sg|St|	2	attr	_	_
+2	Bitte	Bitte	N	NN	Fem|_|Sg	5	vok	_	_
+3	sehr	sehr	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	nenn	nenn	V	VVFIN	_	0	root	_	_
+6	mich	ich	P	PPER	1|Sg|_|Acc	5	obja	630	630
+7	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+8	so	so	A	ADV	_	5	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	630	630
+4	direkt	direkt	A	ADJD	Pos|	2	adv	_	_
+5	nervös	nervös	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	_	_
+2	Nun	nun	A	ADV	_	1	adv	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wie	wie	P	PWAV	_	5	adv	_	_
+5	soll	sollen	V	VMFIN	1|Sg|Pres|Ind	1	objc	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	630	630
+7	dich	du	P	PPER	2|Sg|_|Acc	8	obja	_	_
+8	nennen	nennen	V	VVINF	_	5	aux	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	573	573
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	630	630
+3	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	doch	doch	A	ADV	_	3	adv	_	_
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	7	det	_	_
+7	Namen	Name	N	NN	Masc|Acc|Sg	3	obja	_	_
+8	:	\:	$	$.	_	0	root	_	_
+9	Robert	Robert	N	NE	_	0	root	510	510
+10	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	5	vok	230	230
+2	Ach	Ach	N	NE	Fem|_|Sg	1	app	230	230
+3	,	,	$	$,	_	0	root	_	_
+4	das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	zu	zu	P	PTKA	_	7	adv	_	_
+7	dumm	dumm	A	ADJD	Pos|	5	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	573	573
+2	Ich	ich	P	PPER	1|Sg|_|Nom	0	root	631	631
+3	bitte	bitten	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+4	dich	du	P	PRF	2|Sg|Acc	3	obja	_	_
+5	aber	aber	A	ADV	_	3	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	mich	ich	P	PRF	1|Sg|Acc	11	obja	_	_
+8	einfach	einfach	A	ADJD	Pos|	11	adv	_	_
+9	so	so	A	ADV	_	11	adv	_	_
+10	zu	zu	P	PTKZU	_	11	part	_	_
+11	nennen	nennen	V	VVINF	_	5	obji	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	wie	wie	P	PWAV	_	15	pred	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	15	subj	631	631
+15	heiße	heißen	V	VVFIN	1|Sg|Pres|_	3	subjc	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	510	510
+2	Also	Also	N	NE	Fem|_|Sg	1	app	510	510
+3	Robert	Robert	N	NE	Fem|_|Sg	2	app	510	510
+4	,	,	$	$,	_	0	root	_	_
+5	gib	geben	V	VVIMP	Sg	0	root	_	_
+6	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	631	631
+7	einen	eine	A	ART	Indef|Masc|Acc|Sg	8	det	_	_
+8	Kuß	Kuß	N	NN	Masc|Acc|Sg	5	obja	_	_
+9	...	...	$	$.	_	0	root	_	_
+10	Ah	Ah	N	NN	Fem|_|Sg	0	root	498	498
+11	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|_|_|Nom	2	subj	498	498
+2	küßt	küßt	V	VVFIN	3|_|_|_	0	root	_	_
+3	ihn	er	P	PPER	3|Sg|Masc|Acc	4	obja	1	1
+4	Bist	sein	V	VAFIN	2|Sg|Pres|Ind	2	s	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	632	632
+6	jetzt	jetzt	A	ADV	_	4	adv	_	_
+7	zufrieden	zufrieden	A	ADJD	Pos|	4	pred	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	Frosch	Frosch	N	NN	Masc|_|Sg	0	root	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Hahahaha	Hahahaha	N	NE	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJD	Comp|	2	adv	_	_
+2	Würdest	werden	V	VAFIN	2|Sg|Past|Subj	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	632	632
+4	mir	ich	P	PPER	1|Sg|_|Dat	5	objd	633	633
+5	erlauben	erlauben	V	VVINF	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	633	633
+8	eine	eine	A	ART	Indef|Fem|_|Sg	9	det	_	_
+9	Zigarette	Zigarette	N	NN	Fem|_|Sg	10	obja	_	_
+10	anzuzünden	anzünden	V	VVIZU	_	5	obji	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	schauspielerin	A	ADJD	Pos|	0	root	_	_
+2	Gib	geben	V	VVIMP	Sg	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	2	objd	633	633
+4	auch	auch	A	ADV	_	2	adv	_	_
+5	eine	eine	P	PIS	_|_|Sg	2	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Sg	4	det	634	634
+4	Zigarettentasche	Zigarettentasche	N	NN	Fem|_|Sg	2	obja	634	634
+5	vom	von	P	APPRART	Dat	4	pp	634	634
+6	Nachtkästchen	Nachtkästchen	N	NN	Neut|Dat|_	5	pn	634	634
+7	,	,	$	$,	_	0	root	_	_
+8	entnimmt	entnehmen	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+9	ihr	ihre	A	PPOSAT	_|_|Sg	11	det	634	634
+10	zwei	zwei	C	CARD	_	11	attr	635	635
+11	Zigaretten	Zigarette	N	NN	_|_|Sg	8	obja	635	635
+12	,	,	$	$,	_	0	root	_	_
+13	zündet	zünden	V	VVFIN	_|_|Pres|_	8	kon	_	_
+14	beide	beide	P	PIS	_|_|Pl	13	obja	_	_
+15	an	an	P	PTKVZ	_	13	avz	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	8	kon	_	_
+18	ihr	ihr	P	PPER	3|Sg|Fem|Dat	17	objd	635	635
+19	eine	eine	P	PIS	_|_|Sg	17	obja	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+3	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	mir	ich	P	PPER	1|Sg|_|Dat	13	objd	636	636
+5	übrigens	übrigens	A	ADV	_	13	adv	_	_
+6	noch	noch	A	ADV	_	13	adv	_	_
+7	kein	keine	A	PIAT	Neut|_|Sg	8	det	_	_
+8	Wort	Wort	N	NN	Neut|_|Sg	13	obja	_	_
+9	über	über	P	APPR	Acc	13	pp	_	_
+10	meine	meine	A	PPOSAT	Fem|Acc|Sg	12	det	636	636
+11	gestrige	gestrig	A	ADJA	Pos|Fem|Acc|Sg|_|	12	attr	_	_
+12	Leistung	Leistung	N	NN	Fem|Acc|Sg	9	pn	_	_
+13	gesagt	sagen	V	VVPP	_	3	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	573	573
+2	Über	über	P	APPR	Acc	0	root	_	_
+3	welche	welche	A	PWAT	Fem|Acc|Sg	4	det	_	_
+4	Leistung	Leistung	N	NN	Fem|Acc|Sg	2	pn	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	_	_
+2	Nun	nun	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	230	230
+2	Ach	Ach	N	NN	_|_|_	0	root	230	230
+3	so	so	A	ADV	_	2	adv	230	230
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	809	809
+2	war	sein	V	VAFIN	1|Sg|Past|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	im	in	P	APPRART	Dat	2	pp	_	_
+5	Theater	Theater	N	NN	Neut|Dat|Sg	4	pn	385	385
+6	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Du	du	P	PPER	2|Sg|_|Nom	3	subj	637	637
+3	beliebst	belieben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	wohl	wohl	A	ADV	_	3	adv	_	_
+5	zu	zu	P	PTKZU	_	6	part	_	_
+6	scherzen	scherzen	V	VVINF	_	3	obji	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	dicht	A	ADJA	Pos|_|_|_|St|	2	attr	_	_
+2	Durchaus	Durchaus	N	NN	_|_|_	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Nachdem	nachdem	K	KOUS	_	5	konj	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	5	subj	637	637
+3	vorgestern	vorgestern	A	ADV	_	4	adv	_	_
+4	abgesagt	absagen	V	VVPP	_	5	aux	_	_
+5	hast	haben	V	VAFIN	2|Sg|Pres|Ind	7	neb	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	638	638
+9	angenommen	annehmen	V	VVPP	_	7	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	22	konj	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	22	subj	637	637
+13	auch	auch	A	ADV	_	21	adv	_	_
+14	gestern	gestern	A	ADV	_	21	adv	_	_
+15	noch	noch	A	ADV	_	16	adv	_	_
+16	nicht	nicht	P	PTKNEG	_	21	adv	_	_
+17	im	in	P	APPRART	Dat	21	pp	_	_
+18	Vollbesitze	Vollbesitz	N	NN	Masc|Dat|Sg	17	pn	_	_
+19	deiner	deine	A	PPOSAT	Fem|Gen|Pl	20	det	637	637
+20	Kräfte	Kraft	N	NN	Fem|Gen|Pl	18	gmod	_	_
+21	sein	sein	V	VAINF	_	22	aux	_	_
+22	würdest	werden	V	VAFIN	2|Sg|Past|Subj	9	objc	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	und	und	K	KON	_	22	kon	_	_
+25	da	da	A	ADV	_	26	adv	_	_
+26	hab	hab	V	VAFIN	1|Sg|_|_	24	cj	_	_
+27	'	'	$	$(	_	0	root	_	_
+28	ich	ich	P	PPER	1|Sg|_|Nom	26	subj	638	638
+29	lieber	lieb	A	ADJD	Comp|	30	adv	_	_
+30	verzichtet	verzichten	V	VVPP	_	26	aux	_	_
+31	.	.	$	$.	_	0	root	_	_
+
+1	Schauspielerin	Schauspielerin	N	NN	Fem|_|Sg	0	root	565	565
+2	Du	du	P	PPER	2|Sg|_|Nom	3	subj	637	637
+3	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+4	wohl	wohl	A	ADV	_	6	adv	_	_
+5	viel	viel	A	ADV	_	6	adv	_	_
+6	versäumt	versäumen	V	VVPP	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Dichter	Dichter	N	NN	_|_|_	0	root	_	_
+2	So	so	A	ADV	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+

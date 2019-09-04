@@ -1,0 +1,477 @@
+1	Von	von	P	APPR	Dat	3	pp	_	_
+2	Büchern	Buch	N	NN	_|Dat|Pl	1	pn	619	619
+3	entgingen	entgehen	V	VVFIN	3|Pl|Past|_	0	root	_	_
+4	nur	nur	A	ADV	_	5	adv	_	_
+5	Börnes	Börnes	N	NE	_|Gen|_	6	gmod	_	_
+6	Werke	Werk	N	NN	Neut|Nom|Pl	3	subj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Tannhäuser	Tannhaus	N	NN	_|Nom|_	6	kon	_	_
+9	in	in	P	APPR	_	8	pp	_	_
+10	Rom	Rom	N	NE	Neut|_|Sg	9	pn	721	721
+11	und	und	K	KON	_	8	kon	_	_
+12	Byrons	Byrons	N	NE	Neut|Nom|Pl	11	cj	1719	1719
+13	Don	Don	N	NE	Neut|Nom|Pl	12	app	1719	1719
+14	Juan	Juan	N	NE	Neut|Nom|Pl	13	app	1719	1719
+15	dem	die	A	ART	Def|_|Dat|Sg	16	det	_	_
+16	Deklamator	Deklamator	N	NN	_|Dat|Sg	3	objd	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	Alles	Alles	N	NE	_	1	cj	406	406
+3	in	in	P	APPR	Dat	5	pp	_	_
+4	Allem	alle	P	PIS	_|Dat|Sg	3	pn	_	_
+5	kamen	kommen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+6	nur	nur	A	ADV	_	5	adv	_	_
+7	vierzig	vierzig	C	CARD	_	8	attr	_	_
+8	Mark	Mark	N	NN	_|Nom|Pl	5	subj	_	_
+9	heraus	heraus	P	PTKVZ	_	5	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	wär	wär	V	VAFIN	3|Sg|_|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	mit	mit	P	APPR	Dat	2	pp	_	_
+5	ein	eine	A	ART	Indef|_|_|Sg	7	det	_	_
+6	paar	paar	A	PIDAT	Masc|Dat|Pl	7	attr	_	_
+7	Anzügen	Anzug	N	NN	Masc|Dat|Pl	4	pn	_	_
+8	Vater	Vater	N	NN	Masc|_|Sg	2	obja	742	742
+9	Wiehrs	Wiehrs	N	NE	Masc|_|Sg	8	app	742	742
+10	?	?	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|_|_|Sg	2	det	_	_
+2	Gedanke	Gedanke	N	NN	_|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	290	290
+2	Mann	Mann	N	NN	Masc|Nom|Sg	3	subj	290	290
+3	hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+4	ja	ja	A	ADV	_	3	adv	_	_
+5	seine	seine	A	PPOSAT	Fem|_|Sg	7	det	290	290
+6	ganze	ganz	A	ADJA	Pos|Fem|_|Sg|_|	7	attr	_	_
+7	Vergangenheit	Vergangenheit	N	NN	Fem|_|Sg	3	obja	_	_
+8	noch	noch	A	ADV	_	3	adv	_	_
+9	im	in	P	APPRART	Dat	3	pp	_	_
+10	Kleiderschranke	Kleiderschrank	N	NN	_|Dat|Sg	9	pn	_	_
+11	hängen	hängen	V	VVINF	_	0	root	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	Vorsicht	Vorsicht	N	NN	Fem|_|Sg	1	cj	722	722
+3	!	!	$	$.	_	0	root	_	_
+
+1	Vorsicht	Vorsicht	N	NN	Fem|_|Sg	0	root	722	722
+2	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	erst	erst	A	ADV	_	3	adv	_	_
+3	in	in	P	APPR	Dat	1	cj	_	_
+4	den	die	A	ART	Def|Masc|Dat|Pl	6	det	_	_
+5	letzten	letzte	A	ADJA	Pos|Masc|Dat|Pl|_|	6	attr	_	_
+6	Tagen	Tag	N	NN	Masc|Dat|Pl	3	pn	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	_	4	pp	_	_
+2	fünfzig	fünfzig	C	CARD	_	3	attr	_	_
+3	Mark	Mark	N	NN	_|_|Pl	1	pn	_	_
+4	konnte	können	V	VMFIN	3|Sg|Past|Ind	0	root	_	_
+5	man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+6	das	die	P	PDS	Neut|_|Sg	9	obja	_	_
+7	aber	aber	A	ADV	_	6	adv	_	_
+8	immerhin	immerhin	A	ADV	_	9	adv	_	_
+9	ansetzen	ansetzen	V	VVINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Fünfzig	Fünfzig	N	NN	Fem|_|Sg	0	root	_	_
+2	und	und	K	KON	_	0	root	_	_
+3	fünfzig	fünfzig	C	CARD	_	4	subj	_	_
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	2	cj	_	_
+5	hundert	hundert	C	CARD	_	4	objd	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	und	und	K	KON	_	4	kon	_	_
+8	vierzig	vierzig	C	CARD	_	9	subj	_	_
+9	sind	sein	V	VAFIN	3|Pl|Pres|Ind	7	cj	_	_
+10	hundertundvierzig	hundertundvierzig	C	CARD	_	9	objd	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	7	konj	_	_
+2	ihm	er	P	PPER	3|Sg|_|Dat	7	objd	_	_
+3	nur	nur	A	ADV	_	7	adv	_	_
+4	irgend	irgend	A	ADV	_	7	adv	_	_
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	6	det	723	723
+6	Coup	Coup	N	NN	Masc|Nom|Sg	7	subj	723	723
+7	einfiele	einfallen	V	VVFIN	3|Sg|Past|Subj	0	root	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	_	_
+2	Geplempere	Geplempere	N	NN	Neut|Nom|Sg	6	subj	_	_
+3	mit	mit	P	APPR	Dat	2	pp	_	_
+4	kleinen	klein	A	ADJA	Pos|_|Dat|_|_|	5	attr	_	_
+5	Posten	Posten	N	NN	_|Dat|_	3	pn	_	_
+6	gefiel	gefallen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+7	ihm	er	P	PPER	3|Sg|_|Dat	6	objd	723	723
+8	gar	gar	A	ADV	_	9	adv	_	_
+9	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Hm	hm	I	ITJ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	3	pp	_	_
+2	Glasschrank	Glasschrank	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	stand	stehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	allerlei	allerlei	P	PIS	_|Nom|Sg	3	subj	_	_
+6	herum	herum	P	PTKVZ	_	3	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	auch	auch	A	ADV	_	9	adv	_	_
+9	Schmuckzeug	Schmuckzeug	N	NN	Neut|_|Sg	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	da	da	A	ADV	_	3	adv	_	_
+3	verging	vergehen	V	VVFIN	3|Sg|Past|Ind	1	cj	_	_
+4	ja	ja	A	ADV	_	3	adv	_	_
+5	kein	keine	A	PIAT	_|Nom|Sg	6	det	724	724
+6	Tag	Tag	N	NN	_|Nom|Sg	3	subj	724	724
+7	,	,	$	$,	_	0	root	724	724
+8	an	an	P	APPR	Dat	15	pp	724	724
+9	dem	die	P	PRELS	_|Dat|Sg	8	pn	724	724
+10	nicht	nicht	P	PTKNEG	_	15	adv	_	_
+11	Mutter	Mutter	N	NN	Fem|Nom|Sg	15	subj	635	635
+12	Wiehr	Wiehr	N	NE	Fem|Nom|Sg	11	app	635	635
+13	den	die	A	ART	Def|Masc|Acc|Sg	14	det	_	_
+14	Kram	Kram	N	NN	Masc|Acc|Sg	15	obja	_	_
+15	bestreichelte	bestreicheln	V	VVFIN	3|Sg|Past|_	6	rel	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Halt	Halt	V	VVIMP	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	nein	nein	P	PTKANT	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	nein	nein	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Freilich	freilich	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wenn	wenn	K	KOUS	_	7	konj	_	_
+4	gar	gar	A	ADV	_	5	adv	_	_
+5	nichts	nichts	P	PIS	_|Nom|Sg	7	subj	_	_
+6	übrig	übrig	A	ADJD	Pos|	7	pred	_	_
+7	blieb	bleiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	:	\:	$	$.	_	0	root	_	_
+2	Die	die	A	ART	Def|_|_|_	3	det	_	_
+3	Paten-	Paten-	T	TRUNC	Neut|_|Pl	0	root	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	Konfirmationsgeschenke	Konfirmationsgeschenk	N	NN	Neut|_|_	4	cj	_	_
+6	des	die	A	ART	Def|Masc|Gen|Sg	8	det	746	746
+7	verstorbenen	verstorben	A	ADJA	Pos|Masc|Gen|Sg|_|	8	attr	746	746
+8	Filius	Filius	N	NN	Masc|Gen|Sg	3	gmod	746	746
+9	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	P	PDS	_|Nom|Pl	2	subj	_	_
+2	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	dem	die	A	ART	Def|Masc|Dat|Sg	6	det	725	725
+5	verschlossenen	verschlossen	A	ADJA	Pos|Masc|Dat|Sg|Wk|	6	attr	725	725
+6	Schranke	Schrank	N	NN	Masc|Dat|Sg	3	pn	725	725
+7	in	in	P	APPR	Dat	2	pp	_	_
+8	seiner	seine	A	PPOSAT	Fem|Dat|Sg	9	det	725	725
+9	Stube	Stube	N	NN	Fem|Dat|Sg	7	pn	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	und	und	K	KON	_	2	kon	_	_
+12	die	die	A	ART	Def|_|Nom|Pl	13	det	726	726
+13	Alten	Alt	N	NN	_|Nom|Pl	14	subj	726	726
+14	hatten	haben	V	VAFIN	3|Pl|Past|Ind	11	cj	_	_
+15	eine	eine	A	ART	Indef|Fem|_|Sg	17	det	_	_
+16	große	groß	A	ADJA	Pos|Fem|_|Sg|_|	17	attr	_	_
+17	Scheu	Scheu	N	NN	Fem|_|Sg	14	obja	_	_
+18	vor	vor	P	APPR	Dat	14	pp	_	_
+19	diesen	diese	A	PDAT	Fem|Dat|Pl	20	det	727	727
+20	Erinnerungen	Erinnerung	N	NN	Fem|Dat|Pl	18	pn	727	727
+21	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	726	726
+2	hatten	haben	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+3	sie	sie	P	PPER	3|Pl|_|Nom	4	subj	726	726
+4	verschlossen	verschließen	V	VVFIN	3|Pl|Past|Ind	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	um	um	K	KOUI	_	10	konj	_	_
+7	sie	sie	P	PPER	3|_|_|_	10	obja	727	727
+8	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+9	zu	zu	P	PTKZU	_	10	part	_	_
+10	sehen	sehen	V	VVINF	_	4	neb	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	nie	nie	A	ADV	_	13	adv	_	_
+13	machten	machen	V	VVFIN	3|Pl|Past|_	0	root	_	_
+14	sie	sie	P	PPER	3|Pl|_|Nom	13	subj	727	727
+15	den	die	A	ART	Def|Masc|Acc|Sg	16	det	728	728
+16	Schrank	Schrank	N	NN	Masc|Acc|Sg	13	obja	728	728
+17	auf	auf	P	PTKVZ	_	13	avz	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	mußten	müssen	V	VMFIN	3|Pl|Past|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	8	adv	_	_
+4	wol	wol	A	ADJD	_	8	adv	_	_
+5	auch	auch	A	ADV	_	8	adv	_	_
+6	noch	noch	A	ADV	_	8	adv	_	_
+7	Bücher	Buch	N	NN	_|Nom|Pl	2	subj	619	619
+8	sein	sein	V	VAINF	_	2	aux	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	sonst	sonst	A	ADV	_	11	adv	_	_
+11	was	was	P	PIS	_	9	cj	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	aber	aber	A	ADV	_	2	adv	_	_
+4	doch	doch	A	ADV	_	2	adv	_	_
+5	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+6	verfluchter	verflucht	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	_	_
+7	Coup	Coup	N	NN	Masc|Nom|Sg	2	pred	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	schon	schon	A	ADV	_	2	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	mehr	mehr	A	ADV	_	4	adv	_	_
+6	blos	blos	A	ADJD	_	2	pred	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	pfui	pfui	F	FM	_	0	root	_	_
+9	Teufel	Teufel	N	NE	Masc|_|Sg	8	app	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	Diebstahl	Diebstahl	N	NN	Masc|_|Sg	9	app	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	das	die	P	PDS	Neut|Nom|Sg	14	subj	_	_
+14	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+15	so	so	A	ADV	_	16	adv	_	_
+16	was	was	P	PIS	_|Nom|_	14	pred	_	_
+17	wie	wie	K	KOKOM	_	14	kom	_	_
+18	Frevel	Frevel	N	NN	Masc|_|_	17	cj	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Oder	oder	K	KON	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Stilpe	Stilpe	N	NE	_|Nom|Sg	2	subj	11	11
+2	versuchte	versuchen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	den	die	A	ART	Def|Masc|_|_	5	det	911	911
+5	Gedanken	Gedanke	N	NN	Masc|_|_	8	obja	911	911
+6	mit	mit	P	APPR	Dat	8	pp	_	_
+7	Gewalt	Gewalt	N	NN	Fem|Dat|Sg	6	pn	_	_
+8	loszuwerden	loswerden	V	VVIZU	_	2	obji	_	_
+9	und	und	K	KON	_	2	kon	_	_
+10	erging	ergehen	V	VVFIN	_|Sg|Past|Ind	9	cj	_	_
+11	sich	sie	P	PRF	3|_|Dat	10	objd	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	um	um	K	KOUI	_	17	konj	_	_
+14	ihn	er	P	PPER	3|Sg|Masc|Acc	17	obja	11	11
+15	beiseite	beiseite	A	ADV	_	17	adv	_	_
+16	zu	zu	P	PTKZU	_	17	part	_	_
+17	schieben	schieben	V	VVINF	_	10	neb	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	dafür	dafür	P	PROAV	_	0	root	_	_
+20	in	in	P	APPR	Dat	0	root	_	_
+21	den	die	A	ART	Def|Masc|Dat|Pl	23	det	_	_
+22	abenteuerlichsten	abenteuerlich	A	ADJA	Sup|Masc|Dat|Pl|_|	23	attr	_	_
+23	Plänen	Plan	N	NN	Masc|Dat|Pl	20	pn	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Sogar	sogar	A	ADV	_	4	adv	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	4	det	_	_
+3	schmierige	schmierig	A	ADJA	Pos|Masc|Nom|Sg|Wk|	4	attr	_	_
+4	Beutel	Beutel	N	NN	Masc|Nom|Sg	7	subj	_	_
+5	des	die	A	ART	Def|_|Gen|Sg	6	det	1061	1061
+6	Deklamators	Deklamators	N	NN	_|Gen|Sg	4	gmod	1061	1061
+7	tauchte	tauchen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+8	auf	auf	P	PTKVZ	_	7	avz	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	eine	eine	A	ART	Indef|Fem|_|Sg	12	det	_	_
+11	verbrecherische	verbrecherisch	A	ADJA	Pos|Fem|_|Sg|_|	12	attr	_	_
+12	Intrigue	Intrigue	N	NN	Fem|_|Sg	9	cj	_	_
+13	mit	mit	P	APPR	Dat	12	pp	_	_
+14	der	die	A	ART	Def|Fem|Dat|Sg	16	det	729	729
+15	rosigen	rosig	A	ADJA	Pos|Fem|Dat|Sg|Wk|	16	attr	729	729
+16	Gattin	Gattin	N	NN	Fem|Dat|Sg	13	pn	729	729
+17	.	.	$	$.	_	0	root	_	_
+
+1	Hatte	haben	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+2	sie	sie	P	PPER	3|Sg|Fem|Nom	1	subj	729	729
+3	ihm	er	P	PPER	3|Sg|_|Dat	11	objd	0	0
+4	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+5	kürzlich	kürzlich	A	ADV	_	11	adv	_	_
+6	hinter	hinter	P	APPR	Dat	11	pp	_	_
+7	dem	die	A	ART	Def|_|Dat|Sg	8	det	_	_
+8	Rücken	Rücken	N	NN	_|Dat|Sg	6	pn	_	_
+9	des	die	A	ART	Def|_|Gen|Sg	10	det	639	639
+10	Alten	Alt	N	NN	_|Gen|Sg	8	gmod	639	639
+11	zugelächelt	zulächeln	V	VVPP	_	1	aux	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	wenn	wenn	K	KOUS	_	0	root	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	0	root	0	0
+5	mit	mit	P	APPR	Dat	10	pp	730	730
+6	ihr	ihr	P	PPER	3|Sg|Fem|Dat	5	pn	730	730
+7	im	in	P	APPRART	Dat	6	pp	_	_
+8	Bunde	Bund	N	NN	_|Dat|Sg	7	pn	_	_
+9	den	die	A	ART	Def|_|_|_	10	det	_	_
+10	Alten	Alt	N	NN	_|_|_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	duliebergott	duliebergott	N	NE	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	das	die	P	PDS	Neut|Nom|Sg	6	subj	_	_
+6	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+7	ja	ja	A	ADV	_	6	adv	_	_
+8	eine	eine	A	ART	Indef|Fem|Nom|Sg	9	det	_	_
+9	Kriminalnovelle	Kriminalnovelle	N	NN	Fem|Nom|Sg	6	pred	_	_
+10	und	und	K	KON	_	9	kon	_	_
+11	kein	keine	A	PIAT	Masc|Nom|Sg	12	det	_	_
+12	Coup	Coup	N	NN	Masc|Nom|Sg	10	cj	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	Immer	immer	A	ADV	_	2	adv	71	71
+2	wieder	wieder	A	ADV	_	9	adv	71	71
+3	der	die	A	ART	Def|Masc|Nom|Sg	9	det	71	71
+4	verschlossene	verschlossen	A	ADJA	Pos|Masc|Nom|Sg|Wk|	9	attr	71	71
+5	,	,	$	$,	_	0	root	71	71
+6	große	groß	A	ADJA	Pos|_|Nom|_|_|	4	kon	71	71
+7	,	,	$	$,	_	0	root	71	71
+8	braune	braun	A	ADJA	Pos|_|Nom|_|_|	6	kon	71	71
+9	Schrank	Schrank	N	NN	Masc|Nom|Sg	12	subj		
+
+1	Was	was	P	PWS	Neut|_|Sg	6	obja	_	_
+2	da	da	A	ADV	_	6	adv	_	_
+3	wohl	wohl	A	ADV	_	6	adv	_	_
+4	alles	alle	P	PIS	Neut|Nom|Sg	6	subj	_	_
+5	drin	drin	A	ADV	_	6	adv	_	_
+6	steckte	stecken	V	VVFIN	3|Sg|Past|_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Natürlich	natürlich	A	ADJD	Pos|	4	adv	_	_
+2	zuerst	zuerst	A	ADV	_	3	adv	_	_
+3	sämtliche	sämtlich	A	ADJA	Pos|Fem|_|Pl|St|	4	attr	_	_
+4	Hosen	Hose	N	NN	Fem|_|Pl	0	root	_	_
+5	und	und	K	KON	_	4	kon	_	_
+6	Höschen	Höschen	N	NN	Neut|_|_	5	cj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Jacken	Jacke	N	NN	Fem|_|Pl	6	kon	_	_
+9	und	und	K	KON	_	8	kon	_	_
+10	Jäckchen	Jäckchen	N	NN	Neut|_|_	9	cj	_	_
+11	des	die	A	ART	Def|Masc|Gen|Sg	13	det	_	_
+12	gepriesenen	gepreist	A	ADJA	Pos|Masc|Gen|Sg|_|	13	attr	_	_
+13	Filius	Filius	N	NN	Masc|Gen|Sg	8	gmod	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	von	von	P	APPR	_	13	pp	_	_
+16	der	die	A	ART	Def|Fem|_|Sg	17	det	_	_
+17	Wiege	Wiege	N	NN	Fem|_|Sg	15	pn	_	_
+18	bis	bis	P	APPR	Acc	15	kon	_	_
+19	zur	zu	P	APPRART	Dat	18	pp	_	_
+20	Bahre	Bahre	N	NN	Fem|Dat|Sg	19	pn	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Verdammt	verdammt	A	ADJD	Pos|	0	root	_	_
+2	nochmal	nochmal	A	ADV	_	1	adv	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Auch	auch	A	ADV	_	6	adv	_	_
+5	noch	noch	A	ADV	_	6	adv	_	_
+6	Rücksicht	Rücksicht	N	NN	Fem|_|Sg	0	root	_	_
+7	auf	auf	P	APPR	_	6	pp	_	_
+8	Sentimentalitäten	Sentimentalität	N	NN	Fem|_|Pl	7	pn	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	wo	wo	P	PWAV	_	0	root	_	_
+11	es	es	P	PPER	3|Sg|Neut|_	0	root	_	_
+12	seine	seine	A	PPOSAT	Fem|Nom|Sg	13	det	0	0
+13	Freiheit	Freiheit	N	NN	Fem|Nom|Sg	16	subj	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	Zukunft	Zukunft	N	NN	Fem|Nom|Sg	14	cj	759	759
+16	galt	gelten	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+17	!	!	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	0	root	_	_
+2	gabs	gabs	N	NE	_	0	root	_	_
+3	doch	doch	A	ADV	_	5	adv	_	_
+4	kein	keine	A	PIAT	Neut|_|Sg	5	det	_	_
+5	Besinnen	Besinnen	N	NN	Neut|_|Sg	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Dort	dort	A	ADV	_	3	adv	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	_	_
+3	Tod	Tod	N	NN	Masc|Nom|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	3	adv	_	_
+2	das	die	A	ART	Def|Neut|_|Sg	3	det	_	_
+3	Leben	Leben	N	NN	Neut|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Hie	hie	A	ADV	_	2	adv	_	_
+2	Mottenfraß	Mottenfraß	N	NN	Masc|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Hie	hie	A	ADV	_	2	adv	_	_
+2	Freiheit	Freiheit	N	NN	Fem|_|Sg	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	ging	gehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	an	an	P	APPR	Acc	2	objp	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	728	728
+5	Schrank	Schrank	N	NN	Masc|Acc|Sg	3	pn	728	728
+6	und	und	K	KON	_	2	kon	_	_
+7	versuchte	versuchen	V	VVFIN	3|Sg|Past|_	6	cj	_	_
+8	seine	seine	A	PPOSAT	Masc|_|_	9	det	0	0
+9	Schlüssel	Schlüssel	N	NN	Masc|_|_	7	obja	_	_
+10	am	an	P	APPRART	Dat	9	pp	_	_
+11	Schloß	Schloß	N	NN	Neut|Dat|Sg	10	pn	749	749
+12	.	.	$	$.	_	0	root	_	_
+
+1	Ging	gehen	V	VVFIN	_|Sg|Past|Ind	0	root	_	_
+2	nicht	nicht	P	PTKNEG	_	1	adv	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	0	root	_	_
+2	:	\:	$	$.	_	0	root	_	_
+3	Eintreten	Eintreten	N	NN	Neut|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Einfach	einfach	A	ADJD	Pos|	2	adv	_	_
+2	eintreten	eintreten	V	VVINF	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	0	0
+2	schlug	schlagen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	mit	mit	P	APPR	Dat	2	pp	_	_
+4	der	die	A	ART	Def|Fem|Dat|Sg	5	det	554	554
+5	Faust	Faust	N	NN	Fem|Dat|Sg	3	pn	554	554
+6	auf	auf	P	APPR	Acc	2	objp	_	_
+7	die	die	A	ART	Def|_|Acc|_	8	det	755	755
+8	Schrankthüre	Schrankthüre	N	NN	_|Acc|_	6	pn	755	755
+9	.	.	$	$.	_	0	root	_	_
+

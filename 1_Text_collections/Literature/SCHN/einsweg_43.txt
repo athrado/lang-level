@@ -1,0 +1,386 @@
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	A	ART	Indef|Masc|Nom|Sg	4	det	524	524
+4	Wunsch	Wunsch	N	NN	Masc|Nom|Sg	2	pred	524	524
+5	,	,	$	$,	_	0	root	524	524
+6	mit	mit	P	APPR	Dat	11	pp	524	524
+7	dem	die	P	PRELS	Masc|Dat|Sg	6	pn	524	524
+8	Sie	sie	P	PPER	3|Pl|_|Nom	12	subj	525	525
+9	ziemlich	ziemlich	A	ADJD	_	10	adv	_	_
+10	vereinzelt	vereinzelt	A	ADJD	Pos|	11	pred	_	_
+11	dastehen	dastehen	V	VVINF	_	12	aux	_	_
+12	dürften	dürfen	V	VMFIN	3|Pl|Past|Subj	4	rel	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Jedenfalls	jedenfalls	A	ADV	_	2	adv	_	_
+2	wären	sein	V	VAFIN	3|Pl|Past|Subj	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	525	525
+4	verpflichtet	verpflichten	V	VVPP	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Doktor	Doktor	N	NN	Masc|_|Sg	2	vok	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	mir	ich	P	PPER	1|Sg|_|Dat	13	objd	526	526
+9	die	die	A	ART	Def|Fem|_|Sg	11	det	_	_
+10	absolute	absolut	A	ADJA	Pos|Fem|_|Sg|_|	11	attr	_	_
+11	Wahrheit	Wahrheit	N	NN	Fem|_|Sg	13	obja	_	_
+12	zu	zu	P	PTKZU	_	13	part	_	_
+13	sagen	sagen	V	VVINF	_	6	obji	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	wenn	wenn	K	KOUS	_	20	konj	_	_
+16	ich	ich	P	PPER	1|Sg|_|Nom	20	subj	526	526
+17	Sie	sie	P	PPER	3|_|_|_	19	obja	525	525
+18	darum	darum	P	PROAV	_	19	pp	_	_
+19	fragen	fragen	V	VVINF	_	20	aux	_	_
+20	sollte	sollen	V	VMFIN	1|Sg|Past|_	13	neb	_	_
+21	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	526	526
+2	finde	finden	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	man	man	P	PIS	_|Nom|Sg	5	subj	_	_
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+6	das	die	A	ART	Def|Neut|_|Sg	7	det	159	159
+7	Recht	Recht	N	NN	Neut|_|Sg	5	obja	159	159
+8	,	,	$	$,	_	0	root	_	_
+9	sein	seine	A	PPOSAT	Neut|_|Sg	10	det	159	159
+10	Dasein	Dasein	N	NN	Neut|_|Sg	12	obja	_	_
+11	vollkommen	vollkommen	A	ADJD	Pos|	12	adv	_	_
+12	auszuleben	ausleben	V	VVIZU	_	5	obji	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	mit	mit	P	APPR	Dat	12	pp	_	_
+15	allen	alle	A	PIDAT	Fem|Dat|Pl	16	det	527	527
+16	Wonnen	Wonne	N	NN	Fem|Dat|Pl	14	pn	527	527
+17	und	und	K	KON	_	14	kon	_	_
+18	mit	mit	P	APPR	Dat	17	cj	_	_
+19	allen	alle	A	PIDAT	_|Dat|Pl	20	det	_	_
+20	Schaudern	Schaudern	N	NN	Neut|Dat|Sg	18	pn	_	_
+21	,	,	$	$,	_	0	root	_	_
+22	die	die	P	PRELS	_|Nom|Pl	25	subj	527	527
+23	darin	darin	P	PROAV	_	25	objp	_	_
+24	verborgen	verborgen	A	ADJD	Pos|	25	adv	_	_
+25	liegen	liegen	V	VVFIN	3|Pl|Pres|_	19	rel	_	_
+26	.	.	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	wie	wie	P	PWAV	_	7	adv	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	7	subj	530	530
+4	wahrscheinlich	wahrscheinlich	A	ADJD	Pos|	7	adv	_	_
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	528	528
+6	Pflicht	Pflicht	N	NN	Fem|_|Sg	7	obja	528	528
+7	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	jede	jede	A	PIDAT	Fem|_|Sg	11	det	_	_
+10	gute	gut	A	ADJA	Pos|Fem|_|Sg|_|	11	attr	_	_
+11	Tat	Tat	N	NN	Fem|_|Sg	16	obja	_	_
+12	und	und	K	KON	_	11	kon	_	_
+13	jede	jede	A	PIDAT	_|_|Sg	14	det	529	529
+14	Schurkerei	Schurkerei	N	NN	Fem|_|Sg	12	cj	529	529
+15	zu	zu	P	PTKZU	_	16	part	529	529
+16	begehen	begehen	V	VVINF	_	7	obji	529	529
+17	,	,	$	$,	_	0	root	529	529
+18	die	die	P	PRELS	Fem|Nom|Sg	22	subj	529	529
+19	innerhalb	innerhalb	P	APPR	Gen	22	objp	_	_
+20	unserer	unsre	A	PPOSAT	Fem|Gen|Pl	21	det	530	530
+21	Fähigkeiten	Fähigkeit	N	NN	Fem|Gen|Pl	19	pn	531	531
+22	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	14	rel	_	_
+23	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	531	531
+4	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+5	mir	ich	P	PPER	1|Sg|_|Dat	9	objd	532	532
+6	meine	meine	A	PPOSAT	Fem|_|Sg	7	det	532	532
+7	Todesstunde	Todesstunde	N	NN	Fem|_|Sg	9	obja	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	wegeskamotieren	wegeskamotieren	V	VVINF	_	4	aux	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	2	expl	_	_
+2	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+3	ein	eine	A	ART	Indef|_|_|Sg	5	det	533	533
+4	kleinlicher	kleinlich	A	ADJA	Pos|_|_|_|St|	5	attr	533	533
+5	Standpunkt	Standpunkt	N	NN	_|Nom|Sg	2	subj	533	533
+6	,	,	$	$,	_	0	root	533	533
+7	meiner	meine	A	PPOSAT	_|_|_	5	kon	532	532
+8	und	und	K	KON	_	7	kon	_	_
+9	Ihrer	ihre	A	PPOSAT	_|_|_	8	cj	533	533
+10	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+11	würdig	würdig	A	ADJD	Pos|	2	pred	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nun	nun	A	ADV	_	3	adv	3	3
+3	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+4	,	,	$	$,	_	0	root	3	3
+5	am	an	P	APPRART	Dat	3	pp	3	3
+6	sechsundzwanzigsten	sechsundzwanzigst	A	ADJA	_|Masc|Dat|Sg|Wk|	7	attr	3	3
+7	November	November	N	NN	Masc|Dat|Sg	5	pn	3	3
+8	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+3	sieben	sieben	C	CARD	_	4	attr	_	_
+4	Wochen	Woche	N	NN	Fem|Nom|Pl	2	pred	_	_
+5	bis	bis	P	APPR	Acc	4	pp	_	_
+6	dahin	dahin	A	ADV	_	5	adv	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	6	obja	_	_
+2	die	die	A	ART	Def|Fem|Nom|Sg	3	det	_	_
+3	Erledigung	Erledigung	N	NN	Fem|Nom|Sg	6	subj	_	_
+4	der	die	A	ART	Def|Fem|Gen|Pl	5	det	534	534
+5	Formalitäten	Formalität	N	NN	Fem|Gen|Pl	3	gmod	534	534
+6	anbelangt	anbelangen	V	VVFIN	3|Sg|Pres|Ind	8	objc	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	brauchen	brauchen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	8	subj	534	534
+10	sich	sie	P	PRF	3|_|_	14	obja	_	_
+11	keinerlei	keinerlei	A	PIAT	_|Nom|_	12	det	_	_
+12	Sorgen	Sorge	N	NN	_|Nom|_	14	pred	_	_
+13	zu	zu	P	PTKZU	_	14	part	_	_
+14	machen	machen	V	VVINF	_	8	obji	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Innerhalb	innerhalb	P	APPR	_	4	pp	_	_
+2	welcher	welche	A	PWAT	Fem|_|Sg	3	det	934	934
+3	Frist	Frist	N	NN	Fem|_|Sg	1	pn	934	934
+4	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	1	1
+6	mich	ich	P	PRF	1|Sg|Acc	7	obja	_	_
+7	entscheiden	entscheiden	V	VVINF	_	4	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	kein	keine	A	PIAT	Masc|Nom|Sg	4	det	_	_
+4	Anlaß	Anlaß	N	NN	Masc|Nom|Sg	2	pred	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	sich	sie	P	PRF	3|_|_	8	obja	_	_
+7	zu	zu	P	PTKZU	_	8	part	_	_
+8	übereilen	übereilen	V	VVINF	_	2	obji	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Wann	Wann	P	PWAV	_	2	adv	_	_
+2	läuft	laufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Ihr	ihre	A	PPOSAT	_|Nom|Sg	4	det	_	_
+4	Urlaub	Urlaub	N	NN	_|Nom|Sg	2	subj	_	_
+5	ab	ab	P	PTKVZ	_	2	avz	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Morgen	morgen	A	ADV	_	2	adv	_	_
+2	abend	abend	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	535	535
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	8	obja	_	_
+4	wohl	wohl	A	ADV	_	8	adv	_	_
+5	mit	mit	P	APPR	Dat	8	pp	_	_
+6	Ihrem	ihre	A	PPOSAT	Masc|Dat|Sg	7	det	535	535
+7	Vater	Vater	N	NN	Masc|Dat|Sg	5	pn	_	_
+8	besprechen	besprechen	V	VVINF	_	9	aux	_	_
+9	wollen	wollen	V	VMINF	_	2	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	0	root	_	_
+2	meinem	meine	A	PPOSAT	Masc|Dat|Sg	3	det	536	536
+3	Vater	Vater	N	NN	Masc|Dat|Sg	1	pn	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	natürlich	natürlich	A	ADJD	Pos|	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	jedenfalls	jedenfalls	A	ADV	_	4	adv	_	_
+4	bringe	bringen	V	VVFIN	1|Sg|Pres|_	2	cj	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	536	536
+6	Ihnen	sie	P	PPER	3|Pl|_|Dat	4	objd	_	_
+7	morgen	morgen	A	ADV	_	4	adv	_	_
+8	früh	früh	A	ADJD	Pos|	4	adv	_	_
+9	die	die	A	ART	Def|Fem|_|Sg	10	det	_	_
+10	Antwort	Antwort	N	NN	Fem|_|Sg	4	obja	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	Herr	Herr	N	NN	Masc|_|Sg	10	app	_	_
+13	von	von	P	APPR	_	12	pp	_	_
+14	Sala	Sala	N	NE	_|_|_	13	pn	26	26
+15	.	.	$	$.	_	0	root	_	_
+
+1	Sala	Sala	N	NE	_	0	root	26	26
+2	.	.	$	$.	_	0	root	_	_
+
+1	Schön	schön	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	1	1
+2	würde	werden	V	VAFIN	1|Sg|Past|Subj	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	5	obja	_	_
+4	sehr	sehr	A	ADV	_	5	adv	_	_
+5	freuen	freuen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	immerhin	immerhin	A	ADV	_	3	adv	_	_
+3	bedenken	bedenken	V	VVFIN	3|Pl|Pres|_	1	cj	_	_
+4	Sie	sie	P	PPER	3|Pl|_|Nom	3	subj	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Ein	ein	A	ART	Indef|Masc|Nom|Sg	7	det	_	_
+7	Spaziergang	Spaziergang	N	NN	Masc|Nom|Sg	8	subj	_	_
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	es	es	P	PPER	3|Sg|Neut|_	8	expl	_	_
+10	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	2	adv	_	_
+2	auf	auf	P	APPR	_	0	root	_	_
+3	Wiedersehen	Wiedersehen	N	NN	Neut|_|_	2	pn	622	622
+4	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	Neut|_|_	0	root	38	38
+2	,	,	$	$,	_	0	root	38	38
+3	Fräulein	Fräulein	N	NN	Neut|_|_	1	app	38	38
+4	Johanna	Johanna	N	NE	Fem|_|Sg	3	app	38	38
+5	.	.	$	$.	_	0	root	_	_
+
+1	Leben	leben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	wohl	wohl	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Herr	Herr	N	NN	Masc|Nom|Sg	2	app	_	_
+6	Doktor	Doktor	N	NN	Masc|Nom|Sg	5	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	38	38
+2	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ab	ab	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Kurze	kurz	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Pause	Pause	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|Pl	2	det	_	_
+2	Zurückbleibenden	Zurückbleibende	N	NN	_|_|Pl	0	root	_	_
+3	in	in	P	APPR	Dat	2	pp	_	_
+4	einiger	einige	A	PIAT	Fem|Dat|Sg	5	det	_	_
+5	Bewegung	Bewegung	N	NN	Fem|Dat|Sg	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Johanna	Johanna	N	NN	Fem|Nom|Sg	2	subj	2	2
+2	erhebt	erheben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	537	537
+2	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	auf	auf	P	APPR	Acc	2	objp	_	_
+4	mein	meine	A	PPOSAT	Neut|Acc|Sg	5	det	537	537
+5	Zimmer	Zimmer	N	NN	Neut|Acc|Sg	3	pn	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Adieu	Adieu	N	NE	Masc|_|Sg	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	1	app	_	_
+4	Doktor	Doktor	N	NN	Masc|_|Sg	3	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ab	ab	P	PTKVZ	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	73	73
+2	,	,	$	$,	_	0	root	73	73
+3	Doktor	Doktor	N	NN	Masc|_|Sg	1	app	73	73
+4	Reumann	Reumann	N	NE	_|_|Sg	3	app	73	73
+5	.	.	$	$.	_	0	root	_	_
+
+1	Dann	dann	A	ADV	_	2	adv	38	38
+2	Johanna	Johanna	N	NN	Fem|_|Sg	0	root	38	38
+3	.	.	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	entschlossen	entschlossen	V	VVPP	_	2	aux	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Felix	Felix	N	NE	Masc|_|Sg	2	vok	3	3
+6	?	?	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Beinahe	beinahe	A	ADV	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Doktor	Doktor	N	NN	Masc|_|Sg	0	root	73	73
+2	Reumann	Reumann	N	NE	_|_|Sg	1	app	73	73
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+4	viel	viel	A	PIDAT	Neut|_|Sg	5	det	_	_
+5	Neues	Neues	N	NN	Neut|_|Sg	6	obja	_	_
+6	kennen	kennen	V	VVINF	_	7	obji	_	_
+7	lernen	lernen	V	VVINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Felix	Felix	N	NE	Masc|_|Sg	0	root	3	3
+2	.	.	$	$.	_	0	root	_	_
+
+1	Unter	unter	P	APPR	Dat	4	pp	_	_
+2	anderm	andere	P	PIS	_|Dat|Sg	1	pn	_	_
+3	hoffentlich	hoffentlich	A	ADV	_	4	adv	_	_
+4	mich	ich	P	PPER	1|Sg|_|Acc	0	root	1	1
+5	selbst	selbst	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	wozu	wozu	P	PWAV	_	12	pp	_	_
+8	es	es	P	PPER	3|Sg|Neut|Nom	12	subj	_	_
+9	nun	nun	A	ADV	_	12	adv	_	_
+10	endlich	endlich	A	ADJD	Pos|	12	adv	_	_
+11	Zeit	Zeit	N	NN	Fem|Nom|Sg	12	pred	544	544
+12	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Zitierend	Zitierend	N	NN	Neut|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	In	in	P	APPR	Acc	0	root	_	_
+3	rätselhafte	rätselhaft	A	ADJA	Pos|_|Acc|Pl|St|	4	attr	_	_
+4	Fernen	Ferne	N	NN	_|Acc|Pl	2	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	«	«	$	$(	_	0	root	_	_
+3	Wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	nur	nur	A	ADV	_	7	adv	_	_
+6	wahr	wahr	A	ADJD	Pos|	7	pred	_	_
+7	werden	werden	V	VAINF	_	3	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+

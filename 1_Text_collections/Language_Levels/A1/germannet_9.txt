@@ -1,0 +1,129 @@
+1	Ricarda	Ricarda	N	NE	Fem|Nom|Sg	2	subj	_	(1)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	21	21	CARD	CARD	_	4	attr	_	-
+4	Jahre	Jahr	N	NN	Neut|_|Pl	5	grad	_	-
+5	alt	alt	ADV	ADJD	Pos|	2	pred	_	-
+6	und	und	KON	KON	_	2	kon	_	-
+7	wohnt	wohnen	V	VVFIN	_|_|Pres|Ind	6	cj	_	-
+8	in	in	PREP	APPR	_	7	objp	_	-
+9	Lübeck	Lübeck	N	NE	Neut|_|Sg	8	pn	_	(0)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Lübeck	Lübeck	N	NE	Neut|Nom|Sg	2	subj	_	(0)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|Nom|Sg	6	det	_	-
+4	sehr	sehr	ADV	ADV	_	5	adv	_	-
+5	schöne	schön	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	6	attr	_	-
+6	Stadt	Stadt	N	NN	Fem|Nom|Sg	2	pred	_	-
+7	im	in	PREP	APPRART	Dat	6	pp	_	-
+8	Norden	Norden	N	NN	_|Dat|Sg	7	pn	_	-
+9	von	von	PREP	APPR	Dat	8	pp	_	-
+10	Deutschland	Deutschland	N	NE	Neut|Dat|Sg	9	pn	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Ricarda	Ricarda	N	NE	Fem|Nom|Sg	2	subj	_	(1)
+2	studiert	studieren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	Medizin	Medizin	N	NN	Fem|_|Sg	2	obja	_	-
+4	an	an	PREP	APPR	Dat	2	pp	_	-
+5	der	die	ART	ART	Def|Fem|Dat|Sg	6	det	_	-
+6	Universität	Universität	N	NN	Fem|Dat|Sg	4	pn	_	-
+7	von	von	PREP	APPR	_	6	pp	_	-
+8	Lübeck	Lübeck	N	NE	Neut|_|Sg	7	pn	_	(0)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(1)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	viele	viele	ART	PIDAT	Masc|_|Pl	4	det	_	-
+4	Freunde	Freund	N	NN	Masc|_|Pl	2	obja	_	-
+5	dort	dort	ADV	ADV	_	2	adv	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ricardas	Ricardas	N	NE	_|Gen|_	3	gmod	_	(3)
+2	beste	gut	ADJA	ADJA	Sup|Fem|Nom|Sg|_|	3	attr	_	-
+3	Freundin	Freundin	N	NN	Fem|Nom|Sg	4	subj	_	-
+4	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	Maike	Maike	N	NE	Fem|Nom|Sg	4	pred	_	(2)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Maike	Maike	N	NE	Fem|Nom|Sg	2	subj	_	(2)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	22	22	CARD	CARD	_	2	objd	_	-
+4	und	und	KON	KON	_	2	kon	_	-
+5	wohnt	wohnen	V	VVFIN	_|_|Pres|Ind	4	cj	_	-
+6	nicht	nicht	PTKNEG	PTKNEG	_	5	adv	_	-
+7	in	in	PREP	APPR	_	5	objp	_	-
+8	Lübeck	Lübeck	N	NE	Neut|_|Sg	7	pn	_	(0)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Sg|Fem|Nom	2	subj	_	(2)
+2	wohnt	wohnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	in	in	PREP	APPR	_	2	objp	_	-
+4	Hamburg	Hamburg	N	NE	_|_|Sg	3	pn	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	aber	aber	KON	KON	_	2	kon	_	-
+7	besucht	besuchen	V	VVFIN	3|Sg|Pres|Ind	6	cj	_	-
+8	ihre	ihre	ART	PPOSAT	Fem|Nom|Sg	9	det	_	(2)
+9	Freundin	Freundin	N	NN	Fem|Nom|Sg	7	subj	_	-
+10	oft	oft	ADV	ADV	_	7	adv	_	-
+11	in	in	PREP	APPR	_	7	pp	_	-
+12	Lübeck	Lübeck	N	NE	Neut|_|Sg	11	pn	_	(0)
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(3)
+2	treffen	treffen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+4	gerne	gerne	ADV	ADV	_	2	adv	_	-
+5	im	in	PREP	APPRART	Dat	2	pp	_	-
+6	Park	Park	N	NN	Masc|Dat|Sg	5	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Meistens	meistens	ADV	ADV	_	2	adv	_	-
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(3)
+4	dann	dann	ADV	ADV	_	2	adv	_	-
+5	zusammen	zusammen	ADV	ADV	_	7	adv	_	-
+6	Eis	Eis	N	NN	Neut|_|_	7	obja	_	-
+7	essen	essen	V	VVINF	_	2	obji	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Danach	Danach	PROAV	PROAV	_	2	pp	_	-
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(3)
+4	manchmal	manchmal	ADV	ADV	_	2	adv	_	-
+5	noch	noch	ADV	ADV	_	6	adv	_	-
+6	einkaufen	einkaufen	V	VVINF	_	2	obji	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ricarda	Ricarda	N	NE	Fem|Nom|Sg	2	subj	_	(1)
+2	kauft	kaufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	am	am	PTKA	PTKA	_	4	adv	_	-
+4	liebsten	liebsten	ADV	ADJD	_	2	adv	_	-
+5	neue	neu	ADJA	ADJA	Pos|Masc|_|Pl|St|	6	attr	_	-
+6	Schuhe	Schuh	N	NN	Masc|_|Pl	2	obja	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Maike	Maike	N	NE	Fem|Nom|Sg	2	subj	_	(2)
+2	kauft	kaufen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|Dat	2	objd	_	-
+4	lieber	lieb	ADV	ADJD	Comp|	5	adv	_	-
+5	neuen	neu	ADJA	ADJA	Pos|Masc|_|Sg|_|	6	attr	_	-
+6	Schmuck	Schmuck	N	NN	Masc|_|Sg	2	obja	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Abend	Abend	N	NN	Masc|Dat|Sg	1	pn	_	-
+3	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	sie	sie	PRO	PPER	3|Pl|_|Nom	3	subj	_	(3)
+5	gern	gern	ADV	ADV	_	3	adv	_	-
+6	ins	in	PREP	APPRART	Acc	3	objp	_	-
+7	Kino	Kino	N	NN	Neut|Acc|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Maike	Maike	N	NE	Fem|Nom|Sg	2	subj	_	(2)
+2	übernachtet	übernachten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	dann	dann	ADV	ADV	_	2	adv	_	-
+4	oft	oft	ADV	ADV	_	2	adv	_	-
+5	bei	bei	PREP	APPR	Dat	2	pp	_	-
+6	Ricarda	Ricarda	N	NE	Fem|Dat|Sg	5	pn	_	(1)
+7	.	.	$.	$.	_	0	root	_	-
+

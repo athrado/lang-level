@@ -1,0 +1,484 @@
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	310	310
+2	verschwenden	verschwenden	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	das	die	A	ART	Def|Neut|_|Sg	5	det	_	_
+5	Papier	Papier	N	NN	Neut|_|Sg	2	obja	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Zur	zu	P	APPRART	Dat	0	root	_	_
+2	Hauteville	Hauteville	N	NN	_|Dat|_	1	pn	294	294
+3	:	\:	$	$.	_	0	root	_	_
+4	Ihre	ihre	A	PPOSAT	Masc|Nom|Pl	5	det	310	310
+5	Freunde	Freund	N	NN	Masc|Nom|Pl	6	subj	_	_
+6	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+7	Ihnen	sie	P	PPER	3|Pl|_|Dat	10	objd	310	310
+8	absolut	absolut	A	ADJD	Pos|	9	adv	_	_
+9	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+10	helfen	helfen	V	VVINF	_	6	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+4	denken	denken	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	Sie	sie	P	PPER	3|Pl|_|Nom	4	subj	310	310
+6	?	?	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Neut|_|Sg	2	det	_	_
+2	Wort	Wort	N	NN	Neut|_|Sg	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	und	und	K	KON	_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	226	226
+6	bin	sein	V	VAFIN	1|Sg|Pres|Ind	4	cj	_	_
+7	frei	frei	A	ADJD	Pos|	6	pred	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	höhnisch	höhnisch	A	ADJD	Pos|	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Gewiß	gewiß	A	ADJD	Pos|	0	root	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	man	man	P	PIS	_|Nom|Sg	5	subj	_	_
+5	wird	werden	V	VAFIN	3|Sg|Pres|Ind	3	cj	_	_
+6	sich	sie	P	PRF	3|_|_	11	obja	_	_
+7	bei	bei	P	APPR	Dat	11	pp	_	_
+8	mir	ich	P	PPER	1|Sg|_|Dat	7	pn	_	_
+9	noch	noch	A	ADV	_	10	adv	_	_
+10	heute	heute	A	ADV	_	7	adv	_	_
+11	entschuldigen	entschuldigen	V	VVINF	_	5	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Noch	noch	A	ADV	_	2	adv	_	_
+2	heute	heute	A	ADV	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Gewiß	gewiß	A	ADJD	Pos|	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Zu	zu	P	APPR	Dat	0	root	_	_
+3	Reisacher	Reisacher	N	NE	_|Dat|_	2	pn	227	227
+4	:	\:	$	$.	_	0	root	_	_
+5	Assessor	Assessor	N	NE	_	0	root	228	228
+6	mit	mit	P	APPR	Dat	5	pp	228	228
+7	zwei	zwei	C	CARD	_	6	pn	228	228
+8	s	s	P	PPER	_	0	root	_	_
+9	;	;	$	$.	_	0	root	_	_
+10	beide	beide	A	PIDAT	Neut|_|Pl	11	det	_	_
+11	Male	Mal	N	NN	Neut|_|Pl	0	root	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	wenn	wenn	K	KOUS	_	16	konj	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	16	subj	226	226
+15	bitten	bitten	V	VVINF	_	16	aux	_	_
+16	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+17	!	!	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Wenn	wenn	K	KOUS	_	8	konj	_	_
+4	die	die	A	ART	Def|_|Nom|Pl	5	det	21	21
+5	Leute	Leute	N	NN	_|Nom|Pl	8	subj	21	21
+6	eine	eine	A	ART	Indef|Fem|_|Sg	7	det	_	_
+7	Ahnung	Ahnung	N	NN	Fem|_|Sg	8	obja	_	_
+8	hätten	haben	V	VAFIN	3|Pl|Past|Subj	13	neb	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	wen	wer	P	PWS	_|Acc|Sg	12	obja	_	_
+11	sie	sie	P	PPER	3|Pl|_|Nom	13	subj	21	21
+12	gestört	stören	V	VVPP	_	13	aux	_	_
+13	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	Wen	wer	P	PWS	_|Acc|Sg	3	obja	_	_
+2	sie	sie	P	PPER	3|Pl|_|Nom	4	subj	21	21
+3	gezwungen	zwingen	V	VVPP	_	4	aux	_	_
+4	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	in	in	P	APPR	Acc	10	pp	_	_
+7	den	die	A	ART	Def|Masc|Acc|Sg	8	det	327	327
+8	Kleiderschrank	Kleiderschrank	N	NN	Masc|Acc|Sg	6	pn	327	327
+9	zu	zu	P	PTKZU	_	10	part	_	_
+10	flüchten	flüchten	V	VVINF	_	3	obji	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_|Nom|Sg	2	subj	226	226
+2	wendet	wenden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	rasch	rasch	A	ADJD	Pos|	2	adv	_	_
+5	gegen	gegen	P	APPR	Acc	2	objp	_	_
+6	die	die	A	ART	Def|_|Acc|_	7	det	294	294
+7	Hauteville	Hauteville	N	NN	_|Acc|_	5	pn	294	294
+8	:	\:	$	$.	_	0	root	_	_
+9	Kleiderschrank	Kleiderschrank	N	NN	Masc|_|Sg	0	root	312	312
+10	!	!	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	so	so	A	ADV	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Kleiderschrank	Kleiderschrank	N	NN	Masc|_|Sg	0	root	312	312
+2	.	.	$	$.	_	0	root	_	_
+
+1	Notieren	notieren	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	_	_
+3	das	die	A	ART	Def|Neut|_|Sg	0	root	_	_
+4	mal	mal	A	ADV	_	0	root	_	_
+5	gleich	gleich	P	PTKVZ	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Reisacher	Reisacher	N	NE	_	0	root	227	227
+8	!	!	$	$.	_	0	root	_	_
+
+1	Zur	zu	P	APPRART	Dat	0	root	_	_
+2	Hauteville	Hauteville	N	NN	_|Dat|_	1	pn	294	294
+3	,	,	$	$,	_	0	root	_	_
+4	jedes	jede	A	PIDAT	Neut|_|Sg	5	det	_	_
+5	Wort	Wort	N	NN	Neut|_|Sg	0	root	_	_
+6	betonend	betonen	A	ADJD	_|<PPRES	0	root	_	_
+7	:	\:	$	$.	_	0	root	_	_
+8	Es	es	P	PPER	3|Sg|Neut|_	16	expl	_	_
+9	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+10	sich	sie	P	PRF	3|_|_	16	obja	_	_
+11	also	also	A	ADV	_	16	adv	_	_
+12	jemand	jemand	P	PIS	_|Nom|Sg	9	subj	_	_
+13	in	in	P	APPR	Acc	16	pp	_	_
+14	einen	eine	A	ART	Indef|Masc|Acc|Sg	15	det	_	_
+15	Kleiderschrank	Kleiderschrank	N	NN	Masc|Acc|Sg	13	pn	_	_
+16	geflüchtet	flüchten	V	VVPP	_	9	aux	_	_
+17	?	?	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ja	ja	P	PTKANT	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	8	expl	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	8	obja	_	_
+4	jemand	jemand	P	PIS	_|Nom|Sg	2	subj	_	_
+5	in	in	P	APPR	Acc	8	pp	_	_
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	7	det	_	_
+7	Kleiderschrank	Kleiderschrank	N	NN	Masc|Acc|Sg	5	pn	_	_
+8	geflüchtet	flüchten	V	VVPP	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NN	_	0	root	226	226
+2	plötzlich	plötzlich	A	ADJD	Pos|	3	adv	_	_
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	freundlich	freundlich	A	ADJD	Pos|	0	root	_	_
+5	:	\:	$	$.	_	0	root	_	_
+6	Na	Na	N	NE	_	8	vok	32	32
+7	,	,	$	$,	_	0	root	_	_
+8	sehen	sehen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+9	Sie	sie	P	PPER	3|Pl|_|Nom	8	subj	313	313
+10	,	,	$	$,	_	0	root	_	_
+11	wir	wir	P	PPER	1|Pl|_|Nom	12	subj	_	_
+12	verstehen	verstehen	V	VVFIN	1|Pl|Pres|_	8	kon	_	_
+13	uns	wir	P	PRF	1|Pl|_	12	obja	_	_
+14	ja	ja	A	ADV	_	12	adv	_	_
+15	prächtig	prächtig	A	ADJD	Pos|	12	adv	_	_
+16	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	313	313
+2	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	klug	klug	A	ADJD	Pos|	2	pred	_	_
+5	und	und	K	KON	_	2	kon	_	_
+6	leugnen	leugnen	V	VVFIN	_|Pl|Pres|_	5	cj	_	_
+7	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+8	erst	erst	A	ADV	_	6	adv	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	314	314
+4	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+5	nur	nur	A	ADV	_	4	adv	_	_
+6	ein	eine	A	ART	Indef|Neut|_|Sg	7	det	_	_
+7	Interesse	Interesse	N	NN	Neut|_|Sg	4	obja	_	_
+8	daran	daran	P	PROAV	_	4	pp	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	daß	daß	K	KOUS	_	13	konj	_	_
+11	Sie	sie	P	PPER	3|Pl|_|Nom	13	subj	313	313
+12	alles	alle	P	PIS	Neut|Nom|Sg	11	app	_	_
+13	wissen	wissen	V	VVFIN	3|Pl|Pres|_	4	objc	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Bravo	Bravo	F	FM	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	314	314
+2	könnte	können	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+3	beinahe	beinahe	A	ADV	_	4	adv	_	_
+4	sagen	sagen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	11	konj	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	220	220
+8	vor	vor	P	APPR	Dat	11	pp	_	_
+9	Ihnen	sie	P	PPER	3|Pl|_|Dat	8	pn	313	313
+10	Respekt	Respekt	N	NN	Masc|_|Sg	11	obja	234	234
+11	habe	haben	V	VAFIN	1|Sg|Pres|_	4	objc	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Sehr	sehr	A	ADV	_	2	adv	_	_
+2	wohlwollend	wohlwollen	A	ADJD	_|<PPRES	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	P	PPER	3|Pl|_|Nom	1	subj	313	313
+3	,	,	$	$,	_	0	root	_	_
+4	Hochstetter	Hochstetter	N	NE	_|Nom|Pl	2	app	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	jeder	jede	A	PIDAT	Masc|Nom|Sg	7	det	_	_
+7	Mensch	Mensch	N	NN	Masc|Nom|Sg	8	subj	_	_
+8	kann	können	V	VMFIN	3|Sg|Pres|Ind	1	kon	_	_
+9	mal	mal	A	ADV	_	13	adv	_	_
+10	'	'	$	$(	_	0	root	_	_
+11	ne	ne	A	ADJA	_|Fem|_|Sg|_	12	attr	_	_
+12	Dummheit	Dummheit	N	NN	Fem|_|Sg	13	obja	_	_
+13	machen	machen	V	VVINF	_	8	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+4	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	Gott	Gott	N	NN	Masc|_|Sg	4	obja	331	331
+6	!	!	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	kolossale	kolossal	A	ADJA	Pos|Fem|_|Pl|St|	4	attr	_	_
+4	Dummheiten	Dummheit	N	NN	Fem|_|Pl	5	obja	_	_
+5	machen	machen	V	VVINF	_	2	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	kann	können	V	VMFIN	_|Sg|Pres|Ind	3	cj	_	_
+5	auch	auch	A	ADV	_	4	adv	_	_
+6	mal	mal	A	ADV	_	4	adv	_	_
+7	das	die	A	ART	Def|Neut|Nom|Sg	8	det	315	315
+8	Gesetz	Gesetz	N	NN	Neut|Nom|Sg	9	subj	315	315
+9	übertreten	übertreten	V	VVPP	_	4	neb	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	nur	nur	A	ADV	_	5	adv	_	_
+3	hinterher	hinterher	A	ADV	_	5	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	lügen	lügen	V	VVINF	_	1	cj	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	jämmerlich	jämmerlich	A	ADJD	Pos|	2	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	wir	wir	P	PPER	1|Pl|_|Nom	3	subj	_	_
+3	erfahren	erfahren	V	VVFIN	1|Pl|Pres|_	1	cj	_	_
+4	ja	ja	A	ADV	_	3	adv	_	_
+5	doch	doch	A	ADV	_	3	adv	_	_
+6	die	die	A	ART	Def|Fem|_|Sg	7	det	338	338
+7	Wahrheit	Wahrheit	N	NN	Fem|_|Sg	3	obja	338	338
+8	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	316	316
+4	wollte	wollen	V	VMFIN	1|Sg|Past|_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Sie	sie	P	PPER	3|Pl|_|Nom	7	subj	_	_
+7	hätten	haben	V	VAFIN	3|Pl|Past|Subj	4	kon	_	_
+8	sie	sie	P	PPER	3|_|_|_	10	obja	294	294
+9	schon	schon	A	ADV	_	10	adv	_	_
+10	erfahren	erfahren	V	VVPP	_	7	aux	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Wir	wir	P	PPER	1|Pl|_|Nom	4	subj	_	_
+4	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+5	ja	ja	A	ADV	_	4	adv	_	_
+6	dabei	dabei	P	PROAV	_	4	pp	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	das	die	P	PDS	Neut|_|Sg	3	obja	_	_
+3	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	1	cj	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	316	316
+5	sagen	sagen	V	VVINF	_	3	aux	_	_
+6	:	\:	$	$.	_	0	root	_	_
+7	Hut	Hut	F	FM	_	0	root	_	_
+8	ab	ab	P	PTKVZ	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Ehrgefühl	Ehrgefühl	N	NN	Neut|_|Sg	2	obja	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ja	ja	P	PTKANT	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Entschieden	entscheiden	V	VVPP	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+4	verliert	verlieren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	die	die	A	ART	Def|Fem|_|Sg	6	det	_	_
+6	Empfindung	Empfindung	N	NN	Fem|_|Sg	4	obja	_	_
+7	dafür	dafür	P	PROAV	_	4	pp	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	wenn	wenn	K	KOUS	_	17	konj	_	_
+10	man	man	P	PIS	_|Nom|Sg	17	subj	_	_
+11	zwei	zwei	C	CARD	_	12	attr	_	_
+12	Nächte	Nacht	N	NN	Fem|Nom|Pl	17	pred	_	_
+13	in	in	P	APPR	Dat	17	pp	_	_
+14	einer	eine	A	ART	Indef|Fem|Dat|Sg	16	det	_	_
+15	solchen	solche	A	PIDAT	Fem|Dat|Sg	16	attr	_	_
+16	Gesellschaft	Gesellschaft	N	NN	Fem|Dat|Sg	13	pn	_	_
+17	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	neb	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	sehr	sehr	A	ADV	_	3	adv	_	_
+3	wohlwollend	wohlwollen	A	ADJD	_|<PPRES	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	Es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+6	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+7	etwas	etwas	A	ADV	_	8	adv	_	_
+8	hart	hart	A	ADJD	Pos|	6	pred	_	_
+9	für	für	P	APPR	Acc	6	pp	_	_
+10	Sie	sie	P	PPER	3|_|_|Acc	9	pn	226	226
+11	.	.	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+5	gräßlich	gräßlich	A	ADJD	Pos|	4	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PPER	1|Sg|_|Dat	8	objd	220	220
+4	die	die	A	ART	Def|Fem|_|Sg	5	det	_	_
+5	Diskretion	Diskretion	N	NN	Fem|_|Sg	8	obja	_	_
+6	wirklich	wirklich	A	ADJD	Pos|	8	adv	_	_
+7	schwer	schwer	A	ADJD	Pos|	8	pred	_	_
+8	gemacht	machen	V	VVPP	_	2	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Unmöglich	unmöglich	A	ADJD	Pos|	8	pred	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+6	sie	sie	P	PPER	3|_|_|_	8	obja	226	226
+7	Ihnen	sie	P	PPER	3|Pl|_|Dat	8	objd	317	317
+8	gemacht	machen	V	VVPP	_	4	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	stürzt	stürzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Sie	sie	P	PPER	3|_|_|_	2	obja	226	226
+4	ins	in	P	APPRART	Acc	2	objp	_	_
+5	Unglück	Unglück	N	NN	Neut|Acc|Sg	4	pn	585	585
+6	,	,	$	$,	_	0	root	_	_
+7	und	und	K	KON	_	2	kon	_	_
+8	Sie	sie	P	PPER	3|Pl|_|Nom	9	subj	317	317
+9	sollen	sollen	V	VMFIN	3|Pl|Pres|_	7	cj	_	_
+10	die	die	A	ART	Def|_|_|Pl	11	det	21	21
+11	Leute	Leute	N	NN	_|_|Pl	13	obja	21	21
+12	noch	noch	A	ADV	_	13	adv	_	_
+13	schonen	schonen	V	VVINF	_	9	aux	_	_
+14	!	!	$	$.	_	0	root	_	_
+
+1	Nee	nee	A	ADV	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	318	318
+4	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+5	zusehen	zusehen	V	VVINF	_	4	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	13	konj	_	_
+8	man	man	P	PIS	_|Nom|Sg	13	subj	_	_
+9	nachts	nachts	A	ADV	_	13	adv	_	_
+10	in	in	P	APPR	Acc	13	objp	_	_
+11	meine	meine	A	PPOSAT	Fem|Acc|Sg	12	det	318	318
+12	Wohnung	Wohnung	N	NN	Fem|Acc|Sg	10	pn	_	_
+13	dringt	dringen	V	VVFIN	3|Sg|Pres|Ind	5	objc	_	_
+14	und	und	K	KON	_	13	kon	_	_
+15	mich	ich	P	PRF	1|Sg|Acc	16	obja	_	_
+16	fortschleppt	fortschleppen	V	VVFIN	_|_|Pres|Ind	14	cj	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Nee	Nee	F	FM	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zu	zu	P	PTKA	_	4	adv	_	_
+4	viel	viel	P	PIS	_|Nom|_	2	pred	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Hauteville	Hauteville	N	NE	_	0	root	294	294
+2	:	\:	$	$.	_	0	root	_	_
+3	Man	man	P	PIS	_|Nom|Sg	4	subj	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	mich	ich	P	PPER	1|Sg|_|Acc	10	obja	319	319
+6	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+7	einmal	einmal	A	ADV	_	9	adv	_	_
+8	Leibwäsche	Leibwäsche	N	NN	Fem|_|Sg	9	obja	_	_
+9	mitnehmen	mitnehmen	V	VVINF	_	10	obji	_	_
+10	lassen	lassen	V	VVINF	_	4	aux	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	sperrt	sperren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	319	319
+4	mit	mit	P	APPR	Dat	2	pp	_	_
+5	Weibern	Weib	N	NN	_|Dat|Pl	4	pn	320	320
+6	zusammen	zusammen	P	PTKVZ	_	2	avz	320	320
+7	,	,	$	$,	_	0	root	320	320
+8	die	die	P	PRELS	_|Nom|Pl	14	subj	320	320
+9	jede	jede	A	PIDAT	Fem|_|Sg	11	det	_	_
+10	vorkommende	vorkommend	A	ADJA	Pos|Fem|_|Sg|_|_	11	attr	_	_
+11	Art	Art	N	NN	Fem|_|Sg	14	obja	_	_
+12	von	von	P	APPR	_	11	pp	_	_
+13	Ungeziefer	Ungeziefer	N	NN	Neut|_|_	12	pn	_	_
+14	haben	haben	V	VAFIN	3|Pl|Pres|_	5	rel	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Ströbel	Ströbel	N	NE	_	0	root	226	226
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	dabei	dabei	P	PROAV	_	5	pp	_	_
+5	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	3	cj	_	_
+6	man	man	P	PIS	_|Nom|Sg	5	subj	_	_
+7	diskret	diskret	A	ADJD	Pos|	8	pred	_	_
+8	sein	sein	V	VAINF	_	5	aux	_	_
+9	!	!	$	$.	_	0	root	_	_
+

@@ -1,0 +1,408 @@
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	heiße	heißen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Max	Max	N	NE	Masc|Nom|Sg	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	lebe	leben	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	_	2	pp	_	-
+4	Bonn	Bonn	N	NE	Neut|_|Sg	3	pn	_	(1)
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	im	in	PREP	APPRART	Dat	2	pp	_	-
+4	Westen	Weste	N	NN	_|Dat|_	3	pn	_	-
+5	von	von	PREP	APPR	Dat	4	pp	_	-
+6	Deutschland	Deutschland	N	NE	Neut|Dat|Sg	5	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	seit	seit	PREP	APPR	Dat	2	pp	_	-
+4	drei	drei	CARD	CARD	_	5	attr	_	-
+5	Jahren	Jahr	N	NN	Neut|Dat|Pl	3	pn	_	-
+6	in	in	PREP	APPR	Dat	2	pp	_	-
+7	meinem	meine	ART	PPOSAT	Masc|Dat|Sg	8	det	_	(0)
+8	Beruf	Beruf	N	NN	Masc|Dat|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	glaube	glauben	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	das	die	PRO	PDS	Neut|Nom|Sg	5	subj	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	s	_	-
+6	mein	meine	ART	PPOSAT	Masc|Nom|Sg	7	det	_	(0)
+7	Traumberuf	Traumberuf	N	NN	Masc|Nom|Sg	5	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	sitze	sitzen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+4	im	in	PREP	APPRART	Dat	2	pp	_	-
+5	Büro	Büro	N	NN	Neut|Dat|Sg	4	pn	_	(4)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+4	am	an	PREP	APPRART	Dat	2	pp	_	-
+5	Schreibtisch	Schreibtisch	N	NN	Masc|Dat|Sg	4	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	brauche	brauchen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	keinen	keine	ART	PIAT	Masc|Acc|Sg	4	det	_	-
+4	Computer	Computer	N	NN	Masc|Acc|Sg	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	brauche	brauchen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	nur	nur	ADV	ADV	_	2	adv	_	-
+4	mein	meine	ART	PPOSAT	Neut|_|Sg	5	det	_	(0)
+5	Smartphone	Smartphone	N	NN	Neut|_|Sg	2	obja	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	mein	meine	ART	PPOSAT	Neut|_|Sg	8	det	_	(0)|(3
+8	Fahrrad	Fahrrad	N	NN	Neut|_|Sg	6	cj	_	3)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	flexibel	flexibel	ADV	ADJD	Pos|	2	adv	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Meistens	meistens	ADV	ADV	_	2	adv	_	-
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	Montag	Montag	N	NN	Masc|_|Sg	2	zeit	_	-
+5	bis	bis	PREP	APPR	Acc	2	pp	_	-
+6	Freitag	Freitag	N	NN	_|Acc|Sg	5	pn	_	-
+7	von	von	PREP	APPR	_	6	pp	_	-
+8	8	8	CARD	CARD	_	9	attr	_	-
+9	Uhr	Uhr	N	NN	Fem|_|Sg	7	pn	_	-
+10	bis	bis	PREP	APPR	Acc	7	kon	_	-
+11	13.30	13.30	CARD	CARD	_	12	attr	_	-
+12	Uhr	Uhr	N	NN	Fem|Acc|Sg	10	pn	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	manchmal	manchmal	ADV	ADV	_	3	adv	_	-
+3	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	1	cj	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	auch	auch	ADV	ADV	_	3	adv	_	-
+6	am	an	PREP	APPRART	Dat	3	pp	_	-
+7	Samstag	Samstag	N	NN	_|Dat|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	mache	machen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|_|Sg	5	det	_	-
+4	halbe	halb	ADJA	ADJA	Pos|Fem|_|Sg|_|	5	attr	_	-
+5	Stunde	Stunde	N	NN	Fem|_|Sg	2	obja	_	-
+6	Pause	Pause	N	NN	Fem|_|Sg	5	app	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	mache	machen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	viel	viel	ART	PIDAT	Masc|_|Sg	4	det	_	-
+4	Sport	Sport	N	NN	Masc|_|Sg	2	obja	_	-
+5	bei	bei	PREP	APPR	Dat	2	pp	_	-
+6	der	die	ART	ART	Def|Fem|Dat|Sg	7	det	_	(8
+7	Arbeit	Arbeit	N	NN	Fem|Dat|Sg	5	pn	_	8)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	brauche	brauchen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	kein	keine	ART	PIAT	Neut|_|Sg	4	det	_	-
+4	Fitness-Studio	Fitness-Studio	N	NN	Neut|_|Sg	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	treffe	treffen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	viele	viele	ART	PIDAT	Masc|_|Pl	4	det	_	-
+4	Menschen	Mensch	N	NN	Masc|_|Pl	2	obja	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	aber	aber	KON	KON	_	0	root	_	-
+7	immer	immer	ADV	ADV	_	8	adv	_	-
+8	nur	nur	ADV	ADV	_	9	adv	_	-
+9	kurz	kurz	ADV	ADJD	Pos|	6	cj	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	arbeite	arbeiten	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	allein	allein	ADV	ADV	_	2	adv	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	das	die	PRO	PDS	Neut|Nom|Sg	6	subj	_	-
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	-
+7	gut	gut	ADV	ADJD	Pos|	6	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	spreche	sprechen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+4	viel	viel	PRO	PIS	_	2	obja	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	es	es	PRO	PPER	3|Sg|Neut|Nom	7	subj	_	-
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	-
+8	ruhig	ruhig	ADV	ADJD	Pos|	7	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|_|Sg	2	obja	_	-
+2	mag	mögen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	hole	holen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Briefe	Brief	N	NN	Masc|_|_	2	obja	_	-
+4	oder	oder	KON	KON	_	3	kon	_	-
+5	Pakete	Paket	N	NN	Neut|_|_	4	cj	_	-
+6	in	in	PREP	APPR	_	2	pp	_	-
+7	Büros	Büro	N	NN	Neut|_|Pl	6	pn	_	-
+8	ab	ab	PTKVZ	PTKVZ	_	2	avz	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	bringe	bringen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	die	die	ART	ART	Def|Masc|_|Pl	5	det	_	-
+5	Briefe	Brief	N	NN	Masc|_|Pl	2	obja	_	-
+6	oder	oder	KON	KON	_	5	kon	_	-
+7	Pakete	Paket	N	NN	Neut|_|Pl	6	cj	_	-
+8	zu	zu	PREP	APPR	Dat	2	objp	_	-
+9	anderen	anderen	ADJA	ADJA	_|Neut|Dat|Pl|_	10	attr	_	-
+10	Büros	Büro	N	NN	Neut|Dat|Pl	8	pn	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	transportiere	transportieren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	alles	alle	PRO	PIS	_|_|Sg	2	obja	_	-
+4	auf	auf	PREP	APPR	Dat	2	pp	_	-
+5	meinem	meine	ART	PPOSAT	_|Dat|Sg	6	det	_	(0)
+6	Rücken	Rücken	N	NN	_|Dat|Sg	4	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	fahre	fahren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	nur	nur	ADV	ADV	_	2	adv	_	-
+4	in	in	PREP	APPR	Dat	2	pp	_	-
+5	der	die	ART	ART	Def|Fem|Dat|Sg	6	det	_	(2
+6	Stadt	Stadt	N	NN	Fem|Dat|Sg	4	pn	_	2)
+7	,	,	$,	$,	_	0	root	_	-
+8	nur	nur	ADV	ADV	_	9	adv	_	-
+9	in	in	PREP	APPR	_	2	pp	_	-
+10	Bonn	Bonn	N	NE	Neut|_|Sg	9	pn	_	(1)
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	fahre	fahren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	mit	mit	PREP	APPR	Dat	2	pp	_	-
+4	meinem	meine	ART	PPOSAT	Neut|Dat|Sg	5	det	_	(0)
+5	Fahrrad	Fahrrad	N	NN	Neut|Dat|Sg	3	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	Dat	4	pp	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	3	det	_	(2
+3	Stadt	Stadt	N	NN	Fem|Dat|Sg	1	pn	_	2)
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	man	man	PRO	PIS	_|Nom|Sg	4	subj	_	-
+6	mit	mit	PREP	APPR	Dat	4	pp	_	-
+7	dem	die	ART	ART	Def|Neut|Dat|Sg	8	det	_	(3
+8	Fahrrad	Fahrrad	N	NN	Neut|Dat|Sg	6	pn	_	3)
+9	sehr	sehr	ADV	ADV	_	10	adv	_	-
+10	schnell	schnell	ADV	ADJD	Pos|	4	pred	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Autos	Auto	N	NN	Neut|Nom|Pl	2	subj	_	-
+2	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	da	da	ADV	ADV	_	2	adv	_	-
+4	oft	oft	ADV	ADV	_	2	adv	_	-
+5	im	in	PREP	APPRART	Dat	2	pp	_	-
+6	Stau	Stau	N	NN	Masc|Dat|Sg	5	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	schnell	schnell	ADV	ADJD	Pos|	4	pred	_	-
+4	sein	sein	V	VAINF	_	2	aux	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	denn	denn	KON	KON	_	2	kon	_	-
+7	die	die	ART	ART	Def|_|Nom|Pl	8	det	_	(7
+8	Leute	Leute	N	NN	_|Nom|Pl	9	subj	_	7)
+9	haben	haben	V	VAFIN	3|Pl|Pres|_	6	cj	_	-
+10	keine	keine	ART	PIAT	Fem|_|Sg	11	det	_	-
+11	Zeit	Zeit	N	NN	Fem|_|Sg	9	obja	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+3	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	1	cj	_	-
+4	pünktlich	pünktlich	ADV	ADJD	Pos|	5	pred	_	-
+5	sein	sein	V	VAINF	_	3	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Ein	ein	ART	ART	Indef|Masc|Nom|Sg	2	det	_	-
+2	Mann	Mann	N	NN	Masc|Nom|Sg	5	subj	_	-
+3	im	in	PREP	APPRART	Dat	2	pp	_	-
+4	Büro	Büro	N	NN	Neut|Dat|Sg	3	pn	_	(4)
+5	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+6	:	\:	$.	$.	_	0	root	_	-
+7	Die	die	ART	ART	Def|Fem|Nom|Sg	8	det	_	-
+8	CD	CD	N	NN	Fem|Nom|Sg	9	subj	_	-
+9	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+10	um	um	PREP	APPR	_	16	pp	_	-
+11	12	12	CARD	CARD	_	12	attr	_	-
+12	Uhr	Uhr	N	NN	Fem|_|Sg	10	pn	_	-
+13	in	in	PREP	APPR	Dat	16	pp	_	-
+14	einem	eine	ART	ART	Indef|Neut|Dat|Sg	15	det	_	-
+15	Geschäft	Geschäft	N	NN	Neut|Dat|Sg	13	pn	_	-
+16	sein	sein	V	VAINF	_	9	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	nicht	nicht	PTKNEG	PTKNEG	_	10	adv	_	-
+5	erst	erst	ADV	ADV	_	10	adv	_	-
+6	um	um	PREP	APPR	_	10	pp	_	-
+7	12.05	12.05	CARD	CARD	_	8	attr	_	-
+8	Uhr	Uhr	N	NN	Fem|_|Sg	6	pn	_	-
+9	da	da	ADV	ADV	_	10	adv	_	-
+10	sein	sein	V	VAINF	_	2	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)|(5
+2	Chef	Chef	N	NN	Masc|Nom|Sg	3	subj	_	5)
+3	plant	planen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	meinen	meine	ART	PPOSAT	_|_|Sg	5	det	_	(0)
+5	Arbeitstag	Arbeitstag	N	NN	_|_|Sg	3	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(5)
+2	telefoniert	telefonieren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	und	und	KON	KON	_	2	kon	_	-
+4	organisiert	organisieren	V	VVFIN	_|_|Pres|Ind	3	cj	_	-
+5	alles	alle	PRO	PIS	Neut|_|Sg	4	obja	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	auch	auch	ADV	ADV	_	9	adv	_	-
+8	meine	meine	ART	PPOSAT	Masc|_|Pl	9	det	_	(0)
+9	Wege	Weg	N	NN	Masc|_|Pl	5	kon	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Manchmal	manchmal	ADV	ADV	_	2	adv	_	-
+2	plant	planen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(5)
+4	etwas	etwas	ADV	ADV	_	5	adv	_	-
+5	falsch	falsch	ADV	ADJD	Pos|	2	adv	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	zu	zu	PTKA	PTKA	_	5	adv	_	-
+5	lange	lange	ADV	ADJD	_	6	adv	_	-
+6	warten	warten	V	VVINF	_	2	aux	_	-
+7	oder	oder	KON	KON	_	2	kon	_	-
+8	ich	ich	PRO	PPER	1|Sg|_|Nom	9	subj	_	(0)
+9	habe	haben	V	VAFIN	1|Sg|Pres|_	7	cj	_	-
+10	zu	zu	PTKA	PTKA	_	11	adv	_	-
+11	wenig	wenig	ART	PIDAT	Fem|_|Sg	12	det	_	-
+12	Zeit	Zeit	N	NN	Fem|_|Sg	9	obja	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	mein	meine	ART	PPOSAT	Masc|Nom|Sg	3	det	_	(0)|(6
+3	Chef	Chef	N	NN	Masc|Nom|Sg	4	subj	_	6)
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	-
+5	sehr	sehr	ADV	ADV	_	6	adv	_	-
+6	nett	nett	ADV	ADJD	Pos|	4	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	-
+2	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|Neut|Nom|Sg	5	det	_	-
+4	gutes	gut	ADJA	ADJA	Pos|Neut|Nom|Sg|St|	5	attr	_	-
+5	Team	Team	N	NN	Neut|Nom|Sg	2	pred	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	er	er	PRO	PPER	3|Sg|Masc|Nom	3	subj	_	(6)
+3	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	-
+4	:	\:	$.	$.	_	0	root	_	-
+5	Ich	ich	PRO	PPER	1|Sg|_|Nom	6	subj	_	(0)
+6	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+7	schnell	schnell	ADV	ADJD	Pos|	6	pred	_	-
+8	und	und	KON	KON	_	7	kon	_	-
+9	gut	gut	ADV	ADJD	Pos|	8	cj	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Neut|Nom|Sg	2	det	_	(0)
+2	Fahrrad	Fahrrad	N	NN	Neut|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	sehr	sehr	ADV	ADV	_	5	adv	_	-
+5	wichtig	wichtig	ADV	ADJD	Pos|	3	pred	_	-
+6	für	für	PREP	APPR	Acc	3	pp	_	-
+7	meinen	meine	ART	PPOSAT	Masc|Acc|Sg	8	det	_	(0)
+8	Beruf	Beruf	N	NN	Masc|Acc|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	kontrolliere	kontrollieren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	mein	meine	ART	PPOSAT	Neut|_|Sg	4	det	_	(0)
+4	Fahrrad	Fahrrad	N	NN	Neut|_|Sg	2	obja	_	-
+5	jeden	jede	ART	PIDAT	_|_|Sg	6	det	_	-
+6	Morgen	Morgen	N	NN	_|_|Sg	2	zeit	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Manchmal	manchmal	ADV	ADV	_	2	adv	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+4	kalt	kalt	ADV	ADJD	Pos|	2	pred	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Oder	oder	KON	KON	_	0	root	_	-
+2	die	die	ART	ART	Def|_|Nom|Pl	3	det	_	(7
+3	Leute	Leute	N	NN	_|Nom|Pl	4	subj	_	7)
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	1	cj	_	-
+5	nicht	nicht	PTKNEG	PTKNEG	_	4	adv	_	-
+6	nett	nett	ADV	ADJD	Pos|	4	pred	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+3	verdiene	verdienen	V	VVFIN	1|Sg|Pres|_	1	cj	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	3	adv	_	-
+5	sehr	sehr	ADV	ADV	_	6	adv	_	-
+6	viel	viel	ART	PIDAT	Neut|_|Sg	7	det	_	-
+7	Geld	Geld	N	NN	Neut|_|Sg	3	obja	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+3	finde	finden	V	VVFIN	1|Sg|Pres|_	1	cj	_	-
+4	die	die	ART	ART	Def|Fem|_|Sg	5	det	_	(8
+5	Arbeit	Arbeit	N	NN	Fem|_|Sg	3	obja	_	8)
+6	super	super	ADV	ADJD	Pos|	3	adv	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Was	was	PRO	PWS	Neut|_|Sg	5	obja	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	5	subj	_	(0)
+3	im	in	PREP	APPRART	Dat	5	pp	_	-
+4	Urlaub	Urlaub	N	NN	_|Dat|Sg	3	pn	_	-
+5	mache	machen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+6	?	?	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	fahre	fahren	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	mit	mit	PREP	APPR	Dat	2	pp	_	-
+4	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	5	det	_	(0)
+5	Freundin	Freundin	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	in	in	PREP	APPR	Acc	2	pp	_	-
+7	die	die	ART	ART	Def|Fem|Acc|Sg	8	det	_	-
+8	Schweiz	Schweiz	N	NE	Fem|Acc|Sg	6	pn	_	-
+9	–	–	$(	$(	_	0	root	_	-
+10	mit	mit	PREP	APPR	Dat	2	pp	_	-
+11	dem	die	ART	ART	Def|Neut|Dat|Sg	12	det	_	(3
+12	Fahrrad	Fahrrad	N	NN	Neut|Dat|Sg	10	pn	_	3)
+13	.	.	$.	$.	_	0	root	_	-
+

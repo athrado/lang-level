@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,8.384615384615385
+LIX,16.64149611856034
+# words,109
+# sents,13
+discourse entities,0.23076923076923078
+avg entity frequency,5.0
+vocabulary density,0.6349206349206349
+adjectives,0.6153846153846154
+nouns,1.0769230769230769
+verbs,1.4615384615384615
+pronouns,1.5384615384615385
+particles,2.230769230769231
+punctuation marks,1.3846153846153846
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.07692307692307693
+aux verbs,0.38461538461538464
+full verbs,1.0
+split verbs,0.0
+nominative,0.23076923076923078
+accusative,0.23076923076923078
+dative,0.3076923076923077
+genitive,0.0
+gen modifiers,0.0
+prep with gen,0.0
+all genitives,0.0
+accusative obj,0.23076923076923078
+dative obj,0.0
+genitive obj,0.0
+prepositional obj,0.0
+acc+dat obj,0.23076923076923078
+gen+prep obj,0.0
+present forms,1.1538461538461537
+past forms,0.0
+perfect forms,0.07692307692307693
+pqp forms,0.0
+perfect+pqp forms,0.07692307692307693
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.07692307692307693
+all futur forms,0.0
+subj 1 forms,0.0
+subj 2 forms,0.0
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.0
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.0
+comp+superlative,0.0
+conjunctions,0.3076923076923077
+subjunctions,0.0
+relative clauses,0.0
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.15384615384615385
+question words,0.0
+question marks,0.3076923076923077
+subj/pred inversions,0.6923076923076923
+placeholder 'es',0.0
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,0.07692307692307693
+concessive,0.0
+conditional,0.23076923076923078
+consecutive,0.0
+final,0.0
+interrogative,0.0
+modal,0.0
+other,0.23076923076923078
+temporal,0.0
+A1 features,5
+A1 features summed,0.9230769230769231
+A2 features,2
+A2 features summed,0.3076923076923077
+B1 features,0
+B1 features summed,0.0
+level features (all),22
+level features (all) summed,13.846153846153843

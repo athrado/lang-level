@@ -1,0 +1,504 @@
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Was	was	P	PWS	Neut|_|Sg	5	obja	_	_
+5	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	5	subj	557	557
+7	denn	denn	A	ADV	_	5	adv	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	558	558
+4	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+5	das	die	A	ART	Def|Neut|_|Sg	7	det	_	_
+6	unkindliche	unkindlich	A	ADJA	Pos|Neut|_|Sg|Wk|	7	attr	_	_
+7	Betragen	Betragen	N	NN	Neut|_|Sg	9	obja	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	leiden	leiden	V	VVINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	_|Nom|Sg	2	subj	16	16
+2	legt	legen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	A	ART	Def|Neut|_|Sg	4	det	252	252
+4	Buch	Buch	N	NN	Neut|_|Sg	2	obja	252	252
+5	auf	auf	P	APPR	Acc	2	objp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	201	201
+7	Tisch	Tisch	N	NN	Masc|Acc|Sg	5	pn	201	201
+8	:	\:	$	$.	_	0	root	_	_
+9	Ich	ich	P	PPER	1|Sg|_|Nom	10	subj	558	558
+10	bitte	bitten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+11	um	um	P	APPR	_	10	objp	_	_
+12	Verzeihung	Verzeihung	N	NN	Fem|_|Sg	11	pn	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	lieber	lieb	A	ADJA	Pos|Masc|Nom|Sg|St|	15	attr	_	_
+15	Papa	Papa	N	NN	Masc|Nom|Sg	10	vok	_	_
+16	!	!	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|Nom|Sg	2	subj	1	1
+2	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	hastig	hastig	A	ADJD	Pos|	2	adv	_	_
+4	den	die	A	ART	Def|Masc|Acc|Sg	5	det	547	547
+5	Band	Band	N	NN	Masc|Acc|Sg	2	obja	547	547
+6	und	und	K	KON	_	2	kon	_	_
+7	stellt	stellen	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	ihn	er	P	PPER	3|Sg|Masc|Acc	7	obja	1	1
+9	in	in	P	APPR	Acc	7	objp	_	_
+10	das	die	A	ART	Def|Neut|Acc|Sg	11	det	_	_
+11	Regal	Regal	N	NN	Neut|Acc|Sg	9	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Jeder	jede	A	PIDAT	Masc|Nom|Sg	2	det	559	559
+2	Scherz	Scherz	N	NN	Masc|Nom|Sg	3	subj	559	559
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	seine	seine	A	PPOSAT	_|_|_	5	det	559	559
+5	Grenzen	Grenze	N	NN	_|_|_	3	obja	_	_
+6	;	;	$	$.	_	0	root	_	_
+7	das	die	P	PDS	Neut|_|Sg	8	obja	_	_
+8	darfst	dürfen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+9	du	du	P	PPER	2|Sg|_|Nom	8	subj	_	_
+10	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+11	vergessen	veressen	V	VVPP	_	8	neb	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	_	0	root	16	16
+2	:	\:	$	$.	_	0	root	_	_
+3	Und	und	K	KON	_	0	root	_	_
+4	zur	zu	P	APPRART	Dat	6	pp	_	_
+5	Strafe	Strafe	N	NN	Fem|Dat|Sg	4	pn	_	_
+6	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	3	cj	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	560	560
+8	die	die	A	ART	Def|Fem|_|Sg	9	det	552	552
+9	Tänzerin	Tänzerin	N	NN	Fem|_|Sg	11	obja	552	552
+10	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+11	sehen	sehen	V	VVINF	_	6	aux	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	560	560
+4	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+5	doch	doch	A	ADV	_	9	adv	_	_
+6	lieber	lieb	A	ADJD	Comp|	9	pred	_	_
+7	mit	mit	P	APPR	Dat	9	pp	_	_
+8	dir	du	P	PPER	2|Sg|_|Dat	7	pn	_	_
+9	gehen	gehen	V	VVINF	_	4	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	als	als	K	KOKOM	_	0	root	_	_
+12	-	-	$	$(	_	0	root	_	_
+13	-	-	$	$(	_	0	root	_	_
+14	hier	hier	A	ADV	_	15	adv	_	_
+15	sitzen	sitzen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	einmal	einmal	A	ADV	_	3	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	3	adv	_	_
+6	möglich	möglich	A	ADJD	Pos|	3	pred	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Geh	Geh	N	NE	Neut|_|Sg	0	root	_	_
+5	jetzt	jetzt	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Kind	Kind	N	NN	Neut|_|Sg	4	app	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	561	561
+2	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	noch	noch	A	ADV	_	7	adv	_	_
+4	allein	allein	A	ADV	_	7	adv	_	_
+5	mit	mit	P	APPR	Dat	7	pp	_	_
+6	Papa	Papa	N	NN	Masc|Dat|Sg	5	pn	551	551
+7	reden	reden	V	VVINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Aber	aber	K	KON	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	561	561
+5	habe	haben	V	VAFIN	1|Sg|Pres|_	3	cj	_	_
+6	wirklich	wirklich	A	ADJD	Pos|	5	adv	_	_
+7	keine	keine	A	PIAT	Fem|_|Sg	8	det	_	_
+8	Zeit	Zeit	N	NN	Fem|_|Sg	5	obja	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	1	1
+2	Beermann	Beermann	N	NE	_|Nom|Sg	1	app	1	1
+3	bestimmt	bestimmen	V	VVPP	_	0	root	_	_
+4	:	\:	$	$.	_	0	root	_	_
+5	So	so	A	ADV	_	6	adv	_	_
+6	viel	viel	P	PIS	_	7	obja	_	_
+7	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+8	du	du	P	PPER	2|Sg|_|Nom	7	subj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Effie	Effie	N	NE	_	0	root	16	16
+2	:	\:	$	$.	_	0	root	_	_
+3	Adieu	Adieu	F	FM	Neut|_|_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Papachen	Papachen	N	NN	Neut|_|_	3	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	1	1
+2	Beermann	Beermann	N	NE	_|Nom|Sg	1	app	1	1
+3	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	in	in	P	APPR	Acc	3	objp	_	_
+6	den	die	A	ART	Def|Masc|Acc|Sg	7	det	562	562
+7	Lederstuhl	Lederstuhl	N	NN	Masc|Acc|Sg	5	pn	562	562
+8	,	,	$	$,	_	0	root	562	562
+9	der	die	P	PRELS	Masc|Nom|Sg	13	subj	562	562
+10	neben	neben	P	APPR	Dat	13	pp	_	_
+11	dem	die	A	ART	Def|Neut|Dat|Sg	12	det	544	544
+12	Bücherregal	Bücherregal	N	NN	Neut|Dat|Sg	10	pn	544	544
+13	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	7	rel	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NE	_|Nom|Sg	2	subj	1	1
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mit	mit	P	APPR	Dat	2	pp	_	_
+4	dem	die	A	ART	Def|_|Dat|Sg	5	det	563	563
+5	Rücken	Rücken	N	NN	_|Dat|Sg	3	pn	563	563
+6	an	an	P	APPR	Acc	2	pp	_	_
+7	den	die	A	ART	Def|Masc|Acc|Sg	8	det	254	254
+8	Schreibtisch	Schreibtisch	N	NN	Masc|Acc|Sg	6	pn	254	254
+9	gelehnt	lehnen	V	VVPP	_	2	neb	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Durch	durch	P	APPR	Acc	4	pp	_	_
+2	das	die	A	ART	Def|Neut|Acc|Sg	3	det	564	564
+3	Doppelfenster	Doppelfenster	N	NN	Neut|Acc|Sg	1	pn	564	564
+4	scheint	scheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	die	die	A	ART	Def|Fem|Nom|Sg	6	det	_	_
+6	Abendsonne	Abendsonne	N	NN	Fem|Nom|Sg	4	subj	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	so	so	A	ADV	_	9	konj	_	_
+9	daß	daß	K	KOUS	_	12	konj	_	_
+10	Beermann	Beermann	N	NN	Masc|Nom|Sg	12	subj	1	1
+11	beleuchtet	beleuchten	V	VVPP	_	12	aux	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	neb	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	während	während	K	KOUS	_	19	konj	_	_
+15	Frau	Frau	N	NN	Fem|Nom|Sg	19	subj	1	1
+16	Beermann	Beermann	N	NE	_|Nom|Sg	15	app	1	1
+17	im	in	P	APPRART	Dat	19	pp	_	_
+18	Halbdunkel	Halbdunkel	N	NN	Neut|Dat|Sg	17	pn	_	_
+19	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	12	neb	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Lina	Lina	N	NN	Fem|_|Sg	5	vok	565	565
+4	,	,	$	$,	_	0	root	_	_
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|Nom	5	subj	_	_
+7	notwendig	notwendig	A	ADJD	Pos|	5	pred	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	daß	daß	K	KOUS	_	0	root	_	_
+10	wir	wir	P	PPER	1|Pl|_|Nom	0	root	_	_
+11	...	...	$	$.	_	0	root	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Ja	ja	P	PTKANT	_	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Läßt	lassen	V	VVFIN	_|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	P	PRF	3|_|Dat	3	objd	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	s	s	P	PPER	_|Sg|_|Nom	3	subj	0	0
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	verschieben	verschieben	V	VVINF	_	3	obji	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Ich	ich	P	PPER	1|Sg|_|Nom	5	subj	614	614
+5	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|_	9	obja	_	_
+7	manches	manche	A	PIAT	Neut|_|Sg	8	det	_	_
+8	Jahr	Jahr	N	NN	Neut|_|Sg	9	zeit	_	_
+9	verschoben	verschieben	V	VVPP	_	5	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	und	und	K	KON	_	5	kon	_	_
+12	jetzt	jetzt	A	ADV	_	13	adv	_	_
+13	ist	sein	V	VAFIN	3|Sg|Pres|Ind	11	cj	_	_
+14	es	es	P	PPER	3|Sg|Neut|Nom	13	subj	_	_
+15	Zeit	Zeit	N	NN	Fem|Nom|Sg	16	pred	336	336
+16	geworden	werden	V	VAPP	_	13	aux	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|Nom|Sg	2	subj	1	1
+2	verwirrt	verwirren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Manches	manche	A	PIAT	Neut|_|Sg	5	det	_	_
+5	Jahr	Jahr	N	NN	Neut|_|Sg	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Von	von	P	APPR	_	0	root	_	_
+2	was	was	P	PWS	Neut|_|Sg	3	obja	_	_
+3	sprichst	sprechen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	566	566
+5	denn	denn	A	ADV	_	3	adv	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Ich	ich	P	PPER	1|Sg|_|Nom	5	subj	614	614
+5	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+6	eine	eine	A	ART	Indef|Fem|_|Sg	7	det	_	_
+7	Bitte	Bitte	N	NN	Fem|_|Sg	5	obja	_	_
+8	an	an	P	APPR	Acc	7	pp	_	_
+9	dich	du	P	PPER	2|Sg|_|Acc	8	pn	566	566
+10	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Aber	aber	K	KON	_	0	root	_	_
+4	gerne	gerne	A	ADV	_	3	cj	_	_
+5	...	...	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Blamiere	blamieren	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+5	uns	wir	P	PPER	1|Pl|_|_	4	obja	_	_
+6	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Wie	Wie	P	PWAV	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+5	sollst	sollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+6	uns	wir	P	PPER	1|Pl|_|_	8	obja	_	_
+7	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+8	blamieren	blamieren	V	VVINF	_	5	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	meine	meine	A	PPOSAT	Fem|Nom|Sg	4	det	567	567
+4	Bitte	Bitte	N	NN	Fem|Nom|Sg	2	pred	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Sei	Sei	N	NN	Fem|_|Sg	0	root	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	gut	gut	A	ADJD	Pos|	0	root	_	_
+6	und	und	K	KON	_	0	root	_	_
+7	gib	geben	V	VVIMP	Sg	6	cj	_	_
+8	mir	ich	P	PPER	1|Sg|_|Dat	7	objd	567	567
+9	keine	keine	A	PIAT	Neut|_|Pl	10	det	_	_
+10	Rätsel	Rätsel	N	NN	Neut|_|Pl	7	obja	_	_
+11	auf	auf	P	PTKVZ	_	7	avz	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Was	was	P	PWS	Neut|_|Sg	6	obja	_	_
+5	man	man	P	PIS	_|Nom|Sg	6	subj	_	_
+6	weiß	wissen	V	VVFIN	3|Sg|Pres|Ind	12	objc	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+9	man	man	P	PIS	_|Nom|Sg	8	subj	_	_
+10	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+11	erst	erst	A	ADV	_	12	adv	_	_
+12	erraten	erraten	V	VVINF	_	8	aux	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Erklär	erklären	V	VVIMP	Sg	0	root	_	_
+4	dich	du	P	PPER	2|Sg|_|Acc	3	obja	_	_
+5	doch	doch	A	ADV	_	3	adv	_	_
+6	deutlich	deutlich	A	ADJD	Pos|	3	adv	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	N	N	N	NN	Neut|_|_	0	root	569	569
+5	...	...	$	$.	_	0	root	_	_
+6	n	n	N	NN	_	0	root	366	366
+7	...	...	$	$.	_	0	root	_	_
+8	nein	nein	P	PTKANT	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	568	568
+2	werde	werden	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	6	obja	_	_
+4	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+5	deutlich	deutlich	A	ADJD	Pos|	6	adv	_	_
+6	erklären	erklären	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Das	die	P	PDS	Neut|_|Sg	4	obja	_	_
+4	verlange	verlangen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+5	ich	ich	P	PPER	1|Sg|_|Nom	4	subj	568	568
+6	als	als	K	KOKOM	_	4	kom	_	_
+7	dein	deine	A	PPOSAT	Masc|Nom|Sg	8	det	_	_
+8	Mann	Mann	N	NN	Masc|Nom|Sg	6	cj	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	N	N	N	NN	Neut|_|_	0	root	569	569
+5	...	...	$	$.	_	0	root	_	_
+6	nein	nein	P	PTKANT	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	aber	aber	A	ADV	_	4	adv	_	_
+6	sehr	sehr	A	ADV	_	7	adv	_	_
+7	traurig	traurig	A	ADJD	Pos|	4	pred	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Zwischen	zwischen	P	APPR	Dat	3	pp	_	_
+2	Eheleuten	Eheleute	N	NN	_|Dat|Pl	1	pn	_	_
+3	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+5	überhaupt	überhaupt	A	ADV	_	6	adv	_	_
+6	keine	keine	A	PIAT	_|_|_	7	det	_	_
+7	Geheimnisse	Geheimnis	N	NN	_|_|_	8	obja	_	_
+8	geben	geben	V	VVINF	_	3	aux	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Ist	Ist	N	NN	Neut|_|Sg	0	root	231	231
+5	das	die	P	PDS	Neut|_|Sg	0	root	_	_
+6	wieder	wieder	A	ADV	_	8	adv	_	_
+7	ein	eine	A	ART	Indef|Masc|Nom|Sg	8	det	_	_
+8	Grundsatz	Grundsatz	N	NN	Masc|Nom|Sg	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Aber	aber	K	KON	_	0	root	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	3	subj	_	_
+3	sind	sein	V	VAFIN	_|Pl|Pres|Ind	1	cj	_	_
+4	ja	ja	A	ADV	_	3	adv	_	_
+5	keine	keine	A	PIAT	_|Nom|_	6	det	_	_
+6	Geheimnisse	Geheimnis	N	NN	_|Nom|_	3	pred	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|Nom|Sg	2	subj	1	1
+2	zuckt	zucken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	die	die	A	ART	Def|Fem|_|Pl	4	det	380	380
+4	Achseln	Achsel	N	NN	Fem|_|Pl	2	obja	380	380
+5	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nimm	nehmen	V	VVIMP	Sg	0	root	_	_
+2	an	an	P	PTKVZ	_	1	avz	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	614	614
+5	wüßte	wüßte	V	VVFIN	1|Sg|_|_	0	root	_	_
+6	einiges	einige	P	PIS	_|_|Sg	5	obja	_	_
+7	von	von	P	APPR	Dat	6	pp	_	_
+8	dir	du	P	PPER	2|Sg|_|Dat	7	pn	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	hastig	hastig	A	ADJD	Pos|	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Einiges	Einiges	N	NN	Neut|_|Sg	0	root	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	5	obja	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	6	subj	570	570
+3	sehr	sehr	A	ADV	_	4	adv	_	_
+4	genau	genau	A	ADJD	Pos|	5	adv	_	_
+5	wissen	wissen	V	VVINF	_	6	aux	_	_
+6	mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	und	und	K	KON	_	6	kon	_	_
+9	was	was	P	PWS	Neut|_|Sg	13	obja	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	614	614
+11	nun	nun	A	ADV	_	13	adv	_	_
+12	auch	auch	A	ADV	_	13	adv	_	_
+13	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	8	cj	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Kleine	klein	A	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	_
+2	Pause	Pause	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Dein	deine	A	PPOSAT	Masc|Nom|Sg	2	det	570	570
+2	Grundsatz	Grundsatz	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	also	also	A	ADV	_	6	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	6	adv	_	_
+6	verletzt	verletzen	V	VVPP	_	3	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	zwischen	zwischen	P	APPR	_	2	pp	_	_
+4	uns	wir	P	PPER	1|Pl|_|_	3	pn	_	_
+5	keine	keine	A	PIAT	_|_|_	6	det	_	_
+6	Geheimnisse	Geheimnis	N	NN	_|_|_	2	obja	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Beermann	Beermann	N	NN	Masc|_|_	0	root	1	1
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	571	571
+4	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+5	mir	ich	P	PRF	1|Sg|Dat	9	objd	_	_
+6	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+7	den	die	A	ART	Def|Masc|Acc|Sg	8	det	502	502
+8	Kopf	Kopf	N	NN	Masc|Acc|Sg	9	obja	502	502
+9	zerbrechen	zerbrechen	V	VVINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Frau	Frau	N	NN	Fem|_|Sg	0	root	1	1
+2	Beermann	Beermann	N	NE	_|_|Sg	1	app	1	1
+3	:	\:	$	$.	_	0	root	_	_
+4	Und	und	K	KON	_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	6	subj	572	572
+6	sollst	sollen	V	VMFIN	2|Sg|Pres|Ind	4	cj	_	_
+7	auch	auch	A	ADV	_	9	adv	_	_
+8	nicht	nicht	P	PTKNEG	_	9	adv	_	_
+9	denken	denken	V	VVINF	_	6	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	17	konj	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	17	subj	571	571
+13	hier	hier	A	ADV	_	17	adv	_	_
+14	auf	auf	P	APPR	Dat	17	pp	_	_
+15	dem	die	A	ART	Def|Masc|Dat|Sg	16	det	_	_
+16	Richterstuhl	Richterstuhl	N	NN	Masc|Dat|Sg	14	pn	_	_
+17	sitze	sitzen	V	VVFIN	1|Sg|Pres|_	9	objc	_	_
+18	.	.	$	$.	_	0	root	_	_
+

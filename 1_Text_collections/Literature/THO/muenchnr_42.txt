@@ -1,0 +1,459 @@
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Am	an	P	APPRART	Dat	0	root	_	_
+4	gebrochenen	gebrochen	A	ADJA	Pos|Neut|Dat|Sg|Wk|	5	attr	_	_
+5	Härzen	Härzen	N	NN	Neut|Dat|Sg	3	pn	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	dös	dös	F	FM	_	0	root	_	_
+8	mog	mog	F	FM	_	7	app	_	_
+9	i.	i.	F	FM	_	8	app	_	_
+
+1	Am	an	P	APPRART	_|Dat	0	root	_	_
+2	...	...	$	$.	_	0	root	_	_
+3	Ding	Ding	N	NN	Neut|_|Sg	0	root	_	_
+4	...	...	$	$.	_	0	root	_	_
+5	hätt	hätt	F	FM	_|Nom|Sg	10	subj	_	_
+6	i	i	F	FM	_|Nom|Sg	5	app	_	_
+7	bald	bald	A	ADV	_	8	adv	_	_
+8	g	g	N	NN	_|Nom|Sg	6	app	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	:	\:	$	$.	_	0	root	_	_
+4	Geh	Geh	N	NE	_	0	root	163	163
+5	,	,	$	$,	_	0	root	_	_
+6	tua	tua	F	FM	_	12	obja	_	_
+7	di	di	F	FM	_	6	app	_	_
+8	net	net	F	FM	_	7	app	_	_
+9	gar	gar	A	ADV	_	10	adv	_	_
+10	a	a	N	NN	_	8	app	_	_
+11	so	so	A	ADV	_	12	adv	_	_
+12	äußern	äußern	V	VVINF	_	0	root	_	_
+13	!	!	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+4	Also	also	A	ADV	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	geh	geh	F	FM	_	0	root	_	_
+7	ma	ma	F	FM	_	6	app	_	_
+8	eini	eini	F	FM	_	7	app	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	0	root	_	_
+2	Kino	Kino	N	NN	Neut|Dat|Sg	1	pn	924	924
+3	.	.	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Herrgottzaggerament	Herrgottzaggerament	N	NE	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	zaggera	zaggera	F	FM	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	DIENER	DIENER	N	NE	_	0	root	968	968
+2	.	.	$	$.	_	0	root	_	_
+
+1	Stufä	Stufä	N	NE	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Ja	ja	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Stu-fä	Stu-fä	N	NE	_	0	root	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Z	Z	N	NN	Neut|Dat|_	4	objd	925	925
+2	'	'	$	$(	_	0	root	925	925
+3	erscht	erscht	F	FM	Neut|Dat|_	1	app	925	925
+4	laßt	laßt	V	VVFIN	3|Sg|_|_	0	root	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	4	subj	0	0
+6	oan	oan	F	FM	_	4	obja	_	_
+7	abirumpeln	abirumpeln	F	FM	_	6	app	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+2	glaab	glaab	F	FM	_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	n	n	N	NN	_	2	app	_	_
+5	denn	denn	K	KON	_	0	root	_	_
+6	Sie	sie	P	PPER	3|_|_|_	0	root	925	925
+7	?	?	$	$.	_	0	root	_	_
+
+1	Eine	eine	A	ART	Indef|Fem|_|Sg	3	det	_	_
+2	solchene	solchene	A	ADJA	_	3	attr	_	_
+3	Gehirnerschidderung	Gehirnerschidderung	N	NN	Fem|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	EIN	EIN	N	NE	_	0	root	926	926
+2	MÜNCHNER	MÜNCHNER	N	NE	_	1	app	926	926
+3	IM	IM	N	NE	_	2	app	926	926
+4	DUNKEL	DUNKEL	N	NE	_	3	app	926	926
+5	:	\:	$	$.	_	0	root	_	_
+6	Gar	gar	A	ADV	_	7	adv	_	_
+7	so	so	A	ADV	_	0	root	_	_
+8	vui	vui	F	FM	_	0	root	_	_
+9	werd	werd	F	FM	_	8	app	_	_
+10	si	si	F	FM	_	9	app	_	_
+11	net	net	F	FM	_	10	app	_	_
+12	erschiddern	erschiddern	F	FM	_	11	app	_	_
+13	-	-	$	$(	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Wos	Wos	F	FM	_	0	root	_	_
+4	werd	werd	F	FM	_	3	app	_	_
+5	net	net	F	FM	_	4	app	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Wer	wer	P	PWS	_|Nom|Sg	5	subj	_	_
+2	redt	redt	A	ADJD	_	5	adv	_	_
+3	denn	denn	A	ADV	_	5	adv	_	_
+4	da	da	A	ADV	_	5	adv	_	_
+5	überhaupts	überhaupts	V	VVFIN	_|Sg|_|_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	0	root	_	_
+2	a	a	F	FM	_	0	root	_	_
+3	Zigeuna	Zigeuna	F	FM	_	2	app	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	STIMMEN	STIMMEN	N	NE	_	0	root	929	929
+2	:	\:	$	$.	_	0	root	_	_
+3	Bsst	Bsst	N	NE	_	0	root	930	930
+4	!	!	$	$.	_	0	root	_	_
+
+1	Ruhä	Ruhä	N	NE	_	0	root	931	931
+2	!	!	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	So	So	F	FM	_	0	root	_	_
+4	a	a	F	FM	_	3	app	_	_
+5	Pfundhamml	Pfundhamml	F	FM	_	4	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	so	so	A	ADV	_	9	adv	_	_
+8	a	a	A	ADJD	_	9	adv	_	_
+9	unappetitliche	unappetitlich	A	ADJA	Pos|_|_|_|_|	0	root	_	_
+10	!	!	$	$.	_	0	root	_	_
+
+1	DER	DER	N	NE	_	0	root	926	926
+2	MÜNCHNER	MÜNCHNER	N	NE	_	1	app	926	926
+3	IM	IM	N	NE	_	2	app	926	926
+4	DUNKEL	DUNKEL	N	NE	_	3	app	926	926
+5	:	\:	$	$.	_	0	root	_	_
+6	Geh	Geh	N	NE	_	0	root	163	163
+7	,	,	$	$,	_	0	root	_	_
+8	tua	tua	F	FM	_	0	root	_	_
+9	di	di	F	FM	_	8	app	_	_
+10	schleicha	schleicha	F	FM	_	9	app	_	_
+11	und	und	K	KON	_	0	root	_	_
+12	schaug	schaug	T	TRUNC	_	0	root	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	daß	daß	K	KOUS	_	0	root	_	_
+15	d	d	N	NN	_	0	root	168	168
+16	'	'	$	$(	_	0	root	_	_
+17	dein	deine	A	PPOSAT	Masc|Nom|Sg	18	det	927	927
+18	Gipskopf	Gipskopf	N	NN	Masc|Nom|Sg	0	root	_	_
+19	aus	aus	P	APPR	Dat	0	root	_	_
+20	da	da	K	KOUS	_	25	konj	_	_
+21	Platt	Platt	N	NN	Neut|_|Sg	25	obja	1253	1253
+22	'	'	$	$(	_	0	root	1253	1253
+23	n	n	N	NN	Neut|_|Sg	21	app	1253	1253
+24	außa	außa	N	NE	Neut|_|Sg	23	app	1253	1253
+25	bringst	bringen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+26	,	,	$	$,	_	0	root	_	_
+27	sonst	sonst	A	ADV	_	0	root	_	_
+28	werd	werd	F	FM	_	0	root	_	_
+29	'	'	$	$(	_	0	root	_	_
+30	s	s	F	FM	_	28	app	_	_
+31	ma	ma	F	FM	_	30	app	_	_
+32	unwohl	unwohl	F	FM	_	31	app	_	_
+33	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	0	root	927	927
+2	auftrieb	auftreiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	na	na	F	FM	_|Nom|Sg	2	subj	_	_
+5	Wassasüchtling	Wassasüchtling	F	FM	_|Nom|Sg	4	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Ah	Ah	N	NN	Fem|_|Sg	0	root	928	928
+4	!	!	$	$.	_	0	root	_	_
+
+1	Ah	Ah	N	NN	Fem|_|Sg	0	root	928	928
+2	!	!	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	0	root	_	_
+2	...	...	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	:	\:	$	$.	_	0	root	_	_
+4	Sei	Sei	N	NN	Fem|_|Sg	0	root	1503	1503
+5	ruhig	ruhig	A	ADJD	Pos|	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Xaver	Xaver	N	NE	Masc|_|Sg	0	root	936	936
+8	!	!	$	$.	_	0	root	_	_
+
+1	Gib	geben	V	VVIMP	Sg	0	root	_	_
+2	dich	du	P	PPER	2|Sg|_|Acc	1	obja	_	_
+3	doch	doch	A	ADV	_	1	adv	_	_
+4	mit	mit	P	APPR	Dat	1	pp	_	_
+5	einem	eine	A	ART	Indef|Neut|Dat|Sg	8	det	_	_
+6	soichen	soichen	A	ADJA	_|Neut|Dat|Sg|_	8	attr	_	_
+7	ordanären	ordanären	A	ADJA	_|Neut|Dat|Sg|_	8	attr	_	_
+8	G	G	N	NN	Neut|Dat|Sg	4	pn	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	sindel	sindel	N	NE	Neut|Dat|Sg	8	app	_	_
+11	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+12	ab	ab	P	PTKVZ	_	1	avz	_	_
+13	...	...	$	$.	_	0	root	_	_
+
+1	DER	DER	N	NE	_	0	root	926	926
+2	MÜNCHNER	MÜNCHNER	N	NE	_	1	app	926	926
+3	IM	IM	N	NE	_	2	app	926	926
+4	DUNKEL	DUNKEL	N	NE	_	3	app	926	926
+5	:	\:	$	$.	_	0	root	_	_
+6	Jäh	Jäh	F	FM	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	G	G	N	NN	Neut|_|_	0	root	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	sindel	sindel	F	FM	Neut|_|_	1	app	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Sg|Fem|Nom	12	subj	926	926
+2	möcht	möcht	F	FM	_	12	obja	_	_
+3	aa	aa	F	FM	_	2	app	_	_
+4	was	was	F	FM	_	3	app	_	_
+5	sag	sag	F	FM	_	4	app	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	n	n	N	NN	_	2	app	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	de	de	F	FM	_	7	kon	_	_
+10	g	g	F	FM	_	9	app	_	_
+11	'	'	$	$(	_	0	root	_	_
+12	scherte	scheren	V	VVFIN	3|Sg|Past|_	0	root	_	_
+13	Heubod	Heubod	N	NE	_	12	obja	_	_
+14	'	'	$	$(	_	0	root	_	_
+15	nspinna	nspinna	F	FM	_	13	app	_	_
+16	!	!	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	:	\:	$	$.	_	0	root	_	_
+4	Also	also	A	ADV	_	7	adv	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	was	was	A	PIAT	_	7	det	_	_
+7	Gemeins	Gemeins	N	NN	_	0	root	_	_
+8	...	...	$	$.	_	0	root	_	_
+
+1	STIMMEN	STIMMEN	N	NE	_	0	root	929	929
+2	:	\:	$	$.	_	0	root	_	_
+3	Bsst	Bsst	N	NE	_	0	root	930	930
+4	!	!	$	$.	_	0	root	_	_
+
+1	Ruhä	Ruhä	N	NE	_	0	root	931	931
+2	!	!	$	$.	_	0	root	_	_
+
+1	Sätzen	Satz	N	NN	Masc|Dat|Pl	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	2	det	932	932
+2	Familie	Familie	N	NN	Fem|Nom|Sg	4	subj	932	932
+3	Hierlinger	Hierlinger	N	NE	Fem|Nom|Sg	2	app	932	932
+4	setzt	setzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	4	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Landschaftsfilm	Landschaftsfilm	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	abgehaspelt	abhaspeln	V	VVPP	_	3	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Schwedische	schwedisch	A	ADJA	Pos|Masc|_|Pl|St|	2	attr	_	_
+2	Wasserfälle	Wasserfall	N	NN	Masc|_|Pl	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	dazu	dazu	P	PROAV	_	5	pp	_	_
+5	weiche	weich	A	ADJA	Pos|Fem|_|Pl|St|	6	attr	_	_
+6	Walzermelodien	Walzermelodie	N	NN	Fem|_|Pl	2	app	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Hierlinger	Hierlinger	N	NE	_|Nom|Sg	2	subj	932	932
+2	schaut	schauen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	immer	immer	A	ADV	_	5	adv	_	_
+5	wieder	wieder	A	ADV	_	2	adv	_	_
+6	nach	nach	P	APPR	Dat	2	pp	_	_
+7	seinem	seine	A	PPOSAT	Masc|Dat|Sg	8	det	932	932
+8	Feinde	Feind	N	NN	Masc|Dat|Sg	6	pn	933	933
+9	um	um	P	PTKVZ	_	2	avz	933	933
+10	,	,	$	$,	_	0	root	933	933
+11	der	die	P	PRELS	Masc|Nom|Sg	14	subj	933	933
+12	im	in	P	APPRART	Dat	14	pp	_	_
+13	Dunkeln	Dunkeln	N	NN	Neut|Dat|Sg	12	pn	_	_
+14	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	8	rel	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Der	die	A	ART	Def|Masc|Nom|Sg	4	det	_	_
+4	hat	hat	F	FM	Masc|Nom|Sg	13	subj	_	_
+5	mi	mi	F	FM	Masc|Nom|Sg	4	app	_	_
+6	aufg	aufg	F	FM	Masc|Nom|Sg	5	app	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	warmt	warmt	N	NE	Masc|Nom|Sg	6	app	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	der	die	A	ART	Def|Masc|Nom|Sg	11	det	_	_
+11	ung	ung	F	FM	Masc|Nom|Sg	8	app	_	_
+12	'	'	$	$(	_	0	root	_	_
+13	hobelte	hobeln	V	VVFIN	3|Sg|Past|_	0	root	_	_
+14	Laggl	Laggl	N	NE	_	13	obja	934	934
+15	,	,	$	$,	_	0	root	_	_
+16	der	die	P	PRELS	_|_|Sg	0	root	934	934
+17	!	!	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	:	\:	$	$.	_	0	root	_	_
+4	Ich	ich	P	PPER	1|Sg|_|Nom	5	subj	938	938
+5	bitt	bitt	V	VVFIN	1|Sg|_|_	0	root	_	_
+6	dich	du	P	PPER	2|Sg|_|Acc	5	obja	935	935
+7	,	,	$	$,	_	0	root	_	_
+8	Xaver	Xaver	N	NE	Masc|Acc|Sg	6	app	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	935	935
+2	mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	4	obja	_	_
+4	beruhigen	beruhigen	V	VVINF	_	2	aux	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	Xaver	Xaver	N	NE	Masc|_|Sg	2	vok	936	936
+7	!	!	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	hell	hell	A	ADJD	Pos|	2	pred	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Hierlinger	Hierlinger	N	NE	_|Nom|Sg	2	subj	932	932
+2	dreht	drehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	wieder	wieder	A	ADV	_	2	adv	_	_
+5	um	um	P	PTKVZ	_	2	avz	_	_
+6	und	und	K	KON	_	2	kon	_	_
+7	schaut	schauen	V	VVFIN	_|_|Pres|Ind	6	cj	_	_
+8	drohend	drohen	A	ADJD	_|<PPRES	7	adv	_	_
+9	hin	hin	P	PTKVZ	_	7	avz	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	der	die	A	ART	Def|Masc|Nom|Sg	12	det	937	937
+12	Feind	Feind	N	NN	Masc|Nom|Sg	13	subj	937	937
+13	schaut	schauen	V	VVFIN	3|Sg|Pres|Ind	7	kon	_	_
+14	drohend	drohen	A	ADJD	_|<PPRES	13	adv	_	_
+15	her	her	P	PTKVZ	_	13	avz	_	_
+16	,	,	$	$,	_	0	root	_	_
+17	da	da	A	ADV	_	18	adv	_	_
+18	verklärt	verklären	V	VVFIN	3|Sg|Pres|Ind	13	kon	_	_
+19	ein	eine	A	ART	Indef|Neut|Nom|Sg	20	det	_	_
+20	Lächeln	Lächeln	N	NN	Neut|Nom|Sg	18	subj	_	_
+21	das	die	A	ART	Def|Neut|_|Sg	22	det	250	250
+22	Gesicht	Gesicht	N	NN	Neut|_|Sg	18	obja	250	250
+23	eines	eine	A	ART	Indef|_|Gen|Sg	24	part	_	_
+24	jeden	jede	P	PIS	_|_|Sg	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	DER	DER	N	NE	_	0	root	_	_
+2	MÜNCHNER	MÜNCHNER	N	NE	_	1	app	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Jetz	Jetz	F	FM	_	0	root	_	_
+5	is	is	F	FM	_	4	app	_	_
+6	recht	recht	A	ADJD	Pos|	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Da	Da	K	KOUS	_	0	root	_	_
+2	Hierlinga	Hierlinga	N	NE	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Da	Da	K	KOUS	_	0	root	_	_
+4	Söllhuaba	Söllhuaba	N	NE	_	0	root	1708	1708
+5	Beni	Beni	N	NE	_	4	app	1708	1708
+6	!	!	$	$.	_	0	root	_	_
+
+1	SÖLLHUBER	SÖLLHUBER	N	NE	_	0	root	938	938
+2	:	\:	$	$.	_	0	root	_	_
+3	Hätt	Hätt	N	NE	_	0	root	24	24
+4	ma	ma	N	NE	_	3	app	24	24
+5	ins	in	P	APPRART	Acc	4	pp	_	_
+6	beinah	beinah	F	FM	_|Acc|_	5	pn	_	_
+7	hart	hart	F	FM	_|Acc|_	6	app	_	_
+8	g	g	F	FM	_|Acc|_	7	app	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	redt	redt	F	FM	_|Acc|_	8	app	_	_
+11	...	...	$	$.	_	0	root	_	_
+
+1	HIERLINGER	HIERLINGER	N	NE	_	0	root	921	921
+2	:	\:	$	$.	_	0	root	_	_
+3	Im	in	P	APPRART	Dat	7	pp	_	_
+4	Dunkeln	Dunkeln	A	ADJA	_	5	attr	_	_
+5	is	is	F	FM	_|Dat|_	3	pn	_	_
+6	guat	guat	F	FM	_|Dat|_	5	app	_	_
+7	munkeln	munkeln	V	VVINF	_	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	und	und	K	KON	_	0	root	_	_
+10	was	was	P	PWS	Neut|Nom|Sg	12	subj	_	_
+11	sich	sie	P	PRF	3|_|_	12	obja	_	_
+12	liebt	lieben	V	VVFIN	3|Sg|Pres|Ind	9	cj	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	das	die	P	PDS	Neut|Nom|Sg	15	subj	_	_
+15	neckt	necken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+16	sich	sie	P	PRF	3|_|_	15	obja	_	_
+17	...	...	$	$.	_	0	root	_	_
+
+1	SÖLLHUBER	SÖLLHUBER	N	NE	_	0	root	938	938
+2	:	\:	$	$.	_	0	root	_	_
+3	Aba	Aba	N	NN	Fem|_|Sg	0	root	173	173
+4	bei	bei	P	APPR	Dat	3	pp	173	173
+5	deina	deina	A	ADJA	_|Fem|Dat|Sg|_	6	attr	173	173
+6	Frau	Frau	N	NN	Fem|Dat|Sg	4	pn	173	173
+7	Gemahlin	Gemahlin	F	FM	Fem|Dat|Sg	6	app	173	173
+8	muaß	muaß	F	FM	Fem|Dat|Sg	7	app	173	173
+9	i	i	F	FM	Fem|Dat|Sg	8	app	173	173
+10	mi	mi	F	FM	Fem|Dat|Sg	9	app	173	173
+11	scho	scho	F	FM	Fem|Dat|Sg	10	app	173	173
+12	no	no	F	FM	Fem|Dat|Sg	11	app	173	173
+13	eigens	eigens	F	FM	Fem|Dat|Sg	12	app	173	173
+14	entschuldingen	entschuldingen	F	FM	Fem|Dat|Sg	13	app	173	173
+15	...	...	$	$.	_	0	root	_	_
+
+1	FRAU	FRAU	N	NE	_	0	root	921	921
+2	HIERLINGER	HIERLINGER	N	NE	_	1	app	921	921
+3	:	\:	$	$.	_	0	root	_	_
+4	Ja	ja	P	PTKANT	_	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	Sie	sie	P	PPER	3|_|_|_	0	root	921	921
+7	!	!	$	$.	_	0	root	_	_
+
+1	SÖLLHUBER	SÖLLHUBER	N	NE	_	0	root	938	938
+2	:	\:	$	$.	_	0	root	_	_
+3	Bitte	Bitte	N	NN	Fem|_|Sg	0	root	_	_
+4	halt	halt	A	ADV	_	3	adv	_	_
+5	vuimals	vuimals	A	ADJD	_	0	root	_	_
+6	-	-	$	$(	_	0	root	_	_
+7	net	net	A	ADV	_	8	adv	_	_
+8	wahr	wahr	A	ADJD	Pos|	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	gnä	gnä	N	NE	Fem|_|Sg	0	root	_	_
+11	Frau	Frau	N	NN	Fem|_|Sg	10	app	_	_
+12	!	!	$	$.	_	0	root	_	_
+

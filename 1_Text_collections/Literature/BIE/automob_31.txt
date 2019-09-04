@@ -1,0 +1,502 @@
+1	-	-	$	$(	_	0	root	_	_
+2	Haha	Haha	F	FM	_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	0	root	633	633
+2	,	,	$	$,	_	0	root	_	_
+3	mit	mit	P	APPR	Dat	0	root	_	_
+4	meinen	meine	A	PPOSAT	Masc|Dat|Pl	6	det	633	633
+5	zwanzig	zwanzig	C	CARD	_	6	attr	_	_
+6	Pfennigen	Pfennig	N	NN	Masc|Dat|Pl	3	pn	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Girlinger	Girlinger	N	NE	_	3	obja	453	453
+3	anpumpen	anpumpen	V	VVINF	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ach	ach	I	ITJ	_	0	root	_	_
+3	der	die	P	PDS	_|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Schöne	schön	A	ADJA	Pos|_|_|_|_|	2	attr	_	_
+2	Redensarten	Redensart	N	NN	_|_|_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	dabei	dabei	P	PROAV	_	3	pp	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+5	Geld	Geld	N	NN	Neut|_|Sg	3	obja	634	634
+6	!	!	$	$.	_	0	root	_	_
+
+1	.Die	.Die	A	ADJA	_|Fem|_|Sg|_	2	attr	_	_
+2	Ladenkasse	Ladenkasse	N	NN	Fem|_|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	.	.	$	$.	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	.Es	.Es	N	NE	_|Nom|Sg	2	subj	_	_
+2	ginge	gehen	V	VVFIN	3|Sg|Past|Subj	0	root	_	_
+3	ganz	ganz	A	ADV	_	4	adv	_	_
+4	leicht	leicht	A	ADJD	Pos|	2	adv	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	11	11
+2	brauche	brauchen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	blos	blos	N	NE	_	2	obja	187	187
+4	'	'	$	$(	_	0	root	187	187
+5	nunter	nunter	N	NE	_	3	app	187	187
+6	zu	zu	P	PTKZU	_	7	part	_	_
+7	gehn	gehn	V	VVINF	_	2	obji	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Wiehr	Wiehr	N	NE	_|Nom|Sg	2	subj	635	635
+2	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	auf	auf	P	APPR	Dat	2	pp	_	_
+4	dem	die	A	ART	Def|Masc|Dat|Sg	5	det	_	_
+5	Stuhl	Stuhl	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	an	an	P	APPR	Dat	2	pp	_	_
+7	der	die	A	ART	Def|Fem|Dat|Sg	8	det	636	636
+8	Thüre	Thüre	N	NN	Fem|Dat|Sg	6	pn	636	636
+9	.	.	$	$.	_	0	root	_	_
+
+1	Hinten	hinten	A	ADV	_	2	adv	_	_
+2	auf	auf	P	APPR	Dat	5	objp	_	_
+3	dem	die	A	ART	Def|_|Dat|Sg	4	det	_	_
+4	Laden	Lade	N	NN	_|Dat|Sg	2	pn	_	_
+5	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	die	die	A	ART	Def|Fem|Nom|Sg	7	det	640	640
+7	Kasse	Kasse	N	NN	Fem|Nom|Sg	5	subj	640	640
+8	,	,	$	$,	_	0	root	_	_
+9	offen	offen	A	ADJD	Pos|	0	root	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	638	638
+2	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	durch	durch	P	APPR	Acc	2	pp	_	_
+4	die	die	A	ART	Def|_|Acc|_	5	det	637	637
+5	Hinterthüre	Hinterthüre	N	NN	_|Acc|_	3	pn	637	637
+6	und	und	K	KON	_	2	kon	_	_
+7	stelle	stellen	V	VVFIN	_|Sg|Pres|_	6	cj	_	_
+8	mich	ich	P	PRF	1|Sg|Acc	7	obja	_	_
+9	vor	vor	P	APPR	_	7	objp	_	_
+10	den	die	A	ART	Def|_|_|_	11	det	_	_
+11	Laden	Lade	N	NN	_|_|_	9	pn	_	_
+12	und	und	K	KON	_	7	kon	_	_
+13	spreche	sprechen	V	VVFIN	_|Sg|Pres|_	12	cj	_	_
+14	mit	mit	P	APPR	Dat	13	pp	_	_
+15	dem	die	A	ART	Def|_|Dat|Sg	16	det	639	639
+16	Alten	Alt	N	NN	_|Dat|Sg	14	pn	639	639
+17	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	9	koord	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	während	während	K	KOUS	_	7	konj	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	638	638
+5	mit	mit	P	APPR	Dat	7	pp	_	_
+6	ihm	er	P	PPER	3|Sg|_|Dat	5	pn	639	639
+7	spreche	sprechen	V	VVFIN	1|Sg|Pres|_	9	neb	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	halte	halten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+10	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	638	638
+11	die	die	A	ART	Def|Fem|_|Pl	12	det	240	240
+12	Hände	Hand	N	NN	Fem|_|Pl	9	obja	240	240
+13	auf	auf	P	APPR	Dat	9	pp	_	_
+14	dem	die	A	ART	Def|_|Dat|Sg	15	det	641	641
+15	Rücken	Rücken	N	NN	_|Dat|Sg	13	pn	641	641
+16	und	und	K	KON	_	9	kon	_	_
+17	greife	greifen	V	VVFIN	_|Sg|Pres|_	16	cj	_	_
+18	ganz	ganz	A	ADV	_	19	adv	_	_
+19	einfach	einfach	A	ADJD	Pos|	17	adv	_	_
+20	in	in	P	APPR	Acc	17	objp	_	_
+21	die	die	A	ART	Def|Fem|Acc|Sg	22	det	640	640
+22	Kasse	Kasse	N	NN	Fem|Acc|Sg	20	pn	640	640
+23	.	.	$	$.	_	0	root	_	_
+
+1	Immer	immer	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	während	während	K	KOUS	_	7	konj	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	638	638
+5	mit	mit	P	APPR	Dat	7	pp	_	_
+6	ihm	er	P	PPER	3|Sg|_|Dat	5	pn	641	641
+7	spreche	sprechen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	638	638
+2	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	blos	blos	N	NE	_|Dat|_	6	objd	187	187
+4	was	was	A	PIAT	Neut|_|Sg	5	det	_	_
+5	Komisches	Komisches	N	NN	Neut|_|Sg	6	obja	_	_
+6	erzählen	erzählen	V	VVINF	_	2	aux	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Oder	oder	K	KON	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	nein	nein	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	sicherer	sicher	A	ADJD	Comp|	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	638	638
+8	sage	sagen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+9	:	\:	$	$.	_	0	root	_	_
+10	Sehen	sehen	V	VVFIN	3|Pl|Pres|_	17	neb	_	_
+11	Sie	sie	P	PPER	3|Pl|_|Nom	10	subj	635	635
+12	,	,	$	$,	_	0	root	635	635
+13	Vater	Vater	N	NN	Masc|Nom|Sg	11	app	635	635
+14	Wiehr	Wiehr	N	NE	Masc|Nom|Sg	13	app	635	635
+15	,	,	$	$,	_	0	root	_	_
+16	da	da	A	ADV	_	17	adv	_	_
+17	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+18	Einer	eine	P	PIS	Masc|Nom|Sg	17	subj	_	_
+19	arretiert	arretieren	V	VVPP	_	17	aux	_	_
+20	drüben	drüben	N	NE	_	0	root	642	642
+21	,	,	$	$,	_	0	root	642	642
+22	vor	vor	P	APPR	_	20	pp	642	642
+23	Aeckerleins	Äckerlein	N	NN	_|Gen|Sg	24	gmod	643	643
+24	Keller	Keller	N	NN	Masc|_|_	22	pn	642	642
+25	!	!	$	$.	_	0	root	_	_
+
+1	Da	da	A	ADV	_	2	adv	_	_
+2	stürzt	stürzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	P	PPER	3|Sg|Masc|Nom	2	subj	643	643
+4	sicher	sicher	A	ADJD	Pos|	2	adv	_	_
+5	gleich	gleich	A	ADJD	Pos|	2	adv	_	_
+6	vor	vor	P	APPR	Acc	2	pp	_	_
+7	die	die	A	ART	Def|_|Acc|_	8	det	324	324
+8	Thüre	Thüre	N	NN	_|Acc|_	6	pn	324	324
+9	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	0	0
+4	unbehaglich	unbehaglich	A	ADJD	Pos|	2	adv	_	_
+5	heiß	heiß	A	ADJD	Pos|	2	pred	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	cj	_	_
+5	ja	ja	A	ADV	_	4	adv	_	_
+6	doch	doch	A	ADV	_	4	adv	_	_
+7	niederträchtig	niederträchtig	A	ADJD	Pos|	4	pred	_	_
+8	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	Diebstahl	Diebstahl	N	NN	Masc|Nom|Sg	2	pred	646	646
+5	!	!	$	$.	_	0	root	_	_
+
+1	Pfui	Pfui	N	NE	_	0	root	644	644
+2	Teufel	Teufel	N	NE	_	1	app	644	644
+3	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Und	und	K	KON	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	wenn	wenn	K	KOUS	_	10	konj	_	_
+5	sie	sie	P	PPER	3|Pl|_|Nom	10	subj	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	s	s	P	PPER	_	10	obja	_	_
+8	beim	bei	P	APPRART	Dat	10	pp	_	_
+9	Abrechnen	Abrechnen	N	NN	Neut|Dat|Sg	8	pn	_	_
+10	merken	merken	V	VVFIN	3|Pl|Pres|_	2	cj	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Unsinn	Unsinn	N	NN	Masc|_|Sg	0	root	346	346
+3	!	!	$	$.	_	0	root	_	_
+
+1	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	_	_
+2	rechnen	rechnen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	gar	gar	A	ADV	_	5	adv	_	_
+5	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+6	ab	ab	P	PTKVZ	_	2	avz	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	Philemon	Philemon	N	NN	Neut|_|_	2	vok	_	_
+9	und	und	K	KON	_	8	kon	_	_
+10	Baucis	Baucis	N	NN	Neut|_|_	9	cj	_	_
+11	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Und	und	K	KON	_	0	root	_	_
+3	schließlich	schließlich	A	ADV	_	2	cj	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	drei	drei	C	CARD	_	9	attr	645	645
+6	oder	oder	K	KON	_	5	kon	645	645
+7	meinetwegen	meinetwegen	A	ADV	_	8	adv	645	645
+8	fünf	fünf	C	CARD	_	6	cj	645	645
+9	Mark	Mark	N	NN	_|_|Pl	0	root	645	645
+10	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	2	obja	_	_
+2	fühlen	fühlen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+3	Sie	sie	P	PPER	3|Pl|_|Nom	2	subj	645	645
+4	ja	ja	A	ADV	_	2	adv	_	_
+5	gar	gar	A	ADV	_	6	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Überhaupt	überhaupt	A	ADV	_	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Diebstahl	Diebstahl	N	NN	Masc|_|Sg	0	root	646	646
+5	!	!	$	$.	_	0	root	_	_
+
+1	Mumpitz	Mumpitz	N	NN	Masc|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	11	11
+2	solls	solls	V	VVFIN	1|Sg|_|_	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	so	so	A	ADV	_	5	adv	_	_
+5	mal	mal	A	ADV	_	2	adv	_	_
+6	erben	erben	V	VVINF	_	0	root	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Lachhaft	Lachhaft	N	NN	_|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ich	ich	P	PPER	1|Sg|_|Nom	3	subj	647	647
+3	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_	9	obja	_	_
+6	ja	ja	A	ADV	_	9	adv	_	_
+7	auch	auch	A	ADV	_	9	adv	_	_
+8	später	spät	A	ADJD	_|	9	adv	_	_
+9	wiedergeben	wiedergeben	V	VVINF	_	3	aux	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	wenn	wenn	K	KOUS	_	15	konj	_	_
+12	ich	ich	P	PPER	1|Sg|_|Nom	15	subj	647	647
+13	selber	selber	A	ADV	_	12	adv	_	_
+14	Geld	Geld	N	NN	Neut|_|Sg	15	obja	634	634
+15	habe	haben	V	VAFIN	1|Sg|Pres|_	3	neb	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Natürlich	natürlich	A	ADJD	Pos|	0	root	_	_
+3	:	\:	$	$.	_	0	root	_	_
+4	Das	die	P	PDS	Neut|Nom|Sg	5	subj	_	_
+5	versteht	verstehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	sich	sie	P	PRF	3|_|_	5	obja	_	_
+7	von	von	P	APPR	_	5	pp	_	_
+8	selbst	selbst	A	ADV	_	7	adv	_	_
+9	.	.	$	$.	_	0	root	_	_
+
+1	Mit	mit	P	APPR	Dat	0	root	_	_
+2	Zinsen	Zins	N	NN	Masc|Dat|Pl	1	pn	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	er	er	P	PPER	3|Sg|Masc|Nom	3	subj	0	0
+3	stülpte	stülpen	V	VVFIN	3|Sg|Past|_	1	cj	_	_
+4	sich	sie	P	PRF	3|_|_	3	obja	_	_
+5	seinen	seine	A	PPOSAT	_|_|Sg	6	det	0	0
+6	Hut	Hut	N	NN	_|_|Sg	0	root	_	_
+7	auf	auf	P	PTKVZ	_	0	root	_	_
+8	und	und	K	KON	_	0	root	_	_
+9	rannte	rennen	V	VVFIN	_|Sg|Past|Ind	8	cj	_	_
+10	hinunter	hinunter	A	ADV	_	9	adv	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Stilpe	Stilpe	N	NE	_|Nom|Sg	2	subj	11	11
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	nach	nach	P	APPR	Dat	5	pp	_	_
+4	Untersecunda	Untersecunda	N	NE	_|Dat|_	3	pn	_	_
+5	versetzt	versetzen	V	VVPP	_	6	aux	_	_
+6	worden	werden	V	VAPP	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	aber	aber	K	KON	_	0	root	_	_
+9	nur	nur	A	ADV	_	10	adv	_	_
+10	versuchsweise	versuchsweise	A	ADV	_	8	cj	_	_
+11	und	und	K	KON	_	10	kon	_	_
+12	mit	mit	P	APPR	Dat	11	cj	_	_
+13	Nachprüfung	Nachprüfung	N	NN	Fem|Dat|Sg	12	pn	_	_
+14	in	in	P	APPR	Dat	13	pp	_	_
+15	der	die	A	ART	Def|Fem|Dat|Sg	16	det	_	_
+16	Mathematik	Mathematik	N	NN	Fem|Dat|Sg	14	pn	_	_
+17	nach	nach	P	APPR	Dat	16	pp	_	_
+18	einem	eine	A	ART	Indef|Neut|Dat|Sg	19	det	_	_
+19	Vierteljahr	Vierteljahr	N	NN	Neut|Dat|Sg	17	pn	_	_
+20	.	.	$	$.	_	0	root	_	_
+
+1	Zudem	Zudem	P	PROAV	_	2	pp	_	_
+2	fand	finden	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|_	2	obja	_	_
+4	in	in	P	APPR	Dat	2	pp	_	_
+5	seinem	seine	A	PPOSAT	Neut|Dat|Sg	6	det	11	11
+6	Zeugnis	Zeugnis	N	NN	Neut|Dat|Sg	4	pn	_	_
+7	eine	eine	A	ART	Indef|Fem|Nom|Sg	8	det	648	648
+8	Bemerkung	Bemerkung	N	NN	Fem|Nom|Sg	2	subj	648	648
+9	,	,	$	$,	_	0	root	_	_
+10	für	für	P	APPR	Acc	0	root	_	_
+11	die	die	P	PRELS	_|Acc|_	10	pn	648	648
+12	er	er	P	PPER	3|Sg|Masc|Nom	0	root	11	11
+13	nur	nur	A	ADV	_	15	adv	_	_
+14	die	die	A	ART	Def|Fem|_|Sg	15	det	_	_
+15	Bezeichnung	Bezeichnung	N	NN	Fem|_|Sg	0	root	_	_
+16	Infam	Infam	N	NE	Fem|_|Sg	15	app	_	_
+17	!	!	$	$.	_	0	root	_	_
+
+1	hatte	haben	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	da	da	A	ADV	_	2	adv	_	_
+4	die	die	A	ART	Def|Fem|Nom|Sg	5	det	_	_
+5	Rede	Rede	N	NN	Fem|Nom|Sg	2	pred	_	_
+6	von	von	P	APPR	_	5	pp	_	_
+7	»	»	$	$(	_	0	root	_	_
+8	Zerfahrenheit	Zerfahrenheit	N	NN	Fem|_|Sg	6	pn	_	_
+9	«	«	$	$(	_	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	»	»	$	$(	_	0	root	_	_
+12	Unaufmerksamkeit	Unaufmerksamkeit	N	NN	Fem|_|Sg	8	kon	_	_
+13	«	«	$	$(	_	0	root	_	_
+14	,	,	$	$,	_	0	root	_	_
+15	»	»	$	$(	_	0	root	_	_
+16	Allotria	Allotria	N	NE	Fem|_|Sg	12	kon	_	_
+17	«	«	$	$(	_	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
+1	Wischiwaschi	Wischiwaschi	N	NN	Neut|_|Sg	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	sagte	sagen	V	VVFIN	3|Sg|Past|_	0	root	_	_
+2	Stilpe	Stilpe	N	NE	_|Nom|Sg	1	subj	11	11
+3	,	,	$	$,	_	0	root	_	_
+4	kaufte	kaufen	V	VVFIN	3|Sg|Past|_	1	s	_	_
+5	sich	sie	P	PRF	3|_|_	4	obja	_	_
+6	eine	eine	A	ART	Indef|Fem|Nom|Sg	7	det	651	651
+7	Flasche	Flasche	N	NN	Fem|Nom|Sg	4	subj	651	651
+8	Eau	Eau	N	NE	Fem|Nom|Sg	7	app	651	651
+9	de	de	N	NE	Fem|Nom|Sg	8	app	651	651
+10	Javelle	Javelle	N	NE	Fem|Nom|Sg	9	app	651	651
+11	und	und	K	KON	_	4	kon	_	_
+12	wischte	wischen	V	VVFIN	_|Sg|Past|_	11	cj	_	_
+13	die	die	A	ART	Def|Fem|_|Sg	14	det	649	649
+14	Bemerkung	Bemerkung	N	NN	Fem|_|Sg	12	obja	649	649
+15	weg	weg	P	PTKVZ	_	12	avz	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	11	11
+2	that	that	V	VVFIN	3|Sg|_|_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	2	obja	_	_
+4	in	in	P	APPR	Dat	2	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	652	652
+6	Hauptsache	Hauptsache	N	NN	Fem|Dat|Sg	4	pn	652	652
+7	wegen	wegen	P	APPR	_	2	pp	_	_
+8	der	die	A	ART	Def|_|_|_	10	det	854	854
+9	alten	alt	A	ADJA	Pos|_|_|_|Wk|	10	attr	854	854
+10	Wiehrs	Wiehrs	N	NN	_|_|_	7	pn	854	854
+11	,	,	$	$,	_	0	root	_	_
+12	denn	denn	K	KON	_	2	kon	_	_
+13	es	es	P	PPER	3|Sg|Neut|Nom	14	subj	_	_
+14	lag	liegen	V	VVFIN	3|Sg|Past|Ind	12	cj	_	_
+15	ihm	er	P	PPER	3|Sg|_|Dat	14	objd	11	11
+16	daran	daran	P	PROAV	_	14	objp	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	daß	daß	K	KOUS	_	21	konj	_	_
+19	diese	diese	P	PDS	Fem|Nom|Sg	21	subj	_	_
+20	nicht	nicht	P	PTKNEG	_	21	adv	_	_
+21	irre	irren	V	VVFIN	3|Sg|Pres|Subj	14	objc	_	_
+22	an	an	P	APPR	Dat	21	pp	_	_
+23	ihm	er	P	PPER	3|Sg|_|Dat	22	pn	11	11
+24	wurden	werden	V	VAFIN	_|Pl|Past|Ind	0	root	_	_
+25	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Acc	4	pp	_	_
+2	sein	seine	A	PPOSAT	Neut|Acc|Sg	3	det	0	0
+3	Tagebuch	Tagebuch	N	NN	Neut|Acc|Sg	1	pn	_	_
+4	schrieb	schreiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+5	er	er	P	PPER	3|Sg|Masc|Nom	4	subj	0	0
+6	mit	mit	P	APPR	Dat	4	pp	_	_
+7	Geheimschrift	Geheimschrift	N	NN	Fem|Dat|Sg	6	pn	_	_
+8	pathetisch	pathetisch	A	ADJD	Pos|	4	adv	_	_
+9	ein	ein	P	PTKVZ	_	4	avz	_	_
+10	:	\:	$	$.	_	0	root	_	_
+
+1	»	»	$	$(	_	0	root	_	_
+2	Nachdem	nachdem	K	KOUS	_	9	konj	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	9	subj	0	0
+4	wöchentlich	wöchentlich	A	ADJD	Pos|	9	adv	_	_
+5	und	und	K	KON	_	4	kon	_	_
+6	konsequent	konsequent	A	ADJD	Pos|	5	cj	_	_
+7	einige	einige	A	PIAT	Masc|_|Pl	8	det	_	_
+8	Diebstähle	Diebstahl	N	NN	Masc|_|Pl	9	obja	_	_
+9	begehe	begehen	V	VVFIN	1|Sg|Pres|_	11	neb	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+12	es	es	P	PPER	3|Sg|Neut|Nom	11	subj	_	_
+13	auf	auf	P	APPR	Acc	11	objp	_	_
+14	eine	eine	A	ART	Indef|Fem|Acc|Sg	15	det	_	_
+15	Urkundenfälschung	Urkundenfälschung	N	NN	Fem|Acc|Sg	13	pn	_	_
+16	nicht	nicht	P	PTKNEG	_	11	adv	_	_
+17	mehr	mehr	A	ADV	_	16	adv	_	_
+18	an	an	P	PTKVZ	_	11	avz	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	0	0
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	also	also	A	ADV	_	5	adv	_	_
+4	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	_	_
+5	Verbrecher	Verbrecher	N	NN	Masc|Nom|Sg	2	pred	_	_
+6	!	!	$	$.	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Ha	ha	I	ITJ	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ausgezeichnet	auszeichnen	V	VVPP	_	2	aux	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	11	konj	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	650	650
+3	wöchentlich	wöchentlich	A	ADJD	Pos|	11	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	wie	wie	K	KOKOM	_	3	par	_	_
+6	Girlinger	Girlinger	N	NE	_	5	cj	453	453
+7	,	,	$	$,	_	0	root	_	_
+8	10	10	C	CARD	_	9	attr	_	_
+9	Mark	Mark	N	NN	Neut|_|Pl	11	obja	_	_
+10	Taschengeld	Taschengeld	N	NN	Neut|_|Sg	9	app	_	_
+11	hätte	haben	V	VAFIN	1|Sg|Past|Subj	13	neb	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	brauchte	brauchen	V	VVFIN	1|Sg|Past|_	0	root	_	_
+14	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	650	650
+15	nicht	nicht	P	PTKNEG	_	13	adv	_	_
+16	zu	zu	P	PTKZU	_	17	part	_	_
+17	stehlen	stehlen	V	VVINF	_	13	obji	_	_
+18	,	,	$	$,	_	0	root	_	_
+19	und	und	K	KON	_	13	kon	_	_
+20	wenn	wenn	K	KOUS	_	26	konj	_	_
+21	die	die	A	ART	Def|Masc|Nom|Pl	22	det	186	186
+22	Pauker	Pauker	N	NN	Masc|Nom|Pl	26	subj	186	186
+23	keine	keine	A	PIAT	Fem|_|Pl	25	det	_	_
+24	überflüssigen	überflüssig	A	ADJA	Pos|Fem|_|Pl|Wk|	25	attr	_	_
+25	Bemerkungen	Bemerkung	N	NN	Fem|_|Pl	26	obja	_	_
+26	schmierten	schmieren	V	VVFIN	3|Pl|Past|_	28	neb	_	_
+27	,	,	$	$,	_	0	root	_	_
+28	brauchte	brauchen	V	VVFIN	1|Sg|Past|_	19	cj	_	_
+29	ich	ich	P	PPER	1|Sg|_|Nom	28	subj	650	650
+30	kein	keine	A	PIAT	_|_|Sg	31	det	651	651
+31	Eau	Eau	N	NN	_|_|Sg	28	obja	651	651
+32	de	de	N	NE	_|_|Sg	31	app	651	651
+33	Javelle	Javelle	N	NE	_|_|Sg	32	app	651	651
+34	.	.	$	$.	_	0	root	_	_
+
+1	Also	also	A	ADV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+

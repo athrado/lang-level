@@ -1,0 +1,492 @@
+1	wo	wo	P	PWAV	_	2	adv	_	_
+2	sollen	sollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	P	PPER	1|Pl|_|Nom	2	subj	_	_
+4	bei	bei	P	APPR	Dat	9	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	_	_
+6	Belagerung	Belagerung	N	NN	Fem|Dat|Sg	4	pn	_	_
+7	nur	nur	A	ADV	_	9	adv	_	_
+8	Proviant	Proviant	N	NN	Masc|_|Sg	9	obja	_	_
+9	hernehmen	hernehmen	V	VVINF	_	2	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	930	930
+4	will	wollen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+5	aus	aus	P	APPR	Dat	10	pp	_	_
+6	dem	die	A	ART	Def|Neut|Dat|Sg	7	det	931	931
+7	Parnaß	Parnaß	N	NN	Neut|Dat|Sg	5	pn	931	931
+8	eine	eine	A	ART	Indef|Fem|_|Sg	9	det	931	931
+9	Festung	Festung	N	NN	Fem|_|Sg	10	obja	931	931
+10	machen	machen	V	VVINF	_	4	aux	931	931
+11	-	-	$	$(	_	0	root	931	931
+12	wenn	wenn	K	KOUS	_	16	konj	931	931
+13	ich	ich	P	PPER	1|Sg|_|Nom	16	subj	930	930
+14	nur	nur	A	ADV	_	16	adv	_	_
+15	erst	erst	A	ADV	_	16	adv	_	_
+16	wüßte	wüßte	V	VVFIN	1|Sg|_|_	4	neb	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	was	was	P	PRELS	Neut|_|Sg	20	obja	931	931
+19	es	es	P	PPER	3|Sg|Neut|Nom	21	subj	_	_
+20	geben	geben	V	VVINF	_	21	aux	_	_
+21	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	7	rel	_	_
+22	.	.	$	$.	_	0	root	_	_
+
+1	Grünhelm	Grünhelm	N	NN	Masc|_|Sg	0	root	87	87
+2	:	\:	$	$.	_	0	root	_	_
+3	Der	die	A	ART	Def|Masc|Nom|Sg	4	det	104	104
+4	Apoll	Apoll	N	NE	Masc|Nom|Sg	5	subj	104	104
+5	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+6	sein	seine	A	PPOSAT	Neut|_|Sg	7	det	87	87
+7	Reich	Reich	N	NN	Neut|_|Sg	8	obja	_	_
+8	wiederhaben	wiederhaben	V	VVINF	_	5	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	Admet	Admet	N	NE	_|Nom|Sg	11	subj	422	422
+11	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	5	kon	_	_
+12	ihm	er	P	PPER	3|Sg|_|Dat	11	objd	0	0
+13	bei	bei	P	PTKVZ	_	11	avz	_	_
+14	;	;	$	$.	_	0	root	_	_
+15	sie	sie	P	PPER	3|Pl|_|Nom	16	subj	_	_
+16	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+17	eine	eine	A	ART	Indef|Fem|_|Sg	19	det	_	_
+18	große	groß	A	ADJA	Pos|Fem|_|Sg|_|	19	attr	_	_
+19	Schwadron	Schwadron	N	NN	Fem|_|Sg	22	obja	_	_
+20	von	von	P	APPR	_	19	pp	_	_
+21	Menschen	Mensch	N	NN	Masc|_|_	20	pn	641	641
+22	zusammengebracht	zusammenbringen	V	VVPP	_	16	aux	_	_
+23	,	,	$	$,	_	0	root	_	_
+24	und	und	K	KON	_	16	kon	_	_
+25	da	da	A	ADV	_	26	adv	_	_
+26	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	24	cj	_	_
+27	es	es	P	PPER	3|Sg|Neut|Nom	26	subj	_	_
+28	nun	nun	A	ADV	_	33	adv	_	_
+29	über	über	P	APPR	Acc	33	pp	_	_
+30	die	die	A	ART	Def|_|Acc|Pl	32	det	_	_
+31	armen	arm	A	ADJA	Pos|_|Acc|Pl|Wk|	32	attr	_	_
+32	Unschuldigen	Unschuldige	N	NN	_|Acc|Pl	29	pn	_	_
+33	hergehen	hergehen	V	VVINF	_	26	aux	_	_
+34	.	.	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Nennst	nennen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	mich	ich	P	PPER	1|Sg|_|Acc	3	obja	932	932
+6	einen	eine	A	ART	Indef|Masc|Acc|Sg	8	det	_	_
+7	armen	arm	A	ADJA	Pos|Masc|Acc|Sg|_|	8	attr	_	_
+8	Unschuldigen	Unschuldige	N	NN	Masc|Acc|Sg	0	root	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Grünhelm	Grünhelm	N	NN	Masc|_|Sg	0	root	87	87
+2	:	\:	$	$.	_	0	root	_	_
+3	Ich	ich	P	PPER	1|Sg|_|Nom	4	subj	932	932
+4	meine	meinen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+5	leider	leider	A	ADV	_	4	adv	_	_
+6	mich	ich	P	PPER	1|Sg|_|Acc	4	obja	957	957
+7	.	.	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Wir	wir	P	PPER	1|Pl|_|Nom	4	subj	_	_
+4	müssen	müssen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+5	uns	wir	P	PRF	1|Pl|_	9	obja	_	_
+6	also	also	A	ADV	_	9	adv	_	_
+7	zum	zu	P	APPRART	Dat	9	pp	_	_
+8	Kriege	Krieg	N	NN	Masc|Dat|Sg	7	pn	899	899
+9	rüsten	rüsten	V	VVINF	_	4	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Nur	nur	A	ADV	_	0	root	_	_
+3	heran	heran	P	PTKVZ	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	Leute	Leute	N	NN	_|_|Pl	0	root	319	319
+6	!	!	$	$.	_	0	root	_	_
+
+1	Generale	General	N	NN	Masc|_|_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Minister	Minister	N	NN	Masc|_|_	0	root	934	934
+2	!	!	$	$.	_	0	root	_	_
+
+1	es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	Krieg	Krieg	N	NN	Masc|Nom|Sg	2	pred	899	899
+4	!	!	$	$.	_	0	root	_	_
+
+1	Feuer	Feuer	N	NN	Neut|_|_	0	root	933	933
+2	!	!	$	$.	_	0	root	_	_
+
+1	Feuer	Feuer	N	NN	Neut|_|_	0	root	933	933
+2	!	!	$	$.	_	0	root	_	_
+
+1	Generale	General	N	NN	Masc|Nom|Pl	4	subj	_	_
+2	und	und	K	KON	_	1	kon	_	_
+3	Minister	Minister	N	NN	Masc|Nom|_	2	cj	934	934
+4	versammeln	versammeln	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	4	obja	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Soldaten	Soldat	N	NN	_|_|_	0	root	_	_
+2	mit	mit	P	APPR	Dat	1	pp	_	_
+3	Trommeln	Trommel	N	NN	_|Dat|_	2	pn	_	_
+4	und	und	K	KON	_	3	kon	_	_
+5	Fahnen	Fahne	N	NN	Fem|Dat|Pl	4	cj	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	935	935
+2	Bäcker	Bäcker	N	NN	Masc|Nom|Sg	5	pred	935	935
+3	und	und	K	KON	_	2	kon	_	_
+4	Brauer	Brauer	N	NE	Masc|Nom|Sg	3	cj	301	301
+5	kommen	kommen	V	VVINF	_	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|Masc|Nom|Sg	2	det	_	_
+2	Nachtwächter	Nachtwächter	N	NN	Masc|Nom|Sg	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Nachtwächter	Nachtwächter	N	NN	Masc|_|_	5	vok	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	blast	blasen	V	VVFIN	2|Pl|Pres|Ind	0	root	_	_
+6	Feuerlärm	Feuerlärm	N	NN	Masc|_|Sg	5	obja	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Geh	Geh	N	NE	_	0	root	936	936
+3	einer	eine	A	ART	Indef|Fem|_|Sg	0	root	_	_
+4	hin	hin	A	ADV	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	und	und	K	KON	_	0	root	_	_
+7	lasse	lassen	V	VVFIN	_|Sg|Pres|_	6	cj	_	_
+8	die	die	A	ART	Def|Fem|_|Pl	9	det	_	_
+9	Sturmglocken	Sturmglocke	N	NN	Fem|_|Pl	10	obja	_	_
+10	läuten	läuten	V	VVINF	_	7	obji	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Dagegen	Dagegen	P	PROAV	_	3	pp	_	_
+3	müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+4	eiligst	eilig	A	ADJD	Sup|	6	adv	_	_
+5	Anstalten	Anstalt	N	NN	Fem|Nom|Pl	3	subj	937	937
+6	getroffen	treffen	V	VVPP	_	7	aux	_	_
+7	werden	werden	V	VAINF	_	3	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	-Wißt	-Wißt	A	ADJD	_	0	root	_	_
+2	ihr	ihre	A	PPOSAT	_|_|Sg	0	root	937	937
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|_	0	root	937	937
+5	schon	schon	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	meine	meine	A	PPOSAT	_|_|_	8	det	_	_
+8	Herrn	Herrn	N	NN	_|_|_	4	app	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	2	det	_	_
+2	Neuste	Neueste	N	NN	Neut|Nom|Sg	5	subj	_	_
+3	vom	von	P	APPRART	Dat	2	pp	_	_
+4	Jahr	Jahr	N	NN	Neut|Dat|Sg	3	pn	938	938
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	eine	eine	A	ART	Indef|Fem|Nom|Sg	9	det	_	_
+7	saubre	saubre	A	ADJA	_|Fem|Nom|Sg|_	9	attr	_	_
+8	niedliche	niedlich	A	ADJA	Pos|Fem|Nom|Sg|_|	9	attr	_	_
+9	Rebellion	Rebellion	N	NN	Fem|Nom|Sg	5	pred	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Sturmgeläute	Sturmgeläut	N	NN	Neut|_|_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	Blasen	Blase	N	NN	_|_|_	1	app	_	_
+4	der	die	A	ART	Def|Masc|Gen|Pl	5	det	_	_
+5	Nachtwächter	Nachtwächter	N	NN	Masc|Gen|Pl	3	gmod	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	Trommeln	Trommel	N	NN	Fem|Gen|Pl	5	kon	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	2	adv	_	_
+2	hört	hören	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	nur	nur	A	ADV	_	2	adv	_	_
+4	den	die	A	ART	Def|_|_|_	6	det	_	_
+5	allerliebsten	allerliebst	A	ADJA	_|_|_|_|_|	6	attr	_	_
+6	Lärmen	Lärmen	N	NN	_|_|_	2	obja	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ja	ja	P	PTKANT	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ja	ja	P	PTKANT	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	solche	solche	A	PIDAT	Fem|_|Sg	7	det	939	939
+7	Freude	Freude	N	NN	Fem|_|Sg	8	obja	939	939
+8	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	man	man	P	PIS	_|Nom|Sg	8	subj	_	_
+10	vom	von	P	APPRART	Dat	8	pp	_	_
+11	Königsein	Königsein	N	NN	Neut|Dat|Sg	10	pn	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Ihr	ihre	A	PPOSAT	_|_|Sg	3	det	939	939
+3	Leute	Leute	N	NN	_|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	habt	haben	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+6	ihr	ihr	P	PPER	2|Pl|_|Nom	5	subj	_	_
+7	denn	denn	A	ADV	_	5	adv	_	_
+8	auch	auch	A	ADV	_	5	adv	_	_
+9	Courage	Courage	N	NN	Fem|_|Sg	5	obja	941	941
+10	?	?	$	$.	_	0	root	_	_
+
+1	General	General	N	NN	Masc|_|Sg	0	root	945	945
+2	:	\:	$	$.	_	0	root	_	_
+3	Ohne	ohne	P	APPR	Acc	0	root	_	_
+4	Zweifel	Zweifel	N	NN	Masc|Nom|_	3	pn	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mein	meine	A	PPOSAT	Masc|Nom|Sg	7	det	940	940
+7	König	König	N	NN	Masc|Nom|Sg	4	app	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Nu	Nu	N	NN	_|_|Sg	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	nu	nu	A	ADV	_	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	940	940
+8	fragte	fragen	V	VVFIN	1|Sg|Past|_	0	root	_	_
+9	nur	nur	A	ADV	_	8	adv	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Wer	wer	P	PWS	_|Nom|Sg	3	subj	_	_
+3	wollte	wollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+4	auch	auch	A	ADV	_	12	adv	_	_
+5	in	in	P	APPR	Dat	12	pp	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	betrübten	betrübt	A	ADJA	Pos|_|Dat|Pl|_|	9	attr	_	_
+8	verzweiflungsvollen	verzweiflungsvoll	A	ADJA	Pos|_|Dat|Pl|_|	9	attr	_	_
+9	Zeitläuften	Zeitläufte	N	NN	_|Dat|Pl	5	pn	_	_
+10	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+11	Courage	Courage	N	NN	Fem|_|Sg	12	obja	941	941
+12	haben	haben	V	VAINF	_	3	aux	_	_
+13	?	?	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Und	und	K	KON	_	4	koord	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	denkt	denken	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+5	nur	nur	A	ADV	_	4	adv	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	auf	auf	P	APPR	Acc	9	pp	_	_
+8	mich	ich	P	PPER	1|Sg|_|Acc	7	pn	940	940
+9	armen	arm	A	ADJA	Pos|Masc|Dat|_|_|	11	attr	_	_
+10	unschuldigen	unschuldig	A	ADJA	Pos|Masc|Dat|_|_|	11	attr	_	_
+11	Menschen	Mensch	N	NN	Masc|Dat|_	12	objd	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	s	_	_
+13	es	es	P	PPER	3|Sg|Neut|Nom	12	subj	_	_
+14	abgesehn	abgesehn	A	ADJD	_	12	pred	_	_
+15	!	!	$	$.	_	0	root	_	_
+
+1	Brauer	Brauer	N	NE	_	0	root	301	301
+2	:	\:	$	$.	_	0	root	_	_
+3	Herr	Herr	N	NN	Masc|_|Sg	6	vok	649	649
+4	König	König	N	NE	_|_|Sg	3	app	649	649
+5	,	,	$	$,	_	0	root	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	etwa	etwa	A	ADV	_	6	adv	_	_
+8	Feuer	Feuer	N	NN	Neut|Nom|Sg	6	subj	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Ochsenkopf	Ochsenkopf	N	NN	Masc|_|Sg	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	eine	eine	A	ART	Indef|Fem|Nom|Sg	2	det	_	_
+2	Rebellion	Rebellion	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	ausgebrochen	ausbrechen	V	VVPP	_	3	aux	_	_
+5	!	!	$	$.	_	0	root	_	_
+
+1	Brauer	Brauer	N	NE	_	0	root	301	301
+2	:	\:	$	$.	_	0	root	_	_
+3	In	in	P	APPR	Dat	0	root	_	_
+4	welcher	welche	A	PWAT	Fem|Dat|Sg	5	det	942	942
+5	Gasse	Gasse	N	NN	Fem|Dat|Sg	3	pn	942	942
+6	?	?	$	$.	_	0	root	_	_
+
+1	Bäcker	Bäcker	N	NN	Masc|_|_	0	root	300	300
+2	:	\:	$	$.	_	0	root	_	_
+3	Kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sie	sie	P	PPER	3|Sg|Fem|Nom	3	subj	942	942
+5	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+6	wieder	wieder	A	ADV	_	7	adv	_	_
+7	eingesperrt	einsperren	V	VVPP	_	8	aux	_	_
+8	werden	werden	V	VAINF	_	3	aux	_	_
+9	?	?	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	O	O	N	NN	Neut|_|_	7	vok	_	_
+4	liebste	lieb	A	ADJA	Sup|_|_|Pl|St|	5	attr	_	_
+5	Untertanen	Untertan	N	NN	_|_|Pl	3	app	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	seid	sein	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+8	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+9	wie	wie	K	KOKOM	_	7	kom	_	_
+10	das	die	A	ART	Def|Neut|_|Sg	11	det	_	_
+11	Rindvieh	Rindvieh	N	NN	Neut|_|Sg	9	cj	_	_
+12	,	,	$	$,	_	0	root	_	_
+13	darum	darum	P	PROAV	_	14	objp	_	_
+14	bitte	bitten	V	VVFIN	1|Sg|Pres|_	7	kon	_	_
+15	ich	ich	P	PPER	1|Sg|_|Nom	14	subj	957	957
+16	inständigst	inständig	A	ADJD	Sup|	14	adv	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Bewaffnet	bewaffnen	V	VVIMP	Pl	0	root	_	_
+2	euch	ihr	P	PPER	2|Pl|_|_	1	obja	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	denn	denn	K	KON	_	0	root	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	6	det	103	103
+6	Feind	Feind	N	NN	Masc|Nom|Sg	7	subj	103	103
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	cj	_	_
+8	schon	schon	A	ADV	_	7	adv	_	_
+9	in	in	P	APPR	Dat	7	pp	_	_
+10	der	die	A	ART	Def|Fem|Dat|Sg	11	det	943	943
+11	Nähe	Nähe	N	NN	Fem|Dat|Sg	9	pn	943	943
+12	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Sg	3	det	_	_
+2	ganze	ganz	A	ADJA	Pos|Fem|Nom|Sg|_|	3	attr	_	_
+3	Macht	Macht	N	NN	Fem|Nom|Sg	4	subj	_	_
+4	rückt	rücken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	nämlich	nämlich	A	ADV	_	4	adv	_	_
+6	heran	heran	P	PTKVZ	_	4	avz	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Leute	Leute	N	NN	_|_|Pl	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	was	was	P	PWS	Neut|_|Sg	5	obja	_	_
+5	machen	machen	V	VVFIN	1|Pl|Pres|_	2	rel	_	_
+6	wir	wir	P	PPER	1|Pl|_|Nom	5	subj	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Grünhelm	Grünhelm	N	NN	Masc|_|Sg	0	root	87	87
+2	:	\:	$	$.	_	0	root	_	_
+3	Ist	Ist	N	NN	Neut|_|Sg	0	root	225	225
+4	kein	keine	A	PIAT	Neut|_|Sg	5	det	_	_
+5	Davonlaufen	Davonlaufen	N	NN	Neut|_|Sg	0	root	_	_
+6	möglich	möglich	A	ADJD	Pos|	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Minister	Minister	N	NN	Masc|_|_	0	root	934	934
+2	:	\:	$	$.	_	0	root	_	_
+3	Durchaus	Durchaus	N	NE	_	0	root	944	944
+4	nicht	nicht	P	PTKNEG	_	3	adv	944	944
+5	.	.	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Nein	nein	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	durchaus	durchaus	A	ADV	_	6	adv	_	_
+6	nicht	nicht	P	PTKNEG	_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	sich	sie	P	PRF	3|_|Dat	2	objd	_	_
+4	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+5	noch	noch	A	ADV	_	2	adv	_	_
+6	geschwind	geschwind	A	ADJD	Pos|	2	adv	_	_
+7	eine	eine	A	ART	Indef|Fem|Nom|Sg	8	det	_	_
+8	Festung	Festung	N	NN	Fem|Nom|Sg	2	subj	_	_
+9	bauen	bauen	V	VVINF	_	2	obji	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	General	General	N	NN	Masc|_|Sg	0	root	945	945
+2	:	\:	$	$.	_	0	root	_	_
+3	Unmöglich	unmöglich	A	ADJD	Pos|	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	und	und	K	KON	_	0	root	_	_
+6	es	es	P	PPER	3|Sg|Neut|_	7	expl	_	_
+7	sind	sein	V	VAFIN	3|Pl|Pres|Ind	5	cj	_	_
+8	auch	auch	A	ADV	_	7	adv	_	_
+9	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+10	einmal	einmal	A	ADV	_	7	adv	_	_
+11	die	die	A	ART	Def|Neut|Nom|Pl	12	det	_	_
+12	Materialien	Material	N	NN	Neut|Nom|Pl	7	subj	_	_
+13	da	da	P	PTKVZ	_	7	avz	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Sagt	sagen	V	VVIMP	Pl	0	root	_	_
+4	einmal	einmal	A	ADV	_	3	adv	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	sollten	sollen	V	VMFIN	3|Pl|Past|_	0	root	_	_
+7	sich	sie	P	PRF	3|_|_	14	obja	_	_
+8	die	die	A	ART	Def|_|Nom|Pl	9	det	946	946
+9	Feinde	Feind	N	NN	_|Nom|Pl	6	subj	946	946
+10	nicht	nicht	P	PTKNEG	_	14	adv	_	_
+11	vor	vor	P	APPR	Dat	14	pp	_	_
+12	dem	die	A	ART	Def|_|Dat|Sg	13	det	_	_
+13	Teufelsspektakul	Teufelsspektakul	N	NN	_|Dat|Sg	11	pn	_	_
+14	fürchten	fürchten	V	VVINF	_	6	aux	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	General	General	N	NN	Masc|_|Sg	0	root	945	945
+2	:	\:	$	$.	_	0	root	_	_
+3	Schwerlich	schwerlich	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Skaramuz	Skaramuz	N	NE	_	0	root	35	35
+2	:	\:	$	$.	_	0	root	_	_
+3	Fürchte	fürchten	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	3	subj	948	948
+5	mich	ich	P	PRF	1|Sg|Acc	3	obja	_	_
+6	doch	doch	A	ADV	_	3	adv	_	_
+7	;	;	$	$.	_	0	root	_	_
+8	zum	zu	P	APPRART	Dat	0	root	_	_
+9	Henker	Henker	N	NN	Masc|Dat|Sg	8	pn	947	947
+10	!	!	$	$.	_	0	root	_	_
+
+1	das	die	P	PDS	Neut|_|Sg	0	root	_	_
+2	müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+3	ja	ja	A	ADV	_	6	adv	_	_
+4	vermaledeite	vermaledeit	A	ADJA	Pos|_|Nom|Pl|St|	5	attr	_	_
+5	Feinde	Feind	N	NN	_|Nom|Pl	2	subj	_	_
+6	sein	sein	V	VAINF	_	2	aux	_	_
+7	!	!	$	$.	_	0	root	_	_
+
+1	Müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	_
+2	mir	ich	P	PPER	1|Sg|_|Dat	11	objd	948	948
+3	nun	nun	A	ADV	_	11	adv	_	_
+4	gerade	gerade	A	ADV	_	11	adv	_	_
+5	die	die	A	ART	Def|_|Nom|Pl	7	det	_	_
+6	schlimmsten	schlimm	A	ADJA	Sup|_|Nom|Pl|Wk|	7	attr	_	_
+7	Feinde	Feind	N	NN	_|Nom|Pl	1	subj	_	_
+8	auf	auf	P	APPR	Acc	11	objp	_	_
+9	den	die	A	ART	Def|Masc|Acc|Sg	10	det	357	357
+10	Hals	Hals	N	NN	Masc|Acc|Sg	8	pn	357	357
+11	kommen	kommen	V	VVINF	_	1	aux	_	_
+12	!	!	$	$.	_	0	root	_	_
+
+1	Harlekin	Harlekin	N	NN	Masc|_|Sg	0	root	145	145
+2	kömmt	kömmt	N	NE	Masc|_|Sg	1	app	145	145
+3	.	.	$	$.	_	0	root	_	_
+
+1	Harlekin	Harlekin	N	NN	Masc|_|Sg	0	root	746	746
+2	:	\:	$	$.	_	0	root	_	_
+3	Mein	meine	A	PPOSAT	Masc|Nom|Sg	4	det	649	649
+4	König	König	N	NN	Masc|Nom|Sg	0	root	649	649
+5	,	,	$	$,	_	0	root	_	_
+6	zur	zu	P	APPRART	Dat	8	pp	_	_
+7	See	See	N	NN	_|Dat|Sg	6	pn	_	_
+8	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+9	wir	wir	P	PPER	1|Pl|_|Nom	8	subj	_	_
+10	einen	eine	A	ART	Indef|Masc|Acc|Sg	12	det	_	_
+11	großen	groß	A	ADJA	Pos|Masc|Acc|Sg|_|	12	attr	_	_
+12	Vorteil	Vorteil	N	NN	Masc|Acc|Sg	8	obja	_	_
+13	.	.	$	$.	_	0	root	_	_
+

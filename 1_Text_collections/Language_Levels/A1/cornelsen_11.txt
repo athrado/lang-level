@@ -1,0 +1,100 @@
+1	In	in	PREP	APPR	Dat	5	pp	_	-
+2	den	die	ART	ART	Def|Neut|Dat|Pl	4	det	_	-
+3	1970er	1970er	ADJA	ADJA	Pos|Neut|Dat|Pl|_|	4	attr	_	-
+4	Jahren	Jahr	N	NN	Neut|Dat|Pl	1	pn	_	-
+5	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+6	viele	viele	ART	PIDAT	_|Nom|Pl	7	det	_	-
+7	Deutschen	Deutsche	N	NN	_|Nom|Pl	5	subj	_	-
+8	gern	gern	ADV	ADV	_	16	adv	_	-
+9	im	in	PREP	APPRART	Dat	16	pp	_	-
+10	Sommer	Sommer	N	NN	Masc|Dat|Sg	9	pn	_	-
+11	drei	drei	CARD	CARD	_	12	attr	_	-
+12	Wochen	Woche	N	NN	Fem|Dat|Pl	10	app	_	-
+13	in	in	PREP	APPR	Acc	16	pp	_	-
+14	den	die	ART	ART	Def|Masc|Acc|Sg	15	det	_	-
+15	Urlaub	Urlaub	N	NN	Masc|Acc|Sg	13	pn	_	-
+16	gefahren	fahren	V	VVPP	_	5	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Heute	heute	ADV	ADV	_	2	adv	_	-
+2	dauert	dauern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	der	die	ART	ART	Def|Masc|Nom|Sg	5	det	_	-
+4	große	groß	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	5	attr	_	-
+5	Urlaub	Urlaub	N	NN	Masc|Nom|Sg	2	subj	_	-
+6	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+7	mehr	mehr	ADV	ADV	_	6	adv	_	-
+8	so	so	ADV	ADV	_	9	adv	_	-
+9	lange	lange	ADV	ADJD	_	2	adv	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	3	pp	_	-
+2	Durchschnitt	Durchschnitt	N	NN	Masc|Dat|Sg	1	pn	_	-
+3	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	-
+4	es	es	PRO	PPER	3|Sg|Neut|Nom	3	subj	_	-
+5	nicht	nicht	PTKNEG	PTKNEG	_	3	adv	_	-
+6	mehr	mehr	ADV	ADV	_	5	adv	_	-
+7	als	als	KOKOM	KOKOM	_	3	kom	_	-
+8	zwei	zwei	CARD	CARD	_	7	cj	_	-
+9	Wochen	Woche	N	NN	Fem|Nom|Pl	3	pred	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	60	60	CARD	CARD	_	2	attr	_	-
+2	Prozent	Prozent	N	NN	Neut|Nom|Pl	5	subj	_	-
+3	der	die	ART	ART	Def|_|Gen|_	4	det	_	-
+4	Deutschen	Deutsche	N	NN	_|Gen|_	2	gmod	_	-
+5	entscheiden	entscheiden	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+6	sich	sie	PRO	PRF	3|_|_	5	obja	_	-
+7	für	für	PREP	APPR	Acc	5	pp	_	-
+8	einen	eine	ART	ART	Indef|Masc|Acc|Sg	9	det	_	-
+9	Individualurlaub	Individualurlaub	N	NN	Masc|Acc|Sg	7	pn	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Ca.	ca.	ADV	ADV	_	0	root	_	-
+
+1	35	35	CARD	CARD	_	2	attr	_	-
+2	Prozent	Prozent	N	NN	Neut|Nom|Pl	3	subj	_	-
+3	machen	machen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	Pauschalreisen	Pauschalreise	N	NN	_|_|_	3	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Wellness-Urlaub	Wellness-Urlaub	N	NN	_|Nom|Sg	2	subj	_	(0)
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	mit	mit	PREP	APPR	Dat	2	pp	_	-
+4	fast	fast	ADV	ADV	_	6	adv	_	-
+5	18	18	CARD	CARD	_	6	attr	_	-
+6	Prozent	Prozent	N	NN	Neut|Dat|Pl	3	pn	_	-
+7	auf	auf	PREP	APPR	_	2	pp	_	-
+8	Platz	Platz	N	NN	Masc|_|Sg	7	pn	_	-
+9	3.	3.	ADJA	ADJA	_|_|_|_|_|	2	obja	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	das	die	PRO	PDS	Neut|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	-
+4	auch	auch	ADV	ADV	_	3	adv	_	-
+5	der	die	ART	ART	Def|Masc|Nom|Sg	6	det	_	-
+6	Trend	Trend	N	NN	Masc|Nom|Sg	3	pred	_	-
+7	:	\:	$.	$.	_	0	root	_	-
+8	Er	er	PRO	PPER	3|Sg|Masc|Nom	9	subj	_	(0)
+9	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+10	zum	zu	PREP	APPRART	Dat	9	objp	_	-
+11	„	„	ADJA	ADJA	_|_|Dat|Sg|_	12	attr	_	-
+12	Medical-Wellness-Urlaub	Medical-Wellness-Urlaub	N	NN	_|Dat|Sg	10	pn	_	-
+13	“	“	$(	$(	_	0	root	_	-
+14	–	–	$(	$(	_	0	root	_	-
+15	mit	mit	PREP	APPR	Dat	0	root	_	-
+16	Thalasso-Therapien	Thalasso-Therapie	N	NN	Fem|Dat|Pl	15	pn	_	-
+17	,	,	$,	$,	_	0	root	_	-
+18	Ayurveda-Kuren	Ayurveda-Kur	N	NN	_|Dat|_	16	kon	_	-
+19	oder	oder	KON	KON	_	18	kon	_	-
+20	Fitness-Trainings	Fitness-Training	N	NN	Neut|Dat|Pl	19	cj	_	-
+21	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|_|_|_	3	det	_	-
+2	klassische	klassisch	ADJA	ADJA	Pos|_|_|_|_|	3	attr	_	-
+3	Strand-	Strand-	TRUNC	TRUNC	Masc|Nom|Sg	6	subj	_	-
+4	und	und	KON	KON	_	3	kon	_	-
+5	Skitourismus	Skitourismus	N	NN	Masc|_|Sg	4	cj	_	-
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+7	out	out	ADV	ADJD	_	6	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

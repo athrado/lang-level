@@ -1,0 +1,59 @@
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Sonntag	Sonntag	N	NN	_|Dat|Sg	1	pn	_	-
+3	gehe	gehen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	morgens	morgens	ADV	ADV	_	3	adv	_	-
+6	in	in	PREP	APPR	Acc	3	objp	_	-
+7	die	die	ART	ART	Def|Fem|Acc|Sg	8	det	_	-
+8	Kirche	Kirche	N	NN	Fem|Acc|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Nachmittag	Nachmittag	N	NN	_|Dat|Sg	1	pn	_	-
+3	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	mit	mit	PREP	APPR	Dat	8	pp	_	-
+6	meinen	meine	ART	PPOSAT	_|Dat|_	7	det	_	(0)
+7	Freunden	Freund	N	NN	_|Dat|_	5	pn	_	-
+8	essen	essen	V	VVINF	_	3	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	3	pp	_	-
+2	Abend	Abend	N	NN	Masc|Dat|Sg	1	pn	_	-
+3	können	können	V	VMFIN	_|Pl|Pres|_	0	root	_	-
+4	mein	meine	ART	PPOSAT	Masc|Nom|Sg	5	det	_	(0)
+5	Ehemann	Ehemann	N	NN	Masc|Nom|Sg	3	subj	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	ich	ich	PRO	PPER	1|Sg|_|Nom	6	cj	_	(0)
+8	einen	eine	ART	ART	Indef|Masc|Acc|Sg	9	det	_	-
+9	Film	Film	N	NN	Masc|Acc|Sg	10	obja	_	-
+10	sehen	sehen	V	VVINF	_	3	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	keine	keine	ART	PIAT	_|_|_	4	det	_	-
+4	Deutsch	Deutsch	N	NN	Neut|_|Sg	6	obja	_	-
+5	Hausaufgaben	Hausaufgabe	N	NN	Fem|_|Pl	6	obja	_	-
+6	machen	machen	V	VVINF	_	2	aux	_	-
+7	oder	oder	KON	KON	_	6	kon	_	-
+8	Deutsch	Deutsch	N	NN	Neut|_|Sg	9	obja	_	-
+9	lernen	lernen	V	VVINF	_	7	cj	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	7	adv	_	-
+4	mit	mit	PREP	APPR	Dat	7	pp	_	-
+5	dem	die	ART	ART	Def|Masc|Dat|Sg	6	det	_	-
+6	Bus	Bus	N	NN	Masc|Dat|Sg	4	pn	_	-
+7	fahren	fahren	V	VVINF	_	2	aux	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	-
+3	nicht	nicht	PTKNEG	PTKNEG	_	5	adv	_	-
+4	einkaufen	einkaufen	V	VVINF	_	5	obji	_	-
+5	gehen	gehen	V	VVINF	_	2	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+

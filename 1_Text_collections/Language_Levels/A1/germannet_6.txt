@@ -1,0 +1,146 @@
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	7	7	CARD	CARD	_	4	attr	_	-
+4	Uhr	Uhr	N	NN	Fem|Nom|Sg	2	pred	_	-
+5	am	an	PREP	APPRART	Dat	4	pp	_	-
+6	Morgen	Morgen	N	NN	_|Dat|_	5	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Familie	Familie	N	NN	Fem|Nom|Sg	3	subj	_	-
+2	Müller	Müller	N	NE	Fem|Nom|Sg	1	app	_	-
+3	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	am	an	PREP	APPRART	Dat	3	pp	_	-
+5	Frühstückstisch	Frühstückstisch	N	NN	Masc|Dat|Sg	4	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(3
+2	Vater	Vater	N	NN	Masc|Nom|Sg	3	subj	_	3)
+3	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	Bernd	Bernd	N	NE	Masc|Nom|Sg	3	pred	_	(2)
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	-
+2	Name	Name	N	NN	Masc|Nom|Sg	5	subj	_	-
+3	der	die	ART	ART	Def|Fem|Gen|Sg	4	det	_	-
+4	Mutter	Mutter	N	NN	Fem|Gen|Sg	2	gmod	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	Angelika	Angelika	N	NE	Fem|Nom|Sg	5	pred	_	(1)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Thomas	Thomas	N	NE	_|Nom|Sg	4	subj	_	(0)
+2	und	und	KON	KON	_	1	kon	_	-
+3	Lisa	Lisa	N	NE	Fem|Nom|Sg	2	cj	_	-
+4	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	-
+5	die	die	ART	ART	Def|Neut|Nom|Pl	6	det	_	(5
+6	Kinder	Kind	N	NN	Neut|Nom|Pl	4	pred	_	5)
+7	der	die	ART	ART	Def|_|_|_	8	part	_	-
+8	beiden	beide	PRO	PIS	_|Dat|Pl	4	objd	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Thomas	Thomas	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	neben	neben	PREP	APPR	_	2	pp	_	-
+4	Angelika	Angelika	N	NE	Fem|_|Sg	3	pn	_	(1)
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Bernd	Bernd	N	NE	Masc|Nom|Sg	2	subj	_	(2)
+2	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	neben	neben	PREP	APPR	Dat	2	pp	_	-
+4	seiner	seine	ART	PPOSAT	Fem|Dat|Sg	5	det	_	(2)
+5	Tochter	Tochter	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|_|Nom|Pl	2	det	_	-
+2	Eltern	Elter	N	NN	_|Nom|Pl	3	subj	_	-
+3	trinken	trinken	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	eine	eine	ART	ART	Indef|Fem|_|Sg	5	det	_	-
+5	Tasse	Tasse	N	NN	_|_|Sg	3	obja	_	-
+6	Kaffee	Kaffee	N	NN	_|_|Sg	5	app	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(3
+2	Vater	Vater	N	NN	Masc|Nom|Sg	3	subj	_	3)
+3	liest	lesen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	dabei	dabei	PROAV	PROAV	_	3	pp	_	-
+5	Zeitung	Zeitung	N	NN	Fem|_|Sg	3	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	3	det	_	-
+2	beiden	beide	ART	PIDAT	Neut|Nom|Pl	3	attr	_	-
+3	Kinder	Kind	N	NN	Neut|Nom|Pl	4	subj	_	-
+4	trinken	trinken	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	Milch	Milch	N	NN	Fem|_|Sg	4	obja	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Auf	auf	PREP	APPR	Dat	4	objp	_	-
+2	dem	die	ART	ART	Def|Masc|Dat|Sg	3	det	_	-
+3	Tisch	Tisch	N	NN	Masc|Dat|Sg	1	pn	_	-
+4	stehen	stehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	vier	vier	CARD	CARD	_	6	attr	_	-
+6	Teller	Teller	N	NN	Masc|Nom|Pl	4	subj	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	vier	vier	CARD	CARD	_	9	attr	_	-
+9	Tassen	Tasse	N	NN	Fem|Nom|Pl	7	cj	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	Dat	4	pp	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	3	det	_	-
+3	Mitte	Mitte	N	NN	Fem|Dat|Sg	1	pn	_	-
+4	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	ein	eine	ART	ART	Indef|Masc|Nom|Sg	6	det	_	-
+6	Korb	Korb	N	NN	Masc|Nom|Sg	4	subj	_	-
+7	mit	mit	PREP	APPR	Dat	4	pp	_	-
+8	Brot	Brot	N	NN	Neut|Dat|Sg	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Daneben	Daneben	PROAV	PROAV	_	2	pp	_	-
+2	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	die	die	ART	ART	Def|Fem|Nom|Sg	4	det	_	-
+4	Butter	Butter	N	NN	Fem|Nom|Sg	2	subj	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Ein	ein	ART	ART	Indef|Masc|Nom|Sg	2	det	_	-
+2	Teller	Teller	N	NN	Masc|Nom|Sg	7	subj	_	-
+3	mit	mit	PREP	APPR	Dat	2	pp	_	-
+4	Wurst	Wurst	N	NN	Fem|Dat|Sg	3	pn	_	(4)
+5	und	und	KON	KON	_	4	kon	_	-
+6	Käse	Käse	N	NN	Masc|Dat|Sg	5	cj	_	-
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+8	auch	auch	ADV	ADV	_	7	adv	_	-
+9	da	da	ADV	ADV	_	7	adv	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Dahinter	Dahinter	PROAV	PROAV	_	2	objp	_	-
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|Neut|Nom|Sg	4	det	_	-
+4	Glas	Glas	N	NN	Neut|Nom|Sg	2	subj	_	-
+5	Marmelade	Marmelade	N	NN	_|Nom|Sg	4	app	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(3
+2	Vater	Vater	N	NN	Masc|Nom|Sg	3	subj	_	3)
+3	isst	essen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	ein	eine	ART	ART	Indef|Neut|_|Sg	5	det	_	-
+5	Brot	Brot	N	NN	Neut|_|Sg	3	obja	_	-
+6	mit	mit	PREP	APPR	Dat	3	pp	_	-
+7	Butter	Butter	N	NN	Fem|Dat|Sg	6	pn	_	-
+8	und	und	KON	KON	_	7	kon	_	-
+9	Wurst	Wurst	N	NN	Fem|Dat|Sg	8	cj	_	(4)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Angelika	Angelika	N	NE	Fem|Nom|Sg	2	subj	_	(1)
+2	mag	mögen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	am	an	PREP	APPRART	Dat	2	pp	_	-
+4	liebsten	lieb	ADJA	ADJA	Sup|Masc|Dat|Sg|Wk|	5	attr	_	-
+5	Käse	Käse	N	NN	Masc|Dat|Sg	3	pn	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	(5
+2	Kinder	Kind	N	NN	Neut|Nom|Pl	3	subj	_	5)
+3	essen	essen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	ihr	ihre	ART	PPOSAT	Neut|_|Sg	5	det	_	(5)
+5	Brot	Brot	N	NN	Neut|_|Sg	3	obja	_	-
+6	mit	mit	PREP	APPR	Dat	3	pp	_	-
+7	Marmelade	Marmelade	N	NN	_|Dat|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

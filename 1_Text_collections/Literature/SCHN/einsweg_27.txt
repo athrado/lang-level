@@ -1,0 +1,322 @@
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	983	983
+2	interessiere	interessieren	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	P	PRF	1|Sg|Acc	2	obja	_	_
+4	sehr	sehr	A	ADV	_	2	adv	_	_
+5	für	für	P	APPR	Acc	2	pp	_	_
+6	schöne	schön	A	ADJA	Pos|Fem|Acc|Pl|St|	7	attr	_	_
+7	Villen	Villa	N	NN	Fem|Acc|Pl	5	pn	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	seine	seine	A	PPOSAT	_|_|_	1	cj	_	_
+3	soll	sollen	V	VMFIN	_|Sg|Pres|Ind	0	root	_	_
+4	entzückend	entzücken	A	ADJD	_|<PPRES	5	pred	_	_
+5	sein	sein	V	VAINF	_	3	aux	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	6	konj	_	_
+2	man	man	P	PIS	_|Nom|Sg	6	subj	_	_
+3	nur	nur	A	ADV	_	5	adv	_	_
+4	Leute	Leute	N	NN	_|_|Pl	5	obja	173	173
+5	besuchen	besuchen	V	VVINF	_	6	aux	_	_
+6	wollte	wollen	V	VMFIN	3|Sg|Past|_	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|_|_|_	2	part	_	_
+2	niemanden	niemand	P	PIS	_|Acc|Sg	3	obja	_	_
+3	umgebracht	umbringen	V	VVPP	_	4	aux	_	_
+4	haben	haben	V	VAFIN	_|Pl|Pres|_	0	root	_	_
+5	-	-	$	$(	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wir	wir	P	PPER	1|Pl|_|Nom	2	subj	308	308
+2	tun	tun	V	VVFIN	1|Pl|Pres|Ind	0	root	_	_
+3	ihm	er	P	PPER	3|Sg|_|Dat	2	objd	1	1
+4	wirklich	wirklich	A	ADJD	Pos|	2	adv	_	_
+5	zu	zu	P	PTKA	_	6	adv	_	_
+6	viel	viel	A	PIDAT	Fem|_|Sg	7	det	_	_
+7	Ehre	Ehre	N	NN	Fem|_|Sg	2	obja	_	_
+8	an	an	P	PTKVZ	_	2	avz	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	wenn	wenn	K	KOUS	_	16	konj	_	_
+11	wir	wir	P	PPER	1|Pl|_|Nom	16	subj	308	308
+12	so	so	A	ADV	_	13	adv	_	_
+13	lange	lange	A	ADJD	_	16	adv	_	_
+14	über	über	P	APPR	Acc	16	pp	_	_
+15	ihn	er	P	PPER	3|Sg|Masc|Acc	14	pn	1	1
+16	reden	reden	V	VVFIN	1|Pl|Pres|_	2	neb	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Schluß	Schluß	N	NN	Masc|_|Sg	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Na	Na	I	ITJ	_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+5	?	?	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	pred	_	_
+2	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_|_|_|Nom	2	subj	129	129
+5	dir	du	P	PPER	2|Sg|_|Dat	2	objd	309	309
+6	denn	denn	A	ADV	_	2	adv	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	309	309
+4	mir	ich	P	PPER	1|Sg|_|Dat	9	objd	983	983
+5	denn	denn	A	ADV	_	9	adv	_	_
+6	gar	gar	A	ADV	_	9	adv	_	_
+7	so	so	A	ADV	_	8	adv	_	_
+8	selten	selten	A	ADJD	Pos|	9	adv	_	_
+9	geschrieben	schreiben	V	VVPP	_	2	aux	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	1	subj	309	309
+3	am	an	P	APPRART	Dat	7	pp	_	_
+4	End	End	N	NN	Neut|Dat|Sg	3	pn	_	_
+5	'	'	$	$(	_	0	root	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	dürfen	dürfen	V	VMINF	_	1	aux	_	_
+8	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Dürfen	dürfen	V	VMFIN	_|Pl|Pres|_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	983	983
+2	meine	meinen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	ob	ob	K	KOUS	_	10	konj	_	_
+5	man	man	P	PIS	_|Nom|Sg	10	subj	_	_
+6	dir	du	P	PPER	2|Sg|_|Dat	9	objd	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	s	s	P	PPER	_	9	obja	_	_
+9	verboten	verbieten	V	VVPP	_	10	aux	_	_
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ach	ach	I	ITJ	_	0	root	_	_
+2	so	so	A	ADV	_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Mir	ich	P	PPER	1|Sg|_|Dat	3	objd	983	983
+3	verbietet	verbieten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	niemand	niemand	P	PIS	_|Nom|Sg	3	subj	_	_
+5	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wirklich	wirklich	A	ADJD	Pos|	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	lebst	leben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	so	so	A	ADV	_	4	adv	_	_
+4	ganz	ganz	A	ADV	_	5	adv	_	_
+5	für	für	P	APPR	Acc	2	pp	_	_
+6	dich	du	P	PPER	2|Sg|_|Acc	5	pn	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	freut	freuen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	310	310
+4	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	310	310
+2	kann	können	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	mir	ich	P	PRF	1|Sg|Dat	5	objd	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	helfen	helfen	V	VVINF	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	das	die	P	PDS	Neut|Nom|Sg	8	subj	_	_
+8	freut	freuen	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	_
+9	mich	ich	P	PPER	1|Sg|_|Acc	8	obja	310	310
+10	,	,	$	$,	_	0	root	_	_
+11	Julian	Julian	N	NE	Masc|Acc|Sg	9	app	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Obzwar	obzwar	K	KOUS	_	6	konj	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	6	subj	_	_
+3	ja	ja	A	ADV	_	6	adv	_	_
+4	ein	eine	A	ART	Indef|Masc|Nom|Sg	5	det	_	_
+5	Unsinn	Unsinn	N	NN	Masc|Nom|Sg	6	pred	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Heut	heuen	V	VVPP	_	0	root	_	_
+2	oder	oder	K	KON	_	0	root	_	_
+3	morgen	morgen	A	ADV	_	4	adv	_	_
+4	fängt	fangen	V	VVFIN	3|Sg|Pres|Ind	2	cj	_	_
+5	doch	doch	A	ADV	_	4	adv	_	_
+6	wieder	wieder	A	ADV	_	4	adv	_	_
+7	was	was	A	PIAT	Neut|Nom|Sg	8	det	_	_
+8	Neues	Neues	N	NN	Neut|Nom|Sg	4	subj	_	_
+9	an	an	P	PTKVZ	_	4	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|Nom|Pl	2	det	_	_
+2	Zeiten	Zeit	N	NN	Fem|Nom|Pl	3	subj	_	_
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	vorbei	vorbei	P	PTKVZ	_	3	avz	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	6	konj	_	_
+2	'	'	$	$(	_	0	root	_	_
+3	s	s	P	PPER	_|Sg|_|Nom	6	subj	1	1
+4	nur	nur	A	ADV	_	6	adv	_	_
+5	wahr	wahr	A	ADJD	Pos|	6	pred	_	_
+6	wäre	sein	V	VAFIN	_|Sg|Past|Subj	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+3	man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+4	einen	eine	A	ART	Indef|Masc|Acc|Sg	5	det	311	311
+5	Tee	Tee	N	NN	Masc|Acc|Sg	6	obja	311	311
+6	haben	haben	V	VAINF	_	2	aux	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Gewiß	gewiß	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Hier	hier	A	ADV	_	2	adv	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	der	die	A	ART	Def|Masc|Nom|Sg	4	det	_	_
+4	Samowar	Samowar	N	NN	Masc|Nom|Sg	2	subj	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wo	Wo	P	PWAV	_	0	root	_	_
+2	denn	denn	A	ADV	_	1	adv	_	_
+3	?	?	$	$.	_	0	root	_	_
+4	-	-	$	$(	_	0	root	_	_
+5	Ach	ach	I	ITJ	_	0	root	_	_
+6	ja	ja	P	PTKANT	_	0	root	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	hier	hier	A	ADV	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	der	die	A	ART	Def|Masc|Nom|Sg	3	det	311	311
+3	Tee	Tee	N	NN	Masc|Nom|Sg	1	cj	311	311
+4	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	983	983
+2	weiß	wissen	V	VVFIN	1|Sg|Pres|Ind	0	root	_	_
+3	ja	ja	A	ADV	_	2	adv	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Öffnet	öffnen	V	VVFIN	_|_|Pres|_	5	neb	_	_
+2	einen	eine	A	ART	Indef|Masc|Acc|Sg	3	det	_	_
+3	Schrank	Schrank	N	NN	Masc|Acc|Sg	1	obja	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	nimmt	nehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	die	die	A	ART	Def|Fem|_|Pl	8	det	_	_
+7	notwendigen	notwendig	A	ADJA	Pos|Fem|_|Pl|Wk|	8	attr	_	_
+8	Sachen	Sache	N	NN	Fem|_|Pl	5	obja	_	_
+9	heraus	heraus	P	PTKVZ	_	5	avz	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Im	in	P	APPRART	Dat	6	pp	_	_
+2	Laufe	Lauf	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	der	die	A	ART	Def|Fem|Gen|Pl	5	det	_	_
+4	nächsten	nah	A	ADJA	_|Fem|Gen|Pl|Wk|	5	attr	_	_
+5	Minuten	Minute	N	NN	Fem|Gen|Pl	2	gmod	_	_
+6	bereitet	bereiten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+7	sie	sie	P	PPER	3|Sg|Fem|Nom	6	subj	_	_
+8	den	die	A	ART	Def|Masc|Acc|Sg	9	det	311	311
+9	Tee	Tee	N	NN	Masc|Acc|Sg	6	obja	311	311
+10	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	bleibst	bleiben	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+3	wirklich	wirklich	A	ADJD	Pos|	2	adv	_	_
+4	nur	nur	A	ADV	_	2	adv	_	_
+5	mehr	mehr	A	ADV	_	2	adv	_	_
+6	ein	eine	A	ART	Indef|_|_|Sg	8	det	_	_
+7	paar	paar	A	PIDAT	Masc|Nom|Pl	8	attr	_	_
+8	Tage	Tag	N	NN	Masc|Nom|Pl	2	pred	_	_
+9	hier	hier	A	ADV	_	8	adv	_	_
+10	?	?	$	$.	_	0	root	_	_
+
+1	Irene	Irene	N	NE	Fem|_|Sg	0	root	275	275
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	natürlich	natürlich	A	ADJD	Pos|	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Meine	meine	A	PPOSAT	Fem|Nom|Pl	2	det	312	312
+2	Bestellungen	Bestellung	N	NN	Fem|Nom|Pl	3	subj	_	_
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+4	gemacht	machen	V	VVPP	_	3	aux	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|_|Sg	0	root	_	_
+2	kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	dir	du	P	PPER	2|Sg|_|Dat	6	objd	_	_
+5	ja	ja	A	ADV	_	6	adv	_	_
+6	denken	denken	V	VVINF	_	2	aux	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	auf	auf	P	APPR	Dat	14	pp	_	_
+9	dem	die	A	ART	Def|Neut|Dat|Sg	10	det	_	_
+10	Gut	Gut	N	NN	Neut|Dat|Sg	8	pn	_	_
+11	bei	bei	P	APPR	Dat	10	pp	_	_
+12	meiner	meine	A	PPOSAT	Fem|Dat|Sg	13	det	312	312
+13	Schwester	Schwester	N	NN	Fem|Dat|Sg	11	pn	_	_
+14	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	6	s	_	_
+15	man	man	P	PIS	_|Nom|Sg	14	subj	_	_
+16	wahrhaftig	wahrhaftig	A	ADV	_	14	adv	_	_
+17	keine	keine	A	PIAT	Fem|_|Pl	18	det	_	_
+18	Toiletten	Toilette	N	NN	Fem|_|Pl	14	obja	_	_
+19	.	.	$	$.	_	0	root	_	_
+
+1	Julian	Julian	N	NE	Masc|_|Sg	0	root	129	129
+2	.	.	$	$.	_	0	root	_	_
+

@@ -1,0 +1,326 @@
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wirklich	wirklich	A	ADJD	Pos|	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	Sobald	sobald	K	KOUS	_	6	konj	_	_
+2	deine	deine	A	PPOSAT	Fem|Nom|Sg	4	det	_	_
+3	neue	neu	A	ADJA	Pos|Fem|Nom|Sg|_|	4	attr	_	_
+4	Oper	Oper	N	NN	Fem|Nom|Sg	6	subj	_	_
+5	fertig	fertig	A	ADJD	Pos|	6	pred	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Und	und	K	KON	_	0	root	_	_
+2	so	so	A	ADV	_	1	cj	_	_
+3	weiter	weiter	P	PTKVZ	_	0	root	_	_
+4	!	!	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	6	6
+2	ißt	ißt	V	VVFIN	3|Sg|_|_	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|_	14	expl	_	_
+2	wundert	wundern	V	VVFIN	_|_|Pres|_	0	root	_	_
+3	mich	ich	P	PPER	1|Sg|_|Acc	2	obja	413	413
+4	übrigens	übrigens	A	ADV	_	2	adv	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	daß	daß	K	KOUS	_	14	konj	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	14	subj	6	6
+8	sich	sie	P	PRF	3|_|_	13	obja	_	_
+9	bei	bei	P	APPR	Dat	13	pp	_	_
+10	dir	du	P	PPER	2|Sg|_|Dat	9	pn	414	414
+11	nach	nach	P	APPR	Dat	13	objp	_	_
+12	mir	ich	P	PPER	1|Sg|_|Dat	11	pn	413	413
+13	erkundigt	erkundigen	V	VVPP	_	14	aux	_	_
+14	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	subjc	_	_
+15	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	wundert	wundern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	dich	du	P	PPER	2|Sg|_|Acc	2	obja	414	414
+4	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+5	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	wie	wie	K	KOKOM	_	1	kom	5	5
+3	harmlos	harmlos	A	ADJD	Pos|	2	cj	5	5
+4	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	daß	daß	K	KOUS	_	10	konj	_	_
+4	er	er	P	PPER	3|Sg|Masc|Nom	10	subj	6	6
+5	unsre	unsre	A	PPOSAT	Fem|_|Pl	6	det	415	415
+6	Persönlichkeiten	Persönlichkeit	N	NN	Fem|_|Pl	10	obja	_	_
+7	als	als	K	KOKOM	_	10	kom	_	_
+8	so	so	A	ADV	_	9	adv	_	_
+9	zusammengehörig	zusammengehörig	A	ADJD	Pos|	7	cj	_	_
+10	auffaßt	auffaßt	V	VVFIN	3|Sg|_|_	13	subjc	_	_
+11	,	,	$	$,	_	0	root	_	_
+12	das	die	P	PDS	Neut|_|Sg	13	obja	_	_
+13	wundert	wundern	V	VVFIN	_|_|Pres|_	0	root	_	_
+14	mich	ich	P	PPER	1|Sg|_|Acc	13	obja	791	791
+15	.	.	$	$.	_	0	root	_	_
+
+1	Hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+2	man	man	P	PIS	_|Nom|Sg	1	subj	_	_
+3	denn	denn	A	ADV	_	8	adv	_	_
+4	in	in	P	APPR	_	8	pp	_	_
+5	Berlin	Berlin	N	NE	_|_|Sg	4	pn	141	141
+6	nichts	nichts	P	PIS	_|Dat|_	8	objd	_	_
+7	davon	davon	P	PROAV	_	8	pp	_	_
+8	gehört	gehören	V	VVPP	_	1	aux	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	daß	daß	K	KOUS	_	0	root	_	_
+11	wir	wir	P	PPER	1|Pl|_|Nom	0	root	415	415
+12	uns	wir	P	PRF	1|Pl|_	13	obja	_	_
+13	scheiden	scheiden	V	VVINF	_	14	aux	_	_
+14	lassen	lassen	V	VVINF	_	0	root	_	_
+15	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	was	was	P	PIS	_	0	root	_	_
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	2	obja	5	5
+2	lachend	lachen	A	ADJD	_|<PPRES	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Nun	nun	A	ADV	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+5	Gerüchte	Gerücht	N	NN	Neut|Nom|Pl	4	pred	_	_
+6	der	die	A	ART	Def|Fem|Gen|Sg	7	det	_	_
+7	Art	Art	N	NN	Fem|Gen|Sg	5	gmod	_	_
+8	im	in	P	APPRART	Dat	7	pp	_	_
+9	Umlauf	Umlauf	N	NN	_|Dat|_	8	pn	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	0	root	_	_
+2	?	?	$	$.	_	0	root	_	_
+
+1	Na	Na	I	ITJ	_	0	root	_	_
+2	höre	hören	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+3	!	!	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|Nom	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	unglaublich	unglaublich	A	ADJD	Pos|	4	pred	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	was	was	P	PRELS	Neut|_|Sg	10	obja	417	417
+8	die	die	A	ART	Def|_|Nom|Pl	9	det	26	26
+9	Leute	Leute	N	NN	_|Nom|Pl	10	subj	26	26
+10	zusammenreden	zusammenreden	V	VVFIN	3|Pl|Pres|_	4	objc	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Steht	stehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+2	sogar	sogar	A	ADV	_	1	adv	_	_
+3	schon	schon	A	ADV	_	1	adv	_	_
+4	in	in	P	APPR	Dat	1	pp	_	_
+5	der	die	A	ART	Def|Fem|Dat|Sg	6	det	416	416
+6	Zeitung	Zeitung	N	NN	Fem|Dat|Sg	4	pn	416	416
+7	.	.	$	$.	_	0	root	_	_
+
+1	Seine	seine	A	PPOSAT	Fem|Nom|Sg	2	det	417	417
+2	Durchlaucht	Durchlaucht	N	NN	Fem|Nom|Sg	7	subj	_	_
+3	Sigismund	Sigismund	N	NE	Masc|Nom|Sg	2	app	_	_
+4	Fürst	Fürst	N	NN	Masc|Nom|Sg	3	app	_	_
+5	von	von	P	APPR	Dat	4	pp	_	_
+6	Maradas-Lohsenstein	Maradas-Lohsenstein	N	NN	_|Dat|Sg	5	pn	_	_
+7	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+8	dich	du	P	PPER	2|Sg|_|Acc	11	obja	_	_
+9	zum	zu	P	APPRART	Dat	11	objp	_	_
+10	Altare	Altar	N	NN	Masc|Dat|Sg	9	pn	_	_
+11	führen	führen	V	VVINF	_	7	aux	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Dispens	Dispens	N	NN	Masc|Nom|Sg	5	subj	_	_
+3	vom	von	P	APPRART	Dat	2	pp	_	_
+4	Papst	Papst	N	NN	Masc|Dat|Sg	3	pn	_	_
+5	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+6	sofort	sofort	A	ADV	_	5	adv	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Toll	toll	A	ADJD	Pos|	0	root	_	_
+2	-	-	$	$(	_	0	root	_	_
+3	was	was	P	PWS	Neut|_|Sg	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ja	ja	P	PTKANT	_	0	root	_	_
+2	.	.	$	$.	_	0	root	_	_
+
+1	-	-	$	$(	_	0	root	_	_
+2	Aber	aber	K	KON	_	0	root	_	_
+3	das	die	A	ART	Def|Neut|Nom|Sg	4	det	_	_
+4	Tollste	Tollste	N	NN	Neut|Nom|Sg	2	cj	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	mein	meine	A	PPOSAT	Masc|Nom|Sg	7	det	418	418
+7	Freund	Freund	N	NN	Masc|Nom|Sg	4	app	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	das	die	P	PDS	Neut|_|Sg	10	obja	_	_
+10	verschweigst	verschweigen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+11	du	du	P	PPER	2|Sg|_|Nom	10	subj	_	_
+12	mir	ich	P	PPER	1|Sg|_|Dat	10	objd	418	418
+13	leider	leider	A	ADV	_	10	adv	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+3	-	-	$	$(	_	0	root	_	_
+4	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Daß	daß	K	KOUS	_	5	konj	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+3	nahe	nahe	A	ADJD	_	5	pred	_	_
+4	daran	daran	P	PROAV	_	5	pp	_	_
+5	bist	sein	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	diese	diese	A	PDAT	Fem|_|Sg	8	det	_	_
+8	Tollheit	Tollheit	N	NN	Fem|_|Sg	0	root	_	_
+9	zu	zu	P	PTKZU	_	10	part	_	_
+10	glauben	glauben	V	VVINF	_	0	root	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	0	root	791	791
+2	?	?	$	$.	_	0	root	_	_
+
+1	Wie	Wie	P	PWAV	_	2	adv	_	_
+2	kannst	können	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+4	nur	nur	A	ADV	_	2	adv	_	_
+5	so	so	A	ADV	_	2	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	_	_
+2	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+3	eben	eben	A	ADV	_	5	adv	_	_
+4	nicht	nicht	P	PTKNEG	_	5	adv	_	_
+5	berücksichtigt	berücksichtigen	V	VVPP	_	2	aux	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	daß	daß	K	KOUS	_	13	konj	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	13	subj	791	791
+9	um	um	P	APPR	_	13	pp	_	_
+10	drei	drei	C	CARD	_	11	attr	_	_
+11	Jahre	Jahr	N	NN	Neut|_|Pl	9	pn	_	_
+12	älter	alt	A	ADJD	Comp|	13	pred	_	_
+13	bin	sein	V	VAFIN	1|Sg|Pres|Ind	5	objc	_	_
+14	als	als	K	KOKOM	_	13	kom	_	_
+15	er	er	P	PPER	3|Sg|Masc|Nom	14	cj	6	6
+16	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|Nom|Sg	2	subj	5	5
+2	stutzt	stutzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	9	konj	_	_
+2	es	es	P	PPER	3|Sg|Neut|Nom	9	subj	_	_
+3	nur	nur	A	ADV	_	9	adv	_	_
+4	wegen	wegen	P	APPR	Gen	9	pp	_	_
+5	der	die	A	ART	Def|Neut|Gen|Pl	7	det	_	_
+6	drei	drei	C	CARD	_	7	attr	_	_
+7	Jahre	Jahr	N	NN	Neut|Gen|Pl	4	pn	_	_
+8	Unterschied	Unterschied	N	NN	Masc|Nom|Sg	9	pred	_	_
+9	wäre	sein	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+10	-	-	$	$(	_	0	root	_	_
+11	-	-	$	$(	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Nein	nein	P	PTKANT	_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	das	die	P	PDS	Neut|Nom|Sg	4	subj	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	nicht	nicht	P	PTKNEG	_	4	adv	_	_
+6	der	die	A	ART	Def|Masc|Nom|Sg	7	det	156	156
+7	Grund	Grund	N	NN	Masc|Nom|Sg	4	pred	156	156
+8	.	.	$	$.	_	0	root	_	_
+
+1	Wahrhaftig	wahrhaftig	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+
+1	Auch	auch	A	ADV	_	8	adv	_	_
+2	wenn	wenn	K	KOUS	_	6	konj	_	_
+3	ich	ich	P	PPER	1|Sg|_|Nom	6	subj	419	419
+4	die	die	A	ART	Def|_|Nom|_	5	det	_	_
+5	Jüngere	Jüngere	N	NN	_|Nom|_	6	pred	_	_
+6	wäre	sein	V	VAFIN	1|Sg|Past|Subj	8	neb	_	_
+7	,	,	$	$,	_	0	root	_	_
+8	dächte	denken	V	VVFIN	1|Sg|Past|Subj	0	root	_	_
+9	ich	ich	P	PPER	1|Sg|_|Nom	8	subj	419	419
+10	nicht	nicht	P	PTKNEG	_	8	adv	_	_
+11	daran	daran	P	PROAV	_	8	objp	_	_
+12	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	7	konj	_	_
+2	sich	sie	P	PRF	3|_|_	7	obja	_	_
+3	aber	aber	A	ADV	_	7	adv	_	_
+4	deine	deine	A	PPOSAT	Fem|Nom|Sg	5	det	420	420
+5	Neigung	Neigung	N	NN	Fem|Nom|Sg	7	subj	_	_
+6	tiefer	tief	A	ADJD	Comp|	7	adv	_	_
+7	erwiese	erweisen	V	VVFIN	3|Sg|Past|Subj	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	als	als	K	KOUS	_	13	konj	_	_
+10	du	du	P	PPER	2|Sg|_|Nom	13	subj	420	420
+11	anfangs	anfangs	A	ADV	_	12	adv	_	_
+12	vorausgesetzt	voraussetzen	V	VVPP	_	13	aux	_	_
+13	hast	haben	V	VAFIN	2|Sg|Pres|Ind	7	neb	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Cäcilie	Cäcilie	N	NE	Fem|_|Sg	0	root	78	78
+2	.	.	$	$.	_	0	root	_	_
+
+1	Auch	auch	A	ADV	_	2	adv	_	_
+2	dann	dann	A	ADV	_	3	adv	_	_
+3	nicht	nicht	P	PTKNEG	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Amadeus	Amadeus	N	NE	Masc|_|Sg	0	root	5	5
+2	.	.	$	$.	_	0	root	_	_
+

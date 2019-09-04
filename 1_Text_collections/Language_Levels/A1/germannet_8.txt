@@ -1,0 +1,211 @@
+1	Heute	heute	ADV	ADV	_	2	adv	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	der	die	ART	ART	Def|Masc|Nom|Sg	5	det	_	-
+4	erste	erst	ADJA	ADJA	_|Masc|Nom|Sg|Wk|	5	attr	_	-
+5	Schultag	Schultag	N	NN	Masc|Nom|Sg	2	subj	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Lena	Lena	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	mit	mit	PREP	APPR	Dat	2	pp	_	-
+4	ihrer	ihre	ART	PPOSAT	Fem|Dat|Sg	5	det	_	(0)
+5	Schultüte	Schultüte	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	vor	vor	PREP	APPR	Dat	2	objp	_	-
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	(8
+8	Schule	Schule	N	NN	Fem|Dat|Sg	6	pn	_	8)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Sandra	Sandra	N	NE	Fem|Nom|Sg	6	subj	_	(2
+2	,	,	$,	$,	_	0	root	_	-
+3	Susanne	Susanne	N	NE	Fem|Nom|Sg	1	kon	_	2)|(3)
+4	und	und	KON	KON	_	3	kon	_	-
+5	Paul	Paul	N	NE	Masc|Nom|Sg	4	cj	_	(4)
+6	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	-
+7	auch	auch	ADV	ADV	_	6	adv	_	-
+8	da	da	ADV	ADV	_	6	adv	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	(1
+2	Kinder	Kind	N	NN	Neut|Nom|Pl	3	subj	_	1)
+3	kennen	kennen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	sich	sie	PRO	PRF	3|_|_	3	obja	_	-
+5	aus	aus	PREP	APPR	Dat	3	pp	_	-
+6	dem	die	ART	ART	Def|_|Dat|Sg	7	det	_	-
+7	Kindergarten	Kindergarten	N	NN	_|Dat|Sg	5	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Jetzt	jetzt	ADV	ADV	_	2	adv	_	-
+2	gehen	gehen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(1)
+4	in	in	PREP	APPR	Acc	2	objp	_	-
+5	die	die	ART	ART	Def|_|Acc|_	7	det	_	-
+6	gleiche	gleich	ADJA	ADJA	Pos|_|Acc|_|_|	7	attr	_	-
+7	Klasse	Klasse	N	NN	_|Acc|_	4	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(1)
+2	freuen	freuen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+4	schon	schon	ADV	ADV	_	2	adv	_	-
+5	auf	auf	PREP	APPR	Acc	2	pp	_	-
+6	den	die	ART	ART	Def|Masc|Acc|Sg	7	det	_	-
+7	Unterricht	Unterricht	N	NN	Masc|Acc|Sg	5	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Lena	Lena	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	freut	freuen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+4	besonders	besonders	ADV	ADV	_	5	adv	_	-
+5	auf	auf	PREP	APPR	Acc	2	pp	_	-
+6	das	die	ART	ART	Def|Neut|Acc|Sg	7	det	_	-
+7	Rechnen	Rechnen	N	NN	Neut|Acc|Sg	5	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Sandra	Sandra	N	NE	Fem|_|Sg	0	root	_	(2)
+2	und	und	KON	KON	_	1	kon	_	-
+3	Susanne	Susanne	N	NE	Fem|_|Sg	2	cj	_	(3
+4	aufs	auf	PREP	APPRART	Acc	3	pp	_	-
+5	Schreiben	Schreibe	N	NN	_|Acc|_	4	pn	_	3)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Und	und	KON	KON	_	0	root	_	-
+2	Paul	Paul	N	NE	Masc|_|Sg	1	cj	_	(4)
+3	?	?	$.	$.	_	0	root	_	-
+
+1	Paul	Paul	N	NE	Masc|Nom|Sg	2	subj	_	(4)
+2	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	er	er	PRO	PPER	3|Sg|Masc|Nom	5	subj	_	(4)
+5	freut	freuen	V	VVFIN	3|Sg|Pres|Ind	2	s	_	-
+6	sich	sie	PRO	PRF	3|_|_	5	obja	_	-
+7	besonders	besonders	ADV	ADV	_	8	adv	_	-
+8	auf	auf	PREP	APPR	Acc	5	pp	_	-
+9	die	die	ART	ART	Def|Fem|Acc|Pl	10	det	_	(5
+10	Pausen	Pause	N	NN	Fem|Acc|Pl	8	pn	_	5)
+11	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	Dat	4	pp	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	3	det	_	-
+3	Klasse	Klasse	N	NN	Fem|Dat|Sg	1	pn	_	-
+4	lernen	lernen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	sie	sie	PRO	PPER	3|Pl|_|Nom	4	subj	_	(5)
+6	ihren	ihre	ART	PPOSAT	Masc|_|_	7	det	_	(5)|(6
+7	Lehrer	Lehrer	N	NN	Masc|_|_	4	obja	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	Herrn	Herrn	N	NN	Masc|_|_	7	app	_	-
+10	Mayer	Mayer	N	NE	_|_|Sg	9	app	_	6)
+11	,	,	$,	$,	_	0	root	_	-
+12	kennen	kennen	V	VVFIN	_|Pl|Pres|_	4	kon	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Herr	Herr	N	NN	Masc|Nom|Sg	3	subj	_	(6
+2	Mayer	Mayer	N	NE	_|Nom|Sg	1	app	_	6)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	noch	noch	ADV	ADV	_	3	adv	_	-
+5	sehr	sehr	ADV	ADV	_	6	adv	_	-
+6	jung	jung	ADV	ADJD	Pos|	3	pred	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	lustig	lustig	ADV	ADJD	Pos|	7	cj	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	Dat	5	pp	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	4	det	_	-
+3	ersten	erst	ADJA	ADJA	_|Fem|Dat|Sg|Wk|	4	attr	_	-
+4	Stunde	Stunde	N	NN	Fem|Dat|Sg	1	pn	_	-
+5	lernen	lernen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+6	die	die	ART	ART	Def|Neut|Nom|Pl	7	det	_	(1
+7	Kinder	Kind	N	NN	Neut|Nom|Pl	5	subj	_	1)
+8	das	die	ART	ART	Def|Neut|_|Sg	9	det	_	-
+9	ABC-Lied	ABC-Lied	N	NN	Neut|_|Sg	5	obja	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Alle	alle	PRO	PIS	_|Nom|Pl	2	subj	_	-
+2	singen	singen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	begeistert	begeistert	ADV	ADJD	Pos|	2	adv	_	-
+4	mit	mit	PTKVZ	PTKVZ	_	2	avz	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Danach	Danach	PROAV	PROAV	_	2	pp	_	-
+2	schreibt	schreiben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	-
+4	Lehrer	Lehrer	N	NN	Masc|Nom|Sg	2	subj	_	-
+5	die	die	ART	ART	Def|Masc|_|Pl	7	det	_	-
+6	ersten	erst	ADJA	ADJA	_|Masc|_|Pl|Wk|	7	attr	_	-
+7	Buchstaben	Buchstabe	N	NN	Masc|_|Pl	2	obja	_	-
+8	an	an	PREP	APPR	Acc	2	pp	_	-
+9	die	die	ART	ART	Def|Fem|Acc|Sg	10	det	_	-
+10	Tafel	Tafel	N	NN	Fem|Acc|Sg	8	pn	_	-
+11	:	\:	$.	$.	_	0	root	_	-
+12	A	A	N	NN	_|_|_	0	root	_	-
+13	wie	wie	KOKOM	KOKOM	_	12	kom	_	-
+14	Affe	Affe	N	NN	Masc|Nom|Sg	13	cj	_	-
+15	,	,	$,	$,	_	0	root	_	-
+16	B	B	N	NN	Neut|Nom|_	14	app	_	-
+17	wie	wie	KOKOM	KOKOM	_	16	kom	_	-
+18	Banane	Banane	N	NN	_|_|_	17	cj	_	-
+19	.	.	$.	$.	_	0	root	_	-
+
+1	Herr	Herr	N	NN	Masc|Nom|Sg	3	subj	_	(6
+2	Mayer	Mayer	N	NE	_|Nom|Sg	1	app	_	6)
+3	zeichnet	zeichnen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	einen	eine	ART	ART	Indef|Masc|Acc|Sg	5	det	_	(7
+5	Affen	Affe	N	NN	Masc|Acc|Sg	3	obja	_	-
+6	dazu	dazu	PROAV	PROAV	_	3	pp	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	der	die	PRO	PRELS	Masc|Nom|Sg	11	subj	_	(7)
+9	einen	eine	ART	ART	Indef|Masc|Acc|Sg	10	det	_	-
+10	Banane	Banane	N	NN	Masc|Acc|Sg	11	obja	_	-
+11	frisst	fressen	V	VVFIN	3|Sg|Pres|Ind	5	rel	_	7)
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	(1
+2	Kinder	Kind	N	NN	Neut|Nom|Pl	3	subj	_	1)
+3	lachen	lachen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	laut	laut	ADV	ADJD	Pos|	3	adv	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Dann	dann	ADV	ADV	_	2	adv	_	-
+2	läutet	läuten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	auch	auch	ADV	ADV	_	2	adv	_	-
+4	schon	schon	ADV	ADV	_	2	adv	_	-
+5	die	die	ART	ART	Def|Fem|Nom|Sg	6	det	_	-
+6	Schulglocke	Schulglocke	N	NN	Fem|Nom|Sg	2	subj	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+2	erste	erst	ADJA	ADJA	_|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Tag	Tag	N	NN	Masc|Nom|Sg	7	subj	_	-
+4	in	in	PREP	APPR	Dat	3	pp	_	-
+5	der	die	ART	ART	Def|Fem|Dat|Sg	6	det	_	(8
+6	Schule	Schule	N	NN	Fem|Dat|Sg	4	pn	_	8)
+7	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+8	vorbei	vorbei	ADV	ADV	_	7	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Vor	vor	PREP	APPR	Dat	4	pp	_	-
+2	der	die	ART	ART	Def|Fem|Dat|Sg	3	det	_	(8
+3	Schule	Schule	N	NN	Fem|Dat|Sg	1	pn	_	8)
+4	warten	warten	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	die	die	ART	ART	Def|_|Nom|Pl	6	det	_	-
+6	Eltern	Elter	N	NN	_|Nom|Pl	4	subj	_	-
+7	auf	auf	PREP	APPR	Acc	4	pp	_	-
+8	die	die	ART	ART	Def|Neut|Acc|Pl	9	det	_	(1
+9	Kinder	Kind	N	NN	Neut|Acc|Pl	7	pn	_	1)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	(1
+2	Kinder	Kind	N	NN	Neut|Nom|Pl	3	subj	_	1)
+3	erzählen	erzählen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+4	vom	von	PREP	APPRART	Dat	3	pp	_	-
+5	ersten	erst	ADJA	ADJA	_|_|Dat|Sg|Wk|	6	attr	_	-
+6	Tag	Tag	N	NN	_|Dat|Sg	4	pn	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(1)
+2	freuen	freuen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+4	schon	schon	ADV	ADV	_	2	adv	_	-
+5	auf	auf	PREP	APPR	_	2	pp	_	-
+6	morgen	morgen	ADV	ADV	_	5	adv	_	-
+7	.	.	$.	$.	_	0	root	_	-
+

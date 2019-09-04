@@ -1,0 +1,168 @@
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Demir	Demir	N	NE	_|Nom|_	2	pred	_	-
+4	Polat	Polat	N	NE	_|Nom|_	3	app	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	wohne	wohnen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	_	2	objp	_	-
+4	Stuttgart	Stuttgart	N	NE	Neut|_|Sg	3	pn	_	(4)
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+3	bin	sein	V	VAFIN	1|Sg|Pres|Ind	1	cj	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	6	adv	_	-
+5	hier	hier	ADV	ADV	_	6	adv	_	-
+6	geboren	gebären	V	VVPP	_	3	aux	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	komme	kommen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	aus	aus	PREP	APPR	Dat	2	objp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	-
+5	Türkei	Türkei	N	NE	Fem|Dat|Sg	3	pn	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	aus	aus	PREP	APPR	Dat	3	kon	_	-
+8	Ankara	Ankara	N	NE	Neut|Dat|Sg	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Dort	dort	ADV	ADV	_	2	adv	_	-
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+4	geboren	gebären	V	VVPP	_	2	aux	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Seit	seit	PREP	APPR	Dat	4	pp	_	-
+2	zwanzig	zwanzig	CARD	CARD	_	3	attr	_	-
+3	Jahren	Jahr	N	NN	Neut|Dat|Pl	1	pn	_	-
+4	lebe	leben	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	4	subj	_	(0)
+6	in	in	PREP	APPR	Dat	4	pp	_	-
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	-
+8	Bundesrepublik	Bundesrepublik	N	NN	Fem|Dat|Sg	6	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Meine	meine	ART	PPOSAT	Fem|_|Sg	2	det	_	(0)
+2	Frau	Frau	N	NN	Fem|_|Sg	3	obja	_	-
+3	kenne	kennen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	(0)
+5	jetzt	jetzt	ADV	ADV	_	3	adv	_	-
+6	fast	fast	ADV	ADV	_	3	adv	_	-
+7	zehn	zehn	CARD	CARD	_	8	attr	_	-
+8	Jahre	Jahr	N	NN	Neut|_|Pl	3	zeit	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	-
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+3	zwei	zwei	CARD	CARD	_	4	attr	_	-
+4	Töchter	Tochter	N	NN	Fem|_|Pl	2	obja	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	Melike	Melike	N	NE	Fem|_|Pl	4	kon	_	(3)
+7	und	und	KON	KON	_	6	kon	_	-
+8	Dilek	Dilek	N	NE	Fem|_|Pl	7	cj	_	(1)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	heiße	heißen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Dilek	Dilek	N	NE	_|Nom|_	2	pred	_	(1)
+4	und	und	KON	KON	_	2	kon	_	-
+5	bin	sein	V	VAFIN	1|Sg|Pres|Ind	4	cj	_	-
+6	acht	acht	CARD	CARD	_	7	attr	_	-
+7	Jahre	Jahr	N	NN	Neut|_|Pl	8	grad	_	-
+8	alt	alt	ADV	ADJD	Pos|	5	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	spreche	sprechen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	Türkisch	Türkisch	N	NN	Masc|_|Sg	2	obja	_	-
+4	und	und	KON	KON	_	3	kon	_	-
+5	Deutsch	Deutsch	N	NN	Neut|_|Sg	4	cj	_	(2)
+6	,	,	$,	$,	_	0	root	_	-
+7	genau	genau	ADV	ADJD	Pos|	2	adv	_	-
+8	wie	wie	KOKOM	KOKOM	_	7	kom	_	-
+9	mein	meine	ART	PPOSAT	Masc|Nom|Sg	10	det	_	(0)
+10	Vater	Vater	N	NN	Masc|Nom|Sg	8	cj	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	meine	meine	ART	PPOSAT	Fem|Nom|Sg	3	det	_	(0)
+3	Schwester	Schwester	N	NN	Fem|Nom|Sg	4	subj	_	-
+4	spricht	sprechen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	-
+5	nur	nur	ADV	ADV	_	4	adv	_	-
+6	Deutsch	Deutsch	N	NN	Neut|_|Sg	4	obja	_	(2)
+7	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|_|_|_	2	obja	_	(2)
+2	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	kein	keine	ART	PIAT	Masc|Nom|Sg	4	det	_	-
+4	Türkisch	Türkisch	N	NN	Masc|Nom|Sg	2	subj	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	nur	nur	ADV	ADV	_	8	adv	_	-
+7	ein	eine	ART	ART	Indef|Neut|Nom|Sg	8	det	_	-
+8	Wort	Wort	N	NN	Neut|Nom|Sg	4	kon	_	-
+9	„	„	N	NE	Neut|Nom|Sg	8	app	_	-
+10	Merhaba	Merhaba	N	NE	Neut|Nom|Sg	9	app	_	-
+11	“	“	$(	$(	_	0	root	_	-
+12	,	,	$,	$,	_	0	root	_	-
+13	das	die	PRO	PDS	Neut|Nom|Sg	14	subj	_	-
+14	heißt	heißen	V	VVPP	_	0	root	_	-
+15	„	„	N	NE	_|_|Sg	0	root	_	-
+16	Guten	gut	ADJA	ADJA	Pos|_|_|Sg|_|	17	attr	_	-
+17	Tag	Tag	N	NN	_|_|Sg	15	app	_	-
+18	“	“	$(	$(	_	0	root	_	-
+19	.	.	$.	$.	_	0	root	_	-
+
+1	Aber	aber	KON	KON	_	0	root	_	-
+2	Melike	Melike	N	NE	_|Nom|Sg	3	subj	_	(3)
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	1	cj	_	-
+4	auch	auch	ADV	ADV	_	3	adv	_	-
+5	erst	erst	ADV	ADV	_	7	adv	_	-
+6	fünf	fünf	CARD	CARD	_	7	attr	_	-
+7	Jahre	Jahr	N	NN	Neut|_|Pl	8	grad	_	-
+8	alt	alt	ADV	ADJD	Pos|	3	pred	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	Melike	Melike	N	NE	_|Nom|_	2	pred	_	(3)
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	wohne	wohnen	V	VVFIN	1|Sg|Pres|_	0	root	_	-
+3	in	in	PREP	APPR	Dat	2	objp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	-
+5	Kaiserstraße	Kaiserstraß	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	14	14	CARD	CARD	_	5	app	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	70599	70599	CARD	CARD	_	0	root	_	-
+9	Stuttgart	Stuttgart	N	NE	Neut|_|Sg	0	root	_	(4)
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	-
+3	fünf	fünf	CARD	CARD	_	2	objd	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Mein	meine	ART	PPOSAT	Masc|Nom|Sg	2	det	_	(0)
+2	Papa	Papa	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	vierunddreißig	vierunddreißig	CARD	CARD	_	3	objd	_	-
+5	und	und	KON	KON	_	0	root	_	-
+6	meine	meine	ART	PPOSAT	Fem|_|Sg	7	det	_	(0)
+7	Mutter	Mutter	N	NN	Fem|_|Sg	5	cj	_	-
+8	dreißig	dreißig	CARD	CARD	_	7	app	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	(0)
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	-
+3	eine	eine	ART	ART	Indef|Fem|_|Sg	4	det	_	-
+4	Schwester	Schwester	N	NN	Fem|_|Sg	2	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	PRO	PDS	Fem|Nom|Sg	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	acht	acht	CARD	CARD	_	2	objd	_	-
+4	.	.	$.	$.	_	0	root	_	-
+

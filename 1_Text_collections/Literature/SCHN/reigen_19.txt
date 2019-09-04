@@ -1,0 +1,481 @@
+1	Warum	Warum	P	PWAV	_	2	adv	_	_
+2	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	ich	ich	P	PPER	1|Sg|_|Nom	2	subj	332	332
+5	dich	du	P	PPER	2|Sg|_|Acc	10	obja	_	_
+6	nicht	nicht	P	PTKNEG	_	10	adv	_	_
+7	schon	schon	A	ADV	_	10	adv	_	_
+8	als	als	K	KOKOM	_	10	kom	_	_
+9	Kind	Kind	N	NN	Neut|_|Sg	8	cj	572	572
+10	gekannt	kennen	V	VVPP	_	2	aux	_	_
+11	?	?	$	$.	_	0	root	_	_
+
+1	Ich	ich	P	PPER	1|Sg|_|Nom	2	subj	332	332
+2	glaube	glauben	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	,	,	$	$,	_	0	root	_	_
+4	dann	dann	A	ADV	_	5	adv	_	_
+5	hätt	hätt	V	VVFIN	1|Sg|_|_	2	s	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	5	subj	332	332
+8	andere	andere	A	ADJA	_|Fem|Nom|Pl|_	9	attr	_	_
+9	Frauen	Frau	N	NN	Fem|Nom|Pl	12	subj	_	_
+10	überhaupt	überhaupt	A	ADV	_	11	adv	_	_
+11	nicht	nicht	P	PTKNEG	_	12	adv	_	_
+12	angesehen	ansehen	V	VVPP	_	5	neb	_	_
+13	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	331	331
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	331	331
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	331	331
+4	Karl	Karl	N	NE	Masc|_|Sg	3	app	331	331
+5	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Und	und	K	KON	_	0	root	_	_
+4	schön	schön	A	ADJD	Pos|	5	pred	_	_
+5	bist	sein	V	VAFIN	2|Sg|Pres|Ind	3	cj	_	_
+6	du	du	P	PPER	2|Sg|_|Nom	5	subj	_	_
+7	!	!	$	$.	_	0	root	_	_
+8	...	...	$	$.	_	0	root	_	_
+
+1	Schön	schön	A	ADJD	Pos|	0	root	_	_
+2	!	!	$	$.	_	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+
+1	O	O	N	NN	Neut|Nom|_	2	subj	410	410
+2	komm	komm	V	VVFIN	_|_|_|_	0	root	_	_
+3	...	...	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	255	255
+2	löscht	löschen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	das	die	A	ART	Def|Neut|Nom|Sg	4	det	528	528
+4	Licht	Licht	N	NN	Neut|Nom|Sg	8	subj	528	528
+5	aus	aus	P	APPR	Dat	4	pp		
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	4	obja	132	132
+4	Weißt	weißen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	_	_
+6	,	,	$	$,	_	0	root	_	_
+7	woran	woran	P	PWAV	_	10	objp	_	_
+8	ich	ich	P	PPER	1|Sg|_|Nom	11	subj	333	333
+9	heute	heute	A	ADV	_	10	adv	_	_
+10	denken	denken	V	VVINF	_	11	aux	_	_
+11	muß	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+12	?	?	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	_	_
+3	Woran	Woran	N	NE	Masc|Nom|Sg	2	app	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	mein	meine	A	PPOSAT	Masc|Nom|Sg	6	det	333	333
+6	Schatz	Schatz	N	NN	Masc|Nom|Sg	3	app	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+4	An	An	F	FM	Fem|_|Sg	3	app	_	_
+5	...	...	$	$.	_	0	root	_	_
+6	an	an	A	APZR	_	0	root	_	_
+7	...	...	$	$.	_	0	root	_	_
+8	an	an	P	APPR	_	0	root	_	_
+9	Venedig	Venedig	N	NE	Neut|_|Sg	8	pn	339	339
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Die	die	A	ART	Def|Fem|_|Sg	5	det	_	_
+4	erste	erst	A	ADJA	_|Fem|_|Sg|_|	5	attr	_	_
+5	Nacht	Nacht	N	NN	Fem|_|Sg	0	root	_	_
+6	...	...	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	Ja	ja	P	PTKANT	_	0	root	_	_
+5	...	...	$	$.	_	0	root	_	_
+6	so	so	A	ADV	_	0	root	_	_
+7	...	...	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Was	was	P	PWS	Neut|_|Sg	0	root	_	_
+4	denn	denn	A	ADV	_	3	adv	_	_
+5	-	-	$	$(	_	0	root	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	So	so	A	ADV	_	2	adv	_	_
+2	sag	sag	V	VVFIN	_	0	root	_	_
+3	'	'	$	$(	_	0	root	_	_
+4	s	s	P	PPER	_	2	obja	_	_
+5	doch	doch	A	ADV	_	2	adv	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	So	so	A	ADV	_	5	adv	_	_
+5	lieb	lieb	A	ADJD	Pos|	6	adv	_	_
+6	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+7	du	du	P	PPER	2|Sg|_|Nom	6	subj	_	_
+8	mich	ich	P	PPER	1|Sg|_|Acc	9	obja	255	255
+9	heut	heuen	V	VVPP	_	6	aux	_	_
+10	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Ja	ja	P	PTKANT	_	0	root	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	so	so	A	ADV	_	6	adv	_	_
+6	lieb	lieb	A	ADJD	Pos|	0	root	_	_
+7	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	94	94
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	94	94
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	94	94
+4	Ah	Ah	N	NN	Fem|_|Sg	3	app	94	94
+5	...	...	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	0	root	_	_
+2	du	du	P	PPER	2|Sg|_|Nom	0	root	_	_
+3	immer	immer	A	ADV	_	2	adv	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	_	_
+3	in	in	P	APPR	_	2	pp	_	_
+4	ihren	ihre	A	PPOSAT	_|_|_	5	det	94	94
+5	Armen	Arm	N	NN	_|_|_	3	pn	_	_
+6	Wie	wie	K	KOKOM	_	0	root	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	132	132
+4	Mein	meine	A	PPOSAT	Masc|Nom|Sg	5	det	331	331
+5	Karl	Karl	N	NE	Masc|Nom|Sg	0	root	331	331
+6	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	334	334
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	334	334
+3	Was	Was	N	NE	Masc|Nom|Sg	2	app	334	334
+4	meintest	meinen	V	VVFIN	2|Sg|Past|_	0	root	_	_
+5	du	du	P	PPER	2|Sg|_|Nom	4	subj	_	_
+6	?	?	$	$.	_	0	root	_	_
+
+1	Wenn	wenn	K	KOUS	_	0	root	_	_
+2	ich	ich	P	PPER	1|Sg|_|Nom	0	root	335	335
+3	immer	immer	A	ADV	_	2	adv	_	_
+4	...	...	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+4	Nun	nun	A	ADV	_	3	adv	_	_
+5	ja	ja	A	ADV	_	3	adv	_	_
+6	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	_	_
+3	Nun	nun	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	was	was	P	PRELS	Neut|_|Sg	0	root	_	_
+6	wär	wär	F	FM	_	0	root	_	_
+7	'	'	$	$(	_	0	root	_	_
+8	denn	denn	A	ADV	_	0	root	_	_
+9	,	,	$	$,	_	0	root	_	_
+10	wenn	wenn	K	KOUS	_	0	root	_	_
+11	ich	ich	P	PPER	1|Sg|_|Nom	0	root	335	335
+12	immer	immer	A	ADV	_	11	adv	_	_
+13	...	...	$	$.	_	0	root	_	_
+14	?	?	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	132	132
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	132	132
+3	Frau	Frau	N	NN	Fem|_|Sg	5	obja	132	132
+4	Dann	dann	A	ADV	_	5	adv	_	_
+5	wüßt	wüßt	V	VVINF	_	0	root	_	_
+6	'	'	$	$(	_	0	root	_	_
+7	ich	ich	P	PPER	1|Sg|_|Nom	0	root	335	335
+8	eben	eben	A	ADV	_	7	adv	_	_
+9	immer	immer	A	ADV	_	7	adv	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	daß	daß	K	KOUS	_	15	konj	_	_
+12	du	du	P	PPER	2|Sg|_|Nom	15	subj	336	336
+13	mich	ich	P	PPER	1|Sg|_|Acc	15	obja	335	335
+14	lieb	lieb	A	ADJD	Pos|	15	pred	_	_
+15	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+16	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Ja	ja	P	PTKANT	_	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Du	du	P	PPER	2|Sg|_|Nom	2	subj	336	336
+2	mußt	müssen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+3	es	es	P	PPER	3|Sg|Neut|_	7	expl	_	_
+4	aber	aber	A	ADV	_	7	adv	_	_
+5	auch	auch	A	ADV	_	7	adv	_	_
+6	so	so	A	ADV	_	7	adv	_	_
+7	wissen	wissen	V	VVINF	_	2	aux	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Man	man	P	PIS	_|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	immer	immer	A	ADV	_	2	adv	_	_
+5	der	die	A	ART	Def|Masc|Nom|Sg	7	det	_	_
+6	liebende	liebend	A	ADJA	Pos|Masc|Nom|Sg|Wk|<PPRES	7	attr	_	_
+7	Mann	Mann	N	NN	Masc|Nom|Sg	2	pred	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	man	man	P	PIS	_|Nom|Sg	10	subj	_	_
+10	muß	müssen	V	VMFIN	3|Sg|Pres|Ind	2	kon	_	_
+11	auch	auch	A	ADV	_	10	adv	_	_
+12	zuweilen	zuweilen	A	ADV	_	10	adv	_	_
+13	hinaus	hinaus	A	ADV	_	10	adv	_	_
+14	ins	in	P	APPRART	Acc	10	pp	_	_
+15	feindliche	feindlich	A	ADJA	Pos|Neut|Acc|_|_|	16	attr	_	_
+16	Leben	Leben	N	NN	Neut|Acc|_	14	pn	_	_
+17	,	,	$	$,	_	0	root	_	_
+18	muß	müssen	V	VMFIN	_|Sg|Pres|Ind	10	kon	_	_
+19	kämpfen	kämpfen	V	VVINF	_	18	aux	_	_
+20	und	und	K	KON	_	19	kon	_	_
+21	streben	streben	V	VVINF	_	20	cj	_	_
+22	!	!	$	$.	_	0	root	_	_
+
+1	Das	die	P	PDS	Neut|Nom|Sg	2	subj	_	_
+2	vergiß	vergiß	V	VVFIN	_|Sg|_|_	0	root	_	_
+3	nie	nie	A	ADV	_	2	adv	_	_
+4	,	,	$	$,	_	0	root	_	_
+5	mein	meine	A	PPOSAT	Neut|_|Sg	6	det	337	337
+6	Kind	Kind	N	NN	Neut|_|Sg	0	root	337	337
+7	!	!	$	$.	_	0	root	_	_
+
+1	Alles	alle	P	PIS	Neut|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	seine	seine	A	PPOSAT	Fem|_|Sg	4	det	337	337
+4	Zeit	Zeit	N	NN	Fem|_|Sg	2	obja	_	_
+5	in	in	P	APPR	Dat	2	pp	_	_
+6	der	die	A	ART	Def|Fem|Dat|Sg	7	det	260	260
+7	Ehe	Ehe	N	NN	Fem|Dat|Sg	5	pn	260	260
+8	-	-	$	$(	_	0	root	_	_
+9	das	die	P	PDS	Neut|Nom|Sg	10	subj	_	_
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+11	eben	eben	A	ADV	_	10	adv	_	_
+12	das	die	A	ART	Def|Neut|Nom|Sg	13	det	_	_
+13	Schöne	Schöne	N	NN	Neut|Nom|Sg	10	pred	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Es	es	P	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	nicht	nicht	P	PTKNEG	_	2	adv	_	_
+4	viele	viele	P	PIS	_|_|_	2	obja	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	die	die	P	PRELS	_|_|_	0	root	_	_
+7	sich	sie	P	PRF	3|_|_	0	root	_	_
+8	noch	noch	A	ADV	_	9	adv	_	_
+9	nach	nach	P	APPR	Dat	0	root	_	_
+10	fünf	fünf	C	CARD	_	11	attr	338	338
+11	Jahren	Jahr	N	NN	Neut|Dat|Pl	9	pn	338	338
+12	an	an	P	PTKVZ	_	0	root	_	_
+13	-	-	$	$(	_	0	root	_	_
+14	ihr	ihre	A	PPOSAT	Neut|_|Sg	15	det	338	338
+15	Venedig	Venedig	N	NE	Neut|_|Sg	16	obja	339	339
+16	erinnern	erinnern	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	340	340
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	340	340
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	340	340
+4	Freilich	freilich	A	ADV	_	3	adv	340	340
+5	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Und	und	K	KON	_	0	root	_	_
+4	jetzt	jetzt	A	ADV	_	3	cj	_	_
+5	...	...	$	$.	_	0	root	_	_
+6	gute	gut	A	ADJA	Pos|Fem|_|Sg|_|	7	attr	_	_
+7	Nacht	Nacht	N	NN	Fem|_|Sg	0	root	_	_
+8	,	,	$	$,	_	0	root	_	_
+9	mein	meine	A	PPOSAT	Neut|_|Sg	10	det	_	_
+10	Kind	Kind	N	NN	Neut|_|Sg	7	app	_	_
+11	.	.	$	$.	_	0	root	_	_
+
+1	Die	die	A	ART	Def|Fem|_|Sg	3	det	_	_
+2	junge	jung	A	ADJA	Pos|Fem|_|Sg|_|	3	attr	_	_
+3	Frau	Frau	N	NN	Fem|_|Sg	0	root	_	_
+4	Gute	gut	A	ADJA	Pos|Fem|_|Sg|_|	5	attr	_	_
+5	Nacht	Nacht	N	NN	Fem|_|Sg	3	app	_	_
+6	!	!	$	$.	_	0	root	_	_
+
+1	Ein	ein	A	ART	Indef|_|_|Sg	2	det	_	_
+2	Cabinetparticulier	Cabinetparticulier	N	NN	_|_|Sg	0	root	_	_
+3	im	in	P	APPRART	Dat	2	pp	_	_
+4	Riedhof	Riedhof	N	NN	Masc|Dat|Sg	3	pn	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Behagliche	Behagliche	N	NN	_|_|_	0	root	_	_
+2	,	,	$	$,	_	0	root	_	_
+3	mäßige	mäßig	A	ADJA	Pos|Fem|_|Sg|_|	4	attr	_	_
+4	Eleganz	Eleganz	N	NN	Fem|_|Sg	1	app	_	_
+5	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Gasofen	Gasofen	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	brennt	brennen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	342	342
+4	.	.	$	$.	_	0	root	_	_
+
+1	Auf	auf	P	APPR	Dat	4	pp	_	_
+2	dem	die	A	ART	Def|Masc|Dat|Sg	3	det	341	341
+3	Tisch	Tisch	N	NN	Masc|Dat|Sg	1	pn	341	341
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+5	die	die	A	ART	Def|Masc|Nom|Pl	6	det	_	_
+6	Reste	Rest	N	NN	Masc|Nom|Pl	4	subj	_	_
+7	einer	eine	A	ART	Indef|Fem|Gen|Sg	8	det	_	_
+8	Mahlzeit	Mahlzeit	N	NN	Fem|Gen|Sg	6	gmod	_	_
+9	zu	zu	P	PTKZU	_	10	part	_	_
+10	sehen	sehen	V	VVINF	_	4	aux	_	_
+11	;	;	$	$.	_	0	root	_	_
+12	Obersschaumbaisers	Obersschaumbaiser	N	NN	Neut|_|_	0	root	_	_
+13	,	,	$	$,	_	0	root	_	_
+14	Obst	Obst	N	NN	Neut|_|Sg	12	kon	_	_
+15	,	,	$	$,	_	0	root	_	_
+16	Käse	Käse	N	NN	Masc|_|_	14	kon	_	_
+17	.	.	$	$.	_	0	root	_	_
+
+1	In	in	P	APPR	Dat	7	pp	406	406
+2	den	die	A	ART	Def|Neut|Dat|Pl	3	det	406	406
+3	Weingläsern	Weinglas	N	NN	Neut|Dat|Pl	1	pn	406	406
+4	ein	eine	A	ART	Indef|Masc|Nom|Sg	7	det	406	406
+5	ungarischer	ungarisch	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	406	406
+6	weißer	weiß	A	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	406	406
+7	Wein	Wein	N	NN	Masc|Nom|Sg	0	root	406	406
+8	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	3	subj	255	255
+3	raucht	rauchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	eine	eine	A	ART	Indef|Fem|_|Sg	5	det	344	344
+5	Havannazigarre	Havannazigarre	N	NN	Fem|_|Sg	3	obja	344	344
+6	,	,	$	$,	_	0	root	_	_
+7	er	er	P	PPER	3|Sg|Masc|Nom	8	subj	255	255
+8	lehnt	lehnen	V	VVFIN	3|Sg|Pres|Ind	3	kon	_	_
+9	in	in	P	APPR	Dat	8	pp	_	_
+10	der	die	A	ART	Def|Fem|Dat|Sg	11	det	_	_
+11	Ecke	Eck	N	NN	Fem|Dat|Sg	9	pn	_	_
+12	des	die	A	ART	Def|Masc|Gen|Sg	13	det	104	104
+13	Diwans	Diwan	N	NN	Masc|Gen|Sg	11	gmod	104	104
+14	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|Nom|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|Nom|Sg	4	subj	342	342
+4	sitzt	sitzen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	neben	neben	P	APPR	Dat	4	pp	_	_
+6	ihm	er	P	PPER	3|Sg|_|Dat	5	pn	1	1
+7	auf	auf	P	APPR	Dat	4	pp	_	_
+8	dem	die	A	ART	Def|Masc|Dat|Sg	9	det	347	347
+9	Sessel	Sessel	N	NN	Masc|Dat|Sg	7	pn	347	347
+10	und	und	K	KON	_	4	kon	_	_
+11	löffelt	löffeln	V	VVFIN	_|_|Pres|_	10	cj	_	_
+12	aus	aus	P	APPR	Dat	11	pp	_	_
+13	einem	eine	A	ART	Indef|Neut|Dat|Sg	14	det	_	_
+14	Baiser	Baiser	N	NN	Neut|Dat|Sg	12	pn	_	_
+15	den	die	A	ART	Def|Masc|Acc|Sg	16	det	343	343
+16	Obersschaum	Obersschaum	N	NN	Masc|Acc|Sg	11	obja	343	343
+17	heraus	heraus	P	PTKVZ	_	11	avz	343	343
+18	,	,	$	$,	_	0	root	343	343
+19	den	die	P	PRELS	Masc|Acc|Sg	23	obja	343	343
+20	sie	sie	P	PPER	3|Sg|Fem|Nom	23	subj	344	344
+21	mit	mit	P	APPR	Dat	23	pp	_	_
+22	Behagen	Behagen	N	NN	Neut|Dat|Sg	21	pn	_	_
+23	schlürft	schlürfen	V	VVFIN	3|Sg|Pres|Ind	16	rel	_	_
+24	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	3	subj	255	255
+3	Schmeckt	schmecken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	'	'	$	$(	_	0	root	_	_
+5	s	s	P	PPER	_|_|_|Dat	3	objd	1	1
+6	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|Nom|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|Nom|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|Nom|Sg	4	subj	342	342
+4	läßt	lassen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+5	sich	sie	P	PRF	3|_|_	7	obja	_	_
+6	nicht	nicht	P	PTKNEG	_	7	adv	_	_
+7	stören	stören	V	VVINF	_	4	obji	_	_
+8	Oh	oh	I	ITJ	_	0	root	_	_
+9	!	!	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Willst	wollen	V	VMFIN	2|Sg|Pres|Ind	0	root	_	_
+4	du	du	P	PPER	2|Sg|_|Nom	3	subj	_	_
+5	noch	noch	A	ADV	_	3	adv	_	_
+6	eins	eins	P	PIS	_	3	obja	_	_
+7	?	?	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	342	342
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	342	342
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	342	342
+4	Nein	nein	P	PTKANT	_	0	root	_	_
+5	,	,	$	$,	_	0	root	_	_
+6	ich	ich	P	PPER	1|Sg|_|Nom	7	subj	255	255
+7	hab	hab	V	VAFIN	1|Sg|_|_	0	root	_	_
+8	'	'	$	$(	_	0	root	_	_
+9	so	so	A	ADV	_	10	adv	_	_
+10	schon	schon	A	ADV	_	13	adv	_	_
+11	zu	zu	P	PTKA	_	12	adv	_	_
+12	viel	viel	P	PIS	_	13	obja	_	_
+13	gegessen	essen	V	VVPP	_	7	aux	_	_
+14	.	.	$	$.	_	0	root	_	_
+
+1	Der	die	A	ART	Def|Masc|Nom|Sg	2	det	255	255
+2	Gatte	Gatte	N	NN	Masc|Nom|Sg	0	root	255	255
+3	Du	du	P	PPER	2|Sg|_|Nom	4	subj	_	_
+4	hast	haben	V	VAFIN	2|Sg|Pres|Ind	0	root	_	_
+5	keinen	keine	A	PIAT	Masc|Acc|Sg	6	det	_	_
+6	Wein	Wein	N	NN	Masc|Acc|Sg	4	obja	_	_
+7	mehr	mehr	A	ADV	_	6	adv	_	_
+8	.	.	$	$.	_	0	root	_	_
+
+1	Er	er	P	PPER	3|Sg|Masc|Nom	2	subj	1	1
+2	schenkt	schenken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	ein	P	PTKVZ	_	2	avz	_	_
+4	.	.	$	$.	_	0	root	_	_
+
+1	Das	die	A	ART	Def|Neut|_|Sg	3	det	345	345
+2	süße	süß	A	ADJA	Pos|Neut|_|Sg|Wk|	3	attr	345	345
+3	Mädel	Mädel	N	NN	Neut|_|Sg	0	root	345	345
+4	Nein	Nein	N	NN	Neut|_|Sg	3	app	345	345
+5	...	...	$	$.	_	0	root	_	_
+6	aber	aber	A	ADV	_	7	adv	_	_
+7	schaun	schaun	A	ADJA	_|Neut|_|_|_	8	attr	_	_
+8	S	S	N	NN	Neut|_|_	12	vok	_	_
+9	'	'	$	$(	_	0	root	_	_
+10	,	,	$	$,	_	0	root	_	_
+11	ich	ich	P	PPER	1|Sg|_|Nom	12	subj	255	255
+12	lass	lass	V	VVFIN	1|Sg|_|_	0	root	_	_
+13	'	'	$	$(	_	0	root	_	_
+14	ihn	er	P	PPER	3|Sg|Masc|Acc	12	obja	1	1
+15	ja	ja	A	ADV	_	12	adv	_	_
+16	eh	eh	A	ADJD	_	12	adv	_	_
+17	stehen	stehen	V	VVINF	_	0	root	_	_
+18	.	.	$	$.	_	0	root	_	_
+
