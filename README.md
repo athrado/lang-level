@@ -1,22 +1,24 @@
 # Language Level Analysis and Classification for German
 
-*lang-level* is a tool for identifying and analyzing linguistic constructions and characteristics that allow inference about the **writer’s language skills**. 
+*lang-level* is a tool for **identifying linguistic constructions and characteristics** in order to determine the **German language level** of the writer (or target reader). 
 
 Experiments with a linear support vector classifier trained on these features demonstrate that this approach is **fit for assigning language levels to unseen texts**. 
 
-The first part of the project consisted of the selection of linguistic indicators and patterns that possibly could help in identifying the different language levels. Those features include information about part-of-speech, tempus, mode, use of subjunctive clauses, or passive voice. My tool returns information about the **frequency** of occurrence of these linguistic features and **colors the identified features in the text for visualization**. Both numeric information and the colored text may help in manually evaluating the language level of a given text.
+The 80 manually designed language level features include information about part-of-speech, tempus, mode, use of subjunctive clauses, or passive voice. The tool returns information about the **frequency** of occurrence of these linguistic features, which can be used for numerically analyzing texts. It also provides an option for **visualizing** the results by highlighting the features interest for any given text. 
 
-In the second part of the project, I collected a small corpus of text samples for levels A1 to B2. I extracted the previously designed features and used them to train a linear support vector **classifier for the four different language levels**. This system clearly out-performs the baseline and reaches an accuracy of 89%. Feature agglomeration raises the performance to 96% accuracy.
+The _01_Text_collections_ folder contains small corpus of German text samples for levels A1 to B2. The language level features are computed for each sample and used to train and evaluate a linear support vector **classifier for the four different language levels**, reaching an accuracy of 89%.
 
-The features also proved suitable for author classification on literary works. For more information, please consult the [reports](4_Reports).
-
-
+After investigating the feature sparsity and relevance (computed by the coefficient strength), weaker features are merged by means of **feature agglomeration** in order to reduce feature space. This raises the performance to 96% accuracy.
 
 ![feature_coefficients](4_Reports/imgs/feature_coefficients.png)
 
+The features also proved suitable for author classification on literary works. For more information, please consult the [reports](4_Reports).
+
 ## Requirements
 
-The system was implemented in Python 3.7 and Jupyter Notebook 6.0.0 and and tested under Ubuntu Linux, but it should work under other environments which have the Python 3 installed (no guarantee). The text collection provides pre-parsed versions for both the language level and literary work datasets so you do not need to install the parser. For full functionality, however, please install ParZu and CorZu and adjust the path in the config file. 
+The system was implemented in Python 3.7 and Jupyter Notebook 6.0.0 and and tested under Ubuntu Linux, but it should work under other environments which have the Python 3 installed (no guarantee). 
+
+The text collection provides pre-parsed versions for both the language level and literary work datasets so you do not need to install the parser. For full functionality, however, please install ParZu and CorZu and adjust the path in the config file. 
 
 - [ParZu](https://github.com/rsennrich/ParZu)
 - [CorZu](https://github.com/dtuggener/CorZu)
@@ -35,7 +37,7 @@ If you are using ParZu and CorZu, please correct the path in `config.py` .
 
 ### Feature Extraction and Modification
 
-The folder _03_Text_features_ already contains all the features used for the experiments described in the reports. If you want to run the feature extraction again, select version and output directory in the script _RUN_feature_extraction.py_ and execute with Python 3.
+The folder _03_Text_features_ already contains all the features used for the experiments described in the [reports](4_Reports). If you want to run the feature extraction again, select version and output directory in the script _RUN_feature_extraction.py_ and execute with Python 3.
 
 If you want to adjust or add language level features, make changes in _language_level_feature_extraction.py_. 
 
@@ -54,6 +56,8 @@ The Jupyter notebooks
 -  _Language_Level_Classification_Feature_Agglomeration.ipynb_  
 
 demonstrate how to use the 80 extracted features for training a classifier. They also show how to identify sparse and less relevant features and how to use feature agglomeration for merging similar features in order to reduce the feature space. 
+
+Note that the performance results described and discussed in the [reports](4_Reports) may vary slightly from the ones computed with these scripts due to minor changes and updates. However, the relations in performance between the different experiments follow the same trends. 
 
 ## Contact
 
