@@ -51,9 +51,9 @@ The Jupyter Notebook _Feature_Visualization.ipynb_ presents a simple visualizati
 
 The Jupyter notebooks
 
-- _Language_Level_Classification.ipynb_ and 
-
--  _Language_Level_Classification_Feature_Agglomeration.ipynb_  
+- *Playground_Language_Level_Classification.ipynb* and 
+-  *Playground_Language_Level_Classification_Feature_Agglomeration.ipynb_*  
+-  _Complete_Language_Level_Classification_with_Feature_Agglomeration.ipynb_
 
 demonstrate how to use the 80 extracted features for training a classifier. They also show how to identify sparse and less relevant features and how to use feature agglomeration for merging similar features in order to reduce the feature space. 
 
