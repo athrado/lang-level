@@ -74,7 +74,7 @@ def load_data(dataset_name="lang_levels", baseline=False):
 		label_set (list) -- list of strings representing labels/classes"""
 	
 	# Set the data path
-	data_dir = '../2_Text_features/'
+	data_dir = '../3_Text_features/'
 
 	# If "language levels" data set is used
 	if dataset_name == "lang_levels":
