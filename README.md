@@ -6,9 +6,9 @@ Experiments with a linear support vector classifier trained on these features de
 
 The 80 manually designed language level features include information about part-of-speech, tempus, mode, use of subjunctive clauses, or passive voice. The tool returns information about the **frequency** of occurrence of these linguistic features, which can be used for numerically analyzing texts. It also provides an option for **visualizing** the results by highlighting the features interest for any given text. 
 
-The _01_Text_collections_ folder contains small corpus of German text samples for levels A1 to B2. The language level features are computed for each sample and used to train and evaluate a linear support vector **classifier for the four different language levels**, reaching an accuracy of 89%.
+The _01_Text_collections_ folder contains small corpus of German text samples for levels A1 to B2. The language level features are computed for each sample and used to train and evaluate a linear support vector **classifier for the four different language levels**, reaching an accuracy of 85%.
 
-After investigating the feature sparsity and relevance (computed by the coefficient strength), weaker features are merged by means of **feature agglomeration** in order to reduce feature space. This raises the performance to 96% accuracy.
+After investigating the feature sparsity and relevance (computed by the coefficient strength), weaker features are merged by means of **feature agglomeration** in order to reduce feature space. This raises the performance to 93% accuracy.
 
 ![feature_coefficients](4_Reports/imgs/feature_coefficients.png)
 
