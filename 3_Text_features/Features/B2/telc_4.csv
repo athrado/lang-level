@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,25.2
+LIX,51.39047619047619
+# words,378
+# sents,15
+discourse entities,1.0666666666666667
+avg entity frequency,2.0625
+vocabulary density,0.5798319327731093
+adjectives,1.6
+nouns,6.133333333333334
+verbs,3.1333333333333333
+pronouns,3.533333333333333
+particles,6.0
+punctuation marks,3.8666666666666667
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.13333333333333333
+aux verbs,0.8666666666666667
+full verbs,1.9333333333333333
+split verbs,0.13333333333333333
+nominative,1.6
+accusative,1.4666666666666666
+dative,1.3333333333333333
+genitive,0.6
+gen modifiers,0.3333333333333333
+prep with gen,0.0
+all genitives,0.3333333333333333
+accusative obj,1.0
+dative obj,0.06666666666666667
+genitive obj,0.0
+prepositional obj,0.2
+acc+dat obj,1.0666666666666667
+gen+prep obj,0.2
+present forms,1.2
+past forms,0.13333333333333333
+perfect forms,0.26666666666666666
+pqp forms,0.0
+perfect+pqp forms,0.0
+past aux forms,0.06666666666666667
+futur 1 forms,0.0
+futur 2 forms,0.26666666666666666
+all futur forms,0.06666666666666667
+subj 1 forms,0.0
+subj 2 forms,0.0
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.0
+imperatives,0.0
+passive voice,0.06666666666666667
+passive with agens,0.06666666666666667
+comparative,0.0
+superlative,0.06666666666666667
+comp+superlative,0.06666666666666667
+conjunctions,0.2
+subjunctions,0.0
+relative clauses,0.4
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.06666666666666667
+question words,0.06666666666666667
+question marks,0.0
+subj/pred inversions,0.5333333333333333
+placeholder 'es',0.0
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,1.3333333333333333
+concessive,0.4
+conditional,1.9333333333333333
+consecutive,0.6
+final,0.2
+interrogative,0.2
+modal,0.06666666666666667
+other,3.6
+temporal,0.6
+A1 features,7
+A1 features summed,0.9333333333333333
+A2 features,7
+A2 features summed,4.6
+B1 features,7
+B1 features summed,2.333333333333334
+level features (all),36
+level features (all) summed,39.066666666666706

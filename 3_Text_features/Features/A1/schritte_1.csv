@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,7.842105263157895
+LIX,20.593783115506888
+# words,149
+# sents,19
+discourse entities,0.2631578947368421
+avg entity frequency,4.6
+vocabulary density,0.5280898876404494
+adjectives,0.21052631578947367
+nouns,1.736842105263158
+verbs,1.2105263157894737
+pronouns,1.4736842105263157
+particles,1.2105263157894737
+punctuation marks,1.4210526315789473
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.0
+aux verbs,0.5789473684210527
+full verbs,0.5789473684210527
+split verbs,0.0
+nominative,0.631578947368421
+accusative,0.3157894736842105
+dative,0.42105263157894735
+genitive,0.0
+gen modifiers,0.0
+prep with gen,0.0
+all genitives,0.0
+accusative obj,0.3157894736842105
+dative obj,0.15789473684210525
+genitive obj,0.0
+prepositional obj,0.15789473684210525
+acc+dat obj,0.47368421052631576
+gen+prep obj,0.15789473684210525
+present forms,0.9473684210526315
+past forms,0.0
+perfect forms,0.10526315789473684
+pqp forms,0.0
+perfect+pqp forms,0.0
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.10526315789473684
+all futur forms,0.0
+subj 1 forms,0.0
+subj 2 forms,0.0
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.0
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.0
+comp+superlative,0.0
+conjunctions,0.05263157894736842
+subjunctions,0.0
+relative clauses,0.0
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.05263157894736842
+question words,0.0
+question marks,0.0
+subj/pred inversions,0.21052631578947367
+placeholder 'es',0.0
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,0.0
+concessive,0.0
+conditional,0.10526315789473684
+consecutive,0.0
+final,0.0
+interrogative,0.0
+modal,0.0
+other,0.10526315789473684
+temporal,0.0
+A1 features,3
+A1 features summed,0.21052631578947367
+A2 features,3
+A2 features summed,0.42105263157894735
+B1 features,0
+B1 features summed,0.0
+level features (all),22
+level features (all) summed,12.526315789473681

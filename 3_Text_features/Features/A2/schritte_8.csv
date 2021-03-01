@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,13.518518518518519
+LIX,28.313039066463723
+# words,365
+# sents,27
+discourse entities,0.5185185185185185
+avg entity frequency,2.7857142857142856
+vocabulary density,0.5925925925925926
+adjectives,1.0
+nouns,2.2222222222222223
+verbs,2.1481481481481484
+pronouns,2.6296296296296298
+particles,2.925925925925926
+punctuation marks,2.259259259259259
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.1111111111111111
+aux verbs,0.7407407407407407
+full verbs,1.1851851851851851
+split verbs,0.037037037037037035
+nominative,0.7777777777777778
+accusative,1.1111111111111112
+dative,0.4444444444444444
+genitive,0.037037037037037035
+gen modifiers,0.037037037037037035
+prep with gen,0.0
+all genitives,0.037037037037037035
+accusative obj,0.8518518518518519
+dative obj,0.07407407407407407
+genitive obj,0.0
+prepositional obj,0.1111111111111111
+acc+dat obj,0.9259259259259259
+gen+prep obj,0.1111111111111111
+present forms,1.3703703703703705
+past forms,0.0
+perfect forms,0.14814814814814814
+pqp forms,0.0
+perfect+pqp forms,0.07407407407407407
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.14814814814814814
+all futur forms,0.0
+subj 1 forms,0.0
+subj 2 forms,0.037037037037037035
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.037037037037037035
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.0
+comp+superlative,0.0
+conjunctions,0.25925925925925924
+subjunctions,0.14814814814814814
+relative clauses,0.0
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.2222222222222222
+question words,0.1111111111111111
+question marks,0.07407407407407407
+subj/pred inversions,0.5925925925925926
+placeholder 'es',0.0
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,1.9259259259259258
+concessive,0.25925925925925924
+conditional,1.7407407407407407
+consecutive,0.7407407407407407
+final,0.14814814814814814
+interrogative,0.1111111111111111
+modal,0.037037037037037035
+other,3.1481481481481484
+temporal,0.4444444444444444
+A1 features,7
+A1 features summed,0.962962962962963
+A2 features,6
+A2 features summed,4.62962962962963
+B1 features,4
+B1 features summed,1.5555555555555556
+level features (all),33
+level features (all) summed,22.999999999999996

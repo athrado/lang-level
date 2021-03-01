@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,13.5
+LIX,26.092592592592595
+# words,135
+# sents,10
+discourse entities,0.1
+avg entity frequency,0.0
+vocabulary density,0.6666666666666666
+adjectives,0.8
+nouns,1.5
+verbs,2.1
+pronouns,3.5
+particles,3.3
+punctuation marks,2.3
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.3
+aux verbs,0.7
+full verbs,0.9
+split verbs,0.0
+nominative,0.2
+accusative,0.7
+dative,0.8
+genitive,0.0
+gen modifiers,0.0
+prep with gen,0.0
+all genitives,0.0
+accusative obj,0.5
+dative obj,0.2
+genitive obj,0.0
+prepositional obj,0.2
+acc+dat obj,0.7
+gen+prep obj,0.2
+present forms,1.2
+past forms,0.0
+perfect forms,0.0
+pqp forms,0.0
+perfect+pqp forms,0.0
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.0
+all futur forms,0.0
+subj 1 forms,0.2
+subj 2 forms,0.0
+subj 2 aux forms,0.1
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.3
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.0
+comp+superlative,0.0
+conjunctions,0.5
+subjunctions,0.0
+relative clauses,0.0
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.4
+question words,0.2
+question marks,0.0
+subj/pred inversions,0.3
+placeholder 'es',0.1
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,99.5
+concessive,9.9
+conditional,207.0
+consecutive,7.3
+final,16.9
+interrogative,5.2
+modal,47.5
+other,243.6
+temporal,206.2
+A1 features,4
+A1 features summed,1.4000000000000001
+A2 features,6
+A2 features summed,314.3
+B1 features,4
+B1 features summed,228.6
+level features (all),26
+level features (all) summed,22.2

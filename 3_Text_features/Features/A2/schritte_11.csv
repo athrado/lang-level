@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,16.115384615384617
+LIX,33.77648246741326
+# words,419
+# sents,26
+discourse entities,0.6153846153846154
+avg entity frequency,2.75
+vocabulary density,0.5185185185185185
+adjectives,0.8846153846153846
+nouns,3.5
+verbs,2.1538461538461537
+pronouns,3.1153846153846154
+particles,4.423076923076923
+punctuation marks,1.9230769230769231
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.15384615384615385
+aux verbs,0.5384615384615384
+full verbs,1.4230769230769231
+split verbs,0.23076923076923078
+nominative,1.0384615384615385
+accusative,0.9230769230769231
+dative,1.0
+genitive,0.0
+gen modifiers,0.0
+prep with gen,0.0
+all genitives,0.0
+accusative obj,0.6153846153846154
+dative obj,0.038461538461538464
+genitive obj,0.0
+prepositional obj,0.11538461538461539
+acc+dat obj,0.6538461538461539
+gen+prep obj,0.11538461538461539
+present forms,1.4615384615384615
+past forms,0.0
+perfect forms,0.15384615384615385
+pqp forms,0.0
+perfect+pqp forms,0.0
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.15384615384615385
+all futur forms,0.0
+subj 1 forms,0.0
+subj 2 forms,0.038461538461538464
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.038461538461538464
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.038461538461538464
+comp+superlative,0.038461538461538464
+conjunctions,0.19230769230769232
+subjunctions,0.2692307692307692
+relative clauses,0.0
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.15384615384615385
+question words,0.038461538461538464
+question marks,0.0
+subj/pred inversions,0.6538461538461539
+placeholder 'es',0.0
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,2.5384615384615383
+concessive,0.2692307692307692
+conditional,2.1538461538461537
+consecutive,0.7692307692307693
+final,0.15384615384615385
+interrogative,0.11538461538461539
+modal,0.038461538461538464
+other,3.4615384615384617
+temporal,0.6153846153846154
+A1 features,6
+A1 features summed,0.9230769230769231
+A2 features,5
+A2 features summed,5.615384615384615
+B1 features,4
+B1 features summed,1.7692307692307694
+level features (all),30
+level features (all) summed,26.07692307692309

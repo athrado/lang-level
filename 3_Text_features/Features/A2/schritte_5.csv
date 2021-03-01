@@ -1,0 +1,85 @@
+Feature,Value
+words per sent,12.142857142857142
+LIX,30.084033613445378
+# words,340
+# sents,28
+discourse entities,0.5
+avg entity frequency,2.7857142857142856
+vocabulary density,0.5151515151515151
+adjectives,0.2857142857142857
+nouns,2.642857142857143
+verbs,2.107142857142857
+pronouns,2.607142857142857
+particles,2.75
+punctuation marks,1.6785714285714286
+poss pronouns,0.0
+refl pronouns,0.0
+modal verbs,0.6428571428571429
+aux verbs,0.07142857142857142
+full verbs,1.2142857142857142
+split verbs,0.0
+nominative,0.5357142857142857
+accusative,1.3928571428571428
+dative,0.7142857142857143
+genitive,0.03571428571428571
+gen modifiers,0.03571428571428571
+prep with gen,0.0
+all genitives,0.03571428571428571
+accusative obj,0.75
+dative obj,0.10714285714285714
+genitive obj,0.0
+prepositional obj,0.32142857142857145
+acc+dat obj,0.8571428571428571
+gen+prep obj,0.32142857142857145
+present forms,1.2857142857142858
+past forms,0.0
+perfect forms,0.0
+pqp forms,0.0
+perfect+pqp forms,0.0
+past aux forms,0.0
+futur 1 forms,0.0
+futur 2 forms,0.0
+all futur forms,0.0
+subj 1 forms,0.0
+subj 2 forms,0.03571428571428571
+subj 2 aux forms,0.0
+ind speech,0.0
+irrealis mode,0.0
+all subj forms,0.03571428571428571
+imperatives,0.0
+passive voice,0.0
+passive with agens,0.0
+comparative,0.0
+superlative,0.0
+comp+superlative,0.0
+conjunctions,0.10714285714285714
+subjunctions,0.07142857142857142
+relative clauses,0.0
+participial clauses pres,0.0
+participial clauses past,0.0
+all participial clauses,0.0
+negations,0.35714285714285715
+question words,0.14285714285714285
+question marks,0.14285714285714285
+subj/pred inversions,0.2857142857142857
+placeholder 'es',0.0
+'brauchen' constr,0.0
+'lassen' constr,0.0
+'brauchen'+'lassen' constr,0.0
+causal,0.9642857142857143
+concessive,0.25
+conditional,1.4642857142857142
+consecutive,0.6428571428571429
+final,0.10714285714285714
+interrogative,0.10714285714285714
+modal,0.03571428571428571
+other,2.5357142857142856
+temporal,0.42857142857142855
+A1 features,5
+A1 features summed,1.3928571428571428
+A2 features,6
+A2 features summed,3.535714285714285
+B1 features,4
+B1 features summed,1.4285714285714286
+level features (all),29
+level features (all) summed,21.57142857142857
